@@ -3,9 +3,7 @@
 ---
 
 ## Overview
-
-This repository contains our working model for the **AI-driven Interview Evaluation System**.
-The system automates interviews, generates questions, evaluates candidate responses, detects malpractice, and produces structured final reports.
+This repository presents the operational model for an end-to-end AI platform designed to stabilize the interview process. The system formalizes talent evaluation by transforming the subjective assessment state into a into a Quantifiable Performance Metric, which serves as the definitive scorecard of a candidate's competency and role-fit.
 The Final report and Presentation of the project are included in Documents Folder.
 ---
 

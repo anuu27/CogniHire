@@ -1,5 +1,4 @@
-# CogniHire
-# AI Interviewer & Insight Generator
+# CogniHire - An AI Interviewer & Insight Generator
 ### A Fair, Scalable, and Automated Interview Evaluation System  
 
 ## Overview  

@@ -1,15 +1,15 @@
 # CogniHire
-# 🎙️ AI Interviewer & Insight Generator
+# AI Interviewer & Insight Generator
 ### A Fair, Scalable, and Automated Interview Evaluation System  
 
-## 📌 Overview  
+## Overview  
 This repository contains our working model for the **AI-driven Interview Evaluation System**, developed as part of the **DSAI (Data Science and AI) course at IISc**.  
 The system automates interviews, generates questions, evaluates candidate responses, detects malpractice, and produces structured final reports.
 The Final report and Presentation of the project are included (CogniHire Report.pdf,Presentation.pdf)
 
 ---
 
-## 🧠 System Components  
+## System Components  
 - Audio Analysis Engine  
 - Role-Based Question Generator  
 - Resume-Based Question Generator  
@@ -24,7 +24,7 @@ The Final report and Presentation of the project are included (CogniHire Report.
 
 ---
 
-## 📁 Directory Structure  
+## Directory Structure  
 
 ```text
 /
@@ -37,15 +37,15 @@ The Final report and Presentation of the project are included (CogniHire Report.
 ```
 ---
 
-## 👥 Authors  
-- **Juhitha Radha Vegesna**  
-- **Anugya Anantapur**  
-- **Aneesh Varla**  
-- **Bhuvan C Naik**
+## Authors  
+- **Juhitha Radha Vegesna**  (juhitharadha@iisc.ac.in)
+- **Anugya Anantapur**  (anugyaa@iisc.ac.in)
+- **Aneesh Varla**  (varlaaneesh@iisc.ac.in)
+- **Bhuvan C Naik**  (bhuvanc@iisc.ac.in)
 
 ---
 
-## 🤝 Contributing  
+## Contributing  
 This is a course project for **DSAI (AI and Data Science), IISc**.  
 For questions or collaborations, please **open an issue** or contact the repository maintainers.  
 

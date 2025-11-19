@@ -44,7 +44,7 @@ The Final report and Presentation of the project are included in Documents Folde
 ---
 
 ## Contributing   
-For questions or collaborations, please **open an issue** or contact the repository maintainers.  
+This is a course project for UMC-301 DSAI (Data Science & AI) at IISc Bengaluru.For questions or collaborations, please **open an issue** or contact the repository maintainers.  
 
 
 ---

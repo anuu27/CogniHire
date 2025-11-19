@@ -2,7 +2,7 @@
 ### A Fair, Scalable, and Automated Interview Evaluation System  
 ---
 
-**Overview**
+## Overview
 
 This repository contains our working model for the **AI-driven Interview Evaluation System**.
 The system automates interviews, generates questions, evaluates candidate responses, detects malpractice, and produces structured final reports.

@@ -1,9 +1,9 @@
 # CogniHire - An AI Interviewer & Insight Generator
-### Mitigating Stochastic Non-Uniformity in High Volume Human Assessment. 
----
+### Mitigating Stochastic Non-Uniformity in High Volume Human Assessment.
 
 ## Overview
-This repository presents the operational model for an end-to-end AI platform designed to stabilize the interview process. The system formalizes talent evaluation by transforming the subjective assessment state into a into a Quantifiable Performance Metric, which serves as the definitive scorecard of a candidate's competency and role-fit. The Final report and Presentation of the project are included in Documents Folder.
+This repository presents the operational model for an end-to-end AI platform designed to stabilize the interview process. The system formalizes talent evaluation by transforming the subjective assessment state into a into a Quantifiable Performance Metric, which serves as the definitive scorecard of a candidate's competency and role-fit. 
+The Final report and Presentation of the project are included in the Documents Folder.
 ---
 
 ## System Components  

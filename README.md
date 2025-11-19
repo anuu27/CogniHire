@@ -5,6 +5,7 @@
 ## 📌 Overview  
 This repository contains our working model for the **AI-driven Interview Evaluation System**, developed as part of the **DSAI (Data Science and AI) course at IISc**.  
 The system automates interviews, generates questions, evaluates candidate responses, detects malpractice, and produces structured final reports.
+The Final report and Presentation of the project are included (CogniHire Report.pdf,Presentation.pdf)
 
 ---
 

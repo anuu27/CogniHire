@@ -5,8 +5,7 @@
 ## Overview  
 This repository contains the full working model for an end-to-end **AI-powered Interview and Evaluation System**, developed as part of the **UMC-301** **DSAI (Data Science and AI)** course at IISc.  
 The system automates interviews, generates questions, evaluates candidate responses, detects malpractice, and produces structured final reports.
-The Final report and Presentation of the project are included (CogniHire Report.pdf,Presentation.pdf)
-
+The Final report and Presentation of the project are included in Documents Folder.
 ---
 
 ## System Components  

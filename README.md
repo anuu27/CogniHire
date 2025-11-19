@@ -1,5 +1,5 @@
 # CogniHire - An AI Interviewer & Insight Generator
-### A Fair, Scalable, and Automated Interview Evaluation System  
+### Mitigating Stochastic Non-Uniformity in Human Assessment. 
 ---
 
 ## Overview

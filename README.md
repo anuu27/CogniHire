@@ -1,5 +1,5 @@
 # CogniHire - An AI Interviewer & Insight Generator
-### Mitigating Stochastic Non-Uniformity in Human Assessment. 
+### Mitigating Stochastic Non-Uniformity in High Volume Human Assessment. 
 ---
 
 ## Overview

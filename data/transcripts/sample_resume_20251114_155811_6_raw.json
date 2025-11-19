@@ -1,0 +1,31 @@
+{
+  "text": " faster.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.44,
+      "text": " faster.",
+      "tokens": [
+        50364,
+        4663,
+        13,
+        50871
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.620780372619629,
+      "compression_ratio": 0.4666666666666667,
+      "no_speech_prob": 0.33122116327285767,
+      "words": [
+        {
+          "word": " faster.",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.0241901483386755
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

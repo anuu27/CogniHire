@@ -1,0 +1,49 @@
+{
+  "role": "UI Engineer",
+  "record_count": 375,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "How do you translate a design prototype (e.g., from Figma or Adobe XD) into functional, responsive code?",
+      "canonical_answer": "I break the design into components, use semantic HTML, apply modular CSS or utility classes, and ensure layouts adapt with responsive breakpoints.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Which front-end frameworks or libraries do you use most often, and why?",
+      "canonical_answer": "I use React, Vue, or Angular for their reusable components, strong ecosystems, and efficient state management.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you ensure consistency in design across multiple components or pages?",
+      "canonical_answer": "I use design systems, shared component libraries, global styles, and follow established UI patterns.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is your approach to building responsive and cross-browser compatible interfaces?",
+      "canonical_answer": "I use flexible layouts, media queries, modern CSS features, and test across major browsers and devices.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you optimize UI performance for faster loading and smoother interactions?",
+      "canonical_answer": "I minimize bundle size, lazy-load assets, optimize images, reuse components, and reduce unnecessary re-renders.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle accessibility (a11y) in your UI components?",
+      "canonical_answer": "I use semantic HTML, ARIA roles, proper color contrast, keyboard navigation support, and screen reader-friendly labels.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Can you describe a challenging UI feature you built — what made it complex, and how did you solve it?",
+      "canonical_answer": "I solved it by breaking the feature into smaller components, optimizing state logic, and testing interactions across devices.",
+      "rubric_points": []
+    }
+  ]
+}

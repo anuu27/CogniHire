@@ -1,0 +1,185 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 6.92,
+    "duration": 6.92,
+    "transcript": "Stickis -chan, I finished and facing currently is it why work isbery.",
+    "word_count": 18,
+    "words": [
+      {
+        "text": "Stickis",
+        "start": 0.0,
+        "end": 0.46,
+        "confidence": 0.0017
+      },
+      {
+        "text": "-chan,",
+        "start": 0.46,
+        "end": 0.68,
+        "confidence": 0.1021
+      },
+      {
+        "text": "I",
+        "start": 0.84,
+        "end": 1.02,
+        "confidence": 0.8209
+      },
+      {
+        "text": "finished",
+        "start": 1.02,
+        "end": 1.46,
+        "confidence": 0.035
+      },
+      {
+        "text": "and",
+        "start": 1.46,
+        "end": 1.78,
+        "confidence": 0.2098
+      },
+      {
+        "text": "facing",
+        "start": 1.78,
+        "end": 2.12,
+        "confidence": 0.6456
+      },
+      {
+        "text": "currently",
+        "start": 2.12,
+        "end": 2.74,
+        "confidence": 0.795
+      },
+      {
+        "text": "is",
+        "start": 2.74,
+        "end": 3.18,
+        "confidence": 0.5037
+      },
+      {
+        "text": "it",
+        "start": 3.18,
+        "end": 3.36,
+        "confidence": 0.3433
+      },
+      {
+        "text": "why",
+        "start": 3.36,
+        "end": 3.74,
+        "confidence": 0.0072
+      },
+      {
+        "text": "like",
+        "start": 3.74,
+        "end": 4.06,
+        "confidence": 0.0002
+      },
+      {
+        "text": "work",
+        "start": 4.06,
+        "end": 4.2,
+        "confidence": 0.0001
+      },
+      {
+        "text": "isbery.",
+        "start": 4.2,
+        "end": 4.8,
+        "confidence": 0.2047
+      },
+      {
+        "text": "that",
+        "start": 4.8,
+        "end": 5.06,
+        "confidence": 0.0045
+      },
+      {
+        "text": "he",
+        "start": 5.06,
+        "end": 5.06,
+        "confidence": 0.0969
+      },
+      {
+        "text": "doesn't",
+        "start": 5.06,
+        "end": 5.38,
+        "confidence": 0.5149
+      },
+      {
+        "text": "hear",
+        "start": 5.38,
+        "end": 5.64,
+        "confidence": 0.0023
+      },
+      {
+        "text": "now",
+        "start": 5.64,
+        "end": 6.92,
+        "confidence": 0.0005
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 6.93,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.238,
+    "speech_rate_wps": 2.601,
+    "speech_rate_wpm": 156.069,
+    "articulation_rate": 2.601,
+    "pause_count": 1,
+    "pause_rate": 0.059,
+    "mean_pause_duration": 0.16,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.16,
+    "speaking_time_ratio": 0.977,
+    "pitch_mean": 332.937,
+    "pitch_std": 42.994,
+    "pitch_range": 146.556,
+    "pitch_variance": 1848.509,
+    "voiced_frames_ratio": 0.696,
+    "rms_energy_mean": 0.061,
+    "rms_energy_std": 0.045,
+    "rms_energy_max": 0.239,
+    "rms_energy_min": 0.001,
+    "energy_dynamic_range": 0.238,
+    "zero_crossing_rate": 0.214,
+    "harmonic_noise_ratio": 0.161,
+    "spectral_centroid_mean": 2462.224,
+    "spectral_centroid_std": 1019.691,
+    "mfcc_1_mean": -263.154,
+    "mfcc_2_mean": 33.89,
+    "mfcc_1_std": 109.725,
+    "spectral_rolloff": 4416.439,
+    "spectral_bandwidth": 1806.947,
+    "snr_approximation": 1.342,
+    "clipping_ratio": 0.0
+  }
+]

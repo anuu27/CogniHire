@@ -1,0 +1,60 @@
+{
+  "text": " My course Grimm for you.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.54,
+      "text": " My course Grimm for you.",
+      "tokens": [
+        50364,
+        1222,
+        1164,
+        2606,
+        6753,
+        337,
+        291,
+        13,
+        50639
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.467538261413574,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.2097773402929306,
+      "words": [
+        {
+          "word": " My",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.5595635771751404
+        },
+        {
+          "word": " course",
+          "start": 0.42,
+          "end": 0.8,
+          "probability": 0.9421578645706177
+        },
+        {
+          "word": " Grimm",
+          "start": 0.8,
+          "end": 1.2,
+          "probability": 0.23569681402295828
+        },
+        {
+          "word": " for",
+          "start": 1.2,
+          "end": 1.36,
+          "probability": 0.0002462400298099965
+        },
+        {
+          "word": " you.",
+          "start": 1.36,
+          "end": 1.54,
+          "probability": 0.022217856720089912
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

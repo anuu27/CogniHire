@@ -1,0 +1,84 @@
+{
+  "text": " Very good interview. I like you.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.28,
+      "text": " Very good interview.",
+      "tokens": [
+        50364,
+        4372,
+        665,
+        4049,
+        13,
+        50438
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9606663630558894,
+      "compression_ratio": 0.8,
+      "no_speech_prob": 0.016331451013684273,
+      "words": [
+        {
+          "word": " Very",
+          "start": 0.0,
+          "end": 0.5,
+          "probability": 0.016587357968091965
+        },
+        {
+          "word": " good",
+          "start": 0.5,
+          "end": 0.82,
+          "probability": 0.9940354824066162
+        },
+        {
+          "word": " interview.",
+          "start": 0.82,
+          "end": 1.28,
+          "probability": 0.5082699656486511
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.78,
+      "end": 2.38,
+      "text": " I like you.",
+      "tokens": [
+        50450,
+        286,
+        411,
+        291,
+        13,
+        50500
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9606663630558894,
+      "compression_ratio": 0.8,
+      "no_speech_prob": 0.016331451013684273,
+      "words": [
+        {
+          "word": " I",
+          "start": 1.78,
+          "end": 1.86,
+          "probability": 0.5550107359886169
+        },
+        {
+          "word": " like",
+          "start": 1.86,
+          "end": 2.04,
+          "probability": 0.9604600071907043
+        },
+        {
+          "word": " you.",
+          "start": 2.04,
+          "end": 2.38,
+          "probability": 0.9949451088905334
+        }
+      ]
+    }
+  ],
+  "language": "ml"
+}

@@ -1,0 +1,66 @@
+{
+  "session_id": "unknown",
+  "Name": "Unknown",
+  "role": "ai engineer",
+  "start_time": null,
+  "end_time": "2025-11-16T17:07:21.312695",
+  "overall_score": 11.1,
+  "score_before_malpractice": 12.7,
+  "cci": {
+    "raw": 12.71,
+    "percentile_vs_role": null
+  },
+  "components": {
+    "role_relevance": 2.17,
+    "canonical_component": 2.17,
+    "resume_component": null,
+    "completeness": 3.48,
+    "conciseness": 0.0,
+    "fluency": 4.5
+  },
+  "malpractice_detected": {
+    "count": 1,
+    "types": [
+      "no_face_detected"
+    ],
+    "deduction": 1.6
+  },
+  "per_question": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": "",
+      "type": "intro",
+      "canonical_matched_index": null,
+      "canonical_answer": "",
+      "canonical_similarity": 0.0,
+      "canonical_score": 0.0,
+      "q_a_similarity": 0.176,
+      "answer_length": 0,
+      "resume_eval": null
+    },
+    {
+      "question": "What is supervised and unsupervised learning?",
+      "answer": "",
+      "type": "role",
+      "canonical_matched_index": 7,
+      "canonical_answer": "Supervised learning: Model is trained on labeled data. Unsupervised learning: Model finds hidden patterns in unlabeled data",
+      "canonical_similarity": 0.072,
+      "canonical_score": 7.24,
+      "q_a_similarity": 0.103,
+      "answer_length": 0,
+      "resume_eval": null
+    }
+  ],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:37:14.184Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What is supervised and unsupervised learning?"
+      }
+    }
+  ],
+  "malpractice_count": 1
+}

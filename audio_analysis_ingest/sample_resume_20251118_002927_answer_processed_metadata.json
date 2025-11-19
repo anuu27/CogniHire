@@ -1,0 +1,11 @@
+{
+  "original_file": "uploads\\sample_resume_20251118_002927_answer.webm",
+  "duration_seconds": 2.41,
+  "original_sample_rate": 48000,
+  "target_sample_rate": 16000,
+  "original_channels": 1,
+  "target_channels": 1,
+  "normalized": true,
+  "silence_trimmed": true,
+  "final_duration_seconds": 7.22
+}

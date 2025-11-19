@@ -1,0 +1,49 @@
+{
+  "role": "Cloud Engineer",
+  "record_count": 240,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Explain how you would deploy and manage a scalable application in the cloud.",
+      "canonical_answer": "Use auto-scaling, load balancers, managed databases, container orchestration, and infrastructure automation to deploy and manage scalable workloads.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you monitor performance and troubleshoot issues in a cloud-based system?",
+      "canonical_answer": "Use cloud monitoring tools for metrics, logs, and traces, set alerts, analyze bottlenecks, review logs, and debug issues using distributed tracing and dashboards.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain the difference between containers and virtual machines, and when you’d use each.",
+      "canonical_answer": "VMs virtualize hardware with full OS isolation; containers share the host OS and are lighter. Use VMs for isolation and security, containers for fast, portable deployments.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How would you design a secure and cost-efficient network architecture in the cloud?",
+      "canonical_answer": "Use VPC segmentation, security groups, firewalls, private subnets, monitoring, and right-sized resources while optimizing data transfer costs.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe the process of deploying a CI/CD pipeline in the cloud. What tools and steps would you include?",
+      "canonical_answer": "Use tools like GitHub Actions, Jenkins, or AWS CodePipeline with steps for build, test, security scanning, artifact storage, and automated deployment.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What steps would you take to secure a cloud instance and protect sensitive data?",
+      "canonical_answer": "Use IAM controls, secure configurations, firewalls, encryption, patching, secrets management, and continuous monitoring.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain how you would handle a system outage in a production cloud environment.",
+      "canonical_answer": "Follow incident response steps: assess impact, check logs and monitoring, fail over if needed, mitigate the issue, restore service, and run a post-incident analysis.",
+      "rubric_points": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "text": " I don't know.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.02,
+      "text": " I don't know.",
+      "tokens": [
+        50364,
+        286,
+        500,
+        380,
+        458,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5858127474784851,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.19947992265224457,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 1.1,
+          "probability": 0.7735098600387573
+        },
+        {
+          "word": " don't",
+          "start": 1.1,
+          "end": 1.44,
+          "probability": 0.9720797538757324
+        },
+        {
+          "word": " know.",
+          "start": 1.44,
+          "end": 2.02,
+          "probability": 0.9961996674537659
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

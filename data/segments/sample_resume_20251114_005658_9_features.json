@@ -1,0 +1,278 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 6.08,
+    "duration": 6.08,
+    "transcript": "I enjoyed every project that was shot right.",
+    "word_count": 14,
+    "words": [
+      {
+        "text": "I",
+        "start": 0.0,
+        "end": 0.48,
+        "confidence": 0.8133
+      },
+      {
+        "text": "enjoyed",
+        "start": 0.48,
+        "end": 0.82,
+        "confidence": 0.3181
+      },
+      {
+        "text": "every",
+        "start": 0.82,
+        "end": 1.62,
+        "confidence": 0.4484
+      },
+      {
+        "text": "project",
+        "start": 1.62,
+        "end": 2.22,
+        "confidence": 0.0995
+      },
+      {
+        "text": "that",
+        "start": 2.22,
+        "end": 2.6,
+        "confidence": 0.0184
+      },
+      {
+        "text": "was",
+        "start": 2.6,
+        "end": 2.78,
+        "confidence": 0.0377
+      },
+      {
+        "text": "shot",
+        "start": 2.78,
+        "end": 2.78,
+        "confidence": 0.0021
+      },
+      {
+        "text": "right.",
+        "start": 2.78,
+        "end": 2.78,
+        "confidence": 0.0038
+      },
+      {
+        "text": "I",
+        "start": 2.82,
+        "end": 2.84,
+        "confidence": 0.8582
+      },
+      {
+        "text": "enjoyed,",
+        "start": 2.84,
+        "end": 3.34,
+        "confidence": 0.9421
+      },
+      {
+        "text": "I",
+        "start": 3.34,
+        "end": 3.46,
+        "confidence": 0.7894
+      },
+      {
+        "text": "enjoy",
+        "start": 3.46,
+        "end": 4.24,
+        "confidence": 0.0143
+      },
+      {
+        "text": "tea",
+        "start": 4.24,
+        "end": 5.56,
+        "confidence": 0.0015
+      },
+      {
+        "text": "biz",
+        "start": 5.56,
+        "end": 6.08,
+        "confidence": 0.0018
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 6.6,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.311,
+    "speech_rate_wps": 2.303,
+    "speech_rate_wpm": 138.158,
+    "articulation_rate": 2.303,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 249.223,
+    "pitch_std": 31.048,
+    "pitch_range": 129.08,
+    "pitch_variance": 963.949,
+    "voiced_frames_ratio": 0.827,
+    "rms_energy_mean": 0.063,
+    "rms_energy_std": 0.053,
+    "rms_energy_max": 0.224,
+    "rms_energy_min": 0.0,
+    "energy_dynamic_range": 0.224,
+    "zero_crossing_rate": 0.159,
+    "harmonic_noise_ratio": 0.664,
+    "spectral_centroid_mean": 1987.048,
+    "spectral_centroid_std": 832.074,
+    "mfcc_1_mean": -274.822,
+    "mfcc_2_mean": 63.048,
+    "mfcc_1_std": 131.308,
+    "spectral_rolloff": 3604.385,
+    "spectral_bandwidth": 1577.677,
+    "snr_approximation": 1.205,
+    "clipping_ratio": 0.0
+  },
+  {
+    "utterance_id": "u002",
+    "start": 7.82,
+    "end": 7.82,
+    "duration": 0.0,
+    "transcript": "Was perfectly mixed with cook and Kontakt.",
+    "word_count": 7,
+    "words": [
+      {
+        "text": "was",
+        "start": 7.82,
+        "end": 7.82,
+        "confidence": 0.7814
+      },
+      {
+        "text": "perfectly",
+        "start": 7.82,
+        "end": 7.82,
+        "confidence": 0.0002
+      },
+      {
+        "text": "mixed",
+        "start": 7.82,
+        "end": 7.82,
+        "confidence": 0.019
+      },
+      {
+        "text": "with",
+        "start": 7.82,
+        "end": 7.82,
+        "confidence": 0.3746
+      },
+      {
+        "text": "cook",
+        "start": 7.82,
+        "end": 7.82,
+        "confidence": 0.0
+      },
+      {
+        "text": "and",
+        "start": 7.82,
+        "end": 7.82,
+        "confidence": 0.0607
+      },
+      {
+        "text": "Kontakt.",
+        "start": 7.82,
+        "end": 7.82,
+        "confidence": 0.0
+      }
+    ],
+    "vad_segment_start": 7.17,
+    "vad_segment_end": 7.83,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.0,
+    "speech_rate_wps": 0,
+    "speech_rate_wpm": 0,
+    "articulation_rate": 0,
+    "pause_count": 0,
+    "pause_rate": 0,
+    "mean_pause_duration": 0,
+    "std_pause_duration": 0,
+    "total_pause_time": 0,
+    "speaking_time_ratio": 0,
+    "pitch_mean": 0,
+    "pitch_std": 0,
+    "pitch_range": 0,
+    "pitch_variance": 0,
+    "voiced_frames_ratio": 0,
+    "rms_energy_mean": 0,
+    "rms_energy_std": 0,
+    "rms_energy_max": 0,
+    "rms_energy_min": 0,
+    "energy_dynamic_range": 0,
+    "zero_crossing_rate": 0,
+    "mfcc_1_mean": 0,
+    "mfcc_2_mean": 0,
+    "mfcc_1_std": 0,
+    "spectral_rolloff": 0,
+    "spectral_bandwidth": 0,
+    "harmonic_noise_ratio": 0,
+    "spectral_centroid_mean": 0,
+    "spectral_centroid_std": 0,
+    "snr_approximation": 0,
+    "clipping_ratio": 0
+  }
+]

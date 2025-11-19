@@ -1,0 +1,49 @@
+{
+  "role": "Network Engineer",
+  "record_count": 16,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Can you explain the difference between a switch, a router, and a hub?",
+      "canonical_answer": "A hub broadcasts data to all ports, a switch forwards data to specific devices using MAC addresses, and a router directs traffic between networks using IP addresses.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the difference between TCP and UDP?",
+      "canonical_answer": "TCP is connection-oriented and reliable, while UDP is connectionless, faster, and used for real-time applications.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What happens when you type a URL in a browser and press Enter?",
+      "canonical_answer": "The browser performs DNS lookup, connects to the server via TCP, sends an HTTP request, receives the response, and renders the webpage.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is a subnet mask and why is it important?",
+      "canonical_answer": "A subnet mask divides a network into subnets, helping routers determine the network and host portions of an IP address.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain VLAN and why it’s used.",
+      "canonical_answer": "A VLAN segments a physical network into virtual networks to improve security, reduce broadcast traffic, and manage groups efficiently.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What are common troubleshooting steps if a user cannot connect to the internet?",
+      "canonical_answer": "Check cables/Wi-Fi, verify IP settings, ping gateway, restart devices, check DNS, and trace the network path.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What network monitoring or configuration tools have you used?",
+      "canonical_answer": "I’ve used tools like Wireshark, SolarWinds, Nagios, Cisco Packet Tracer, and network CLI tools for monitoring and configuration.",
+      "rubric_points": []
+    }
+  ]
+}

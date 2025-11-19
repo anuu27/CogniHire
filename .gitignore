@@ -1,0 +1,21 @@
+﻿# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+# Python
+.venv/
+Frontend/.venv/
+__pycache__/
+*.pyc
+# Project artifacts / uploads
+uploads/
+*.sqlite
+*.db
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+# Mac/Windows
+.DS_Store
+Thumbs.db
+# Editor
+.vscode/

@@ -1,0 +1,49 @@
+{
+  "role": "E-commerce Specialist",
+  "record_count": 268,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "What platforms have you worked with for managing e-commerce websites?",
+      "canonical_answer": "I’ve worked with platforms like Shopify, WooCommerce, Magento, and BigCommerce depending on the business size and customization needs.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you increase online sales and conversion rates?",
+      "canonical_answer": "I optimize product pages, improve UX, run targeted ads, refine CTAs, use A/B testing, and implement email automation and retargeting.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What metrics do you track to measure e-commerce performance?",
+      "canonical_answer": "I track conversion rate, CAC, AOV, cart abandonment rate, traffic sources, CLV, and revenue metrics to measure performance.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle SEO for an online store?",
+      "canonical_answer": "I optimize product descriptions, titles, URLs, improve site speed, add structured data, and build internal linking and relevant content.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you manage digital advertising campaigns?",
+      "canonical_answer": "I set goals, segment audiences, design creatives, run ads on platforms like Google and Meta, monitor ROAS, and optimize continuously.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle customer feedback and complaints online?",
+      "canonical_answer": "I respond quickly, address issues politely, offer solutions or refunds, track recurring problems, and use feedback to improve processes.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe a time you improved an e-commerce site’s performance or sales",
+      "canonical_answer": "I improved sales by optimizing product pages, speeding up the site, refining ad targeting, and improving checkout flow to reduce drop-offs.",
+      "rubric_points": []
+    }
+  ]
+}

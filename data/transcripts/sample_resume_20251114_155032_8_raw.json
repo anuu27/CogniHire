@@ -1,0 +1,136 @@
+{
+  "text": " As far as I remember I guess the random has the greatest drastically after using type.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.18,
+      "text": " As far as I remember I guess the random has the greatest drastically after using type.",
+      "tokens": [
+        50364,
+        1018,
+        1400,
+        382,
+        286,
+        1604,
+        286,
+        2041,
+        264,
+        4974,
+        575,
+        264,
+        6636,
+        29673,
+        934,
+        1228,
+        2010,
+        13,
+        50624
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5795915126800537,
+      "compression_ratio": 1.075,
+      "no_speech_prob": 0.008799171075224876,
+      "words": [
+        {
+          "word": " As",
+          "start": 0.0,
+          "end": 0.94,
+          "probability": 0.6207111477851868
+        },
+        {
+          "word": " far",
+          "start": 0.94,
+          "end": 1.14,
+          "probability": 0.9477723836898804
+        },
+        {
+          "word": " as",
+          "start": 1.14,
+          "end": 1.32,
+          "probability": 0.9987290501594543
+        },
+        {
+          "word": " I",
+          "start": 1.32,
+          "end": 1.44,
+          "probability": 0.9525517821311951
+        },
+        {
+          "word": " remember",
+          "start": 1.44,
+          "end": 1.76,
+          "probability": 0.9860529899597168
+        },
+        {
+          "word": " I",
+          "start": 1.76,
+          "end": 1.94,
+          "probability": 0.6241267919540405
+        },
+        {
+          "word": " guess",
+          "start": 1.94,
+          "end": 2.24,
+          "probability": 0.9552662968635559
+        },
+        {
+          "word": " the",
+          "start": 2.24,
+          "end": 2.52,
+          "probability": 0.8086265921592712
+        },
+        {
+          "word": " random",
+          "start": 2.52,
+          "end": 2.74,
+          "probability": 0.4486674666404724
+        },
+        {
+          "word": " has",
+          "start": 2.74,
+          "end": 3.06,
+          "probability": 0.5096445679664612
+        },
+        {
+          "word": " the",
+          "start": 3.06,
+          "end": 3.24,
+          "probability": 0.570231020450592
+        },
+        {
+          "word": " greatest",
+          "start": 3.24,
+          "end": 3.54,
+          "probability": 0.5811796188354492
+        },
+        {
+          "word": " drastically",
+          "start": 3.54,
+          "end": 4.1,
+          "probability": 0.7728540301322937
+        },
+        {
+          "word": " after",
+          "start": 4.1,
+          "end": 4.58,
+          "probability": 0.9572060108184814
+        },
+        {
+          "word": " using",
+          "start": 4.58,
+          "end": 4.88,
+          "probability": 0.9894172549247742
+        },
+        {
+          "word": " type.",
+          "start": 4.88,
+          "end": 5.18,
+          "probability": 0.06562289595603943
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

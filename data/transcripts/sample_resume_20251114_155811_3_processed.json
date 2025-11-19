@@ -1,0 +1,193 @@
+{
+  "session_id": "sample_resume_20251114_155811_3",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_155811_answer_processed.wav",
+  "raw_text": "learning the data to well and learning the data to less.",
+  "processed_text": "Learning the data to well and learning the data to less.",
+  "words": [
+    {
+      "text": "learning",
+      "start": 0.0,
+      "end": 0.38,
+      "confidence": 0.2264
+    },
+    {
+      "text": "the",
+      "start": 0.38,
+      "end": 0.58,
+      "confidence": 0.904
+    },
+    {
+      "text": "data",
+      "start": 0.58,
+      "end": 0.88,
+      "confidence": 0.9855
+    },
+    {
+      "text": "to",
+      "start": 0.88,
+      "end": 1.14,
+      "confidence": 0.6776
+    },
+    {
+      "text": "well",
+      "start": 1.14,
+      "end": 1.34,
+      "confidence": 0.8076
+    },
+    {
+      "text": "and",
+      "start": 1.34,
+      "end": 2.44,
+      "confidence": 0.836
+    },
+    {
+      "text": "learning",
+      "start": 2.44,
+      "end": 2.92,
+      "confidence": 0.8602
+    },
+    {
+      "text": "the",
+      "start": 2.92,
+      "end": 3.2,
+      "confidence": 0.9579
+    },
+    {
+      "text": "data",
+      "start": 3.2,
+      "end": 3.84,
+      "confidence": 0.9931
+    },
+    {
+      "text": "to",
+      "start": 4.48,
+      "end": 5.08,
+      "confidence": 0.2757
+    },
+    {
+      "text": "less.",
+      "start": 5.08,
+      "end": 5.38,
+      "confidence": 0.9288
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 5.38,
+      "duration": 5.38,
+      "transcript": "Learning the data to well and learning the data to less.",
+      "word_count": 11,
+      "words": [
+        {
+          "text": "learning",
+          "start": 0.0,
+          "end": 0.38,
+          "confidence": 0.2264
+        },
+        {
+          "text": "the",
+          "start": 0.38,
+          "end": 0.58,
+          "confidence": 0.904
+        },
+        {
+          "text": "data",
+          "start": 0.58,
+          "end": 0.88,
+          "confidence": 0.9855
+        },
+        {
+          "text": "to",
+          "start": 0.88,
+          "end": 1.14,
+          "confidence": 0.6776
+        },
+        {
+          "text": "well",
+          "start": 1.14,
+          "end": 1.34,
+          "confidence": 0.8076
+        },
+        {
+          "text": "and",
+          "start": 1.34,
+          "end": 2.44,
+          "confidence": 0.836
+        },
+        {
+          "text": "learning",
+          "start": 2.44,
+          "end": 2.92,
+          "confidence": 0.8602
+        },
+        {
+          "text": "the",
+          "start": 2.92,
+          "end": 3.2,
+          "confidence": 0.9579
+        },
+        {
+          "text": "data",
+          "start": 3.2,
+          "end": 3.84,
+          "confidence": 0.9931
+        },
+        {
+          "text": "to",
+          "start": 4.48,
+          "end": 5.08,
+          "confidence": 0.2757
+        },
+        {
+          "text": "less.",
+          "start": 5.08,
+          "end": 5.38,
+          "confidence": 0.9288
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 6.15,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 6.18,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T15:58:47.454533",
+  "segment_count": 1,
+  "word_count": 11,
+  "utterance_count": 1
+}

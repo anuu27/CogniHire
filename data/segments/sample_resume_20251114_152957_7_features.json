@@ -1,0 +1,137 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 2.3,
+    "duration": 2.3,
+    "transcript": "My main goal was to get good grading that course.",
+    "word_count": 10,
+    "words": [
+      {
+        "text": "My",
+        "start": 0.0,
+        "end": 0.26,
+        "confidence": 0.4464
+      },
+      {
+        "text": "main",
+        "start": 0.26,
+        "end": 0.56,
+        "confidence": 0.9918
+      },
+      {
+        "text": "goal",
+        "start": 0.56,
+        "end": 0.78,
+        "confidence": 0.9905
+      },
+      {
+        "text": "was",
+        "start": 0.78,
+        "end": 1.04,
+        "confidence": 0.9774
+      },
+      {
+        "text": "to",
+        "start": 1.04,
+        "end": 1.22,
+        "confidence": 0.9917
+      },
+      {
+        "text": "get",
+        "start": 1.22,
+        "end": 1.38,
+        "confidence": 0.9985
+      },
+      {
+        "text": "good",
+        "start": 1.38,
+        "end": 1.7,
+        "confidence": 0.9455
+      },
+      {
+        "text": "grading",
+        "start": 1.7,
+        "end": 1.96,
+        "confidence": 0.142
+      },
+      {
+        "text": "that",
+        "start": 1.96,
+        "end": 2.2,
+        "confidence": 0.7334
+      },
+      {
+        "text": "course.",
+        "start": 2.2,
+        "end": 2.3,
+        "confidence": 0.9462
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 2.31,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.816,
+    "speech_rate_wps": 4.348,
+    "speech_rate_wpm": 260.87,
+    "articulation_rate": 4.348,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 195.382,
+    "pitch_std": 20.043,
+    "pitch_range": 75.956,
+    "pitch_variance": 401.713,
+    "voiced_frames_ratio": 0.931,
+    "rms_energy_mean": 0.09,
+    "rms_energy_std": 0.047,
+    "rms_energy_max": 0.237,
+    "rms_energy_min": 0.006,
+    "energy_dynamic_range": 0.232,
+    "zero_crossing_rate": 0.091,
+    "harmonic_noise_ratio": 4.737,
+    "spectral_centroid_mean": 1322.633,
+    "spectral_centroid_std": 577.689,
+    "mfcc_1_mean": -259.172,
+    "mfcc_2_mean": 110.686,
+    "mfcc_1_std": 62.68,
+    "spectral_rolloff": 2410.156,
+    "spectral_bandwidth": 1320.767,
+    "snr_approximation": 1.89,
+    "clipping_ratio": 0.0
+  }
+]

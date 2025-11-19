@@ -1,0 +1,193 @@
+{
+  "session_id": "sample_resume_20251114_144401_7",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_144401_answer_processed.wav",
+  "raw_text": "My main goal is to get some marks in that project.",
+  "processed_text": "My main goal is to get some marks in that project.",
+  "words": [
+    {
+      "text": "My",
+      "start": 0.0,
+      "end": 0.3,
+      "confidence": 0.5368
+    },
+    {
+      "text": "main",
+      "start": 0.3,
+      "end": 0.66,
+      "confidence": 0.4855
+    },
+    {
+      "text": "goal",
+      "start": 0.66,
+      "end": 0.94,
+      "confidence": 0.9992
+    },
+    {
+      "text": "is",
+      "start": 0.94,
+      "end": 1.2,
+      "confidence": 0.9964
+    },
+    {
+      "text": "to",
+      "start": 1.2,
+      "end": 1.38,
+      "confidence": 0.9932
+    },
+    {
+      "text": "get",
+      "start": 1.38,
+      "end": 2.04,
+      "confidence": 0.9965
+    },
+    {
+      "text": "some",
+      "start": 2.04,
+      "end": 2.38,
+      "confidence": 0.9115
+    },
+    {
+      "text": "marks",
+      "start": 2.38,
+      "end": 2.7,
+      "confidence": 0.4937
+    },
+    {
+      "text": "in",
+      "start": 2.7,
+      "end": 2.92,
+      "confidence": 0.9917
+    },
+    {
+      "text": "that",
+      "start": 2.92,
+      "end": 3.16,
+      "confidence": 0.6656
+    },
+    {
+      "text": "project.",
+      "start": 3.16,
+      "end": 3.52,
+      "confidence": 0.9887
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 3.52,
+      "duration": 3.52,
+      "transcript": "My main goal is to get some marks in that project.",
+      "word_count": 11,
+      "words": [
+        {
+          "text": "My",
+          "start": 0.0,
+          "end": 0.3,
+          "confidence": 0.5368
+        },
+        {
+          "text": "main",
+          "start": 0.3,
+          "end": 0.66,
+          "confidence": 0.4855
+        },
+        {
+          "text": "goal",
+          "start": 0.66,
+          "end": 0.94,
+          "confidence": 0.9992
+        },
+        {
+          "text": "is",
+          "start": 0.94,
+          "end": 1.2,
+          "confidence": 0.9964
+        },
+        {
+          "text": "to",
+          "start": 1.2,
+          "end": 1.38,
+          "confidence": 0.9932
+        },
+        {
+          "text": "get",
+          "start": 1.38,
+          "end": 2.04,
+          "confidence": 0.9965
+        },
+        {
+          "text": "some",
+          "start": 2.04,
+          "end": 2.38,
+          "confidence": 0.9115
+        },
+        {
+          "text": "marks",
+          "start": 2.38,
+          "end": 2.7,
+          "confidence": 0.4937
+        },
+        {
+          "text": "in",
+          "start": 2.7,
+          "end": 2.92,
+          "confidence": 0.9917
+        },
+        {
+          "text": "that",
+          "start": 2.92,
+          "end": 3.16,
+          "confidence": 0.6656
+        },
+        {
+          "text": "project.",
+          "start": 3.16,
+          "end": 3.52,
+          "confidence": 0.9887
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 3.54,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 3.55,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T14:45:58.426978",
+  "segment_count": 1,
+  "word_count": 11,
+  "utterance_count": 1
+}

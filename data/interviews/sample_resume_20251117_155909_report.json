@@ -1,0 +1,67 @@
+{
+  "session_id": "sample_resume_20251117_155909",
+  "Name": "Anugya Anantapur",
+  "role": "ai engineer",
+  "start_time": null,
+  "end_time": "2025-11-17T15:59:48.269459",
+  "overall_score": 14.1,
+  "score_before_malpractice": 14.1,
+  "cci": {
+    "raw": 14.11,
+    "percentile_vs_role": 31.2
+  },
+  "components": {
+    "role_relevance": 1.47,
+    "canonical_component": 1.47,
+    "resume_component": null,
+    "completeness": 1.02,
+    "conciseness": 2.5,
+    "fluency": 6.5
+  },
+  "malpractice_detected": {
+    "count": 0,
+    "types": [],
+    "deduction": 0
+  },
+  "per_question": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": "",
+      "type": "intro",
+      "canonical_matched_index": null,
+      "canonical_answer": "",
+      "canonical_similarity": 0.0,
+      "canonical_score": 0.0,
+      "q_a_similarity": 0.176,
+      "answer_length": 0,
+      "resume_eval": null
+    },
+    {
+      "question": "How do you choose the right model architecture for a given AI problem?",
+      "answer": "(Error in transcription)",
+      "type": "role",
+      "canonical_matched_index": 24,
+      "canonical_answer": "Consider the problem type (classification, regression, etc.), data size and quality, computational resources, and interpretability needs. Experiment with different architectures and validate using performance metrics.",
+      "canonical_similarity": -0.061,
+      "canonical_score": 0.0,
+      "q_a_similarity": -0.031,
+      "answer_length": 3,
+      "resume_eval": null
+    },
+    {
+      "question": "What are some commonly used libraries or frameworks in AI development?",
+      "answer": "",
+      "type": "role",
+      "canonical_matched_index": 14,
+      "canonical_answer": "TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, Hugging Face Transformers are few python-based frameworks",
+      "canonical_similarity": 0.098,
+      "canonical_score": 9.79,
+      "q_a_similarity": -0.023,
+      "answer_length": 0,
+      "resume_eval": null
+    }
+  ],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [],
+  "malpractice_count": 0
+}

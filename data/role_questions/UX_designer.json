@@ -1,0 +1,49 @@
+{
+  "role": "UX Designer",
+  "record_count": 227,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Can you walk me through your design process — from understanding the problem to delivering the final UI?",
+      "canonical_answer": "I research the problem, define user needs, create flows and wireframes, prototype, test with users, iterate, and deliver polished UI designs.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you balance aesthetics with usability in your designs?",
+      "canonical_answer": "I prioritize clarity, follow UX principles, use strong hierarchy, and ensure visuals enhance—not distract from—functionality.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Which design tools do you use most often, and why do you prefer them?",
+      "canonical_answer": "I use Figma, Sketch, and Adobe XD for their collaboration features, easy prototyping, and efficient design workflows.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Can you describe a time when you had to design for multiple screen sizes or platforms? How did you handle responsiveness and consistency?",
+      "canonical_answer": "I used responsive grids, scalable components, platform-specific guidelines, and tested across breakpoints to ensure consistency.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you collaborate with developers and UX designers during a project?",
+      "canonical_answer": "I communicate early, share prototypes, clarify interactions, gather feedback, and support implementation through handoff tools.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Tell me about a time when you received critical feedback on your design. How did you handle it?",
+      "canonical_answer": "I listened openly, evaluated the feedback using user needs and data, iterated the design, and improved the final outcome.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What usability heuristics would you check during a heuristic evaluation?",
+      "canonical_answer": "I check visibility of system status, consistency, error prevention, flexibility, learnability, and recognition over recall.",
+      "rubric_points": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "role": "Cybersecurity Analyst",
+  "record_count": 234,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Explain the CIA Triad. How do you ensure each component is maintained in a real system?",
+      "canonical_answer": "Confidentiality protects data access, Integrity ensures data accuracy, and Availability keeps systems operational. Use encryption, access control, monitoring, redundancy, and backups to maintain all three.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How would you detect and respond to a potential data breach in a corporate network?",
+      "canonical_answer": "Monitor logs and alerts, investigate anomalies, isolate affected systems, contain the breach, eradicate malicious activity, recover services, and report findings.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What’s the difference between symmetric and asymmetric encryption, and when would you use each?",
+      "canonical_answer": "Symmetric uses one shared key for speed, while asymmetric uses key pairs for secure exchange. Use symmetric for bulk encryption and asymmetric for key exchange and authentication.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the concept of Zero Trust Architecture? Why is it important today?",
+      "canonical_answer": "Zero Trust assumes no implicit trust and verifies every access request. It's vital due to remote work, cloud usage, and rising lateral-movement attacks.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How would you perform a vulnerability assessment vs. a penetration test? What’s the difference?",
+      "canonical_answer": "A vulnerability assessment finds and prioritizes weaknesses; a penetration test exploits them to test real risk. Use scanning for assessment and ethical hacking for pen testing.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe how you’d secure data in transit and at rest in a cloud environment.",
+      "canonical_answer": "Use TLS for data in transit and encryption with managed keys or KMS for data at rest, along with strict IAM and monitoring.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How would you handle insider threats or social engineering attacks?",
+      "canonical_answer": "Use least privilege, monitoring, behavioral analytics, security training, and strong access controls to detect and prevent malicious or manipulated insiders.",
+      "rubric_points": []
+    }
+  ]
+}

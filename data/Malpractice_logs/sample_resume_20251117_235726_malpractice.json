@@ -1,0 +1,218 @@
+[
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:27:39.890Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:27:47.898Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:27:59.879Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:28:01.883Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:28:05.907Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:28:07.865Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:28:09.907Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:28:11.888Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "tab_switch",
+    "timestamp": "2025-11-17T18:28:40.751Z",
+    "details": {
+      "raw": "Window focus lost (switched to another application)",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "no_record_start_within_timeout",
+    "timestamp": "2025-11-17T18:28:50.649Z",
+    "details": {
+      "timeout_ms": 20000,
+      "question": "Why are large language models trained with next-token prediction?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:28:53.891Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:29:15.885Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:29:19.871Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T18:29:23.860Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T18:29:25.867Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T18:29:27.882Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:29:39.883Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T18:29:41.861Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:30:07.872Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T18:30:09.856Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T18:30:11.854Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T18:30:13.860Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:30:15.874Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:30:17.899Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:30:19.897Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:30:21.892Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T18:30:23.887Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are inductive biases in machine learning?"
+    }
+  }
+]

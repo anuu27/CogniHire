@@ -1,0 +1,46 @@
+{
+  "session_id": "sample_resume_20251117_185223",
+  "role": "ai engineer",
+  "resume_file": "uploads\\sample_resume.pdf",
+  "candidate_info": {
+    "name": "Anugya Anantapur",
+    "skills": [
+      "Python",
+      "Bash",
+      "SQL",
+      "Problem Solving",
+      "Recursive Trees",
+      "Algorithms",
+      "Dynamic Programming",
+      "OpenAI API",
+      "C",
+      "NumPy",
+      "Git",
+      "Jupyter Notebook",
+      "ADT",
+      "Hypothesis library",
+      "TRIE"
+    ],
+    "projects": [
+      "Trie-Based Dictionary Reimplementation",
+      "Interactive Bellman-Ford Path Visualizer",
+      "Performance Analysis of Splay Trees",
+      "HyperLogLog Neighbor Optimizer",
+      "Ultra-Large Integer Optimization"
+    ]
+  },
+  "start_time": "2025-11-17T18:52:23.816571",
+  "end_time": "2025-11-17T18:52:55.874509",
+  "interview_transcript": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": null,
+      "type": "intro"
+    },
+    {
+      "question": "What is regularization in machine learning, and why is it important?",
+      "answer": null,
+      "type": "role"
+    }
+  ]
+}

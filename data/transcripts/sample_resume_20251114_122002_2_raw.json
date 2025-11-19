@@ -1,0 +1,135 @@
+{
+  "text": " Hi, hello. I would start with some data and let one hermen cross.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.9999999999999993,
+      "end": 2.52,
+      "text": " Hi, hello.",
+      "tokens": [
+        50364,
+        2421,
+        11,
+        7751,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7215679342096503,
+      "compression_ratio": 0.9701492537313433,
+      "no_speech_prob": 0.08960043638944626,
+      "words": [
+        {
+          "word": " Hi,",
+          "start": 0.9999999999999993,
+          "end": 1.64,
+          "probability": 0.7120368480682373
+        },
+        {
+          "word": " hello.",
+          "start": 1.94,
+          "end": 2.52,
+          "probability": 0.9015291333198547
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.62,
+      "end": 7.66,
+      "text": " I would start with some data and let one hermen cross.",
+      "tokens": [
+        50514,
+        286,
+        576,
+        722,
+        365,
+        512,
+        1412,
+        293,
+        718,
+        472,
+        720,
+        2558,
+        3278,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7215679342096503,
+      "compression_ratio": 0.9701492537313433,
+      "no_speech_prob": 0.08960043638944626,
+      "words": [
+        {
+          "word": " I",
+          "start": 3.62,
+          "end": 3.76,
+          "probability": 0.9861240386962891
+        },
+        {
+          "word": " would",
+          "start": 3.76,
+          "end": 4.02,
+          "probability": 0.7571243047714233
+        },
+        {
+          "word": " start",
+          "start": 4.02,
+          "end": 4.34,
+          "probability": 0.20237505435943604
+        },
+        {
+          "word": " with",
+          "start": 4.34,
+          "end": 4.66,
+          "probability": 0.995153546333313
+        },
+        {
+          "word": " some",
+          "start": 4.66,
+          "end": 4.94,
+          "probability": 0.9880280494689941
+        },
+        {
+          "word": " data",
+          "start": 4.94,
+          "end": 5.9,
+          "probability": 0.8929726481437683
+        },
+        {
+          "word": " and",
+          "start": 5.9,
+          "end": 6.7,
+          "probability": 0.8346000909805298
+        },
+        {
+          "word": " let",
+          "start": 6.7,
+          "end": 6.82,
+          "probability": 0.3164486885070801
+        },
+        {
+          "word": " one",
+          "start": 6.82,
+          "end": 7.0,
+          "probability": 0.6535736918449402
+        },
+        {
+          "word": " hermen",
+          "start": 7.0,
+          "end": 7.4,
+          "probability": 0.22670099139213562
+        },
+        {
+          "word": " cross.",
+          "start": 7.4,
+          "end": 7.66,
+          "probability": 0.7109035849571228
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

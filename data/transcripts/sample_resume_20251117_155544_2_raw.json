@@ -1,0 +1,612 @@
+{
+  "text": " ätzen fewUNS You've to find its comprendre to define the meaning of this word. plant end by some words like livestream because with this typical language there is even some other words How shall I find out more about madam's post? it might make sense distance воспen Was Under That Doesn�� T province  Madison",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 31.7,
+      "text": " ätzen fewUNS You've to find its comprendre to define the meaning of this word.",
+      "tokens": [
+        50364,
+        220,
+        45721,
+        1326,
+        3979,
+        50,
+        509,
+        600,
+        281,
+        915,
+        1080,
+        26856,
+        281,
+        6964,
+        264,
+        3620,
+        295,
+        341,
+        1349,
+        13,
+        50464
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.375905858408107,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.018409669399261475,
+      "words": [
+        {
+          "word": " ätzen",
+          "start": 30.0,
+          "end": 30.5,
+          "probability": 0.20624329852944356
+        },
+        {
+          "word": " fewUNS",
+          "start": 30.5,
+          "end": 31.12,
+          "probability": 0.015045270958277493
+        },
+        {
+          "word": " You've",
+          "start": 31.12,
+          "end": 31.28,
+          "probability": 0.004475485722650774
+        },
+        {
+          "word": " to",
+          "start": 31.28,
+          "end": 31.28,
+          "probability": 0.012834971770644188
+        },
+        {
+          "word": " find",
+          "start": 31.28,
+          "end": 31.28,
+          "probability": 0.027201026678085327
+        },
+        {
+          "word": " its",
+          "start": 31.28,
+          "end": 31.4,
+          "probability": 0.0012065487680956721
+        },
+        {
+          "word": " comprendre",
+          "start": 31.4,
+          "end": 31.4,
+          "probability": 4.371873274067184e-06
+        },
+        {
+          "word": " to",
+          "start": 31.4,
+          "end": 31.4,
+          "probability": 0.008404314517974854
+        },
+        {
+          "word": " define",
+          "start": 31.4,
+          "end": 31.4,
+          "probability": 0.0005888670566491783
+        },
+        {
+          "word": " the",
+          "start": 31.4,
+          "end": 31.4,
+          "probability": 0.3789230287075043
+        },
+        {
+          "word": " meaning",
+          "start": 31.4,
+          "end": 31.44,
+          "probability": 0.008825777098536491
+        },
+        {
+          "word": " of",
+          "start": 31.44,
+          "end": 31.44,
+          "probability": 0.6863069534301758
+        },
+        {
+          "word": " this",
+          "start": 31.44,
+          "end": 31.44,
+          "probability": 0.12309763580560684
+        },
+        {
+          "word": " word.",
+          "start": 31.44,
+          "end": 31.7,
+          "probability": 0.014911753125488758
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 32.78,
+      "end": 39.4,
+      "text": " plant end by some words like livestream because with this typical language there is even some other words",
+      "tokens": [
+        50736,
+        3709,
+        917,
+        538,
+        512,
+        2283,
+        411,
+        29782,
+        570,
+        365,
+        341,
+        7476,
+        2856,
+        456,
+        307,
+        754,
+        512,
+        661,
+        2283,
+        50820
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.375905858408107,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.018409669399261475,
+      "words": [
+        {
+          "word": " plant",
+          "start": 32.78,
+          "end": 32.96,
+          "probability": 7.895717317296658e-06
+        },
+        {
+          "word": " end",
+          "start": 32.96,
+          "end": 37.92,
+          "probability": 3.3562013413757086e-05
+        },
+        {
+          "word": " by",
+          "start": 37.92,
+          "end": 38.08,
+          "probability": 0.001518741250038147
+        },
+        {
+          "word": " some",
+          "start": 38.08,
+          "end": 38.12,
+          "probability": 0.015996020287275314
+        },
+        {
+          "word": " words",
+          "start": 38.12,
+          "end": 38.54,
+          "probability": 0.04137662053108215
+        },
+        {
+          "word": " like",
+          "start": 38.54,
+          "end": 38.92,
+          "probability": 0.009023119695484638
+        },
+        {
+          "word": " livestream",
+          "start": 38.92,
+          "end": 39.4,
+          "probability": 3.4725715067907004e-06
+        },
+        {
+          "word": " because",
+          "start": 39.4,
+          "end": 39.4,
+          "probability": 0.0003906375786755234
+        },
+        {
+          "word": " with",
+          "start": 39.4,
+          "end": 39.4,
+          "probability": 0.0008989615016616881
+        },
+        {
+          "word": " this",
+          "start": 39.4,
+          "end": 39.4,
+          "probability": 0.044354233890771866
+        },
+        {
+          "word": " typical",
+          "start": 39.4,
+          "end": 39.4,
+          "probability": 7.154491413530195e-06
+        },
+        {
+          "word": " language",
+          "start": 39.4,
+          "end": 39.4,
+          "probability": 0.02516673319041729
+        },
+        {
+          "word": " there",
+          "start": 39.4,
+          "end": 39.4,
+          "probability": 0.009782121516764164
+        },
+        {
+          "word": " is",
+          "start": 39.4,
+          "end": 39.4,
+          "probability": 0.2927420139312744
+        },
+        {
+          "word": " even",
+          "start": 39.4,
+          "end": 39.4,
+          "probability": 0.0018009906634688377
+        },
+        {
+          "word": " some",
+          "start": 39.4,
+          "end": 39.4,
+          "probability": 0.036688584834337234
+        },
+        {
+          "word": " other",
+          "start": 39.4,
+          "end": 39.4,
+          "probability": 0.06225111708045006
+        },
+        {
+          "word": " words",
+          "start": 39.4,
+          "end": 39.4,
+          "probability": 0.1932734102010727
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 39.4,
+      "end": 40.72,
+      "text": " How shall I find out more about madam's post?",
+      "tokens": [
+        50820,
+        1012,
+        4393,
+        286,
+        915,
+        484,
+        544,
+        466,
+        28882,
+        311,
+        2183,
+        30,
+        50895
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.375905858408107,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.018409669399261475,
+      "words": [
+        {
+          "word": " How",
+          "start": 39.4,
+          "end": 39.4,
+          "probability": 2.895001853175927e-05
+        },
+        {
+          "word": " shall",
+          "start": 39.4,
+          "end": 39.44,
+          "probability": 0.001142638735473156
+        },
+        {
+          "word": " I",
+          "start": 39.44,
+          "end": 39.64,
+          "probability": 0.47837314009666443
+        },
+        {
+          "word": " find",
+          "start": 39.64,
+          "end": 39.64,
+          "probability": 0.007464333903044462
+        },
+        {
+          "word": " out",
+          "start": 39.64,
+          "end": 39.64,
+          "probability": 0.03381766006350517
+        },
+        {
+          "word": " more",
+          "start": 39.64,
+          "end": 39.64,
+          "probability": 0.03667459264397621
+        },
+        {
+          "word": " about",
+          "start": 39.64,
+          "end": 40.16,
+          "probability": 0.14396868646144867
+        },
+        {
+          "word": " madam's",
+          "start": 40.16,
+          "end": 40.32,
+          "probability": 0.15590539045092555
+        },
+        {
+          "word": " post?",
+          "start": 40.32,
+          "end": 40.72,
+          "probability": 0.00035574575304053724
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 40.72,
+      "end": 42.04,
+      "text": " it might make sense",
+      "tokens": [
+        50902,
+        309,
+        1062,
+        652,
+        2020,
+        50982
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.375905858408107,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.018409669399261475,
+      "words": [
+        {
+          "word": " it",
+          "start": 40.72,
+          "end": 41.34,
+          "probability": 0.0033483230508863926
+        },
+        {
+          "word": " might",
+          "start": 41.34,
+          "end": 41.34,
+          "probability": 0.017453312873840332
+        },
+        {
+          "word": " make",
+          "start": 41.34,
+          "end": 42.04,
+          "probability": 0.010245424695312977
+        },
+        {
+          "word": " sense",
+          "start": 42.04,
+          "end": 42.04,
+          "probability": 0.09683842211961746
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 3000,
+      "start": 42.84,
+      "end": 43.14,
+      "text": " distance",
+      "tokens": [
+        51006,
+        4560,
+        51066
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.375905858408107,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.018409669399261475,
+      "words": [
+        {
+          "word": " distance",
+          "start": 42.69,
+          "end": 43.14,
+          "probability": 7.075431312841829e-06
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 3000,
+      "start": 43.14,
+      "end": 43.32,
+      "text": " воспen",
+      "tokens": [
+        51066,
+        31143,
+        268,
+        51151
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.375905858408107,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.018409669399261475,
+      "words": [
+        {
+          "word": " воспen",
+          "start": 43.14,
+          "end": 43.32,
+          "probability": 0.046327303640211426
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 3000,
+      "start": 43.32,
+      "end": 43.32,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -5.375905858408107,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.018409669399261475,
+      "words": []
+    },
+    {
+      "id": 7,
+      "seek": 3000,
+      "start": 47.18,
+      "end": 48.62,
+      "text": " Was Under That Doesn��",
+      "tokens": [
+        51279,
+        3027,
+        6974,
+        663,
+        12955,
+        29278,
+        51389
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.375905858408107,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.018409669399261475,
+      "words": [
+        {
+          "word": " Was",
+          "start": 47.18,
+          "end": 48.08,
+          "probability": 0.00011919831013074145
+        },
+        {
+          "word": " Under",
+          "start": 48.08,
+          "end": 48.62,
+          "probability": 4.257444288668921e-06
+        },
+        {
+          "word": " That",
+          "start": 48.62,
+          "end": 48.62,
+          "probability": 0.005387385841459036
+        },
+        {
+          "word": " Doesn��",
+          "start": 48.62,
+          "end": 48.62,
+          "probability": 2.788868675906997e-05
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 3000,
+      "start": 48.62,
+      "end": 48.62,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -5.375905858408107,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.018409669399261475,
+      "words": []
+    },
+    {
+      "id": 9,
+      "seek": 3000,
+      "start": 48.62,
+      "end": 48.62,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -5.375905858408107,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.018409669399261475,
+      "words": []
+    },
+    {
+      "id": 10,
+      "seek": 3000,
+      "start": 48.62,
+      "end": 48.62,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -5.375905858408107,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.018409669399261475,
+      "words": []
+    },
+    {
+      "id": 11,
+      "seek": 3000,
+      "start": 48.62,
+      "end": 48.62,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -5.375905858408107,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.018409669399261475,
+      "words": []
+    },
+    {
+      "id": 12,
+      "seek": 3000,
+      "start": 48.62,
+      "end": 49.36,
+      "text": " T province",
+      "tokens": [
+        51701,
+        314,
+        16705,
+        51768
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.375905858408107,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.018409669399261475,
+      "words": [
+        {
+          "word": " T",
+          "start": 48.62,
+          "end": 48.62,
+          "probability": 0.0005908110179007053
+        },
+        {
+          "word": " province",
+          "start": 48.62,
+          "end": 49.36,
+          "probability": 1.9382407572265947e-06
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 3000,
+      "start": 50.14,
+      "end": 50.72,
+      "text": "  Madison",
+      "tokens": [
+        51768,
+        220,
+        22874,
+        51820
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.375905858408107,
+      "compression_ratio": 1.372093023255814,
+      "no_speech_prob": 0.018409669399261475,
+      "words": [
+        {
+          "word": "  Madison",
+          "start": 50.14,
+          "end": 50.72,
+          "probability": 2.262095222249627e-06
+        }
+      ]
+    }
+  ],
+  "language": "te"
+}

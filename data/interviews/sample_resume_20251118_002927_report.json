@@ -1,0 +1,149 @@
+{
+  "session_id": "sample_resume_20251118_002927",
+  "Name": "Anugya Anantapur",
+  "role": "ai engineer",
+  "start_time": null,
+  "end_time": "2025-11-18T00:33:04.443621",
+  "overall_score": 0,
+  "score_before_malpractice": 14.2,
+  "cci": {
+    "raw": 14.18,
+    "percentile_vs_role": 46.35
+  },
+  "components": {
+    "role_relevance": 1.18,
+    "canonical_component": 1.18,
+    "resume_component": null,
+    "completeness": 1.36,
+    "conciseness": 2.5,
+    "fluency": 6.5
+  },
+  "subscores": {
+    "Conceptual correctness": 0.39,
+    "Reasoning depth": 0.54,
+    "Precision grounding": 0.39,
+    "Communication clarity": 4.33,
+    "Creativity / insight": 1.11
+  },
+  "trajectory": "This candidate requires extensive foundational skill development in core technical and analytical domains.",
+  "strength": "The top strength is Communication clarity with a score of 4.33.",
+  "risk": "Major risks include extremely low technical proficiency across fundamental AI concepts and significant malpractice activity during the assessment, raising integrity concerns.",
+  "recommendation": "Given the critically low overall CCI, abysmal technical subscores, and significant malpractice, the recommendation is to reject this candidate.",
+  "Badge": null,
+  "malpractice_detected": {
+    "count": 8,
+    "types": [
+      "multiple_faces_detected",
+      "tab_switch",
+      "no_record_start_within_timeout",
+      "no_face_detected"
+    ],
+    "deduction": 20.0
+  },
+  "per_question": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": "",
+      "type": "intro",
+      "canonical_matched_index": null,
+      "canonical_answer": "",
+      "canonical_similarity": 0.0,
+      "canonical_score": 0.0,
+      "q_a_similarity": 0.176,
+      "answer_length": 0,
+      "resume_eval": null
+    },
+    {
+      "question": "How do you handle missing or corrupted data when training AI models?",
+      "answer": "Propulsion maintenant",
+      "type": "role",
+      "canonical_matched_index": 5,
+      "canonical_answer": "Techniques include imputation (mean, median, mode), using algorithms that handle missing data, or removing affected records/features depending on the context and extent of missingness",
+      "canonical_similarity": 0.03,
+      "canonical_score": 2.95,
+      "q_a_similarity": -0.053,
+      "answer_length": 2,
+      "resume_eval": null
+    },
+    {
+      "question": "Walk me through how gradient descent actually works \u2014 and how optimizers like Adam improve upon it.",
+      "answer": "",
+      "type": "role",
+      "canonical_matched_index": 2,
+      "canonical_answer": "Gradient descent is an optimization algorithm used to minimize a loss function by iteratively updating model parameters in the direction of the negative gradient. The basic steps are: Initialize parameters, compute the gradient of the loss function with respect to the parameters, update the parameters by subtracting a fraction (learning rate) of the gradient, and repeat until convergence. Adam (Adaptive Moment Estimation) improves upon standard gradient descent by maintaining per-parameter learning rates that adapt based on first and second moments of the gradients, allowing for faster convergence and better handling of sparse gradients.",
+      "canonical_similarity": 0.049,
+      "canonical_score": 4.94,
+      "q_a_similarity": 0.041,
+      "answer_length": 0,
+      "resume_eval": null
+    }
+  ],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T18:59:48.571Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you handle missing or corrupted data when training AI models?"
+      }
+    },
+    {
+      "type": "multiple_faces_detected",
+      "timestamp": "2025-11-17T19:00:14.613Z",
+      "details": {
+        "raw": "detector returned 2 faces",
+        "question": "How do you handle missing or corrupted data when training AI models?"
+      }
+    },
+    {
+      "type": "multiple_faces_detected",
+      "timestamp": "2025-11-17T19:00:24.493Z",
+      "details": {
+        "raw": "detector returned 2 faces",
+        "question": "How do you handle missing or corrupted data when training AI models?"
+      }
+    },
+    {
+      "type": "multiple_faces_detected",
+      "timestamp": "2025-11-17T19:00:55.291Z",
+      "details": {
+        "raw": "detector returned 2 faces",
+        "question": "How do you handle missing or corrupted data when training AI models?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-17T19:01:27.520Z",
+      "details": {
+        "raw": "Window focus lost (switched to another application)",
+        "question": "How do you handle missing or corrupted data when training AI models?"
+      }
+    },
+    {
+      "type": "multiple_faces_detected",
+      "timestamp": "2025-11-17T19:01:44.801Z",
+      "details": {
+        "raw": "detector returned 2 faces",
+        "question": "How do you handle missing or corrupted data when training AI models?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-17T19:01:46.234Z",
+      "details": {
+        "raw": "Tab switched or minimized",
+        "question": "How do you handle missing or corrupted data when training AI models?"
+      }
+    },
+    {
+      "type": "no_record_start_within_timeout",
+      "timestamp": "2025-11-17T19:01:55.363Z",
+      "details": {
+        "timeout_ms": 20000,
+        "question": "How do you handle missing or corrupted data when training AI models?"
+      }
+    }
+  ],
+  "malpractice_count": 8
+}

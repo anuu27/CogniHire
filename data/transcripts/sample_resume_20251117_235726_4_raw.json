@@ -1,0 +1,80 @@
+{
+  "text": " Blah, blah, blah, blah, blah, blah, blah.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.14,
+      "text": " Blah, blah, blah, blah, blah, blah, blah.",
+      "tokens": [
+        50364,
+        2177,
+        545,
+        11,
+        12288,
+        11,
+        12288,
+        11,
+        12288,
+        11,
+        12288,
+        11,
+        12288,
+        11,
+        12288,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5197188059488932,
+      "compression_ratio": 2.2777777777777777,
+      "no_speech_prob": 0.2474662810564041,
+      "words": [
+        {
+          "word": " Blah,",
+          "start": 0.0,
+          "end": 0.24,
+          "probability": 0.4325290024280548
+        },
+        {
+          "word": " blah,",
+          "start": 0.26,
+          "end": 0.4,
+          "probability": 0.8065032958984375
+        },
+        {
+          "word": " blah,",
+          "start": 0.48,
+          "end": 0.66,
+          "probability": 0.9335359334945679
+        },
+        {
+          "word": " blah,",
+          "start": 0.66,
+          "end": 0.8,
+          "probability": 0.8799030780792236
+        },
+        {
+          "word": " blah,",
+          "start": 0.8,
+          "end": 0.92,
+          "probability": 0.9126841425895691
+        },
+        {
+          "word": " blah,",
+          "start": 0.92,
+          "end": 1.04,
+          "probability": 0.9186900854110718
+        },
+        {
+          "word": " blah.",
+          "start": 1.06,
+          "end": 1.14,
+          "probability": 0.8703523874282837
+        }
+      ]
+    }
+  ],
+  "language": "fr"
+}

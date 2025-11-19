@@ -1,0 +1,49 @@
+{
+  "role": "QA Engineer",
+  "record_count": 251,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "What’s the difference between verification and validation?",
+      "canonical_answer": "Verification checks whether the product is built correctly; validation checks whether the right product is built to meet user needs.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What are the different levels of testing?",
+      "canonical_answer": "Unit testing, integration testing, system testing, and acceptance testing.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What’s the difference between regression testing and retesting?",
+      "canonical_answer": "Regression testing checks if new changes broke existing features; retesting checks if a specific bug fix was successfully resolved.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is a test case? What are key components of a good test case?",
+      "canonical_answer": "A test case defines steps to verify functionality. Good test cases have clear steps, inputs, expected results, and preconditions.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you prioritize test cases in a tight deadline?",
+      "canonical_answer": "I prioritize based on risk, critical functionality, user impact, and areas affected by recent changes.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What tools have you used for testing and bug tracking?",
+      "canonical_answer": "I’ve used tools like Selenium, Postman, JMeter, Jira, TestRail, and Bugzilla depending on project needs.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you ensure quality in Agile environments?",
+      "canonical_answer": "I test continuously, collaborate with the team, participate in sprint planning, write clear acceptance criteria, and automate where possible.",
+      "rubric_points": []
+    }
+  ]
+}

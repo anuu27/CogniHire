@@ -1,0 +1,193 @@
+{
+  "session_id": "sample_resume_20251118_022044_3",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251118_022044_answer_processed.wav",
+  "raw_text": "Actually, I'm looking into it, how I will optimize my performance.",
+  "processed_text": ", I'm looking into it, how I will optimize my performance.",
+  "words": [
+    {
+      "text": "Actually,",
+      "start": 1.66,
+      "end": 2.48,
+      "confidence": 0.5944
+    },
+    {
+      "text": "I'm",
+      "start": 3.0,
+      "end": 3.18,
+      "confidence": 0.7845
+    },
+    {
+      "text": "looking",
+      "start": 3.18,
+      "end": 3.9,
+      "confidence": 0.9852
+    },
+    {
+      "text": "into",
+      "start": 3.9,
+      "end": 4.28,
+      "confidence": 0.9637
+    },
+    {
+      "text": "it,",
+      "start": 4.28,
+      "end": 5.0,
+      "confidence": 0.6409
+    },
+    {
+      "text": "how",
+      "start": 5.56,
+      "end": 5.74,
+      "confidence": 0.7269
+    },
+    {
+      "text": "I",
+      "start": 5.74,
+      "end": 5.92,
+      "confidence": 0.9614
+    },
+    {
+      "text": "will",
+      "start": 5.92,
+      "end": 6.08,
+      "confidence": 0.9232
+    },
+    {
+      "text": "optimize",
+      "start": 6.08,
+      "end": 6.48,
+      "confidence": 0.941
+    },
+    {
+      "text": "my",
+      "start": 6.48,
+      "end": 6.94,
+      "confidence": 0.9922
+    },
+    {
+      "text": "performance.",
+      "start": 6.94,
+      "end": 7.36,
+      "confidence": 0.9831
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u002",
+      "start": 1.66,
+      "end": 7.36,
+      "duration": 5.7,
+      "transcript": ", I'm looking into it, how I will optimize my performance.",
+      "word_count": 11,
+      "words": [
+        {
+          "text": "Actually,",
+          "start": 1.66,
+          "end": 2.48,
+          "confidence": 0.5944
+        },
+        {
+          "text": "I'm",
+          "start": 3.0,
+          "end": 3.18,
+          "confidence": 0.7845
+        },
+        {
+          "text": "looking",
+          "start": 3.18,
+          "end": 3.9,
+          "confidence": 0.9852
+        },
+        {
+          "text": "into",
+          "start": 3.9,
+          "end": 4.28,
+          "confidence": 0.9637
+        },
+        {
+          "text": "it,",
+          "start": 4.28,
+          "end": 5.0,
+          "confidence": 0.6409
+        },
+        {
+          "text": "how",
+          "start": 5.56,
+          "end": 5.74,
+          "confidence": 0.7269
+        },
+        {
+          "text": "I",
+          "start": 5.74,
+          "end": 5.92,
+          "confidence": 0.9614
+        },
+        {
+          "text": "will",
+          "start": 5.92,
+          "end": 6.08,
+          "confidence": 0.9232
+        },
+        {
+          "text": "optimize",
+          "start": 6.08,
+          "end": 6.48,
+          "confidence": 0.941
+        },
+        {
+          "text": "my",
+          "start": 6.48,
+          "end": 6.94,
+          "confidence": 0.9922
+        },
+        {
+          "text": "performance.",
+          "start": 6.94,
+          "end": 7.36,
+          "confidence": 0.9831
+        }
+      ],
+      "vad_segment_start": 0.93,
+      "vad_segment_end": 7.56,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 7.58,
+  "model_used": "small",
+  "timestamp": "2025-11-18T02:22:16.165977",
+  "segment_count": 1,
+  "word_count": 11,
+  "utterance_count": 1
+}

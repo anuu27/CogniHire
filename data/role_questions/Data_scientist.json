@@ -1,0 +1,145 @@
+{
+  "role": "Data Scientist",
+  "record_count": 538,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Explain the difference between supervised, unsupervised, and reinforcement learning. Give examples where each would be used.",
+      "canonical_answer": "Supervised learns from labeled data (e.g., fraud detection), unsupervised finds patterns without labels (e.g., clustering customers), and reinforcement learning learns through rewards (e.g., game-playing agents).",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle missing or imbalanced data when training a model?",
+      "canonical_answer": "Use imputation for missing values and methods like oversampling, undersampling, or class weighting for imbalanced data.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe how you would select features for a predictive model. What techniques do you use to reduce dimensionality?",
+      "canonical_answer": "Use correlation checks, feature importance, and domain knowledge; reduce dimensionality with PCA, feature selection methods, or regularization.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you evaluate a machine learning model? Which metrics would you choose for classification vs. regression?",
+      "canonical_answer": "Use accuracy, precision, recall, F1, or AUC for classification; use RMSE, MAE, or R² for regression depending on the task.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain bias-variance trade-off. How do you balance it in practice?",
+      "canonical_answer": "Bias is underfitting and variance is overfitting; balance using cross-validation, regularization, simpler models, or more data.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How would you detect and handle outliers in your dataset?",
+      "canonical_answer": "Use visualization, z-scores, IQR, or model-based detection; handle by removing, capping, or transforming values depending on context.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you ensure that your model generalizes well to unseen data?",
+      "canonical_answer": "Use train-test splits, cross-validation, regularization, early stopping, and monitor performance on validation data.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the purpose of exploratory data analysis (EDA)?",
+      "canonical_answer": " EDA helps understand data distributions, relationships, and anomalies to inform feature engineering and modeling decisions.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the difference between correlation and causation?",
+      "canonical_answer": " Correlation indicates a relationship between variables, while causation means one variable directly affects another.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is regularization? Why is it used?",
+      "canonical_answer": " Regularization adds a penalty to the loss function to prevent overfitting by discouraging complex models.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is cross-validation?",
+      "canonical_answer": "A method to evaluate model performance by training/test splitting multiple times (e.g., K-fold CV) for more reliable accuracy.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is feature engineering?",
+      "canonical_answer": "Creating or transforming features to improve model performance (e.g., scaling, encoding, extracting interactions).",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the difference between bagging and boosting?",
+      "canonical_answer": "Bagging reduces variance using parallel learners. Boosting reduces bias using sequential learners that correct previous errors.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What does PCA do?",
+      "canonical_answer": "Reduces dimensions by projecting data onto directions of maximum variance",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is ROC-AUC?",
+      "canonical_answer": "A metric that measures a classifier’s ability to distinguish classes across thresholds; higher is better.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is a confusion matrix?",
+      "canonical_answer": "A table showing predicted vs. actual values — used to compute precision, recall, F1, etc.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the purpose of a cost function?",
+      "canonical_answer": "To measure error between predictions and true values so the model can optimize it.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is gradient boosting?",
+      "canonical_answer": "An ensemble method where each new model learns from the residuals of previous models (e.g., XGBoost, LightGBM).",
+      "rubric_points": []
+    }, 
+    {
+      "id": null,
+      "question": "Why do we scale features?",
+      "canonical_answer": "To ensure algorithms like SVM, KNN, and gradient descent converge properly and treat features equally.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is multicollinearity? Why is it a problem?",
+      "canonical_answer": "When features are highly correlated; it makes coefficients unstable in linear models.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is early stopping?",
+      "canonical_answer": "A technique to prevent overfitting by stopping training when validation performance stops improving.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the difference between precision and recall?",
+      "canonical_answer": " Precision: Of predicted positives, how many are correct. Recall: Of actual positives, how many were detected. Useful in imbalanced classification.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": " What is hyperparameter tuning?",
+      "canonical_answer": " The process of optimizing model parameters (e.g., learning rate, depth) to improve performance.",
+      "rubric_points": []
+    }
+  ]
+}

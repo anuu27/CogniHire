@@ -1,0 +1,15 @@
+{
+  "session_id": "sample_resume_20251118_123443_7",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251118_123443_answer_processed.wav",
+  "raw_text": "Because it's the one of the new topics that can be introduced for children in our open day.",
+  "processed_text": "Because it's the one of the new topics that can be introduced for children in our open day.",
+  "words": [],
+  "utterances": [],
+  "language": "en",
+  "duration": 5.63,
+  "model_used": "base",
+  "timestamp": "2025-11-18T12:37:15.529916",
+  "segment_count": 0,
+  "word_count": 0,
+  "utterance_count": 0
+}

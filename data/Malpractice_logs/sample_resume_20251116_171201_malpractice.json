@@ -1,0 +1,50 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T11:42:09.530Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you choose the right model architecture for a given AI problem?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T11:42:10.826Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "How do you choose the right model architecture for a given AI problem?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T11:42:11.527Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you choose the right model architecture for a given AI problem?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T11:42:13.520Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you choose the right model architecture for a given AI problem?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T11:42:15.518Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you choose the right model architecture for a given AI problem?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T11:42:17.508Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you choose the right model architecture for a given AI problem?"
+    }
+  }
+]

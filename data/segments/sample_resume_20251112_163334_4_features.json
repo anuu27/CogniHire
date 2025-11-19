@@ -1,0 +1,263 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 13.74,
+    "duration": 13.74,
+    "transcript": "The role of optimization is very crucial in machine learning. It's very crucial because President Ray, cannot have a method of optimization.",
+    "word_count": 31,
+    "words": [
+      {
+        "text": "The",
+        "start": 0.0,
+        "end": 0.22,
+        "confidence": 0.4279
+      },
+      {
+        "text": "role",
+        "start": 0.22,
+        "end": 0.42,
+        "confidence": 0.7011
+      },
+      {
+        "text": "of",
+        "start": 0.42,
+        "end": 0.7,
+        "confidence": 0.9967
+      },
+      {
+        "text": "optimization",
+        "start": 0.7,
+        "end": 1.08,
+        "confidence": 0.727
+      },
+      {
+        "text": "is",
+        "start": 1.08,
+        "end": 1.7,
+        "confidence": 0.9939
+      },
+      {
+        "text": "very",
+        "start": 1.7,
+        "end": 1.92,
+        "confidence": 0.9551
+      },
+      {
+        "text": "crucial",
+        "start": 1.92,
+        "end": 2.28,
+        "confidence": 0.9982
+      },
+      {
+        "text": "in",
+        "start": 2.28,
+        "end": 2.52,
+        "confidence": 0.9643
+      },
+      {
+        "text": "machine",
+        "start": 2.52,
+        "end": 2.8,
+        "confidence": 0.8233
+      },
+      {
+        "text": "learning.",
+        "start": 2.8,
+        "end": 3.18,
+        "confidence": 0.9824
+      },
+      {
+        "text": "It's",
+        "start": 4.02,
+        "end": 4.56,
+        "confidence": 0.8063
+      },
+      {
+        "text": "very",
+        "start": 4.56,
+        "end": 4.78,
+        "confidence": 0.973
+      },
+      {
+        "text": "crucial",
+        "start": 4.78,
+        "end": 5.2,
+        "confidence": 0.9938
+      },
+      {
+        "text": "because",
+        "start": 5.2,
+        "end": 5.94,
+        "confidence": 0.8851
+      },
+      {
+        "text": "President",
+        "start": 5.94,
+        "end": 6.62,
+        "confidence": 0.2182
+      },
+      {
+        "text": "Ray,",
+        "start": 6.62,
+        "end": 6.86,
+        "confidence": 0.1271
+      },
+      {
+        "text": "cannot",
+        "start": 7.0,
+        "end": 7.28,
+        "confidence": 0.3006
+      },
+      {
+        "text": "have",
+        "start": 7.28,
+        "end": 7.62,
+        "confidence": 0.8847
+      },
+      {
+        "text": "a",
+        "start": 7.62,
+        "end": 7.78,
+        "confidence": 0.4027
+      },
+      {
+        "text": "method",
+        "start": 7.78,
+        "end": 8.0,
+        "confidence": 0.2567
+      },
+      {
+        "text": "of",
+        "start": 8.0,
+        "end": 8.22,
+        "confidence": 0.9602
+      },
+      {
+        "text": "optimization.",
+        "start": 8.22,
+        "end": 8.74,
+        "confidence": 0.7774
+      },
+      {
+        "text": "Non",
+        "start": 9.7,
+        "end": 10.04,
+        "confidence": 0.5012
+      },
+      {
+        "text": "-conocaptization",
+        "start": 10.04,
+        "end": 10.96,
+        "confidence": 0.4129
+      },
+      {
+        "text": "is",
+        "start": 10.96,
+        "end": 11.34,
+        "confidence": 0.981
+      },
+      {
+        "text": "particularly",
+        "start": 11.34,
+        "end": 11.72,
+        "confidence": 0.6829
+      },
+      {
+        "text": "challenging",
+        "start": 11.72,
+        "end": 12.24,
+        "confidence": 0.6448
+      },
+      {
+        "text": "because",
+        "start": 12.24,
+        "end": 12.76,
+        "confidence": 0.9054
+      },
+      {
+        "text": "it's",
+        "start": 12.76,
+        "end": 13.14,
+        "confidence": 0.9702
+      },
+      {
+        "text": "not",
+        "start": 13.14,
+        "end": 13.38,
+        "confidence": 0.9951
+      },
+      {
+        "text": "convex.",
+        "start": 13.38,
+        "end": 13.74,
+        "confidence": 0.6692
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 13.95,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.739,
+    "speech_rate_wps": 2.256,
+    "speech_rate_wpm": 135.371,
+    "articulation_rate": 2.256,
+    "pause_count": 3,
+    "pause_rate": 0.1,
+    "mean_pause_duration": 0.647,
+    "std_pause_duration": 0.362,
+    "total_pause_time": 1.94,
+    "speaking_time_ratio": 0.859,
+    "pitch_mean": 300.939,
+    "pitch_std": 46.541,
+    "pitch_range": 178.086,
+    "pitch_variance": 2166.025,
+    "voiced_frames_ratio": 0.842,
+    "rms_energy_mean": 0.058,
+    "rms_energy_std": 0.046,
+    "rms_energy_max": 0.26,
+    "rms_energy_min": 0.001,
+    "energy_dynamic_range": 0.26,
+    "zero_crossing_rate": 0.199,
+    "harmonic_noise_ratio": 0.451,
+    "spectral_centroid_mean": 2365.734,
+    "spectral_centroid_std": 1071.591,
+    "mfcc_1_mean": -266.458,
+    "mfcc_2_mean": 37.805,
+    "mfcc_1_std": 89.009,
+    "spectral_rolloff": 4193.387,
+    "spectral_bandwidth": 1717.389,
+    "snr_approximation": 1.27,
+    "clipping_ratio": 0.0
+  }
+]

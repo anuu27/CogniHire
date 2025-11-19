@@ -1,0 +1,81 @@
+{
+  "text": " What are you asking? I grant here please.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.56,
+      "text": " What are you asking? I grant here please.",
+      "tokens": [
+        50364,
+        708,
+        366,
+        291,
+        3365,
+        30,
+        286,
+        6386,
+        510,
+        1767,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6058411598205566,
+      "compression_ratio": 0.8541666666666666,
+      "no_speech_prob": 0.016812805086374283,
+      "words": [
+        {
+          "word": " What",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.49518656730651855
+        },
+        {
+          "word": " are",
+          "start": 0.32,
+          "end": 0.48,
+          "probability": 0.9695712327957153
+        },
+        {
+          "word": " you",
+          "start": 0.48,
+          "end": 0.64,
+          "probability": 0.9939821362495422
+        },
+        {
+          "word": " asking?",
+          "start": 0.64,
+          "end": 0.94,
+          "probability": 0.9859558343887329
+        },
+        {
+          "word": " I",
+          "start": 1.52,
+          "end": 1.54,
+          "probability": 0.9139351844787598
+        },
+        {
+          "word": " grant",
+          "start": 1.54,
+          "end": 1.82,
+          "probability": 0.5599702000617981
+        },
+        {
+          "word": " here",
+          "start": 1.82,
+          "end": 2.1,
+          "probability": 0.40032753348350525
+        },
+        {
+          "word": " please.",
+          "start": 2.1,
+          "end": 3.56,
+          "probability": 0.34594425559043884
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

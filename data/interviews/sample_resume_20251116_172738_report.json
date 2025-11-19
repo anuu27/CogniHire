@@ -1,0 +1,198 @@
+{
+  "session_id": "unknown",
+  "Name": "Unknown",
+  "role": "ai engineer",
+  "start_time": null,
+  "end_time": "2025-11-16T17:28:26.688130",
+  "overall_score": 15.1,
+  "score_before_malpractice": 18.2,
+  "cci": {
+    "raw": 18.23,
+    "percentile_vs_role": 76.06
+  },
+  "components": {
+    "role_relevance": 0.56,
+    "canonical_component": 0.56,
+    "resume_component": null,
+    "completeness": 1.59,
+    "conciseness": 5.0,
+    "fluency": 8.0
+  },
+  "malpractice_detected": {
+    "count": 16,
+    "types": [
+      "no_face_detected"
+    ],
+    "deduction": 3.1
+  },
+  "per_question": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": "",
+      "type": "intro",
+      "canonical_matched_index": null,
+      "canonical_answer": "",
+      "canonical_similarity": 0.0,
+      "canonical_score": 0.0,
+      "q_a_similarity": 0.176,
+      "answer_length": 0,
+      "resume_eval": null
+    },
+    {
+      "question": "What are hyperparameters in machine learning?",
+      "answer": "I love you, it's just for testing, bye bye bye.",
+      "type": "role",
+      "canonical_matched_index": 9,
+      "canonical_answer": "Hyperparameters are configuration values set before training (e.g., learning rate, number of layers, batch size) that control how the model learns.",
+      "canonical_similarity": 0.011,
+      "canonical_score": 1.13,
+      "q_a_similarity": 0.052,
+      "answer_length": 10,
+      "resume_eval": null
+    },
+    {
+      "question": "What is the difference between batch learning and online learning?",
+      "answer": "",
+      "type": "role",
+      "canonical_matched_index": 15,
+      "canonical_answer": "Batch learning trains on the entire dataset at once, ideal for static data. Online learning updates the model incrementally as new data arrives \u2014 useful for streaming or evolving data (e.g., stock prices).",
+      "canonical_similarity": 0.026,
+      "canonical_score": 2.59,
+      "q_a_similarity": -0.037,
+      "answer_length": 0,
+      "resume_eval": null
+    }
+  ],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:57:44.760Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are hyperparameters in machine learning?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:57:46.044Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What are hyperparameters in machine learning?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:57:46.756Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are hyperparameters in machine learning?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:57:48.742Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are hyperparameters in machine learning?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:57:50.755Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are hyperparameters in machine learning?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:57:52.761Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are hyperparameters in machine learning?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:57:54.753Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are hyperparameters in machine learning?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:57:56.737Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are hyperparameters in machine learning?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:57:58.742Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are hyperparameters in machine learning?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:58:00.757Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are hyperparameters in machine learning?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:58:02.750Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are hyperparameters in machine learning?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:58:04.784Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are hyperparameters in machine learning?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:58:06.745Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are hyperparameters in machine learning?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:58:08.761Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are hyperparameters in machine learning?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:58:10.746Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are hyperparameters in machine learning?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:58:12.749Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are hyperparameters in machine learning?"
+      }
+    }
+  ],
+  "malpractice_count": 16
+}

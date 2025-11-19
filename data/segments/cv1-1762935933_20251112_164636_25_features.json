@@ -1,0 +1,119 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 2.44,
+    "duration": 2.44,
+    "transcript": "I'm sorry can we please move on?",
+    "word_count": 7,
+    "words": [
+      {
+        "text": "I'm",
+        "start": 0.0,
+        "end": 0.54,
+        "confidence": 0.686
+      },
+      {
+        "text": "sorry",
+        "start": 0.54,
+        "end": 0.9,
+        "confidence": 0.9853
+      },
+      {
+        "text": "can",
+        "start": 0.9,
+        "end": 1.5,
+        "confidence": 0.3953
+      },
+      {
+        "text": "we",
+        "start": 1.5,
+        "end": 1.72,
+        "confidence": 0.9261
+      },
+      {
+        "text": "please",
+        "start": 1.72,
+        "end": 2.06,
+        "confidence": 0.9786
+      },
+      {
+        "text": "move",
+        "start": 2.06,
+        "end": 2.38,
+        "confidence": 0.4424
+      },
+      {
+        "text": "on?",
+        "start": 2.38,
+        "end": 2.44,
+        "confidence": 0.9766
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 2.46,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.77,
+    "speech_rate_wps": 2.869,
+    "speech_rate_wpm": 172.131,
+    "articulation_rate": 2.869,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 256.563,
+    "pitch_std": 36.62,
+    "pitch_range": 145.743,
+    "pitch_variance": 1341.036,
+    "voiced_frames_ratio": 0.935,
+    "rms_energy_mean": 0.071,
+    "rms_energy_std": 0.065,
+    "rms_energy_max": 0.256,
+    "rms_energy_min": 0.001,
+    "energy_dynamic_range": 0.255,
+    "zero_crossing_rate": 0.183,
+    "harmonic_noise_ratio": 0.189,
+    "spectral_centroid_mean": 2329.908,
+    "spectral_centroid_std": 787.821,
+    "mfcc_1_mean": -253.821,
+    "mfcc_2_mean": 41.693,
+    "mfcc_1_std": 138.931,
+    "spectral_rolloff": 4554.18,
+    "spectral_bandwidth": 1832.522,
+    "snr_approximation": 1.106,
+    "clipping_ratio": 0.0
+  }
+]

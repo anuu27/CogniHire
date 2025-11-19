@@ -1,0 +1,253 @@
+{
+  "session_id": "sample_resume_20251114_155032_8",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_155032_answer_processed.wav",
+  "raw_text": "As far as I remember I guess the random has the greatest drastically after using type.",
+  "processed_text": "As far as I remember I guess the random has the greatest drastically after using type.",
+  "words": [
+    {
+      "text": "As",
+      "start": 0.0,
+      "end": 0.94,
+      "confidence": 0.6207
+    },
+    {
+      "text": "far",
+      "start": 0.94,
+      "end": 1.14,
+      "confidence": 0.9478
+    },
+    {
+      "text": "as",
+      "start": 1.14,
+      "end": 1.32,
+      "confidence": 0.9987
+    },
+    {
+      "text": "I",
+      "start": 1.32,
+      "end": 1.44,
+      "confidence": 0.9526
+    },
+    {
+      "text": "remember",
+      "start": 1.44,
+      "end": 1.76,
+      "confidence": 0.9861
+    },
+    {
+      "text": "I",
+      "start": 1.76,
+      "end": 1.94,
+      "confidence": 0.6241
+    },
+    {
+      "text": "guess",
+      "start": 1.94,
+      "end": 2.24,
+      "confidence": 0.9553
+    },
+    {
+      "text": "the",
+      "start": 2.24,
+      "end": 2.52,
+      "confidence": 0.8086
+    },
+    {
+      "text": "random",
+      "start": 2.52,
+      "end": 2.74,
+      "confidence": 0.4487
+    },
+    {
+      "text": "has",
+      "start": 2.74,
+      "end": 3.06,
+      "confidence": 0.5096
+    },
+    {
+      "text": "the",
+      "start": 3.06,
+      "end": 3.24,
+      "confidence": 0.5702
+    },
+    {
+      "text": "greatest",
+      "start": 3.24,
+      "end": 3.54,
+      "confidence": 0.5812
+    },
+    {
+      "text": "drastically",
+      "start": 3.54,
+      "end": 4.1,
+      "confidence": 0.7729
+    },
+    {
+      "text": "after",
+      "start": 4.1,
+      "end": 4.58,
+      "confidence": 0.9572
+    },
+    {
+      "text": "using",
+      "start": 4.58,
+      "end": 4.88,
+      "confidence": 0.9894
+    },
+    {
+      "text": "type.",
+      "start": 4.88,
+      "end": 5.18,
+      "confidence": 0.0656
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 5.18,
+      "duration": 5.18,
+      "transcript": "As far as I remember I guess the random has the greatest drastically after using type.",
+      "word_count": 16,
+      "words": [
+        {
+          "text": "As",
+          "start": 0.0,
+          "end": 0.94,
+          "confidence": 0.6207
+        },
+        {
+          "text": "far",
+          "start": 0.94,
+          "end": 1.14,
+          "confidence": 0.9478
+        },
+        {
+          "text": "as",
+          "start": 1.14,
+          "end": 1.32,
+          "confidence": 0.9987
+        },
+        {
+          "text": "I",
+          "start": 1.32,
+          "end": 1.44,
+          "confidence": 0.9526
+        },
+        {
+          "text": "remember",
+          "start": 1.44,
+          "end": 1.76,
+          "confidence": 0.9861
+        },
+        {
+          "text": "I",
+          "start": 1.76,
+          "end": 1.94,
+          "confidence": 0.6241
+        },
+        {
+          "text": "guess",
+          "start": 1.94,
+          "end": 2.24,
+          "confidence": 0.9553
+        },
+        {
+          "text": "the",
+          "start": 2.24,
+          "end": 2.52,
+          "confidence": 0.8086
+        },
+        {
+          "text": "random",
+          "start": 2.52,
+          "end": 2.74,
+          "confidence": 0.4487
+        },
+        {
+          "text": "has",
+          "start": 2.74,
+          "end": 3.06,
+          "confidence": 0.5096
+        },
+        {
+          "text": "the",
+          "start": 3.06,
+          "end": 3.24,
+          "confidence": 0.5702
+        },
+        {
+          "text": "greatest",
+          "start": 3.24,
+          "end": 3.54,
+          "confidence": 0.5812
+        },
+        {
+          "text": "drastically",
+          "start": 3.54,
+          "end": 4.1,
+          "confidence": 0.7729
+        },
+        {
+          "text": "after",
+          "start": 4.1,
+          "end": 4.58,
+          "confidence": 0.9572
+        },
+        {
+          "text": "using",
+          "start": 4.58,
+          "end": 4.88,
+          "confidence": 0.9894
+        },
+        {
+          "text": "type.",
+          "start": 4.88,
+          "end": 5.18,
+          "confidence": 0.0656
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 5.19,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 5.22,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T15:53:10.092040",
+  "segment_count": 1,
+  "word_count": 16,
+  "utterance_count": 1
+}

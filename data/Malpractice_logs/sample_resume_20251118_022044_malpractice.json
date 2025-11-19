@@ -1,0 +1,66 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T20:55:29.547Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What game engines have you worked with, and which one do you prefer?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T20:55:34.370Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What game engines have you worked with, and which one do you prefer?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T20:55:38.367Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What game engines have you worked with, and which one do you prefer?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T20:55:42.380Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What game engines have you worked with, and which one do you prefer?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T20:55:44.368Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What game engines have you worked with, and which one do you prefer?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T20:55:46.360Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What game engines have you worked with, and which one do you prefer?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T20:55:50.361Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What game engines have you worked with, and which one do you prefer?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T20:55:52.364Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What game engines have you worked with, and which one do you prefer?"
+    }
+  }
+]

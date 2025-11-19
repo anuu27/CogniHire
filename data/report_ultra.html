@@ -1,0 +1,332 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>AIRF Evaluation Report — {{ROLE_NAME}}</title>
+
+<!-- Optional: JetBrains Mono from Google Fonts (remove if offline) -->
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --taobg: #0f0f0f;
+    --taogreen: #50F0AA;
+    --taopink: #FF7796;
+    --taogray: #3A3A3A;
+    --taowhite: #D0F0E0;
+    --page-pad: 32px;
+    --bar-width: 560px; /* visual width for bars on A4-ish layout */
+  }
+
+  html,body{
+    height:100%;
+    margin:0;
+    background: var(--taobg);
+    color: var(--taogreen);
+    font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", monospace;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    line-height:1.35;
+  }
+
+  .page {
+    max-width: 850px;
+    margin: 28px auto;
+    padding: var(--page-pad);
+    box-sizing: border-box;
+    color: var(--taogreen);
+  }
+
+  .header {
+    display:flex;
+    gap:16px;
+    align-items:flex-start;
+    justify-content:space-between;
+  }
+
+  .title {
+    color: var(--taopink);
+    font-weight:700;
+    font-size:20px;
+    letter-spacing:0.4px;
+  }
+
+  .meta {
+    color: var(--taowhite);
+    font-size:13px;
+    margin-top:8px;
+  }
+
+  .cci {
+    margin-top:14px;
+    font-size:14px;
+    color: var(--taogreen);
+  }
+  .cci .badge { color: var(--taopink); font-weight:700; margin-left:10px; }
+
+  h3.section {
+    color: var(--taowhite);
+    margin: 20px 0 10px;
+    font-size:16px;
+  }
+
+  /* bar item (replicates \baritem macro) */
+  .baritem {
+    display:flex;
+    align-items:center;
+    gap:12px;
+    margin:8px 0;
+  }
+  .bar-label {
+    color: var(--taopink);
+    min-width:220px;
+    font-size:13px;
+    white-space:nowrap;
+  }
+
+  .bar-visual {
+    position:relative;
+    width: var(--bar-width);
+    height:14px;
+    background: rgba(58,58,58,0.35);
+    border-radius:6px;
+    overflow:hidden;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.02);
+  }
+  .bar-fill {
+    height:100%;
+    background: linear-gradient(90deg, var(--taogreen), #77f5c6 80%);
+    width: calc(var(--val, 0) * 1%);
+    transition: width 700ms ease;
+  }
+  .bar-value {
+    color: var(--taopink);
+    min-width:36px;
+    font-size:13px;
+    text-align:right;
+  }
+
+  .grid {
+    display:grid;
+    grid-template-columns: 1fr 340px;
+    gap:24px;
+    align-items:start;
+  }
+
+  .card {
+    background: transparent;
+    padding:12px;
+    border-radius:8px;
+  }
+
+  .centered {
+    text-align:center;
+  }
+
+  .radar {
+    width:100%;
+    max-width:360px;
+    height:auto;
+    border-radius:6px;
+    display:block;
+    margin:14px auto 0;
+    background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+    padding:12px;
+    box-sizing:border-box;
+  }
+
+  .small-muted {
+    color: rgba(208,240,224,0.7);
+    font-size:13px;
+  }
+
+  .two-column {
+    display:flex;
+    gap:12px;
+    align-items:flex-start;
+  }
+
+  .analytics pre {
+    background: rgba(255,255,255,0.02);
+    padding:10px;
+    border-radius:6px;
+    color: var(--taowhite);
+    overflow:auto;
+    font-size:12px;
+  }
+
+  .section-hr {
+    height:1px;
+    background: linear-gradient(90deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+    margin:12px 0;
+  }
+
+  /* Page break style when printing */
+  @media print {
+    .page { box-shadow:none; margin:0; max-width:100%; }
+    .no-print { display:none !important; }
+    .pagebreak { page-break-after: always; }
+  }
+
+  /* smaller screens */
+  @media (max-width:900px){
+    .grid { grid-template-columns: 1fr; }
+    :root { --bar-width: 100%; }
+    .bar-label { min-width:140px; font-size:12px; }
+  }
+
+</style>
+</head>
+<body>
+  <div class="page" role="main">
+    <div class="header">
+      <div>
+        <div class="title">AIRF Evaluation Report — <span style="color:var(--taowhite)">{{ROLE_NAME}}</span></div>
+        <div class="meta">Candidate: <strong style="color:var(--taopink)">{{CANDIDATE}}</strong></div>
+        <div class="cci">
+          <span style="font-weight:700">Cognitive Competency Index (CCI):</span>
+          <span style="font-size:18px; color:var(--taogreen); font-weight:700"> {{CCI}}</span>
+          <span class="badge">— {{BADGE}}</span>
+          <div class="small-muted" style="margin-top:6px">
+            Tech Avg: <strong>{{TECH_AVG_10}}</strong> &nbsp; • &nbsp;
+            CV Score: <strong>{{CV_RELEVANCE}}</strong> &nbsp; • &nbsp;
+            Confidence (σ): <strong>{{SIGMA}}</strong>
+          </div>
+        </div>
+      </div>
+
+      <div style="text-align:right">
+        <!-- small logo placeholder -->
+        <div style="width:120px;height:54px;border-radius:8px;background:linear-gradient(180deg,var(--taogray), rgba(255,255,255,0.02)); display:flex;align-items:center;justify-content:center;">
+          <div style="font-weight:700;color:var(--taopink);font-size:18px;">AIRF</div>
+        </div>
+
+        <div class="small-muted" style="margin-top:10px">Date: <strong>{{DATE}}</strong></div>
+      </div>
+    </div>
+
+    <div class="section-hr"></div>
+
+    <h3 class="section">Technical / Cognitive Profile</h3>
+
+    <div class="grid">
+      <div>
+        <!-- bar items -->
+        <div class="baritem">
+          <div class="bar-label">Conceptual Correctness</div>
+          <div class="bar-visual" role="img" aria-label="Conceptual">
+            <div class="bar-fill" style="--val: calc({{S_CONCEPTUAL}}*10)"></div>
+          </div>
+          <div class="bar-value">{{S_CONCEPTUAL}}</div>
+        </div>
+
+        <div class="baritem">
+          <div class="bar-label">Reasoning Depth</div>
+          <div class="bar-visual">
+            <div class="bar-fill" style="--val: calc({{S_REASONING}}*10)"></div>
+          </div>
+          <div class="bar-value">{{S_REASONING}}</div>
+        </div>
+
+        <div class="baritem">
+          <div class="bar-label">Precision Grounding</div>
+          <div class="bar-visual">
+            <div class="bar-fill" style="--val: calc({{S_PRECISION}}*10)"></div>
+          </div>
+          <div class="bar-value">{{S_PRECISION}}</div>
+        </div>
+
+        <div class="baritem">
+          <div class="bar-label">Communication Clarity</div>
+          <div class="bar-visual">
+            <div class="bar-fill" style="--val: calc({{S_CLARITY}}*10)"></div>
+          </div>
+          <div class="bar-value">{{S_CLARITY}}</div>
+        </div>
+
+        <div class="baritem">
+          <div class="bar-label">Creativity / Insight</div>
+          <div class="bar-visual">
+            <div class="bar-fill" style="--val: calc({{S_CREATIVITY}}*10)"></div>
+          </div>
+          <div class="bar-value">{{S_CREATIVITY}}</div>
+        </div>
+
+        <div style="margin-top:14px" class="small-muted">
+          <strong>Trajectory:</strong> <span style="color:var(--taogreen)">{{TRAJECTORY}}</span><br/>
+          <strong>Strength:</strong> <span style="color:var(--taogreen)">{{STRENGTH}}</span><br/>
+          <strong>Risk:</strong> <span style="color:var(--taopink)">{{RISK}}</span><br/>
+          <strong>Recommendation:</strong> <span style="color:var(--taogreen)">{{RECOMMENDATION}}</span>
+        </div>
+      </div>
+
+      <div class="centered">
+        <div class="card">
+          <div style="color:var(--taowhite); font-weight:600">Competency Radar</div>
+          {% if RADAR_DATAURI %}
+          <img src="data:image/png;base64,{{ RADAR_DATAURI }}" alt="Radar" class="radar"/>
+           {% endif %}
+
+          <div class="small-muted" style="margin-top:8px">Radial view of core competencies</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="pagebreak"></div>
+
+    <div class="page">
+      <h3 class="section">CV Round Summary</h3>
+
+      <div style="margin-bottom:12px">
+        <div class="baritem">
+          <div class="bar-label">Target Alignment</div>
+          <div class="bar-visual"><div class="bar-fill" style="--val: calc({{CV_RELEVANCE}}*10)"></div></div>
+          <div class="bar-value">{{CV_RELEVANCE}}</div>
+        </div>
+
+        <div class="baritem">
+          <div class="bar-label">Impact Quantifier</div>
+          <div class="bar-visual"><div class="bar-fill" style="--val: calc({{CV_PLAUSIBILITY}}*10)"></div></div>
+          <div class="bar-value">{{CV_PLAUSIBILITY}}</div>
+        </div>
+
+        <div class="baritem">
+          <div class="bar-label">Trajectory Coherence</div>
+          <div class="bar-visual"><div class="bar-fill" style="--val: calc({{CV_CONSISTENCY}}*10)"></div></div>
+          <div class="bar-value">{{CV_CONSISTENCY}}</div>
+        </div>
+
+        <div class="baritem">
+          <div class="bar-label">Technical Resolution</div>
+          <div class="bar-visual"><div class="bar-fill" style="--val: calc({{CV_SPECIFICITY}}*10)"></div></div>
+          <div class="bar-value">{{CV_SPECIFICITY}}</div>
+        </div>
+      </div>
+
+      <div class="analytics">
+        <div style="display:flex;gap:18px;align-items:flex-start;">
+          <div style="flex:1">
+            <div style="color:var(--taowhite); font-weight:600; margin-bottom:6px;">Analytics</div>
+            <pre>Role-Fit Delta: {{ANALYTICS_FIT_DELTA}}
+CV-to-Skill Efficacy: {{ANALYTICS_RESUME_EFFICIENCY}}
+Top strengths: {{ANALYTICS_TOP}}
+Weakness hotspots: {{ANALYTICS_WEAK}}</pre>
+          </div>
+
+          <div style="width:300px">
+            <div style="color:var(--taowhite); font-weight:600; margin-bottom:6px;">Evaluator's Note</div>
+            <div style="background:rgba(255,255,255,0.02); padding:10px; border-radius:6px; color:var(--taowhite); min-height:120px">
+              {{SUMMARY_TEXT}}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top:20px" class="small-muted">
+        Generated by AIRF v2.1 — AI Interviewer System
+      </div>
+    </div>
+  </div>
+</body>
+</html>

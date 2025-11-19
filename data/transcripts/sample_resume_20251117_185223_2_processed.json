@@ -1,0 +1,169 @@
+{
+  "session_id": "sample_resume_20251117_185223_2",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251117_185223_answer_processed.wav",
+  "raw_text": "blah blah blah blah blah blah I don't know",
+  "processed_text": "Blah blah blah blah blah blah I don't know",
+  "words": [
+    {
+      "text": "blah",
+      "start": 0.0,
+      "end": 0.4,
+      "confidence": 0.3367
+    },
+    {
+      "text": "blah",
+      "start": 0.4,
+      "end": 1.02,
+      "confidence": 0.8561
+    },
+    {
+      "text": "blah",
+      "start": 1.02,
+      "end": 1.42,
+      "confidence": 0.9448
+    },
+    {
+      "text": "blah",
+      "start": 1.42,
+      "end": 1.82,
+      "confidence": 0.8322
+    },
+    {
+      "text": "blah",
+      "start": 1.82,
+      "end": 2.16,
+      "confidence": 0.7838
+    },
+    {
+      "text": "blah",
+      "start": 2.16,
+      "end": 2.3,
+      "confidence": 0.5681
+    },
+    {
+      "text": "I",
+      "start": 2.3,
+      "end": 2.68,
+      "confidence": 0.4003
+    },
+    {
+      "text": "don't",
+      "start": 2.68,
+      "end": 3.12,
+      "confidence": 0.9702
+    },
+    {
+      "text": "know",
+      "start": 3.12,
+      "end": 3.48,
+      "confidence": 0.9941
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 3.48,
+      "duration": 3.48,
+      "transcript": "Blah blah blah blah blah blah I don't know",
+      "word_count": 9,
+      "words": [
+        {
+          "text": "blah",
+          "start": 0.0,
+          "end": 0.4,
+          "confidence": 0.3367
+        },
+        {
+          "text": "blah",
+          "start": 0.4,
+          "end": 1.02,
+          "confidence": 0.8561
+        },
+        {
+          "text": "blah",
+          "start": 1.02,
+          "end": 1.42,
+          "confidence": 0.9448
+        },
+        {
+          "text": "blah",
+          "start": 1.42,
+          "end": 1.82,
+          "confidence": 0.8322
+        },
+        {
+          "text": "blah",
+          "start": 1.82,
+          "end": 2.16,
+          "confidence": 0.7838
+        },
+        {
+          "text": "blah",
+          "start": 2.16,
+          "end": 2.3,
+          "confidence": 0.5681
+        },
+        {
+          "text": "I",
+          "start": 2.3,
+          "end": 2.68,
+          "confidence": 0.4003
+        },
+        {
+          "text": "don't",
+          "start": 2.68,
+          "end": 3.12,
+          "confidence": 0.9702
+        },
+        {
+          "text": "know",
+          "start": 3.12,
+          "end": 3.48,
+          "confidence": 0.9941
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 4.59,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 4.62,
+  "model_used": "small",
+  "timestamp": "2025-11-17T18:53:30.313381",
+  "segment_count": 1,
+  "word_count": 9,
+  "utterance_count": 1
+}

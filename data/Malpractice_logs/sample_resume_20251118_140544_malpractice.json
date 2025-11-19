@@ -1,0 +1,10 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-18T08:35:51.443Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "Differentiate between L1 and L2 regularization."
+    }
+  }
+]

@@ -1,0 +1,193 @@
+{
+  "session_id": "sample_resume_20251118_131204",
+  "Name": "Anugya Anantapur",
+  "role": "AI engineer",
+  "start_time": null,
+  "end_time": "2025-11-18T13:19:23.772740",
+  "overall_score": 48.6,
+  "score_before_malpractice": 51.6,
+  "cci": {
+    "raw": 51.62,
+    "percentile_vs_role": 98.85
+  },
+  "components": {
+    "role_relevance": 10.07,
+    "canonical_component": 16.29,
+    "resume_component": 0.75,
+    "completeness": 11.35,
+    "conciseness": 11.25,
+    "fluency": 11.25
+  },
+  "subscores": {
+    "Conceptual correctness": 5.43,
+    "Reasoning depth": 4.54,
+    "Precision grounding": 3.36,
+    "Communication clarity": 7.5,
+    "Creativity / insight": 6.02
+  },
+  "trajectory": "Anugya shows potential for roles that value strong communication and creative problem-solving, though deeper technical grounding is needed for advanced AI engineering.",
+  "strength": "Anugya's top strength is clear and effective Communication clarity with a score of 7.5.",
+  "risk": "The major risk is low Precision grounding (3.36), indicating potential technical accuracy issues, coupled with a 'no_face_detected' malpractice flag.",
+  "recommendation": "Given the foundational technical gaps, a take-home assignment or targeted technical screening is recommended to assess core AI engineering skills.",
+  "Badge": null,
+  "malpractice_detected": {
+    "count": 1,
+    "types": [
+      "no_face_detected"
+    ],
+    "deduction": 3.0
+  },
+  "per_question": [
+    {
+      "question": "What is overfitting, and how can it be prevented?",
+      "answer": "Overfitting is when the training error is very less so that it becomes 0 but the model doesn't perform well on the testing data.",
+      "type": "role",
+      "canonical_matched_index": 8,
+      "canonical_answer": "Overfitting happens when a model learns noise instead of the actual pattern, performing well on training data but poorly on new data. Prevention: Regularization, dropout, more data, or cross-validation.",
+      "canonical_similarity": 0.81,
+      "canonical_score": 80.96,
+      "gemini_score": 35.0,
+      "gemini_reason": "The candidate accurately described the symptoms of overfitting but missed the underlying cause and entirely omitted prevention techniques.",
+      "combined_role_score": 57.98,
+      "q_a_similarity": 0.759,
+      "answer_length": 24,
+      "resume_eval": null
+    },
+    {
+      "question": "What is cross-validation, and why is it used?",
+      "answer": "Cross validation is just splitting the data set into few sets and ensuring and using one as a validation set and trading set so that the model model model gets trained more better and avoids generalization.",
+      "type": "role",
+      "canonical_matched_index": 23,
+      "canonical_answer": "Cross-validation splits data into training and validation sets multiple times to assess model performance more reliably, reducing overfitting and ensuring generalization to unseen data.",
+      "canonical_similarity": 0.807,
+      "canonical_score": 80.75,
+      "gemini_score": 25.0,
+      "gemini_reason": "Candidate understands basic data splitting and validation sets, but misses the iterative nature of cross-validation and incorrectly states its purpose regarding generalization.",
+      "combined_role_score": 52.88,
+      "q_a_similarity": 0.755,
+      "answer_length": 36,
+      "resume_eval": null
+    },
+    {
+      "question": "How do you evaluate the performance of an AI model?",
+      "answer": "The performance of an AI model can be evaluated using few metrics its accuracy, pressure and also F1 score depending on the requirements of the model.",
+      "type": "role",
+      "canonical_matched_index": 19,
+      "canonical_answer": "Use metrics like accuracy, precision, recall, F1-score for classification; MSE, RMSE for regression; confusion matrix for detailed error analysis; and cross-validation for robustness.",
+      "canonical_similarity": 0.525,
+      "canonical_score": 52.48,
+      "gemini_score": 30.0,
+      "gemini_reason": "The candidate identified some common classification metrics but missed key concepts for regression models, detailed error analysis, and robust evaluation methods.",
+      "combined_role_score": 41.24,
+      "q_a_similarity": 0.776,
+      "answer_length": 26,
+      "resume_eval": null
+    },
+    {
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?",
+      "answer": "Reinforcement learning takes a feedback from the human to improve the model but supervised learning trains based on the available data set with labels.",
+      "type": "role",
+      "canonical_matched_index": 30,
+      "canonical_answer": "Reinforcement learning trains agents to make sequential decisions by maximizing cumulative rewards through trial and error, while supervised learning trains models on labeled data to predict outcomes.",
+      "canonical_similarity": 0.832,
+      "canonical_score": 83.17,
+      "gemini_score": 35.0,
+      "gemini_reason": "Candidate correctly identified the use of labeled data for supervised learning but fundamentally misunderstood the core learning mechanism of reinforcement learning.",
+      "combined_role_score": 59.09,
+      "q_a_similarity": 0.727,
+      "answer_length": 24,
+      "resume_eval": null
+    },
+    {
+      "question": "How do you handle missing or corrupted data when training AI models?",
+      "answer": "I handle missing or corporate data using imputation or methods that remove the missing data and also add something accounts to that.",
+      "type": "role",
+      "canonical_matched_index": 5,
+      "canonical_answer": "Techniques include imputation (mean, median, mode), using algorithms that handle missing data, or removing affected records/features depending on the context and extent of missingness",
+      "canonical_similarity": 0.656,
+      "canonical_score": 65.55,
+      "gemini_score": 55.0,
+      "gemini_reason": "Candidate correctly identified imputation and data removal but lacked specificity, missed important nuances like context, and included a confusing phrase.",
+      "combined_role_score": 60.27,
+      "q_a_similarity": 0.474,
+      "answer_length": 22,
+      "resume_eval": null
+    },
+    {
+      "question": "What was the main goal of your Trie dictionary project?",
+      "answer": "...",
+      "type": "resume",
+      "resume_eval": {
+        "resume_score": 0.0,
+        "evidence": [],
+        "weaknesses": [
+          "No answer provided."
+        ],
+        "notes": "The candidate did not provide an answer to the question. Therefore, no evaluation of their project goal or fit for the AI engineer role can be made at this time.",
+        "raw_llm_text": "```json\n{\n  \"resume_score\": 0,\n  \"evidence\": [],\n  \"weaknesses\": [\"No answer provided.\"],\n  \"notes\": \"The candidate did not provide an answer to the question. Therefore, no evaluation of their project goal or fit for the AI engineer role can be made at this time.\"\n}\n```"
+      }
+    },
+    {
+      "question": "What was the main thing you wanted it to accomplish?",
+      "answer": "I didn't remember exactly, it was a long time ago.",
+      "type": "follow-up",
+      "resume_eval": {
+        "resume_score": 5.0,
+        "evidence": [],
+        "weaknesses": [
+          "Candidate explicitly states they don't remember project details.",
+          "Lack of preparedness to discuss past work.",
+          "Inability to articulate project goals and accomplishments."
+        ],
+        "notes": "The candidate's inability to recall details about a past project's main objective is a significant concern for an AI engineer role, where defining and achieving clear goals is paramount. This suggests a lack of engagement with previous work or insufficient preparation for the interview.",
+        "raw_llm_text": "```json\n{\n  \"resume_score\": 5,\n  \"evidence\": [],\n  \"weaknesses\": [\n    \"Candidate explicitly states they don't remember project details.\",\n    \"Lack of preparedness to discuss past work.\",\n    \"Inability to articulate project goals and accomplishments.\"\n  ],\n  \"notes\": \"The candidate's inability to recall details about a past project's main objective is a significant concern for an AI engineer role, where defining and achieving clear goals is paramount. This suggests a lack of engagement with previous work or insufficient preparation for the interview.\"\n}\n```"
+      }
+    },
+    {
+      "question": "Tell me more about your HyperLogLog Neighbor Optimizer project.",
+      "answer": "Have a log log used the hyper log log data structure and they didn't remember much about it",
+      "type": "resume",
+      "resume_eval": {
+        "resume_score": 5.0,
+        "evidence": [
+          "didn't remember much about it"
+        ],
+        "weaknesses": [
+          "No technical details about HyperLogLog or its specific application",
+          "No explanation of the 'Neighbor Optimizer' project context, goals, or outcomes",
+          "Confusing and grammatically incorrect initial statement"
+        ],
+        "notes": "The candidate explicitly stated they did not remember much about a project listed on their resume, which is a major concern. There was a complete lack of technical detail or context for the project or the HyperLogLog data structure.",
+        "raw_llm_text": "```json\n{\n  \"resume_score\": 5,\n  \"evidence\": [\"didn't remember much about it\"],\n  \"weaknesses\": [\n    \"No technical details about HyperLogLog or its specific application\",\n    \"No explanation of the 'Neighbor Optimizer' project context, goals, or outcomes\",\n    \"Confusing and grammatically incorrect initial statement\"\n  ],\n  \"notes\": \"The candidate explicitly stated they did not remember much about a project listed on their resume, which is a major concern. There was a complete lack of technical detail or context for the project or the HyperLogLog data structure.\"\n}\n```"
+      }
+    },
+    {
+      "question": "So, what was your HyperLogLog Neighbor Optimizer project about?",
+      "answer": "",
+      "type": "follow-up",
+      "resume_eval": {
+        "resume_score": 0.0,
+        "evidence": [],
+        "weaknesses": [
+          "No information provided about the project",
+          "Unable to assess technical understanding or contributions",
+          "Did not address the question"
+        ],
+        "notes": "The candidate provided no answer, making it impossible to evaluate their understanding of the HyperLogLog Neighbor Optimizer project or assess any relevant skills for an AI engineer role. This lack of response prevents any verification of resume claims.",
+        "raw_llm_text": "```json\n{\n  \"resume_score\": 0,\n  \"evidence\": [],\n  \"weaknesses\": [\n    \"No information provided about the project\",\n    \"Unable to assess technical understanding or contributions\",\n    \"Did not address the question\"\n  ],\n  \"notes\": \"The candidate provided no answer, making it impossible to evaluate their understanding of the HyperLogLog Neighbor Optimizer project or assess any relevant skills for an AI engineer role. This lack of response prevents any verification of resume claims.\"\n}\n```"
+      }
+    }
+  ],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T07:42:14.290Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What is overfitting, and how can it be prevented?"
+      }
+    }
+  ],
+  "malpractice_count": 1
+}

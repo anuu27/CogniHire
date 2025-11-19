@@ -1,0 +1,58 @@
+{
+  "text": " I will just destroy everything",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.12,
+      "text": " I will just destroy everything",
+      "tokens": [
+        50364,
+        286,
+        486,
+        445,
+        5293,
+        1203,
+        50524
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45717233419418335,
+      "compression_ratio": 0.7894736842105263,
+      "no_speech_prob": 0.0695415809750557,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.76,
+          "probability": 0.6824004054069519
+        },
+        {
+          "word": " will",
+          "start": 0.76,
+          "end": 1.0,
+          "probability": 0.9582916498184204
+        },
+        {
+          "word": " just",
+          "start": 1.0,
+          "end": 1.38,
+          "probability": 0.6517080068588257
+        },
+        {
+          "word": " destroy",
+          "start": 1.38,
+          "end": 2.2,
+          "probability": 0.8222041130065918
+        },
+        {
+          "word": " everything",
+          "start": 2.2,
+          "end": 3.12,
+          "probability": 0.957706093788147
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

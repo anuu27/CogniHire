@@ -1,0 +1,73 @@
+{
+  "text": " I can do this or that anything.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.06,
+      "text": " I can do this or that anything.",
+      "tokens": [
+        50364,
+        286,
+        393,
+        360,
+        341,
+        420,
+        300,
+        1340,
+        13,
+        50482
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41109618273648346,
+      "compression_ratio": 0.8611111111111112,
+      "no_speech_prob": 0.003840042045339942,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.12,
+          "probability": 0.8717783689498901
+        },
+        {
+          "word": " can",
+          "start": 0.12,
+          "end": 0.32,
+          "probability": 0.9937633872032166
+        },
+        {
+          "word": " do",
+          "start": 0.32,
+          "end": 0.52,
+          "probability": 0.994305431842804
+        },
+        {
+          "word": " this",
+          "start": 0.52,
+          "end": 0.86,
+          "probability": 0.9900950193405151
+        },
+        {
+          "word": " or",
+          "start": 0.86,
+          "end": 1.12,
+          "probability": 0.943251371383667
+        },
+        {
+          "word": " that",
+          "start": 1.12,
+          "end": 1.44,
+          "probability": 0.9961585402488708
+        },
+        {
+          "word": " anything.",
+          "start": 1.44,
+          "end": 2.06,
+          "probability": 0.34249046444892883
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

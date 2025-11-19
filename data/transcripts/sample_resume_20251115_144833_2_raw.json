@@ -1,0 +1,66 @@
+{
+  "text": " blah blah blah blah blah blah.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.6,
+      "text": " blah blah blah blah blah blah.",
+      "tokens": [
+        50364,
+        12288,
+        12288,
+        12288,
+        12288,
+        12288,
+        12288,
+        13,
+        50478
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.7786139965057373,
+      "compression_ratio": 1.7647058823529411,
+      "no_speech_prob": 0.5504565834999084,
+      "words": [
+        {
+          "word": " blah",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.39019373059272766
+        },
+        {
+          "word": " blah",
+          "start": 0.16,
+          "end": 0.48,
+          "probability": 0.8355066776275635
+        },
+        {
+          "word": " blah",
+          "start": 0.48,
+          "end": 0.88,
+          "probability": 0.9700974225997925
+        },
+        {
+          "word": " blah",
+          "start": 0.88,
+          "end": 1.16,
+          "probability": 0.9244277477264404
+        },
+        {
+          "word": " blah",
+          "start": 1.16,
+          "end": 1.38,
+          "probability": 0.9344826936721802
+        },
+        {
+          "word": " blah.",
+          "start": 1.38,
+          "end": 1.6,
+          "probability": 0.9278388023376465
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

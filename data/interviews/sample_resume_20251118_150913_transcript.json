@@ -1,0 +1,91 @@
+{
+  "session_id": "sample_resume_20251118_150913",
+  "role": "AI engineer",
+  "resume_file": "uploads\\sample_resume.pdf",
+  "candidate_info": {
+    "name": "Anugya Anantapur",
+    "skills": [
+      "Python",
+      "Bash",
+      "SQL",
+      "Problem Solving",
+      "Recursive Trees",
+      "Algorithms",
+      "Dynamic Programming",
+      "OpenAI API",
+      "C",
+      "NumPy",
+      "Git",
+      "Jupyter Notebook",
+      "ADT",
+      "Hypothesis library",
+      "TRIE"
+    ],
+    "projects": [
+      {
+        "title": "Trie-Based Dictionary Reimplementation (C)",
+        "description": "Rebuilt an array-based dictionary into a Trie-based data structure, preserving the abstract data type’s interface. Eliminated hardcoded size constraints and improved lookup/set speed via recursive node operations. Maintained strict memory safety and clean pointer logic throughout."
+      },
+      {
+        "title": "Interactive Bellman-Ford Path Visualizer (Python)",
+        "description": "Designed an interactive game-like simulation of the Bellman-Ford algorithm, styled as a treasure hunt. Built a fixed graph using island images for nodes and ocean paths for edges, with dynamic glowing of user-selected paths. Highlighted the optimal path and displayed a final success message to complete the animated gameplay."
+      },
+      {
+        "title": "Performance Analysis of Splay Trees (Java)",
+        "description": "Simulated splay trees under skewed query patterns to demonstrate their near-constant amortized access time. Benchmarked against naive BSTs and presented results using comparative trend plots. Conveyed empirical insights clearly without relying on formal theory."
+      },
+      {
+        "title": "HyperLogLog Neighbor Optimizer (Python)",
+        "description": "Optimized the getnearest neighbors() routine in a probabilistic HyperLogLog structure. Rewrote logic using vectorization and smarter iteration to handle large-scale queries efficiently. Preserved functional correctness while significantly improving runtime performance."
+      },
+      {
+        "title": "Ultra-Large Integer Optimization (Python + C)",
+        "description": "Rewrote performance-critical sections of a Python-based large integer processing app in C. Implemented a custom big-integer ADT, integrated via ctypes, and managed builds with Makefile. Achieved significant speedup on large-scale integer datasets."
+      }
+    ]
+  },
+  "start_time": "2025-11-18T15:09:13.936303",
+  "end_time": "2025-11-18T15:13:53.120150",
+  "interview_transcript": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": null,
+      "type": "intro"
+    },
+    {
+      "question": "How does gradient descent work, and what are its limitations?",
+      "answer": "What do you need for the bags?",
+      "type": "role"
+    },
+    {
+      "question": "Differentiate between L1 and L2 regularization.",
+      "answer": null,
+      "type": "role"
+    },
+    {
+      "question": "What is the difference between bagging and boosting in ensemble learning?",
+      "answer": null,
+      "type": "role"
+    },
+    {
+      "question": "How do you choose the right model architecture for a given AI problem?",
+      "answer": "I'm going to do it.",
+      "type": "role"
+    },
+    {
+      "question": "What is transfer learning, and when would you use it?",
+      "answer": "Je ne sais pas comment t'aider, je ne sais pas.",
+      "type": "role"
+    },
+    {
+      "question": "Why did you choose a Trie for the dictionary?",
+      "answer": "I don't think it's going to be further if it's not too much.",
+      "type": "resume"
+    },
+    {
+      "question": "Could you tell me a bit more about why you chose a Trie?",
+      "answer": null,
+      "type": "follow-up"
+    }
+  ]
+}

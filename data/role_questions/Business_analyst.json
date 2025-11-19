@@ -1,0 +1,49 @@
+{
+  "role": "Business Analyst",
+  "record_count": 226,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Explain the difference between KPIs, metrics, and business objectives. How do you ensure that chosen metrics actually reflect business success?",
+      "canonical_answer": "Business objectives define goals, KPIs track progress toward those goals, and metrics are general measurements. Metrics reflect success when they align directly with outcomes the business cares about.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What techniques do you use for requirements gathering and stakeholder management?",
+      "canonical_answer": "I use interviews, workshops, surveys, document analysis, and user stories while maintaining clear communication, prioritization, and expectation alignment with stakeholders.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you validate that the solution or recommendation you proposed actually improved business performance?",
+      "canonical_answer": "I compare baseline metrics with post-implementation results, run A/B tests if possible, gather stakeholder feedback, and track KPIs to verify measurable improvements.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain how you would analyze and visualize data to find actionable insights. What tools would you use?",
+      "canonical_answer": "I clean and explore data, identify trends, segment users, and visualize insights using tools like Excel, Power BI, Tableau, or SQL dashboards.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "If two departments disagree on which metric defines “success,” how would you resolve it?",
+      "canonical_answer": "I clarify each team’s goals, map metrics to business objectives, evaluate impact, and align them on a shared success measure or create a balanced set of KPIs.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What are some key risks in relying purely on data for business decisions, and how do you mitigate them?",
+      "canonical_answer": "Risks include biased data, incorrect assumptions, and missing context. I mitigate them by combining data with domain expertise, validating sources, and cross-checking insights.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Imagine you are analyzing a sudden drop in product sales — what steps would you take to identify the root cause?",
+      "canonical_answer": "I check data accuracy, analyze trends, segment customers, review recent changes, assess competitors, and interview teams to pinpoint where and why the drop occurred.",
+      "rubric_points": []
+    }
+  ]
+}

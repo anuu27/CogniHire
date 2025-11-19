@@ -1,0 +1,137 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.26,
+    "end": 1.96,
+    "duration": 1.7,
+    "transcript": "The example of the key method is a key method.",
+    "word_count": 10,
+    "words": [
+      {
+        "text": "The",
+        "start": 0.26,
+        "end": 0.48,
+        "confidence": 0.2747
+      },
+      {
+        "text": "example",
+        "start": 0.48,
+        "end": 0.6,
+        "confidence": 0.44
+      },
+      {
+        "text": "of",
+        "start": 0.6,
+        "end": 0.86,
+        "confidence": 0.3539
+      },
+      {
+        "text": "the",
+        "start": 0.86,
+        "end": 0.96,
+        "confidence": 0.3715
+      },
+      {
+        "text": "key",
+        "start": 0.96,
+        "end": 1.04,
+        "confidence": 0.4743
+      },
+      {
+        "text": "method",
+        "start": 1.04,
+        "end": 1.38,
+        "confidence": 0.9568
+      },
+      {
+        "text": "is",
+        "start": 1.38,
+        "end": 1.7,
+        "confidence": 0.9732
+      },
+      {
+        "text": "a",
+        "start": 1.7,
+        "end": 1.78,
+        "confidence": 0.5891
+      },
+      {
+        "text": "key",
+        "start": 1.78,
+        "end": 1.88,
+        "confidence": 0.93
+      },
+      {
+        "text": "method.",
+        "start": 1.88,
+        "end": 1.96,
+        "confidence": 0.9762
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 1.98,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.634,
+    "speech_rate_wps": 5.882,
+    "speech_rate_wpm": 352.941,
+    "articulation_rate": 5.882,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 276.543,
+    "pitch_std": 24.533,
+    "pitch_range": 100.666,
+    "pitch_variance": 601.861,
+    "voiced_frames_ratio": 0.944,
+    "rms_energy_mean": 0.053,
+    "rms_energy_std": 0.033,
+    "rms_energy_max": 0.15,
+    "rms_energy_min": 0.014,
+    "energy_dynamic_range": 0.136,
+    "zero_crossing_rate": 0.193,
+    "harmonic_noise_ratio": 0.328,
+    "spectral_centroid_mean": 2456.483,
+    "spectral_centroid_std": 741.222,
+    "mfcc_1_mean": -229.743,
+    "mfcc_2_mean": 54.773,
+    "mfcc_1_std": 56.3,
+    "spectral_rolloff": 4706.597,
+    "spectral_bandwidth": 1860.085,
+    "snr_approximation": 1.61,
+    "clipping_ratio": 0.0
+  }
+]

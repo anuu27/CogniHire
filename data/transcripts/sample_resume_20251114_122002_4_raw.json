@@ -1,0 +1,122 @@
+{
+  "text": " basically it reduces the error and will occur to me as the loss function.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.84,
+      "text": " basically it reduces the error and will occur to me as the loss function.",
+      "tokens": [
+        50364,
+        1936,
+        309,
+        18081,
+        264,
+        6713,
+        293,
+        486,
+        5160,
+        281,
+        385,
+        382,
+        264,
+        4470,
+        2445,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6668513615926107,
+      "compression_ratio": 1.0735294117647058,
+      "no_speech_prob": 0.048423610627651215,
+      "words": [
+        {
+          "word": " basically",
+          "start": 0.0,
+          "end": 1.24,
+          "probability": 0.5032563805580139
+        },
+        {
+          "word": " it",
+          "start": 1.24,
+          "end": 1.56,
+          "probability": 0.8804104328155518
+        },
+        {
+          "word": " reduces",
+          "start": 1.56,
+          "end": 1.9,
+          "probability": 0.8043755292892456
+        },
+        {
+          "word": " the",
+          "start": 1.9,
+          "end": 2.22,
+          "probability": 0.9880788922309875
+        },
+        {
+          "word": " error",
+          "start": 2.22,
+          "end": 2.56,
+          "probability": 0.7154819965362549
+        },
+        {
+          "word": " and",
+          "start": 2.56,
+          "end": 2.94,
+          "probability": 0.23356342315673828
+        },
+        {
+          "word": " will",
+          "start": 2.94,
+          "end": 3.06,
+          "probability": 0.7037672400474548
+        },
+        {
+          "word": " occur",
+          "start": 3.06,
+          "end": 3.3,
+          "probability": 0.07246522605419159
+        },
+        {
+          "word": " to",
+          "start": 3.3,
+          "end": 3.5,
+          "probability": 0.7332963347434998
+        },
+        {
+          "word": " me",
+          "start": 3.5,
+          "end": 3.56,
+          "probability": 0.6530972719192505
+        },
+        {
+          "word": " as",
+          "start": 3.56,
+          "end": 3.7,
+          "probability": 0.8683759570121765
+        },
+        {
+          "word": " the",
+          "start": 3.7,
+          "end": 3.86,
+          "probability": 0.45685118436813354
+        },
+        {
+          "word": " loss",
+          "start": 3.86,
+          "end": 4.36,
+          "probability": 0.5329272747039795
+        },
+        {
+          "word": " function.",
+          "start": 4.36,
+          "end": 4.84,
+          "probability": 0.9888416528701782
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

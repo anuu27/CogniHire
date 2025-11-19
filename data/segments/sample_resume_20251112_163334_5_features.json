@@ -1,0 +1,221 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 11.14,
+    "duration": 11.14,
+    "transcript": "Transform a architecture is transforming that architecture where the current models will occur recurrently.",
+    "word_count": 24,
+    "words": [
+      {
+        "text": "transform",
+        "start": 0.0,
+        "end": 0.52,
+        "confidence": 0.3485
+      },
+      {
+        "text": "a",
+        "start": 0.52,
+        "end": 0.82,
+        "confidence": 0.2588
+      },
+      {
+        "text": "architecture",
+        "start": 0.82,
+        "end": 1.46,
+        "confidence": 0.5772
+      },
+      {
+        "text": "is",
+        "start": 1.46,
+        "end": 2.84,
+        "confidence": 0.5653
+      },
+      {
+        "text": "basically",
+        "start": 2.84,
+        "end": 3.26,
+        "confidence": 0.7227
+      },
+      {
+        "text": "transforming",
+        "start": 3.26,
+        "end": 3.82,
+        "confidence": 0.8427
+      },
+      {
+        "text": "that",
+        "start": 3.82,
+        "end": 4.24,
+        "confidence": 0.2292
+      },
+      {
+        "text": "architecture",
+        "start": 4.24,
+        "end": 4.84,
+        "confidence": 0.3809
+      },
+      {
+        "text": "where",
+        "start": 4.84,
+        "end": 5.52,
+        "confidence": 0.5236
+      },
+      {
+        "text": "the",
+        "start": 5.52,
+        "end": 5.62,
+        "confidence": 0.8484
+      },
+      {
+        "text": "current",
+        "start": 5.62,
+        "end": 5.96,
+        "confidence": 0.9633
+      },
+      {
+        "text": "models",
+        "start": 5.96,
+        "end": 6.3,
+        "confidence": 0.9637
+      },
+      {
+        "text": "will",
+        "start": 6.3,
+        "end": 6.66,
+        "confidence": 0.9957
+      },
+      {
+        "text": "occur",
+        "start": 6.66,
+        "end": 7.28,
+        "confidence": 0.9714
+      },
+      {
+        "text": "recurrently.",
+        "start": 7.28,
+        "end": 8.36,
+        "confidence": 0.8024
+      },
+      {
+        "text": "So",
+        "start": 8.86,
+        "end": 9.02,
+        "confidence": 0.9601
+      },
+      {
+        "text": "in",
+        "start": 9.02,
+        "end": 9.24,
+        "confidence": 0.7194
+      },
+      {
+        "text": "design",
+        "start": 9.24,
+        "end": 9.52,
+        "confidence": 0.9474
+      },
+      {
+        "text": "and",
+        "start": 9.52,
+        "end": 9.9,
+        "confidence": 0.9472
+      },
+      {
+        "text": "theoretically",
+        "start": 9.9,
+        "end": 10.18,
+        "confidence": 0.1954
+      },
+      {
+        "text": "the",
+        "start": 10.18,
+        "end": 10.62,
+        "confidence": 0.4647
+      },
+      {
+        "text": "both",
+        "start": 10.62,
+        "end": 10.76,
+        "confidence": 0.8314
+      },
+      {
+        "text": "are",
+        "start": 10.76,
+        "end": 10.9,
+        "confidence": 0.9373
+      },
+      {
+        "text": "different.",
+        "start": 10.9,
+        "end": 11.14,
+        "confidence": 0.9958
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 11.16,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.708,
+    "speech_rate_wps": 2.154,
+    "speech_rate_wpm": 129.264,
+    "articulation_rate": 2.154,
+    "pause_count": 1,
+    "pause_rate": 0.043,
+    "mean_pause_duration": 0.5,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.5,
+    "speaking_time_ratio": 0.955,
+    "pitch_mean": 294.758,
+    "pitch_std": 44.007,
+    "pitch_range": 189.328,
+    "pitch_variance": 1936.658,
+    "voiced_frames_ratio": 0.779,
+    "rms_energy_mean": 0.06,
+    "rms_energy_std": 0.043,
+    "rms_energy_max": 0.197,
+    "rms_energy_min": 0.001,
+    "energy_dynamic_range": 0.196,
+    "zero_crossing_rate": 0.199,
+    "harmonic_noise_ratio": 0.342,
+    "spectral_centroid_mean": 2311.759,
+    "spectral_centroid_std": 1082.415,
+    "mfcc_1_mean": -269.086,
+    "mfcc_2_mean": 55.099,
+    "mfcc_1_std": 104.87,
+    "spectral_rolloff": 4172.121,
+    "spectral_bandwidth": 1700.197,
+    "snr_approximation": 1.401,
+    "clipping_ratio": 0.0
+  }
+]

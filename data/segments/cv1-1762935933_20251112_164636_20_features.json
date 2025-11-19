@@ -1,0 +1,131 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 3.36,
+    "duration": 3.36,
+    "transcript": "Friend is disturbing me that is what I said.",
+    "word_count": 9,
+    "words": [
+      {
+        "text": "friend",
+        "start": 0.0,
+        "end": 0.64,
+        "confidence": 0.0373
+      },
+      {
+        "text": "is",
+        "start": 0.64,
+        "end": 1.24,
+        "confidence": 0.9616
+      },
+      {
+        "text": "disturbing",
+        "start": 1.24,
+        "end": 1.68,
+        "confidence": 0.9852
+      },
+      {
+        "text": "me",
+        "start": 1.68,
+        "end": 2.32,
+        "confidence": 0.776
+      },
+      {
+        "text": "that",
+        "start": 2.32,
+        "end": 2.56,
+        "confidence": 0.5636
+      },
+      {
+        "text": "is",
+        "start": 2.56,
+        "end": 2.8,
+        "confidence": 0.9579
+      },
+      {
+        "text": "what",
+        "start": 2.8,
+        "end": 2.96,
+        "confidence": 0.9947
+      },
+      {
+        "text": "I",
+        "start": 2.96,
+        "end": 3.16,
+        "confidence": 0.7976
+      },
+      {
+        "text": "said.",
+        "start": 3.16,
+        "end": 3.36,
+        "confidence": 0.9961
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 3.39,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.786,
+    "speech_rate_wps": 2.679,
+    "speech_rate_wpm": 160.714,
+    "articulation_rate": 2.679,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 234.163,
+    "pitch_std": 32.72,
+    "pitch_range": 194.93,
+    "pitch_variance": 1070.631,
+    "voiced_frames_ratio": 0.632,
+    "rms_energy_mean": 0.088,
+    "rms_energy_std": 0.041,
+    "rms_energy_max": 0.198,
+    "rms_energy_min": 0.011,
+    "energy_dynamic_range": 0.187,
+    "zero_crossing_rate": 0.226,
+    "harmonic_noise_ratio": 0.62,
+    "spectral_centroid_mean": 2488.887,
+    "spectral_centroid_std": 1296.199,
+    "mfcc_1_mean": -209.619,
+    "mfcc_2_mean": 61.491,
+    "mfcc_1_std": 82.201,
+    "spectral_rolloff": 4418.558,
+    "spectral_bandwidth": 1803.3,
+    "snr_approximation": 2.136,
+    "clipping_ratio": 0.0
+  }
+]

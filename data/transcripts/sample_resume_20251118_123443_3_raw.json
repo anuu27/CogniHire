@@ -1,0 +1,15 @@
+{
+  "text": "gradient descent is process of optimizing loss function by minimizing it.",
+  "segments": [
+    {
+      "id": null,
+      "seek": null,
+      "start": 0.0,
+      "end": 7.26,
+      "text": " gradient descent is process of optimizing loss function by minimizing it.",
+      "words": []
+    }
+  ],
+  "language": "en",
+  "duration": 7.36
+}

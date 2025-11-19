@@ -1,0 +1,15 @@
+{
+  "session_id": "sample_resume_20251118_115623_2",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251118_115623_answer_processed.wav",
+  "raw_text": "Classification problems, class festings, regression problems, gives a continuous  something, something, something, much better.  Bye bye.",
+  "processed_text": "Classification problems, class festings, regression problems, gives a continuous something, something, something, much better.",
+  "words": [],
+  "utterances": [],
+  "language": "en",
+  "duration": 8.77,
+  "model_used": "small",
+  "timestamp": "2025-11-18T11:59:55.600616",
+  "segment_count": 0,
+  "word_count": 0,
+  "utterance_count": 0
+}

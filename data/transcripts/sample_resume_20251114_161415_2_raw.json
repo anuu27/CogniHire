@@ -1,0 +1,38 @@
+{
+  "text": " not sure.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.54,
+      "text": " not sure.",
+      "tokens": [
+        50364,
+        406,
+        988,
+        13,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8252795537312826,
+      "compression_ratio": 0.5294117647058824,
+      "no_speech_prob": 0.06600876152515411,
+      "words": [
+        {
+          "word": " not",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.2755489647388458
+        },
+        {
+          "word": " sure.",
+          "start": 0.36,
+          "end": 0.54,
+          "probability": 0.8575206398963928
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

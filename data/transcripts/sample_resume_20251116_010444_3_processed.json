@@ -1,0 +1,295 @@
+{
+  "session_id": "sample_resume_20251116_010444_3",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251116_010444_answer_processed.wav",
+  "raw_text": "I'll do the bias variance tradeoff would be generally the tradeoff between the bias and variance which is this that",
+  "processed_text": "I'll do the bias variance tradeoff would be generally the tradeoff between the bias and variance which is this that",
+  "words": [
+    {
+      "text": "I'll",
+      "start": 0.0,
+      "end": 0.98,
+      "confidence": 0.2993
+    },
+    {
+      "text": "do",
+      "start": 0.98,
+      "end": 1.22,
+      "confidence": 0.9795
+    },
+    {
+      "text": "the",
+      "start": 1.22,
+      "end": 1.66,
+      "confidence": 0.8657
+    },
+    {
+      "text": "bias",
+      "start": 1.66,
+      "end": 2.0,
+      "confidence": 0.8789
+    },
+    {
+      "text": "variance",
+      "start": 2.0,
+      "end": 2.58,
+      "confidence": 0.7776
+    },
+    {
+      "text": "tradeoff",
+      "start": 2.58,
+      "end": 3.1,
+      "confidence": 0.7699
+    },
+    {
+      "text": "would",
+      "start": 3.1,
+      "end": 3.28,
+      "confidence": 0.7699
+    },
+    {
+      "text": "be",
+      "start": 3.28,
+      "end": 3.44,
+      "confidence": 0.9951
+    },
+    {
+      "text": "generally",
+      "start": 3.44,
+      "end": 3.86,
+      "confidence": 0.9381
+    },
+    {
+      "text": "the",
+      "start": 3.86,
+      "end": 4.72,
+      "confidence": 0.4706
+    },
+    {
+      "text": "tradeoff",
+      "start": 4.72,
+      "end": 5.4,
+      "confidence": 0.9714
+    },
+    {
+      "text": "between",
+      "start": 5.4,
+      "end": 5.68,
+      "confidence": 0.9973
+    },
+    {
+      "text": "the",
+      "start": 5.68,
+      "end": 5.84,
+      "confidence": 0.9922
+    },
+    {
+      "text": "bias",
+      "start": 5.84,
+      "end": 6.12,
+      "confidence": 0.961
+    },
+    {
+      "text": "and",
+      "start": 6.12,
+      "end": 6.32,
+      "confidence": 0.9748
+    },
+    {
+      "text": "variance",
+      "start": 6.32,
+      "end": 6.74,
+      "confidence": 0.9496
+    },
+    {
+      "text": "which",
+      "start": 6.74,
+      "end": 7.14,
+      "confidence": 0.6181
+    },
+    {
+      "text": "is",
+      "start": 7.14,
+      "end": 7.44,
+      "confidence": 0.9614
+    },
+    {
+      "text": "this",
+      "start": 7.44,
+      "end": 8.08,
+      "confidence": 0.7079
+    },
+    {
+      "text": "that",
+      "start": 8.08,
+      "end": 8.36,
+      "confidence": 0.2562
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.98,
+      "end": 8.36,
+      "duration": 7.38,
+      "transcript": "Do the bias variance tradeoff would be generally the tradeoff between the bias and variance which is this that",
+      "word_count": 19,
+      "words": [
+        {
+          "text": "do",
+          "start": 0.98,
+          "end": 1.22,
+          "confidence": 0.9795
+        },
+        {
+          "text": "the",
+          "start": 1.22,
+          "end": 1.66,
+          "confidence": 0.8657
+        },
+        {
+          "text": "bias",
+          "start": 1.66,
+          "end": 2.0,
+          "confidence": 0.8789
+        },
+        {
+          "text": "variance",
+          "start": 2.0,
+          "end": 2.58,
+          "confidence": 0.7776
+        },
+        {
+          "text": "tradeoff",
+          "start": 2.58,
+          "end": 3.1,
+          "confidence": 0.7699
+        },
+        {
+          "text": "would",
+          "start": 3.1,
+          "end": 3.28,
+          "confidence": 0.7699
+        },
+        {
+          "text": "be",
+          "start": 3.28,
+          "end": 3.44,
+          "confidence": 0.9951
+        },
+        {
+          "text": "generally",
+          "start": 3.44,
+          "end": 3.86,
+          "confidence": 0.9381
+        },
+        {
+          "text": "the",
+          "start": 3.86,
+          "end": 4.72,
+          "confidence": 0.4706
+        },
+        {
+          "text": "tradeoff",
+          "start": 4.72,
+          "end": 5.4,
+          "confidence": 0.9714
+        },
+        {
+          "text": "between",
+          "start": 5.4,
+          "end": 5.68,
+          "confidence": 0.9973
+        },
+        {
+          "text": "the",
+          "start": 5.68,
+          "end": 5.84,
+          "confidence": 0.9922
+        },
+        {
+          "text": "bias",
+          "start": 5.84,
+          "end": 6.12,
+          "confidence": 0.961
+        },
+        {
+          "text": "and",
+          "start": 6.12,
+          "end": 6.32,
+          "confidence": 0.9748
+        },
+        {
+          "text": "variance",
+          "start": 6.32,
+          "end": 6.74,
+          "confidence": 0.9496
+        },
+        {
+          "text": "which",
+          "start": 6.74,
+          "end": 7.14,
+          "confidence": 0.6181
+        },
+        {
+          "text": "is",
+          "start": 7.14,
+          "end": 7.44,
+          "confidence": 0.9614
+        },
+        {
+          "text": "this",
+          "start": 7.44,
+          "end": 8.08,
+          "confidence": 0.7079
+        },
+        {
+          "text": "that",
+          "start": 8.08,
+          "end": 8.36,
+          "confidence": 0.2562
+        }
+      ],
+      "vad_segment_start": 0.03,
+      "vad_segment_end": 8.37,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 8.38,
+  "model_used": "small",
+  "timestamp": "2025-11-16T01:06:32.042703",
+  "segment_count": 1,
+  "word_count": 20,
+  "utterance_count": 1
+}

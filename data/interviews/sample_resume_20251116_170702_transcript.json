@@ -1,0 +1,46 @@
+{
+  "session_id": "sample_resume_20251116_170702",
+  "role": "ai engineer",
+  "resume_file": "uploads\\sample_resume.pdf",
+  "candidate_info": {
+    "name": "Anugya Anantapur",
+    "skills": [
+      "Python",
+      "Bash",
+      "SQL",
+      "Problem Solving",
+      "Recursive Trees",
+      "Algorithms",
+      "Dynamic Programming",
+      "OpenAI API",
+      "C",
+      "NumPy",
+      "Git",
+      "Jupyter Notebook",
+      "ADT",
+      "Hypothesis library",
+      "TRIE"
+    ],
+    "projects": [
+      "Trie-Based Dictionary Reimplementation (C)",
+      "Interactive Bellman-Ford Path Visualizer (Python)",
+      "Performance Analysis of Splay Trees (Java)",
+      "HyperLogLog Neighbor Optimizer (Python)",
+      "Ultra-Large Integer Optimization (Python + C)"
+    ]
+  },
+  "start_time": "2025-11-16T17:07:02.523336",
+  "end_time": "2025-11-16T17:07:19.997690",
+  "interview_transcript": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": null,
+      "type": "intro"
+    },
+    {
+      "question": "What is supervised and unsupervised learning?",
+      "answer": null,
+      "type": "role"
+    }
+  ]
+}

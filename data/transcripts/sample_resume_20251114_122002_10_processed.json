@@ -1,0 +1,22 @@
+{
+  "session_id": "sample_resume_20251114_122002_10",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_122002_answer_processed.wav",
+  "raw_text": "Now...",
+  "processed_text": "Now...",
+  "words": [
+    {
+      "text": "Now...",
+      "start": 0.0,
+      "end": 0.62,
+      "confidence": 0.3791
+    }
+  ],
+  "utterances": [],
+  "language": "en",
+  "duration": 0.64,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T12:23:06.772570",
+  "segment_count": 0,
+  "word_count": 1,
+  "utterance_count": 0
+}

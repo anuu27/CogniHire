@@ -1,0 +1,15 @@
+{
+  "session_id": "sample_resume_20251114_122002_13",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_122002_answer_processed.wav",
+  "raw_text": "",
+  "processed_text": "",
+  "words": [],
+  "utterances": [],
+  "language": "en",
+  "duration": 1.14,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T12:23:56.076561",
+  "segment_count": 0,
+  "word_count": 0,
+  "utterance_count": 0
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-18T07:42:14.290Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "What is overfitting, and how can it be prevented?"
+    }
+  }
+]

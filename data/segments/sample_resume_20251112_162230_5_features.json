@@ -1,0 +1,149 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.32,
+    "end": 6.26,
+    "duration": 5.94,
+    "transcript": "Transformer architecture definitely fundamentally from the current models because it's what happens.",
+    "word_count": 12,
+    "words": [
+      {
+        "text": "transformer",
+        "start": 0.32,
+        "end": 0.82,
+        "confidence": 0.8184
+      },
+      {
+        "text": "architecture",
+        "start": 0.82,
+        "end": 1.52,
+        "confidence": 0.8057
+      },
+      {
+        "text": "definitely",
+        "start": 1.52,
+        "end": 2.0,
+        "confidence": 0.1154
+      },
+      {
+        "text": "fundamentally",
+        "start": 2.0,
+        "end": 2.56,
+        "confidence": 0.2882
+      },
+      {
+        "text": "from",
+        "start": 2.56,
+        "end": 3.0,
+        "confidence": 0.2825
+      },
+      {
+        "text": "the",
+        "start": 3.0,
+        "end": 3.14,
+        "confidence": 0.1372
+      },
+      {
+        "text": "current",
+        "start": 3.14,
+        "end": 3.38,
+        "confidence": 0.5154
+      },
+      {
+        "text": "models",
+        "start": 3.38,
+        "end": 3.7,
+        "confidence": 0.878
+      },
+      {
+        "text": "because",
+        "start": 3.7,
+        "end": 4.3,
+        "confidence": 0.5975
+      },
+      {
+        "text": "it's",
+        "start": 4.3,
+        "end": 5.62,
+        "confidence": 0.843
+      },
+      {
+        "text": "what",
+        "start": 5.62,
+        "end": 5.8,
+        "confidence": 0.9717
+      },
+      {
+        "text": "happens.",
+        "start": 5.8,
+        "end": 6.26,
+        "confidence": 0.9925
+      }
+    ],
+    "vad_segment_start": 0.06,
+    "vad_segment_end": 6.42,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.604,
+    "speech_rate_wps": 2.02,
+    "speech_rate_wpm": 121.212,
+    "articulation_rate": 2.02,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 262.787,
+    "pitch_std": 31.18,
+    "pitch_range": 117.067,
+    "pitch_variance": 972.212,
+    "voiced_frames_ratio": 0.656,
+    "rms_energy_mean": 0.066,
+    "rms_energy_std": 0.045,
+    "rms_energy_max": 0.258,
+    "rms_energy_min": 0.002,
+    "energy_dynamic_range": 0.256,
+    "zero_crossing_rate": 0.287,
+    "harmonic_noise_ratio": 0.243,
+    "spectral_centroid_mean": 2856.152,
+    "spectral_centroid_std": 1613.958,
+    "mfcc_1_mean": -230.168,
+    "mfcc_2_mean": 42.023,
+    "mfcc_1_std": 86.166,
+    "spectral_rolloff": 4739.415,
+    "spectral_bandwidth": 1738.848,
+    "snr_approximation": 1.458,
+    "clipping_ratio": 0.0
+  }
+]

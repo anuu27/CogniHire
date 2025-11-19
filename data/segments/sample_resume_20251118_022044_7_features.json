@@ -1,0 +1,179 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.68,
+    "end": 7.88,
+    "duration": 7.2,
+    "transcript": "So, main goal of implementing the strategy is to have people there, people there, people there.",
+    "word_count": 17,
+    "words": [
+      {
+        "text": "So,",
+        "start": 0.68,
+        "end": 1.32,
+        "confidence": 0.1797
+      },
+      {
+        "text": "main",
+        "start": 2.08,
+        "end": 2.6,
+        "confidence": 0.6366
+      },
+      {
+        "text": "goal",
+        "start": 2.6,
+        "end": 2.96,
+        "confidence": 0.9969
+      },
+      {
+        "text": "of",
+        "start": 2.96,
+        "end": 3.18,
+        "confidence": 0.992
+      },
+      {
+        "text": "implementing",
+        "start": 3.18,
+        "end": 3.6,
+        "confidence": 0.6953
+      },
+      {
+        "text": "the",
+        "start": 3.6,
+        "end": 4.36,
+        "confidence": 0.1903
+      },
+      {
+        "text": "strategy",
+        "start": 4.36,
+        "end": 4.86,
+        "confidence": 0.0533
+      },
+      {
+        "text": "is",
+        "start": 4.86,
+        "end": 5.04,
+        "confidence": 0.5814
+      },
+      {
+        "text": "to",
+        "start": 5.04,
+        "end": 5.18,
+        "confidence": 0.2823
+      },
+      {
+        "text": "have",
+        "start": 5.18,
+        "end": 5.34,
+        "confidence": 0.2034
+      },
+      {
+        "text": "people",
+        "start": 5.34,
+        "end": 5.66,
+        "confidence": 0.1654
+      },
+      {
+        "text": "there,",
+        "start": 5.66,
+        "end": 5.82,
+        "confidence": 0.5344
+      },
+      {
+        "text": "people",
+        "start": 5.94,
+        "end": 6.12,
+        "confidence": 0.5428
+      },
+      {
+        "text": "there,",
+        "start": 6.12,
+        "end": 6.44,
+        "confidence": 0.9272
+      },
+      {
+        "text": "people",
+        "start": 6.54,
+        "end": 6.76,
+        "confidence": 0.7256
+      },
+      {
+        "text": "there.",
+        "start": 6.76,
+        "end": 7.5,
+        "confidence": 0.5847
+      },
+      {
+        "text": "Nihal.",
+        "start": 7.5,
+        "end": 7.88,
+        "confidence": 0.6718
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 7.95,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.527,
+    "speech_rate_wps": 2.361,
+    "speech_rate_wpm": 141.667,
+    "articulation_rate": 2.361,
+    "pause_count": 2,
+    "pause_rate": 0.125,
+    "mean_pause_duration": 0.44,
+    "std_pause_duration": 0.32,
+    "total_pause_time": 0.88,
+    "speaking_time_ratio": 0.878,
+    "pitch_mean": 225.415,
+    "pitch_std": 30.423,
+    "pitch_range": 186.39,
+    "pitch_variance": 925.54,
+    "voiced_frames_ratio": 0.779,
+    "rms_energy_mean": 0.049,
+    "rms_energy_std": 0.048,
+    "rms_energy_max": 0.208,
+    "rms_energy_min": 0.001,
+    "energy_dynamic_range": 0.207,
+    "zero_crossing_rate": 0.12,
+    "harmonic_noise_ratio": 1.013,
+    "spectral_centroid_mean": 1717.227,
+    "spectral_centroid_std": 805.218,
+    "mfcc_1_mean": -324.032,
+    "mfcc_2_mean": 78.215,
+    "mfcc_1_std": 108.645,
+    "spectral_rolloff": 3454.75,
+    "spectral_bandwidth": 1729.024,
+    "snr_approximation": 1.035,
+    "clipping_ratio": 0.0
+  }
+]

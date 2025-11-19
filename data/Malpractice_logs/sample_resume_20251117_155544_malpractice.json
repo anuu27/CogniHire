@@ -1,0 +1,154 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:26:05.531Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:26:07.522Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:26:08.431Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:26:09.548Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T10:26:47.537Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:26:49.530Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:26:50.233Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:26:51.528Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:26:53.546Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:26:55.536Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:26:57.526Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T10:26:59.537Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:27:01.532Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:27:03.427Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:27:03.520Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:27:05.522Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:27:07.524Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:27:09.537Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:27:23.528Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+  }
+]

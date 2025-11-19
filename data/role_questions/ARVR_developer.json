@@ -1,0 +1,49 @@
+{
+  "role": "AR/VR Developer",
+  "record_count": 237,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Explain the core difference between Augmented Reality and Virtual Reality — in terms of hardware, software pipelines, and user experience.",
+      "canonical_answer": "AR overlays digital content on the real world using cameras and sensor fusion, while VR fully replaces the environment using head-mounted displays and real-time 3D rendering. AR blends with reality; VR immerses the user completely.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Walk me through how the AR rendering pipeline works — from camera input to final composited frame.",
+      "canonical_answer": "Camera frames are captured, processed for tracking, virtual content is rendered using the estimated pose, and the system composites the rendered objects on top of the camera feed in real time.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How does spatial tracking (SLAM / 6-DoF tracking) work? Why is it critical for immersive experiences?",
+      "canonical_answer": "SLAM fuses visual and inertial data to estimate position and map the environment. It provides stable 6-DoF tracking, which is essential for aligning virtual objects with the real or virtual world.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What performance challenges are unique to AR/VR development, and how do you optimize for them?",
+      "canonical_answer": "AR/VR requires low latency, high frame rates, and efficient rendering. Optimization involves foveated rendering, level-of-detail, GPU tuning, and minimizing motion-to-photon delay.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you ensure user comfort in VR — avoiding motion sickness and disorientation?",
+      "canonical_answer": "Maintain high frame rates, low latency, stable tracking, consistent motion cues, and provide locomotion techniques like teleportation to reduce sensory conflict.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain how anchors and plane detection work in AR — and how you would maintain stability of virtual objects as the user moves.",
+      "canonical_answer": "Plane detection identifies flat surfaces using feature points, and anchors lock virtual objects to tracked world positions. Continuous SLAM updates keep objects stable as the environment is mapped.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "If you were to design a multiplayer or collaborative AR experience, how would you handle synchronization and networking?",
+      "canonical_answer": "Use shared coordinate systems, cloud anchors, and real-time networking to sync object states, poses, and interactions across devices with low latency.",
+      "rubric_points": []
+    }
+  ]
+}

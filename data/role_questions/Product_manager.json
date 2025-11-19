@@ -1,0 +1,49 @@
+{
+  "role": "Product Manager",
+  "record_count": 458,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "How do you decide what to build next?",
+      "canonical_answer": "I prioritize based on user needs, business impact, data insights, technical feasibility, and alignment with product strategy.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Tell me about a product you managed — what was your role and impact?",
+      "canonical_answer": "I led research, roadmap planning, and cross-team coordination, delivering features that improved user experience and key metrics.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you define success for a product?",
+      "canonical_answer": "Success is defined by measurable outcomes—user growth, engagement, retention, revenue impact, and customer satisfaction.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe a time you disagreed with an engineer or designer. How did you handle it?",
+      "canonical_answer": "I discussed the rationale, listened to their perspective, used data to guide decisions, and aligned on the best solution for users.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you gather customer feedback?",
+      "canonical_answer": "I use interviews, surveys, analytics, usability testing, and support tickets to understand user needs and pain points.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What’s your approach to writing a Product Requirement Document (PRD)?",
+      "canonical_answer": "I define the problem, goals, user stories, scope, success metrics, constraints, and detailed requirements with clarity.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Imagine user engagement has dropped by 20% — what do you do?",
+      "canonical_answer": "I analyze data, review funnels, gather user feedback, identify friction points, and test targeted improvements to restore engagement.",
+      "rubric_points": []
+    }
+  ]
+}

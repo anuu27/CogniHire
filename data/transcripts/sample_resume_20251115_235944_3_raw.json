@@ -1,0 +1,146 @@
+{
+  "text": " bias variance trade-off is a difference between the original trade-off and the current trade-off.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 9.48,
+      "text": " bias variance trade-off is a difference between the original trade-off and the current trade-off.",
+      "tokens": [
+        50364,
+        12577,
+        21977,
+        4923,
+        12,
+        4506,
+        307,
+        257,
+        2649,
+        1296,
+        264,
+        3380,
+        4923,
+        12,
+        4506,
+        293,
+        264,
+        2190,
+        4923,
+        12,
+        4506,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2832643191019694,
+      "compression_ratio": 1.3108108108108107,
+      "no_speech_prob": 0.010837841778993607,
+      "words": [
+        {
+          "word": " bias",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.5959650278091431
+        },
+        {
+          "word": " variance",
+          "start": 0.44,
+          "end": 0.88,
+          "probability": 0.9291844964027405
+        },
+        {
+          "word": " trade",
+          "start": 0.88,
+          "end": 1.18,
+          "probability": 0.9897079467773438
+        },
+        {
+          "word": "-off",
+          "start": 1.18,
+          "end": 1.46,
+          "probability": 0.6759108155965805
+        },
+        {
+          "word": " is",
+          "start": 1.46,
+          "end": 2.16,
+          "probability": 0.8202386498451233
+        },
+        {
+          "word": " a",
+          "start": 2.16,
+          "end": 2.3,
+          "probability": 0.4905591309070587
+        },
+        {
+          "word": " difference",
+          "start": 2.3,
+          "end": 2.7,
+          "probability": 0.9941533207893372
+        },
+        {
+          "word": " between",
+          "start": 2.7,
+          "end": 3.44,
+          "probability": 0.9968743324279785
+        },
+        {
+          "word": " the",
+          "start": 3.44,
+          "end": 4.08,
+          "probability": 0.9916805624961853
+        },
+        {
+          "word": " original",
+          "start": 4.08,
+          "end": 4.62,
+          "probability": 0.9759830236434937
+        },
+        {
+          "word": " trade",
+          "start": 4.62,
+          "end": 6.16,
+          "probability": 0.9556263089179993
+        },
+        {
+          "word": "-off",
+          "start": 6.16,
+          "end": 6.48,
+          "probability": 0.953706294298172
+        },
+        {
+          "word": " and",
+          "start": 6.48,
+          "end": 7.1,
+          "probability": 0.9843377470970154
+        },
+        {
+          "word": " the",
+          "start": 7.1,
+          "end": 7.46,
+          "probability": 0.9641872048377991
+        },
+        {
+          "word": " current",
+          "start": 7.46,
+          "end": 8.98,
+          "probability": 0.9925422668457031
+        },
+        {
+          "word": " trade",
+          "start": 8.98,
+          "end": 9.3,
+          "probability": 0.9966410398483276
+        },
+        {
+          "word": "-off.",
+          "start": 9.3,
+          "end": 9.48,
+          "probability": 0.980722963809967
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

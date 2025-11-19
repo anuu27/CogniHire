@@ -1,0 +1,149 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 4.9,
+    "duration": 4.9,
+    "transcript": "Gone for dixon every three hour out a dog man.",
+    "word_count": 12,
+    "words": [
+      {
+        "text": "Gone",
+        "start": 0.0,
+        "end": 1.0,
+        "confidence": 0.0002
+      },
+      {
+        "text": "for",
+        "start": 1.0,
+        "end": 1.28,
+        "confidence": 0.8716
+      },
+      {
+        "text": "dixon",
+        "start": 1.28,
+        "end": 1.78,
+        "confidence": 0.1579
+      },
+      {
+        "text": "every",
+        "start": 1.78,
+        "end": 1.96,
+        "confidence": 0.1138
+      },
+      {
+        "text": "three",
+        "start": 1.96,
+        "end": 2.3,
+        "confidence": 0.0821
+      },
+      {
+        "text": "hour",
+        "start": 2.3,
+        "end": 2.58,
+        "confidence": 0.4063
+      },
+      {
+        "text": "out",
+        "start": 2.58,
+        "end": 2.9,
+        "confidence": 0.0006
+      },
+      {
+        "text": "a",
+        "start": 2.9,
+        "end": 2.96,
+        "confidence": 0.0099
+      },
+      {
+        "text": "dog",
+        "start": 2.96,
+        "end": 3.18,
+        "confidence": 0.0094
+      },
+      {
+        "text": "man.",
+        "start": 3.18,
+        "end": 3.74,
+        "confidence": 0.0017
+      },
+      {
+        "text": "Coincident",
+        "start": 4.06,
+        "end": 4.62,
+        "confidence": 0.0803
+      },
+      {
+        "text": "and.",
+        "start": 4.62,
+        "end": 4.9,
+        "confidence": 0.2535
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 6.15,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.166,
+    "speech_rate_wps": 2.449,
+    "speech_rate_wpm": 146.939,
+    "articulation_rate": 2.449,
+    "pause_count": 1,
+    "pause_rate": 0.091,
+    "mean_pause_duration": 0.32,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.32,
+    "speaking_time_ratio": 0.935,
+    "pitch_mean": 207.158,
+    "pitch_std": 31.575,
+    "pitch_range": 106.035,
+    "pitch_variance": 997.0,
+    "voiced_frames_ratio": 0.857,
+    "rms_energy_mean": 0.082,
+    "rms_energy_std": 0.055,
+    "rms_energy_max": 0.245,
+    "rms_energy_min": 0.001,
+    "energy_dynamic_range": 0.243,
+    "zero_crossing_rate": 0.09,
+    "harmonic_noise_ratio": 1.478,
+    "spectral_centroid_mean": 1310.333,
+    "spectral_centroid_std": 819.832,
+    "mfcc_1_mean": -280.99,
+    "mfcc_2_mean": 101.906,
+    "mfcc_1_std": 93.95,
+    "spectral_rolloff": 2403.206,
+    "spectral_bandwidth": 1446.471,
+    "snr_approximation": 1.487,
+    "clipping_ratio": 0.0
+  }
+]

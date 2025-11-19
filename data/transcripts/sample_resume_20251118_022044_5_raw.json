@@ -1,0 +1,94 @@
+{
+  "text": " Multiplayer synchronization. Yeah, I have no idea.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.1,
+      "text": " Multiplayer synchronization.",
+      "tokens": [
+        50364,
+        29238,
+        19125,
+        19331,
+        2144,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7385297102086684,
+      "compression_ratio": 0.8620689655172413,
+      "no_speech_prob": 0.3511187434196472,
+      "words": [
+        {
+          "word": " Multiplayer",
+          "start": 0.0,
+          "end": 2.22,
+          "probability": 0.41621045023202896
+        },
+        {
+          "word": " synchronization.",
+          "start": 2.22,
+          "end": 3.1,
+          "probability": 0.834825187921524
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.82,
+      "end": 8.04,
+      "text": " Yeah, I have no idea.",
+      "tokens": [
+        50614,
+        865,
+        11,
+        286,
+        362,
+        572,
+        1558,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7385297102086684,
+      "compression_ratio": 0.8620689655172413,
+      "no_speech_prob": 0.3511187434196472,
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 4.82,
+          "end": 5.94,
+          "probability": 0.2514295279979706
+        },
+        {
+          "word": " I",
+          "start": 7.16,
+          "end": 7.44,
+          "probability": 0.9553170800209045
+        },
+        {
+          "word": " have",
+          "start": 7.44,
+          "end": 7.6,
+          "probability": 0.9795204401016235
+        },
+        {
+          "word": " no",
+          "start": 7.6,
+          "end": 7.76,
+          "probability": 0.9937684535980225
+        },
+        {
+          "word": " idea.",
+          "start": 7.76,
+          "end": 8.04,
+          "probability": 0.9883193969726562
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

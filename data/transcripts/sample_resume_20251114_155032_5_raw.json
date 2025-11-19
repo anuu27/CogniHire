@@ -1,0 +1,123 @@
+{
+  "text": " it is a process that is input by splitting them into tokens called tokenization.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.12,
+      "text": " it is a process that is input by splitting them into tokens called tokenization.",
+      "tokens": [
+        50364,
+        309,
+        307,
+        257,
+        1399,
+        300,
+        307,
+        4846,
+        538,
+        30348,
+        552,
+        666,
+        22667,
+        1219,
+        14862,
+        2144,
+        13,
+        50680
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5493809047498202,
+      "compression_ratio": 1.1111111111111112,
+      "no_speech_prob": 0.02017202228307724,
+      "words": [
+        {
+          "word": " it",
+          "start": 0.0,
+          "end": 0.28,
+          "probability": 0.3777511715888977
+        },
+        {
+          "word": " is",
+          "start": 0.28,
+          "end": 0.46,
+          "probability": 0.3369506001472473
+        },
+        {
+          "word": " a",
+          "start": 0.46,
+          "end": 0.7,
+          "probability": 0.36320099234580994
+        },
+        {
+          "word": " process",
+          "start": 0.7,
+          "end": 1.38,
+          "probability": 0.8863279223442078
+        },
+        {
+          "word": " that",
+          "start": 1.38,
+          "end": 1.82,
+          "probability": 0.14012227952480316
+        },
+        {
+          "word": " is",
+          "start": 1.82,
+          "end": 1.86,
+          "probability": 0.8253735899925232
+        },
+        {
+          "word": " input",
+          "start": 1.86,
+          "end": 2.1,
+          "probability": 0.652347981929779
+        },
+        {
+          "word": " by",
+          "start": 2.1,
+          "end": 2.84,
+          "probability": 0.9313194155693054
+        },
+        {
+          "word": " splitting",
+          "start": 2.84,
+          "end": 3.38,
+          "probability": 0.926739513874054
+        },
+        {
+          "word": " them",
+          "start": 3.38,
+          "end": 3.74,
+          "probability": 0.9364166855812073
+        },
+        {
+          "word": " into",
+          "start": 3.74,
+          "end": 4.0,
+          "probability": 0.9461123943328857
+        },
+        {
+          "word": " tokens",
+          "start": 4.0,
+          "end": 4.66,
+          "probability": 0.9627563953399658
+        },
+        {
+          "word": " called",
+          "start": 4.66,
+          "end": 5.38,
+          "probability": 0.561185359954834
+        },
+        {
+          "word": " tokenization.",
+          "start": 5.38,
+          "end": 6.12,
+          "probability": 0.9237703084945679
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

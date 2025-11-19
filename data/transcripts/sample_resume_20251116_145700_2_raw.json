@@ -1,0 +1,44 @@
+{
+  "text": " now recording recording",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.84,
+      "text": " now recording recording",
+      "tokens": [
+        50364,
+        586,
+        6613,
+        6613,
+        50601
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.7801717122395835,
+      "compression_ratio": 1.0454545454545454,
+      "no_speech_prob": 0.08848588913679123,
+      "words": [
+        {
+          "word": " now",
+          "start": 0.0,
+          "end": 0.14,
+          "probability": 0.008509274572134018
+        },
+        {
+          "word": " recording",
+          "start": 0.14,
+          "end": 0.56,
+          "probability": 0.07614096999168396
+        },
+        {
+          "word": " recording",
+          "start": 0.56,
+          "end": 2.84,
+          "probability": 0.5559728145599365
+        }
+      ]
+    }
+  ],
+  "language": "ml"
+}

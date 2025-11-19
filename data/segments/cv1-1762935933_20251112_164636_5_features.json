@@ -1,0 +1,125 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 3.54,
+    "duration": 3.54,
+    "transcript": "No contribution. I did nothing.",
+    "word_count": 8,
+    "words": [
+      {
+        "text": "No",
+        "start": 0.0,
+        "end": 0.48,
+        "confidence": 0.6102
+      },
+      {
+        "text": "contribution.",
+        "start": 0.48,
+        "end": 1.16,
+        "confidence": 0.8803
+      },
+      {
+        "text": "I",
+        "start": 1.6,
+        "end": 1.66,
+        "confidence": 0.8994
+      },
+      {
+        "text": "did",
+        "start": 1.66,
+        "end": 1.92,
+        "confidence": 0.9684
+      },
+      {
+        "text": "nothing.",
+        "start": 1.92,
+        "end": 2.44,
+        "confidence": 0.9772
+      },
+      {
+        "text": "No",
+        "start": 2.84,
+        "end": 3.16,
+        "confidence": 0.5539
+      },
+      {
+        "text": "full",
+        "start": 3.16,
+        "end": 3.32,
+        "confidence": 0.1401
+      },
+      {
+        "text": "Jupiter.",
+        "start": 3.32,
+        "end": 3.54,
+        "confidence": 0.069
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 3.87,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.637,
+    "speech_rate_wps": 2.26,
+    "speech_rate_wpm": 135.593,
+    "articulation_rate": 2.26,
+    "pause_count": 2,
+    "pause_rate": 0.286,
+    "mean_pause_duration": 0.42,
+    "std_pause_duration": 0.02,
+    "total_pause_time": 0.84,
+    "speaking_time_ratio": 0.763,
+    "pitch_mean": 332.153,
+    "pitch_std": 45.161,
+    "pitch_range": 162.159,
+    "pitch_variance": 2039.505,
+    "voiced_frames_ratio": 0.739,
+    "rms_energy_mean": 0.069,
+    "rms_energy_std": 0.056,
+    "rms_energy_max": 0.238,
+    "rms_energy_min": 0.001,
+    "energy_dynamic_range": 0.237,
+    "zero_crossing_rate": 0.129,
+    "harmonic_noise_ratio": 0.445,
+    "spectral_centroid_mean": 1746.984,
+    "spectral_centroid_std": 481.864,
+    "mfcc_1_mean": -262.809,
+    "mfcc_2_mean": 71.185,
+    "mfcc_1_std": 109.593,
+    "spectral_rolloff": 3305.251,
+    "spectral_bandwidth": 1508.038,
+    "snr_approximation": 1.234,
+    "clipping_ratio": 0.0
+  }
+]

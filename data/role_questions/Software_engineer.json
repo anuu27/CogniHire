@@ -1,0 +1,49 @@
+{
+  "role": "Software Engineer",
+  "record_count": 480,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Can you describe a software project you worked on from start to finish? What was your role and key contribution?",
+      "canonical_answer": "I helped design the architecture, implemented core features, wrote tests, reviewed code, and supported deployment to ensure a stable release.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you approach solving a complex programming problem?",
+      "canonical_answer": "I break the problem into smaller parts, analyze constraints, create a clear plan, test assumptions, and iterate with debugging tools.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What programming languages and frameworks are you most comfortable with, and why?",
+      "canonical_answer": "I’m most comfortable with languages like Python, Java, and JavaScript and frameworks like React, Node.js, or Spring due to their versatility and strong ecosystems.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Can you explain the concept of Object-Oriented Programming (OOP) and give a real-world example?",
+      "canonical_answer": "OOP organizes code into objects with attributes and behaviors. A real-world example is a ‘Car’ class with properties like color and methods like accelerate.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you ensure the quality and reliability of your code?",
+      "canonical_answer": "I use clean coding practices, write tests, perform code reviews, refactor regularly, and rely on automated CI checks.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Have you worked with any DevOps or cloud technologies? How do they fit into your development workflow?",
+      "canonical_answer": "Yes, I use CI/CD pipelines, containers, and cloud services like AWS or Azure to automate builds, deployments, and environment management.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Tell me about a time you worked in a team with differing opinions on a technical decision. How did you handle it?",
+      "canonical_answer": "I encouraged open discussion, compared options using data and trade-offs, and aligned the team on the solution that met project goals best.",
+      "rubric_points": []
+    }
+  ]
+}

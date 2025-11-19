@@ -1,0 +1,62 @@
+{
+  "text": " I'll do this, this, that.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.7,
+      "text": " I'll do this, this, that.",
+      "tokens": [
+        50364,
+        286,
+        603,
+        360,
+        341,
+        11,
+        341,
+        11,
+        300,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4460475842158,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.08487202227115631,
+      "words": [
+        {
+          "word": " I'll",
+          "start": 0.0,
+          "end": 0.7,
+          "probability": 0.6576367914676666
+        },
+        {
+          "word": " do",
+          "start": 0.7,
+          "end": 0.82,
+          "probability": 0.8102328181266785
+        },
+        {
+          "word": " this,",
+          "start": 0.82,
+          "end": 1.16,
+          "probability": 0.8673093318939209
+        },
+        {
+          "word": " this,",
+          "start": 1.22,
+          "end": 1.4,
+          "probability": 0.9264216423034668
+        },
+        {
+          "word": " that.",
+          "start": 1.48,
+          "end": 1.7,
+          "probability": 0.9367197155952454
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

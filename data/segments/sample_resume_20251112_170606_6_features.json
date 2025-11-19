@@ -1,0 +1,161 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 4.64,
+    "duration": 4.64,
+    "transcript": "I'm not sure about the hyperlogal of thinking.",
+    "word_count": 14,
+    "words": [
+      {
+        "text": "I'm",
+        "start": 0.0,
+        "end": 0.78,
+        "confidence": 0.8009
+      },
+      {
+        "text": "not",
+        "start": 0.78,
+        "end": 1.04,
+        "confidence": 0.9951
+      },
+      {
+        "text": "sure",
+        "start": 1.04,
+        "end": 1.3,
+        "confidence": 0.9948
+      },
+      {
+        "text": "about",
+        "start": 1.3,
+        "end": 1.7,
+        "confidence": 0.9552
+      },
+      {
+        "text": "the",
+        "start": 1.7,
+        "end": 1.86,
+        "confidence": 0.9648
+      },
+      {
+        "text": "hyperlogal",
+        "start": 1.86,
+        "end": 2.42,
+        "confidence": 0.4351
+      },
+      {
+        "text": "of",
+        "start": 2.42,
+        "end": 2.58,
+        "confidence": 0.3138
+      },
+      {
+        "text": "thinking.",
+        "start": 2.58,
+        "end": 2.86,
+        "confidence": 0.1672
+      },
+      {
+        "text": "Can",
+        "start": 3.32,
+        "end": 3.48,
+        "confidence": 0.4346
+      },
+      {
+        "text": "we",
+        "start": 3.48,
+        "end": 3.62,
+        "confidence": 0.4768
+      },
+      {
+        "text": "skip",
+        "start": 3.62,
+        "end": 3.82,
+        "confidence": 0.9508
+      },
+      {
+        "text": "to",
+        "start": 3.82,
+        "end": 4.06,
+        "confidence": 0.5817
+      },
+      {
+        "text": "the",
+        "start": 4.06,
+        "end": 4.34,
+        "confidence": 0.3626
+      },
+      {
+        "text": "topic?",
+        "start": 4.34,
+        "end": 4.64,
+        "confidence": 0.5345
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 6.15,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.641,
+    "speech_rate_wps": 3.017,
+    "speech_rate_wpm": 181.034,
+    "articulation_rate": 3.017,
+    "pause_count": 1,
+    "pause_rate": 0.077,
+    "mean_pause_duration": 0.46,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.46,
+    "speaking_time_ratio": 0.901,
+    "pitch_mean": 276.901,
+    "pitch_std": 44.899,
+    "pitch_range": 195.325,
+    "pitch_variance": 2015.902,
+    "voiced_frames_ratio": 0.644,
+    "rms_energy_mean": 0.078,
+    "rms_energy_std": 0.053,
+    "rms_energy_max": 0.325,
+    "rms_energy_min": 0.002,
+    "energy_dynamic_range": 0.323,
+    "zero_crossing_rate": 0.135,
+    "harmonic_noise_ratio": 0.268,
+    "spectral_centroid_mean": 1940.213,
+    "spectral_centroid_std": 801.009,
+    "mfcc_1_mean": -213.248,
+    "mfcc_2_mean": 70.998,
+    "mfcc_1_std": 95.16,
+    "spectral_rolloff": 3736.943,
+    "spectral_bandwidth": 1610.148,
+    "snr_approximation": 1.48,
+    "clipping_ratio": 0.0
+  }
+]

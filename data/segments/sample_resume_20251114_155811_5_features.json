@@ -1,0 +1,143 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 5.74,
+    "duration": 5.74,
+    "transcript": "Transformer process has input sequence better than RMS.",
+    "word_count": 11,
+    "words": [
+      {
+        "text": "transformer",
+        "start": 0.0,
+        "end": 0.76,
+        "confidence": 0.3389
+      },
+      {
+        "text": "process",
+        "start": 0.76,
+        "end": 1.26,
+        "confidence": 0.6115
+      },
+      {
+        "text": "has",
+        "start": 1.26,
+        "end": 1.54,
+        "confidence": 0.615
+      },
+      {
+        "text": "input",
+        "start": 1.54,
+        "end": 1.88,
+        "confidence": 0.6883
+      },
+      {
+        "text": "sequence",
+        "start": 1.88,
+        "end": 2.38,
+        "confidence": 0.6547
+      },
+      {
+        "text": "better",
+        "start": 2.38,
+        "end": 2.88,
+        "confidence": 0.6003
+      },
+      {
+        "text": "than",
+        "start": 2.88,
+        "end": 3.26,
+        "confidence": 0.9825
+      },
+      {
+        "text": "RMS.",
+        "start": 3.26,
+        "end": 4.04,
+        "confidence": 0.4065
+      },
+      {
+        "text": "And",
+        "start": 4.84,
+        "end": 4.98,
+        "confidence": 0.3588
+      },
+      {
+        "text": "LST",
+        "start": 4.98,
+        "end": 5.44,
+        "confidence": 0.2872
+      },
+      {
+        "text": "is.",
+        "start": 5.44,
+        "end": 5.74,
+        "confidence": 0.3962
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 6.12,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.54,
+    "speech_rate_wps": 1.916,
+    "speech_rate_wpm": 114.983,
+    "articulation_rate": 1.916,
+    "pause_count": 1,
+    "pause_rate": 0.1,
+    "mean_pause_duration": 0.8,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.8,
+    "speaking_time_ratio": 0.861,
+    "pitch_mean": 137.433,
+    "pitch_std": 14.904,
+    "pitch_range": 93.254,
+    "pitch_variance": 222.125,
+    "voiced_frames_ratio": 0.867,
+    "rms_energy_mean": 0.07,
+    "rms_energy_std": 0.044,
+    "rms_energy_max": 0.165,
+    "rms_energy_min": 0.002,
+    "energy_dynamic_range": 0.163,
+    "zero_crossing_rate": 0.16,
+    "harmonic_noise_ratio": 8.183,
+    "spectral_centroid_mean": 1827.341,
+    "spectral_centroid_std": 1348.34,
+    "mfcc_1_mean": -280.992,
+    "mfcc_2_mean": 104.584,
+    "mfcc_1_std": 54.894,
+    "spectral_rolloff": 3289.453,
+    "spectral_bandwidth": 1576.351,
+    "snr_approximation": 1.579,
+    "clipping_ratio": 0.0
+  }
+]

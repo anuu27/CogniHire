@@ -1,0 +1,52 @@
+{
+  "text": " I have no idea.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.96,
+      "text": " I have no idea.",
+      "tokens": [
+        50364,
+        286,
+        362,
+        572,
+        1558,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5134285688400269,
+      "compression_ratio": 0.6521739130434783,
+      "no_speech_prob": 0.16586178541183472,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.86,
+          "probability": 0.3354417085647583
+        },
+        {
+          "word": " have",
+          "start": 0.86,
+          "end": 1.5,
+          "probability": 0.9598112106323242
+        },
+        {
+          "word": " no",
+          "start": 1.5,
+          "end": 1.68,
+          "probability": 0.9933964014053345
+        },
+        {
+          "word": " idea.",
+          "start": 1.68,
+          "end": 1.96,
+          "probability": 0.9969404935836792
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

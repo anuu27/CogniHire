@@ -1,0 +1,49 @@
+{
+  "role": "Blockchain Developer",
+  "record_count": 251,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Explain the difference between a blockchain and a traditional distributed database.",
+      "canonical_answer": "A blockchain is append-only, decentralized, and secured by consensus, while a traditional distributed database allows centralized control, mutable records, and no consensus-based trust.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Walk me through how a blockchain transaction is created, validated, and added to a block.",
+      "canonical_answer": "A user signs a transaction, nodes validate it, miners/validators include it in a block, and consensus finalizes the block on-chain.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What are consensus algorithms? Compare Proof of Work, Proof of Stake, and one alternative (e.g., Delegated PoS or PBFT).",
+      "canonical_answer": "Consensus algorithms ensure agreement on the ledger. PoW uses computational work, PoS uses staked tokens, and DPoS/PBFT use voting or trusted validators for faster, energy-efficient finality.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain what a smart contract is and how it executes on a blockchain.",
+      "canonical_answer": "A smart contract is self-executing code stored on-chain, triggered by transactions and executed deterministically by the network's virtual machine.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe common security vulnerabilities in smart contracts and how to prevent them.",
+      "canonical_answer": "Common issues include reentrancy, integer overflow, and unauthorized access. Prevention involves audits, safe libraries, checks-effects-interactions, and strict access control.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What’s the difference between a public blockchain, a private blockchain, and a consortium blockchain? When would you use each?",
+      "canonical_answer": "Public chains are open and permissionless, private chains are controlled by one entity, and consortium chains are governed by a group. Use them for decentralized apps, enterprise control, or multi-organization collaboration respectively.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain how cryptographic primitives like hashing and digital signatures enable blockchain security.",
+      "canonical_answer": "Hashing ensures data integrity and block linking, while digital signatures verify transaction authenticity and ownership.",
+      "rubric_points": []
+    }
+  ]
+}

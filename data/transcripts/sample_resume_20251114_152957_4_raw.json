@@ -1,0 +1,111 @@
+{
+  "text": " gradient descent basically minimizes the loss function and amuse use demural network.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.42,
+      "text": " gradient descent basically minimizes the loss function and amuse use demural network.",
+      "tokens": [
+        50364,
+        16235,
+        23475,
+        1936,
+        4464,
+        5660,
+        264,
+        4470,
+        2445,
+        293,
+        669,
+        438,
+        764,
+        1371,
+        1807,
+        3209,
+        13,
+        50636
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5484926324141653,
+      "compression_ratio": 1.118421052631579,
+      "no_speech_prob": 0.05227796360850334,
+      "words": [
+        {
+          "word": " gradient",
+          "start": 0.0,
+          "end": 0.54,
+          "probability": 0.5083713531494141
+        },
+        {
+          "word": " descent",
+          "start": 0.54,
+          "end": 1.0,
+          "probability": 0.2934958338737488
+        },
+        {
+          "word": " basically",
+          "start": 1.0,
+          "end": 1.48,
+          "probability": 0.8544132709503174
+        },
+        {
+          "word": " minimizes",
+          "start": 1.48,
+          "end": 2.12,
+          "probability": 0.9179282486438751
+        },
+        {
+          "word": " the",
+          "start": 2.12,
+          "end": 2.34,
+          "probability": 0.9612780213356018
+        },
+        {
+          "word": " loss",
+          "start": 2.34,
+          "end": 2.58,
+          "probability": 0.932462215423584
+        },
+        {
+          "word": " function",
+          "start": 2.58,
+          "end": 3.22,
+          "probability": 0.9895037412643433
+        },
+        {
+          "word": " and",
+          "start": 3.22,
+          "end": 4.12,
+          "probability": 0.4066781997680664
+        },
+        {
+          "word": " amuse",
+          "start": 4.12,
+          "end": 4.4,
+          "probability": 0.7697697579860687
+        },
+        {
+          "word": " use",
+          "start": 4.4,
+          "end": 4.74,
+          "probability": 0.6891428232192993
+        },
+        {
+          "word": " demural",
+          "start": 4.74,
+          "end": 5.12,
+          "probability": 0.6196167171001434
+        },
+        {
+          "word": " network.",
+          "start": 5.12,
+          "end": 5.42,
+          "probability": 0.3430107533931732
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

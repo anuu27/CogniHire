@@ -1,0 +1,66 @@
+{
+  "text": " Ha ha ha ha I don't",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.18,
+      "text": " Ha ha ha ha I don't",
+      "tokens": [
+        50364,
+        4064,
+        324,
+        324,
+        324,
+        286,
+        500,
+        380,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8877482414245605,
+      "compression_ratio": 0.95,
+      "no_speech_prob": 0.14494718611240387,
+      "words": [
+        {
+          "word": " Ha",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.08228099346160889
+        },
+        {
+          "word": " ha",
+          "start": 0.42,
+          "end": 0.52,
+          "probability": 0.6235250234603882
+        },
+        {
+          "word": " ha",
+          "start": 0.52,
+          "end": 0.72,
+          "probability": 0.576072633266449
+        },
+        {
+          "word": " ha",
+          "start": 0.72,
+          "end": 0.88,
+          "probability": 0.2782839834690094
+        },
+        {
+          "word": " I",
+          "start": 0.88,
+          "end": 1.06,
+          "probability": 0.3135087490081787
+        },
+        {
+          "word": " don't",
+          "start": 1.06,
+          "end": 1.18,
+          "probability": 0.9781128168106079
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

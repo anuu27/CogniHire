@@ -1,0 +1,85 @@
+{
+  "text": " bringtam um preto de therapists bravo",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.96,
+      "text": " bringtam um preto de therapists",
+      "tokens": [
+        50364,
+        36008,
+        335,
+        1105,
+        1162,
+        78,
+        368,
+        36509,
+        50464
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.5618128095354353,
+      "compression_ratio": 0.8222222222222222,
+      "no_speech_prob": 0.19505149126052856,
+      "words": [
+        {
+          "word": " bringtam",
+          "start": 0.0,
+          "end": 0.28,
+          "probability": 0.10447402575960041
+        },
+        {
+          "word": " um",
+          "start": 0.28,
+          "end": 0.94,
+          "probability": 0.07193499058485031
+        },
+        {
+          "word": " preto",
+          "start": 0.94,
+          "end": 1.58,
+          "probability": 0.46240864284482086
+        },
+        {
+          "word": " de",
+          "start": 1.58,
+          "end": 1.96,
+          "probability": 0.06015806645154953
+        },
+        {
+          "word": " therapists",
+          "start": 1.96,
+          "end": 1.96,
+          "probability": 5.785120720247505e-06
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.96,
+      "end": 3.32,
+      "text": " bravo",
+      "tokens": [
+        50464,
+        1548,
+        3080,
+        50572
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.5618128095354353,
+      "compression_ratio": 0.8222222222222222,
+      "no_speech_prob": 0.19505149126052856,
+      "words": [
+        {
+          "word": " bravo",
+          "start": 1.96,
+          "end": 3.32,
+          "probability": 0.1075225593522191
+        }
+      ]
+    }
+  ],
+  "language": "pt"
+}

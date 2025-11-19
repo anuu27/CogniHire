@@ -1,0 +1,82 @@
+{
+  "text": " good graphics, nice designs and interactive games, everything.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.66,
+      "text": " good graphics, nice designs and interactive games, everything.",
+      "tokens": [
+        50364,
+        665,
+        11837,
+        11,
+        1481,
+        11347,
+        293,
+        15141,
+        2813,
+        11,
+        1203,
+        13,
+        50852
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5514227662767682,
+      "compression_ratio": 0.9538461538461539,
+      "no_speech_prob": 0.09271829575300217,
+      "words": [
+        {
+          "word": " good",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.38721489906311035
+        },
+        {
+          "word": " graphics,",
+          "start": 0.34,
+          "end": 0.8,
+          "probability": 0.9905849099159241
+        },
+        {
+          "word": " nice",
+          "start": 1.88,
+          "end": 2.48,
+          "probability": 0.9669913053512573
+        },
+        {
+          "word": " designs",
+          "start": 2.48,
+          "end": 2.94,
+          "probability": 0.875004231929779
+        },
+        {
+          "word": " and",
+          "start": 2.94,
+          "end": 4.68,
+          "probability": 0.6156893968582153
+        },
+        {
+          "word": " interactive",
+          "start": 4.68,
+          "end": 5.5,
+          "probability": 0.8412660360336304
+        },
+        {
+          "word": " games,",
+          "start": 5.5,
+          "end": 7.56,
+          "probability": 0.994597315788269
+        },
+        {
+          "word": " everything.",
+          "start": 8.08,
+          "end": 8.66,
+          "probability": 0.9258375763893127
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

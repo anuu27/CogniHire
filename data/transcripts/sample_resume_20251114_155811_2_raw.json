@@ -1,0 +1,59 @@
+{
+  "text": " I would just fly it.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.56,
+      "text": " I would just fly it.",
+      "tokens": [
+        50364,
+        286,
+        576,
+        445,
+        3603,
+        309,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8034896850585938,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.28436243534088135,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.68,
+          "probability": 0.36811262369155884
+        },
+        {
+          "word": " would",
+          "start": 0.68,
+          "end": 0.86,
+          "probability": 0.22780132293701172
+        },
+        {
+          "word": " just",
+          "start": 0.86,
+          "end": 1.06,
+          "probability": 0.2366616129875183
+        },
+        {
+          "word": " fly",
+          "start": 1.06,
+          "end": 1.26,
+          "probability": 0.7019639015197754
+        },
+        {
+          "word": " it.",
+          "start": 1.26,
+          "end": 1.56,
+          "probability": 0.7601064443588257
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

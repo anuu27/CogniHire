@@ -1,0 +1,15 @@
+{
+  "session_id": "sample_resume_20251118_131204_3",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251118_131204_answer_processed.wav",
+  "raw_text": "cross validation is just splitting the data set into few sets and ensuring and using  one as a validation set and trading set so that the model model model gets trained  more better and avoids generalization.",
+  "processed_text": "Cross validation is just splitting the data set into few sets and ensuring and using one as a validation set and trading set so that the model model model gets trained more better and avoids generalization.",
+  "words": [],
+  "utterances": [],
+  "language": "en",
+  "duration": 17.54,
+  "model_used": "base",
+  "timestamp": "2025-11-18T13:13:14.219873",
+  "segment_count": 0,
+  "word_count": 0,
+  "utterance_count": 0
+}

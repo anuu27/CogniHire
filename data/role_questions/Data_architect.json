@@ -1,0 +1,49 @@
+{
+  "role": "Data Architect",
+  "record_count": 225,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Explain how you would design a scalable, high-performance data architecture for a large enterprise.",
+      "canonical_answer": "Use distributed storage, scalable compute, data partitioning, caching, and decoupled services with a mix of batch and real-time pipelines to handle large workloads efficiently.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What strategies would you use to integrate multiple heterogeneous data sources into a unified data platform?",
+      "canonical_answer": "Use ETL/ELT pipelines, data virtualization, standardized schemas, APIs, and integration tools to unify structured, semi-structured, and unstructured sources.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you ensure data quality, consistency, and governance in a complex system?",
+      "canonical_answer": "Implement data validation, lineage, cataloging, master data management, and governance policies with automated quality checks and monitoring.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you choose between relational databases, NoSQL stores, and data lakes?",
+      "canonical_answer": "Use relational for structured transactional data, NoSQL for scalable unstructured or high-volume workloads, and data lakes for flexible storage and analytics.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe how you would implement real-time data processing in a large-scale system.",
+      "canonical_answer": "Use streaming platforms like Kafka or Kinesis, real-time processing engines like Spark Streaming or Flink, and low-latency data stores.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What are the key security and compliance considerations when designing a data architecture?",
+      "canonical_answer": "Apply encryption, IAM, network isolation, auditing, compliance controls (GDPR/PCI), and secure access policies across all layers.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle versioning, schema evolution, and backward compatibility in a data platform?",
+      "canonical_answer": "Use schema registries, versioned schemas, backward-compatible changes, and tools that support flexible schema evolution like Avro or Parquet.",
+      "rubric_points": []
+    }
+  ]
+}

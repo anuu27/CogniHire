@@ -1,0 +1,80 @@
+{
+  "text": " use enemy so I don't want to explain",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": " use enemy so I don't want to explain",
+      "tokens": [
+        50364,
+        764,
+        5945,
+        370,
+        286,
+        500,
+        380,
+        528,
+        281,
+        2903,
+        50520
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6980358759562174,
+      "compression_ratio": 0.8181818181818182,
+      "no_speech_prob": 0.09930189698934555,
+      "words": [
+        {
+          "word": " use",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.09689228236675262
+        },
+        {
+          "word": " enemy",
+          "start": 0.34,
+          "end": 0.8,
+          "probability": 0.17981073260307312
+        },
+        {
+          "word": " so",
+          "start": 0.8,
+          "end": 1.32,
+          "probability": 0.4186648428440094
+        },
+        {
+          "word": " I",
+          "start": 1.32,
+          "end": 1.4,
+          "probability": 0.6793883442878723
+        },
+        {
+          "word": " don't",
+          "start": 1.4,
+          "end": 2.18,
+          "probability": 0.8635162115097046
+        },
+        {
+          "word": " want",
+          "start": 2.18,
+          "end": 2.58,
+          "probability": 0.8797171711921692
+        },
+        {
+          "word": " to",
+          "start": 2.58,
+          "end": 2.8,
+          "probability": 0.9761446118354797
+        },
+        {
+          "word": " explain",
+          "start": 2.8,
+          "end": 3.0,
+          "probability": 0.9951378703117371
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

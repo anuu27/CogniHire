@@ -1,0 +1,18 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-18T07:04:52.709Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "What is regularization in machine learning, and why is it important?"
+    }
+  },
+  {
+    "type": "tab_switch",
+    "timestamp": "2025-11-18T07:07:48.072Z",
+    "details": {
+      "raw": "Window focus lost (switched to another application)",
+      "question": "What is regularization in machine learning, and why is it important?"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "session_id": "sample_resume_20251118_122446",
+  "role": "AI engineer",
+  "resume_file": "uploads\\sample_resume.pdf",
+  "candidate_info": {
+    "name": "Anugya Anantapur",
+    "skills": [
+      "Python",
+      "Bash",
+      "SQL",
+      "Problem Solving",
+      "Recursive Trees",
+      "Algorithms",
+      "Dynamic Programming",
+      "OpenAI API",
+      "C",
+      "NumPy",
+      "Git",
+      "Jupyter Notebook",
+      "ADT",
+      "Hypothesis library",
+      "TRIE"
+    ],
+    "projects": [
+      "Trie-Based Dictionary Reimplementation (C)",
+      "Interactive Bellman-Ford Path Visualizer (Python)",
+      "Performance Analysis of Splay Trees (Java)",
+      "HyperLogLog Neighbor Optimizer (Python)",
+      "Ultra-Large Integer Optimization (Python + C)"
+    ]
+  },
+  "start_time": "2025-11-18T12:24:46.621910",
+  "end_time": "2025-11-18T12:29:31.368513",
+  "interview_transcript": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": null,
+      "type": "intro"
+    },
+    {
+      "question": " What is data augmentation, and why is it useful in training AI models?",
+      "answer": null,
+      "type": "role"
+    }
+  ]
+}

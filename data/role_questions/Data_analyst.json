@@ -1,0 +1,49 @@
+{
+  "role": "Data Analyst",
+  "record_count": 329,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Explain the difference between descriptive, diagnostic, predictive, and prescriptive analytics with examples.",
+      "canonical_answer": "Descriptive explains what happened, diagnostic explains why it happened, predictive forecasts future outcomes, and prescriptive recommends actions. Example: sales reports (descriptive), root-cause analysis (diagnostic), demand forecasting (predictive), pricing optimization (prescriptive).",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle missing or inconsistent data? Give specific techniques and examples.",
+      "canonical_answer": "I use removal, imputation (mean, median, mode), forward/backward fill, or model-based imputation. For inconsistencies, I standardize formats, fix duplicates, and apply validation rules.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Which statistical tests would you use to compare two datasets and why?",
+      "canonical_answer": "Use t-test for mean comparison, chi-square for categorical differences, Mann–Whitney for non-normal data, and KS test for distribution comparison.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Walk me through your process for analyzing a new dataset. What steps do you take from raw data to insights?",
+      "canonical_answer": "I clean the data, explore with EDA, visualize patterns, apply statistical analysis or models, and summarize insights with clear recommendations.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Walk me through your process for analyzing a new dataset. What steps do you take from raw data to insights?",
+      "canonical_answer": "I begin with data profiling, clean and prepare the dataset, explore trends, run analyses or models, and convert findings into actionable insights.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What tools and languages do you use for data analysis? How do you choose which one for a given task?",
+      "canonical_answer": "I use Python, SQL, Excel, Power BI, and Tableau. I choose based on task—Python for complex analysis, SQL for queries, Excel for quick checks, and BI tools for dashboards.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Imagine a dataset shows a sudden drop in sales — outline how you would investigate the cause.",
+      "canonical_answer": "I verify the data, analyze time trends, segment customers/products, check external factors, review recent business changes, and talk to teams to pinpoint the cause.",
+      "rubric_points": []
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "session_id": "sample_resume_20251115_235944_2",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251115_235944_answer_processed.wav",
+  "raw_text": "I would design and deploy an end to end A system and we take a lecture to production monitoring.",
+  "processed_text": "I would design and deploy an end to end A system and we take a lecture to production monitoring.",
+  "words": [
+    {
+      "text": "I",
+      "start": 0.0,
+      "end": 0.16,
+      "confidence": 0.8457
+    },
+    {
+      "text": "would",
+      "start": 0.16,
+      "end": 0.44,
+      "confidence": 0.5138
+    },
+    {
+      "text": "design",
+      "start": 0.44,
+      "end": 1.86,
+      "confidence": 0.9088
+    },
+    {
+      "text": "and",
+      "start": 1.86,
+      "end": 2.06,
+      "confidence": 0.9035
+    },
+    {
+      "text": "deploy",
+      "start": 2.06,
+      "end": 2.4,
+      "confidence": 0.9865
+    },
+    {
+      "text": "an",
+      "start": 2.4,
+      "end": 2.68,
+      "confidence": 0.7548
+    },
+    {
+      "text": "end",
+      "start": 2.68,
+      "end": 2.84,
+      "confidence": 0.768
+    },
+    {
+      "text": "to",
+      "start": 2.84,
+      "end": 2.96,
+      "confidence": 0.5088
+    },
+    {
+      "text": "end",
+      "start": 2.96,
+      "end": 3.12,
+      "confidence": 0.9958
+    },
+    {
+      "text": "A",
+      "start": 3.12,
+      "end": 3.3,
+      "confidence": 0.373
+    },
+    {
+      "text": "system",
+      "start": 3.3,
+      "end": 3.62,
+      "confidence": 0.8062
+    },
+    {
+      "text": "and",
+      "start": 3.62,
+      "end": 4.36,
+      "confidence": 0.2856
+    },
+    {
+      "text": "we",
+      "start": 4.36,
+      "end": 4.52,
+      "confidence": 0.3565
+    },
+    {
+      "text": "take",
+      "start": 4.52,
+      "end": 4.66,
+      "confidence": 0.8104
+    },
+    {
+      "text": "a",
+      "start": 4.66,
+      "end": 4.78,
+      "confidence": 0.2609
+    },
+    {
+      "text": "lecture",
+      "start": 4.78,
+      "end": 4.98,
+      "confidence": 0.0802
+    },
+    {
+      "text": "to",
+      "start": 4.98,
+      "end": 5.26,
+      "confidence": 0.473
+    },
+    {
+      "text": "production",
+      "start": 5.26,
+      "end": 5.7,
+      "confidence": 0.8879
+    },
+    {
+      "text": "monitoring.",
+      "start": 5.7,
+      "end": 6.06,
+      "confidence": 0.9159
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 6.06,
+      "duration": 6.06,
+      "transcript": "I would design and deploy an end to end A system and we take a lecture to production monitoring.",
+      "word_count": 19,
+      "words": [
+        {
+          "text": "I",
+          "start": 0.0,
+          "end": 0.16,
+          "confidence": 0.8457
+        },
+        {
+          "text": "would",
+          "start": 0.16,
+          "end": 0.44,
+          "confidence": 0.5138
+        },
+        {
+          "text": "design",
+          "start": 0.44,
+          "end": 1.86,
+          "confidence": 0.9088
+        },
+        {
+          "text": "and",
+          "start": 1.86,
+          "end": 2.06,
+          "confidence": 0.9035
+        },
+        {
+          "text": "deploy",
+          "start": 2.06,
+          "end": 2.4,
+          "confidence": 0.9865
+        },
+        {
+          "text": "an",
+          "start": 2.4,
+          "end": 2.68,
+          "confidence": 0.7548
+        },
+        {
+          "text": "end",
+          "start": 2.68,
+          "end": 2.84,
+          "confidence": 0.768
+        },
+        {
+          "text": "to",
+          "start": 2.84,
+          "end": 2.96,
+          "confidence": 0.5088
+        },
+        {
+          "text": "end",
+          "start": 2.96,
+          "end": 3.12,
+          "confidence": 0.9958
+        },
+        {
+          "text": "A",
+          "start": 3.12,
+          "end": 3.3,
+          "confidence": 0.373
+        },
+        {
+          "text": "system",
+          "start": 3.3,
+          "end": 3.62,
+          "confidence": 0.8062
+        },
+        {
+          "text": "and",
+          "start": 3.62,
+          "end": 4.36,
+          "confidence": 0.2856
+        },
+        {
+          "text": "we",
+          "start": 4.36,
+          "end": 4.52,
+          "confidence": 0.3565
+        },
+        {
+          "text": "take",
+          "start": 4.52,
+          "end": 4.66,
+          "confidence": 0.8104
+        },
+        {
+          "text": "a",
+          "start": 4.66,
+          "end": 4.78,
+          "confidence": 0.2609
+        },
+        {
+          "text": "lecture",
+          "start": 4.78,
+          "end": 4.98,
+          "confidence": 0.0802
+        },
+        {
+          "text": "to",
+          "start": 4.98,
+          "end": 5.26,
+          "confidence": 0.473
+        },
+        {
+          "text": "production",
+          "start": 5.26,
+          "end": 5.7,
+          "confidence": 0.8879
+        },
+        {
+          "text": "monitoring.",
+          "start": 5.7,
+          "end": 6.06,
+          "confidence": 0.9159
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 6.42,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 6.43,
+  "model_used": "small",
+  "timestamp": "2025-11-16T00:00:38.425347",
+  "segment_count": 1,
+  "word_count": 19,
+  "utterance_count": 1
+}

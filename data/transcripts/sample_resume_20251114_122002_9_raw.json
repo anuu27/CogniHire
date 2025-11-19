@@ -1,0 +1,95 @@
+{
+  "text": " I really don't remember this plate decided it long back.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.04,
+      "text": " I really don't remember this plate decided it long back.",
+      "tokens": [
+        50364,
+        286,
+        534,
+        500,
+        380,
+        1604,
+        341,
+        5924,
+        3047,
+        309,
+        938,
+        646,
+        13,
+        50518
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4336967468261719,
+      "compression_ratio": 0.9032258064516129,
+      "no_speech_prob": 0.005334547720849514,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.8550683856010437
+        },
+        {
+          "word": " really",
+          "start": 0.26,
+          "end": 0.52,
+          "probability": 0.896820604801178
+        },
+        {
+          "word": " don't",
+          "start": 0.52,
+          "end": 0.88,
+          "probability": 0.9606879651546478
+        },
+        {
+          "word": " remember",
+          "start": 0.88,
+          "end": 1.18,
+          "probability": 0.9889694452285767
+        },
+        {
+          "word": " this",
+          "start": 1.18,
+          "end": 1.5,
+          "probability": 0.9117742776870728
+        },
+        {
+          "word": " plate",
+          "start": 1.5,
+          "end": 1.74,
+          "probability": 0.38224780559539795
+        },
+        {
+          "word": " decided",
+          "start": 1.74,
+          "end": 2.18,
+          "probability": 0.3023299276828766
+        },
+        {
+          "word": " it",
+          "start": 2.18,
+          "end": 2.58,
+          "probability": 0.6376885771751404
+        },
+        {
+          "word": " long",
+          "start": 2.58,
+          "end": 2.84,
+          "probability": 0.4509798288345337
+        },
+        {
+          "word": " back.",
+          "start": 2.84,
+          "end": 3.04,
+          "probability": 0.9338061213493347
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

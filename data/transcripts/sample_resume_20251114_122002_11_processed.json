@@ -1,0 +1,375 @@
+{
+  "session_id": "sample_resume_20251114_122002_11",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_122002_answer_processed.wav",
+  "raw_text": "You might rather say hi to the first session, because though, a typicalongo logical video, I think I look like an independent subject.",
+  "processed_text": "You might rather say hi to the first session, because though, a typicalongo logical video, I think I look an independent subject.",
+  "words": [
+    {
+      "text": "You",
+      "start": 0.0,
+      "end": 0.7,
+      "confidence": 0.0008
+    },
+    {
+      "text": "might",
+      "start": 0.7,
+      "end": 0.7,
+      "confidence": 0.0035
+    },
+    {
+      "text": "rather",
+      "start": 0.7,
+      "end": 0.7,
+      "confidence": 0.0019
+    },
+    {
+      "text": "say",
+      "start": 0.7,
+      "end": 0.7,
+      "confidence": 0.0539
+    },
+    {
+      "text": "hi",
+      "start": 0.7,
+      "end": 0.7,
+      "confidence": 0.0441
+    },
+    {
+      "text": "to",
+      "start": 0.7,
+      "end": 0.86,
+      "confidence": 0.2091
+    },
+    {
+      "text": "the",
+      "start": 0.86,
+      "end": 1.18,
+      "confidence": 0.1053
+    },
+    {
+      "text": "first",
+      "start": 1.18,
+      "end": 1.58,
+      "confidence": 0.0028
+    },
+    {
+      "text": "session,",
+      "start": 1.58,
+      "end": 1.6,
+      "confidence": 0.0011
+    },
+    {
+      "text": "because",
+      "start": 1.62,
+      "end": 1.62,
+      "confidence": 0.0095
+    },
+    {
+      "text": "though,",
+      "start": 1.62,
+      "end": 1.62,
+      "confidence": 0.0004
+    },
+    {
+      "text": "a",
+      "start": 1.62,
+      "end": 1.66,
+      "confidence": 0.0045
+    },
+    {
+      "text": "typicalongo",
+      "start": 1.66,
+      "end": 1.66,
+      "confidence": 0.0004
+    },
+    {
+      "text": "logical",
+      "start": 1.66,
+      "end": 1.66,
+      "confidence": 0.0001
+    },
+    {
+      "text": "video,",
+      "start": 1.66,
+      "end": 2.22,
+      "confidence": 0.0115
+    },
+    {
+      "text": "I",
+      "start": 3.08,
+      "end": 3.64,
+      "confidence": 0.2416
+    },
+    {
+      "text": "think",
+      "start": 3.64,
+      "end": 4.14,
+      "confidence": 0.0655
+    },
+    {
+      "text": "I",
+      "start": 4.14,
+      "end": 4.14,
+      "confidence": 0.1418
+    },
+    {
+      "text": "look",
+      "start": 4.14,
+      "end": 4.14,
+      "confidence": 0.0011
+    },
+    {
+      "text": "like",
+      "start": 4.14,
+      "end": 5.88,
+      "confidence": 0.2642
+    },
+    {
+      "text": "an",
+      "start": 5.88,
+      "end": 5.88,
+      "confidence": 0.0908
+    },
+    {
+      "text": "independent",
+      "start": 5.88,
+      "end": 6.26,
+      "confidence": 0.0128
+    },
+    {
+      "text": "subject.",
+      "start": 6.26,
+      "end": 6.72,
+      "confidence": 0.0019
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 4.14,
+      "duration": 4.14,
+      "transcript": "You might rather say hi to the first session, because though, a typicalongo logical video, I think I look",
+      "word_count": 19,
+      "words": [
+        {
+          "text": "You",
+          "start": 0.0,
+          "end": 0.7,
+          "confidence": 0.0008
+        },
+        {
+          "text": "might",
+          "start": 0.7,
+          "end": 0.7,
+          "confidence": 0.0035
+        },
+        {
+          "text": "rather",
+          "start": 0.7,
+          "end": 0.7,
+          "confidence": 0.0019
+        },
+        {
+          "text": "say",
+          "start": 0.7,
+          "end": 0.7,
+          "confidence": 0.0539
+        },
+        {
+          "text": "hi",
+          "start": 0.7,
+          "end": 0.7,
+          "confidence": 0.0441
+        },
+        {
+          "text": "to",
+          "start": 0.7,
+          "end": 0.86,
+          "confidence": 0.2091
+        },
+        {
+          "text": "the",
+          "start": 0.86,
+          "end": 1.18,
+          "confidence": 0.1053
+        },
+        {
+          "text": "first",
+          "start": 1.18,
+          "end": 1.58,
+          "confidence": 0.0028
+        },
+        {
+          "text": "session,",
+          "start": 1.58,
+          "end": 1.6,
+          "confidence": 0.0011
+        },
+        {
+          "text": "because",
+          "start": 1.62,
+          "end": 1.62,
+          "confidence": 0.0095
+        },
+        {
+          "text": "though,",
+          "start": 1.62,
+          "end": 1.62,
+          "confidence": 0.0004
+        },
+        {
+          "text": "a",
+          "start": 1.62,
+          "end": 1.66,
+          "confidence": 0.0045
+        },
+        {
+          "text": "typicalongo",
+          "start": 1.66,
+          "end": 1.66,
+          "confidence": 0.0004
+        },
+        {
+          "text": "logical",
+          "start": 1.66,
+          "end": 1.66,
+          "confidence": 0.0001
+        },
+        {
+          "text": "video,",
+          "start": 1.66,
+          "end": 2.22,
+          "confidence": 0.0115
+        },
+        {
+          "text": "I",
+          "start": 3.08,
+          "end": 3.64,
+          "confidence": 0.2416
+        },
+        {
+          "text": "think",
+          "start": 3.64,
+          "end": 4.14,
+          "confidence": 0.0655
+        },
+        {
+          "text": "I",
+          "start": 4.14,
+          "end": 4.14,
+          "confidence": 0.1418
+        },
+        {
+          "text": "look",
+          "start": 4.14,
+          "end": 4.14,
+          "confidence": 0.0011
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 4.68,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    },
+    {
+      "utterance_id": "u002",
+      "start": 5.88,
+      "end": 6.72,
+      "duration": 0.84,
+      "transcript": "An independent subject.",
+      "word_count": 3,
+      "words": [
+        {
+          "text": "an",
+          "start": 5.88,
+          "end": 5.88,
+          "confidence": 0.0908
+        },
+        {
+          "text": "independent",
+          "start": 5.88,
+          "end": 6.26,
+          "confidence": 0.0128
+        },
+        {
+          "text": "subject.",
+          "start": 6.26,
+          "end": 6.72,
+          "confidence": 0.0019
+        }
+      ],
+      "vad_segment_start": 5.34,
+      "vad_segment_end": 6.9,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 6.91,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T12:23:27.874522",
+  "segment_count": 2,
+  "word_count": 23,
+  "utterance_count": 2
+}

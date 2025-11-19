@@ -1,0 +1,15 @@
+{
+  "session_id": "sample_resume_20251118_123443_6",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251118_123443_answer_processed.wav",
+  "raw_text": "Supervised learning is the case when data is with labels and non-supervised learning there  will be no labels.",
+  "processed_text": "Supervised learning is the case when data is with labels and non-supervised learning there will be no labels.",
+  "words": [],
+  "utterances": [],
+  "language": "en",
+  "duration": 11.14,
+  "model_used": "base",
+  "timestamp": "2025-11-18T12:36:54.041797",
+  "segment_count": 0,
+  "word_count": 0,
+  "utterance_count": 0
+}

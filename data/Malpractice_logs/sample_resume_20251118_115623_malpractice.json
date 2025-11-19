@@ -1,0 +1,10 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-18T06:30:15.835Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is the difference between classification and regression?"
+    }
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "text": " I'm sorry, I'm sorry, I'm sorry.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.64,
+      "text": " I'm sorry, I'm sorry, I'm sorry.",
+      "tokens": [
+        50364,
+        286,
+        478,
+        2597,
+        11,
+        286,
+        478,
+        2597,
+        11,
+        286,
+        478,
+        2597,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7058833440144857,
+      "compression_ratio": 1.391304347826087,
+      "no_speech_prob": 0.16540731489658356,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 0.0,
+          "end": 0.6,
+          "probability": 0.2539459615945816
+        },
+        {
+          "word": " sorry,",
+          "start": 0.6,
+          "end": 0.6,
+          "probability": 0.14927472174167633
+        },
+        {
+          "word": " I'm",
+          "start": 0.98,
+          "end": 1.24,
+          "probability": 0.6790277063846588
+        },
+        {
+          "word": " sorry,",
+          "start": 1.24,
+          "end": 1.34,
+          "probability": 0.9148079752922058
+        },
+        {
+          "word": " I'm",
+          "start": 1.36,
+          "end": 1.56,
+          "probability": 0.9188360869884491
+        },
+        {
+          "word": " sorry.",
+          "start": 1.56,
+          "end": 1.64,
+          "probability": 0.9504995346069336
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,1815 @@
+[
+  {
+    "id": null,
+    "question": "Explain how you would design and deploy an end-to-end AI system — from data collection to production monitoring.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AI Engineer"
+  },
+  {
+    "id": null,
+    "question": "What is the bias–variance trade-off? How would you recognize and address high bias or high variance in a model?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AI Engineer"
+  },
+  {
+    "id": null,
+    "question": "Walk me through how gradient descent actually works — and how optimizers like Adam improve upon it.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AI Engineer"
+  },
+  {
+    "id": null,
+    "question": "Explain how a Transformer model processes input sequences and why it outperformed RNNs/LSTMs.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AI Engineer"
+  },
+  {
+    "id": null,
+    "question": "Suppose your deep learning model performs well in training but fails in production — what steps would you take to diagnose and fix the issue?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AI Engineer"
+  },
+  {
+    "id": null,
+    "question": "Describe how you would optimize a model that’s accurate but too slow for real-time use.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AI Engineer"
+  },
+  {
+    "id": null,
+    "question": "What is overfitting? Give me three practical ways to prevent it, and explain when each is appropriate.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AI Engineer"
+  },
+  {
+    "id": null,
+    "question": "What motivates the use of deep learning from a representation-learning perspective?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AI Researcher"
+  },
+  {
+    "id": null,
+    "question": "Explain the role of optimization in machine learning. Why is non-convex optimization particularly challenging in deep networks, and how is it handled in practice?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AI Researcher"
+  },
+  {
+    "id": null,
+    "question": "How does the Transformer architecture differ fundamentally from recurrent models — both in design and in theoretical capacity?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AI Researcher"
+  },
+  {
+    "id": null,
+    "question": "Describe how the concept of “self-supervised learning” has changed modern AI research. Give an example of a key method.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AI Researcher"
+  },
+  {
+    "id": null,
+    "question": "Explain the difference between generative and discriminative models. Can you relate this to modern foundation models like diffusion models or VAEs?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AI Researcher"
+  },
+  {
+    "id": null,
+    "question": "What are the theoretical or practical limitations of current large language models, and what research directions could overcome them?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AI Researcher"
+  },
+  {
+    "id": null,
+    "question": "How do you evaluate whether an AI model is truly “understanding” or just “memorizing”?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AI Researcher"
+  },
+  {
+    "id": null,
+    "question": "Explain the core difference between Augmented Reality and Virtual Reality — in terms of hardware, software pipelines, and user experience.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AR/VR Developer"
+  },
+  {
+    "id": null,
+    "question": "Walk me through how the AR rendering pipeline works — from camera input to final composited frame.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AR/VR Developer"
+  },
+  {
+    "id": null,
+    "question": "How does spatial tracking (SLAM / 6-DoF tracking) work? Why is it critical for immersive experiences?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AR/VR Developer"
+  },
+  {
+    "id": null,
+    "question": "What performance challenges are unique to AR/VR development, and how do you optimize for them?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AR/VR Developer"
+  },
+  {
+    "id": null,
+    "question": "How do you ensure user comfort in VR — avoiding motion sickness and disorientation?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AR/VR Developer"
+  },
+  {
+    "id": null,
+    "question": "Explain how anchors and plane detection work in AR — and how you would maintain stability of virtual objects as the user moves.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AR/VR Developer"
+  },
+  {
+    "id": null,
+    "question": "If you were to design a multiplayer or collaborative AR experience, how would you handle synchronization and networking?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "AR/VR Developer"
+  },
+  {
+    "id": null,
+    "question": "Explain the difference between a blockchain and a traditional distributed database.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Blockchain Developer"
+  },
+  {
+    "id": null,
+    "question": "Walk me through how a blockchain transaction is created, validated, and added to a block.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Blockchain Developer"
+  },
+  {
+    "id": null,
+    "question": "What are consensus algorithms? Compare Proof of Work, Proof of Stake, and one alternative (e.g., Delegated PoS or PBFT).",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Blockchain Developer"
+  },
+  {
+    "id": null,
+    "question": "Explain what a smart contract is and how it executes on a blockchain.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Blockchain Developer"
+  },
+  {
+    "id": null,
+    "question": "Describe common security vulnerabilities in smart contracts and how to prevent them.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Blockchain Developer"
+  },
+  {
+    "id": null,
+    "question": "What’s the difference between a public blockchain, a private blockchain, and a consortium blockchain? When would you use each?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Blockchain Developer"
+  },
+  {
+    "id": null,
+    "question": "Explain how cryptographic primitives like hashing and digital signatures enable blockchain security.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Blockchain Developer"
+  },
+  {
+    "id": null,
+    "question": "Explain the difference between KPIs, metrics, and business objectives. How do you ensure that chosen metrics actually reflect business success?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Business Analyst"
+  },
+  {
+    "id": null,
+    "question": "What techniques do you use for requirements gathering and stakeholder management?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Business Analyst"
+  },
+  {
+    "id": null,
+    "question": "How do you validate that the solution or recommendation you proposed actually improved business performance?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Business Analyst"
+  },
+  {
+    "id": null,
+    "question": "Explain how you would analyze and visualize data to find actionable insights. What tools would you use?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Business Analyst"
+  },
+  {
+    "id": null,
+    "question": "If two departments disagree on which metric defines “success,” how would you resolve it?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Business Analyst"
+  },
+  {
+    "id": null,
+    "question": "What are some key risks in relying purely on data for business decisions, and how do you mitigate them?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Business Analyst"
+  },
+  {
+    "id": null,
+    "question": "Imagine you are analyzing a sudden drop in product sales — what steps would you take to identify the root cause?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Business Analyst"
+  },
+  {
+    "id": null,
+    "question": "Explain how you would design a scalable and highly available architecture for a web application serving millions of users.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cloud Architect"
+  },
+  {
+    "id": null,
+    "question": "Describe the differences between IaaS, PaaS, and SaaS — and give examples of when to use each.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cloud Architect"
+  },
+  {
+    "id": null,
+    "question": "How would you ensure fault tolerance and disaster recovery in a cloud environment?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cloud Architect"
+  },
+  {
+    "id": null,
+    "question": "Explain the concept of Infrastructure as Code (IaC). Which tools have you used and why?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cloud Architect"
+  },
+  {
+    "id": null,
+    "question": "Walk me through how you’d secure a cloud-based system — both at the infrastructure and application levels.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cloud Architect"
+  },
+  {
+    "id": null,
+    "question": "Compare the architectures of AWS, Azure, and GCP. How would you approach a multi-cloud or hybrid cloud strategy?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cloud Architect"
+  },
+  {
+    "id": null,
+    "question": "What monitoring and observability tools would you include in a production cloud setup, and why?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cloud Architect"
+  },
+  {
+    "id": null,
+    "question": "Explain how you would deploy and manage a scalable application in the cloud.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cloud Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you monitor performance and troubleshoot issues in a cloud-based system?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cloud Engineer"
+  },
+  {
+    "id": null,
+    "question": "Explain the difference between containers and virtual machines, and when you’d use each.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cloud Engineer"
+  },
+  {
+    "id": null,
+    "question": "How would you design a secure and cost-efficient network architecture in the cloud?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cloud Engineer"
+  },
+  {
+    "id": null,
+    "question": "Describe the process of deploying a CI/CD pipeline in the cloud. What tools and steps would you include?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cloud Engineer"
+  },
+  {
+    "id": null,
+    "question": "What steps would you take to secure a cloud instance and protect sensitive data?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cloud Engineer"
+  },
+  {
+    "id": null,
+    "question": "Explain how you would handle a system outage in a production cloud environment.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cloud Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you approach writing content for a new topic or unfamiliar domain?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Content Writer"
+  },
+  {
+    "id": null,
+    "question": "What steps do you take to ensure your content aligns with the target audience and brand tone?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Content Writer"
+  },
+  {
+    "id": null,
+    "question": "How do you balance creativity with SEO or keyword requirements?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Content Writer"
+  },
+  {
+    "id": null,
+    "question": "What’s the difference between writing for social media, blogs, and technical documentation?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Content Writer"
+  },
+  {
+    "id": null,
+    "question": "Describe your writing process — from ideation to final draft. What tools do you use?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Content Writer"
+  },
+  {
+    "id": null,
+    "question": "What’s your approach to structuring long-form content so readers stay engaged throughout?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Content Writer"
+  },
+  {
+    "id": null,
+    "question": "Give an example of a piece of content you’re proud of. What made it effective?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Content Writer"
+  },
+  {
+    "id": null,
+    "question": "Explain the CIA Triad. How do you ensure each component is maintained in a real system?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cybersecurity Analyst"
+  },
+  {
+    "id": null,
+    "question": "How would you detect and respond to a potential data breach in a corporate network?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cybersecurity Analyst"
+  },
+  {
+    "id": null,
+    "question": "What’s the difference between symmetric and asymmetric encryption, and when would you use each?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cybersecurity Analyst"
+  },
+  {
+    "id": null,
+    "question": "What is the concept of Zero Trust Architecture? Why is it important today?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cybersecurity Analyst"
+  },
+  {
+    "id": null,
+    "question": "How would you perform a vulnerability assessment vs. a penetration test? What’s the difference?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cybersecurity Analyst"
+  },
+  {
+    "id": null,
+    "question": "Describe how you’d secure data in transit and at rest in a cloud environment.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cybersecurity Analyst"
+  },
+  {
+    "id": null,
+    "question": "How would you handle insider threats or social engineering attacks?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cybersecurity Analyst"
+  },
+  {
+    "id": null,
+    "question": "Explain the difference between a vulnerability, threat, and risk. How do you prioritize them in an enterprise environment?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cybersecurity Specialist"
+  },
+  {
+    "id": null,
+    "question": "Describe your approach to designing a secure network architecture from scratch. What controls would you implement?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cybersecurity Specialist"
+  },
+  {
+    "id": null,
+    "question": "How do you handle incident response for advanced persistent threats (APTs)?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cybersecurity Specialist"
+  },
+  {
+    "id": null,
+    "question": "How would you conduct a comprehensive security audit for a cloud-based infrastructure?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cybersecurity Specialist"
+  },
+  {
+    "id": null,
+    "question": "What is the principle of Least Privilege, and how would you enforce it across an organization?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cybersecurity Specialist"
+  },
+  {
+    "id": null,
+    "question": "Explain how you would detect insider threats and prevent data exfiltration.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cybersecurity Specialist"
+  },
+  {
+    "id": null,
+    "question": "Describe strategies for defending against ransomware attacks in a corporate environment.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Cybersecurity Specialist"
+  },
+  {
+    "id": null,
+    "question": "How do you design a normalized database schema? When would you denormalize, and why?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Database Administrator"
+  },
+  {
+    "id": null,
+    "question": "Describe strategies you use to optimize database performance.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Database Administrator"
+  },
+  {
+    "id": null,
+    "question": "Explain how you would monitor and maintain database health in production.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Database Administrator"
+  },
+  {
+    "id": null,
+    "question": "How do you implement backup and recovery for critical databases? What strategies do you use for disaster recovery?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Database Administrator"
+  },
+  {
+    "id": null,
+    "question": "How do you secure databases from unauthorized access and attacks?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Database Administrator"
+  },
+  {
+    "id": null,
+    "question": "Describe your experience with database replication and clustering. How do you ensure high availability?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Database Administrator"
+  },
+  {
+    "id": null,
+    "question": "How would you troubleshoot a slow-performing query or a locked table in a production environment?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Database Administrator"
+  },
+  {
+    "id": null,
+    "question": "Explain the difference between descriptive, diagnostic, predictive, and prescriptive analytics with examples.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Analyst"
+  },
+  {
+    "id": null,
+    "question": "How do you handle missing or inconsistent data? Give specific techniques and examples.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Analyst"
+  },
+  {
+    "id": null,
+    "question": "Which statistical tests would you use to compare two datasets and why?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Analyst"
+  },
+  {
+    "id": null,
+    "question": "Walk me through your process for analyzing a new dataset. What steps do you take from raw data to insights?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Analyst"
+  },
+  {
+    "id": null,
+    "question": "Walk me through your process for analyzing a new dataset. What steps do you take from raw data to insights?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Analyst"
+  },
+  {
+    "id": null,
+    "question": "What tools and languages do you use for data analysis? How do you choose which one for a given task?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Analyst"
+  },
+  {
+    "id": null,
+    "question": "Imagine a dataset shows a sudden drop in sales — outline how you would investigate the cause.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Analyst"
+  },
+  {
+    "id": null,
+    "question": "Explain how you would design a scalable, high-performance data architecture for a large enterprise.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Architect"
+  },
+  {
+    "id": null,
+    "question": "What strategies would you use to integrate multiple heterogeneous data sources into a unified data platform?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Architect"
+  },
+  {
+    "id": null,
+    "question": "How do you ensure data quality, consistency, and governance in a complex system?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Architect"
+  },
+  {
+    "id": null,
+    "question": "How do you choose between relational databases, NoSQL stores, and data lakes?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Architect"
+  },
+  {
+    "id": null,
+    "question": "Describe how you would implement real-time data processing in a large-scale system.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Architect"
+  },
+  {
+    "id": null,
+    "question": "What are the key security and compliance considerations when designing a data architecture?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Architect"
+  },
+  {
+    "id": null,
+    "question": "How do you handle versioning, schema evolution, and backward compatibility in a data platform?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Architect"
+  },
+  {
+    "id": null,
+    "question": "Explain the difference between ETL and ELT. When would you choose one over the other?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Engineer"
+  },
+  {
+    "id": null,
+    "question": "Describe your process for designing a scalable data pipeline for both batch and real-time processing.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you ensure data quality, validation, and consistency across distributed systems?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Engineer"
+  },
+  {
+    "id": null,
+    "question": "How would you optimize a slow-running ETL job or query in a large dataset?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Engineer"
+  },
+  {
+    "id": null,
+    "question": "Describe how you handle schema evolution and backward compatibility in production pipelines.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Engineer"
+  },
+  {
+    "id": null,
+    "question": "Explain your approach to monitoring and alerting in a data pipeline. What metrics or tools do you use?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you secure data in transit and at rest in your pipelines?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Engineer"
+  },
+  {
+    "id": null,
+    "question": "Explain the difference between supervised, unsupervised, and reinforcement learning. Give examples where each would be used.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Scientist"
+  },
+  {
+    "id": null,
+    "question": "How do you handle missing or imbalanced data when training a model?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Scientist"
+  },
+  {
+    "id": null,
+    "question": "Describe how you would select features for a predictive model. What techniques do you use to reduce dimensionality?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Scientist"
+  },
+  {
+    "id": null,
+    "question": "How do you evaluate a machine learning model? Which metrics would you choose for classification vs. regression?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Scientist"
+  },
+  {
+    "id": null,
+    "question": "Explain bias-variance trade-off. How do you balance it in practice?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Scientist"
+  },
+  {
+    "id": null,
+    "question": "How would you detect and handle outliers in your dataset?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Scientist"
+  },
+  {
+    "id": null,
+    "question": "How do you ensure that your model generalizes well to unseen data?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Data Scientist"
+  },
+  {
+    "id": null,
+    "question": "Explain the concept of DevOps. How does it differ from traditional development and operations processes?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "DevOps Engineer"
+  },
+  {
+    "id": null,
+    "question": "Walk me through designing a CI/CD pipeline for a web application. What tools and processes would you include?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "DevOps Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you manage infrastructure as code (IaC)? Which tools have you used and why?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "DevOps Engineer"
+  },
+  {
+    "id": null,
+    "question": "Describe strategies for containerization and orchestration. How do Docker and Kubernetes fit in your workflow?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "DevOps Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you monitor system performance and ensure high availability in production environments?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "DevOps Engineer"
+  },
+  {
+    "id": null,
+    "question": "Explain how you would implement automated testing in the deployment pipeline.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "DevOps Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you handle security and compliance in DevOps pipelines?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "DevOps Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you approach developing a digital marketing strategy for a new product or service?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Digital Marketing Specialist"
+  },
+  {
+    "id": null,
+    "question": "Explain the differences between SEO, SEM, and paid advertising campaigns. How do you decide which to use?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Digital Marketing Specialist"
+  },
+  {
+    "id": null,
+    "question": "How do you measure the success of a digital marketing campaign? What KPIs and metrics do you track?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Digital Marketing Specialist"
+  },
+  {
+    "id": null,
+    "question": "How do you use social media platforms strategically to drive engagement and conversions?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Digital Marketing Specialist"
+  },
+  {
+    "id": null,
+    "question": "Explain how you would perform competitor analysis in the digital space.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Digital Marketing Specialist"
+  },
+  {
+    "id": null,
+    "question": "Describe your experience with email marketing campaigns. How do you improve open and click-through rates?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Digital Marketing Specialist"
+  },
+  {
+    "id": null,
+    "question": "What strategies do you use to improve website traffic and lead generation organically?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Digital Marketing Specialist"
+  },
+  {
+    "id": null,
+    "question": "What platforms have you worked with for managing e-commerce websites?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "E-commerce Specialist"
+  },
+  {
+    "id": null,
+    "question": "How do you increase online sales and conversion rates?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "E-commerce Specialist"
+  },
+  {
+    "id": null,
+    "question": "What metrics do you track to measure e-commerce performance?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "E-commerce Specialist"
+  },
+  {
+    "id": null,
+    "question": "How do you handle SEO for an online store?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "E-commerce Specialist"
+  },
+  {
+    "id": null,
+    "question": "How do you manage digital advertising campaigns?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "E-commerce Specialist"
+  },
+  {
+    "id": null,
+    "question": "How do you handle customer feedback and complaints online?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "E-commerce Specialist"
+  },
+  {
+    "id": null,
+    "question": "Describe a time you improved an e-commerce site’s performance or sales",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "E-commerce Specialist"
+  },
+  {
+    "id": null,
+    "question": "What technologies are you most comfortable working with across the stack?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Full Stack Developer"
+  },
+  {
+    "id": null,
+    "question": "What’s the difference between REST and GraphQL APIs?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Full Stack Developer"
+  },
+  {
+    "id": null,
+    "question": "How do you ensure application scalability and performance?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Full Stack Developer"
+  },
+  {
+    "id": null,
+    "question": "What’s your process for debugging and troubleshooting full-stack issues?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Full Stack Developer"
+  },
+  {
+    "id": null,
+    "question": "How do you handle authentication and authorization in web apps?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Full Stack Developer"
+  },
+  {
+    "id": null,
+    "question": "What’s the difference between client-side and server-side rendering?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Full Stack Developer"
+  },
+  {
+    "id": null,
+    "question": "Describe a full-stack project you’ve worked on.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Full Stack Developer"
+  },
+  {
+    "id": null,
+    "question": "What game engines have you worked with, and which one do you prefer?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Game Developer"
+  },
+  {
+    "id": null,
+    "question": "Can you explain the game development lifecycle?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Game Developer"
+  },
+  {
+    "id": null,
+    "question": "How do you optimize game performance?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Game Developer"
+  },
+  {
+    "id": null,
+    "question": "What’s the difference between Update(), FixedUpdate(), and LateUpdate() in Unity?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Game Developer"
+  },
+  {
+    "id": null,
+    "question": "How do you handle multiplayer synchronization or lag issues?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Game Developer"
+  },
+  {
+    "id": null,
+    "question": "Describe a challenging bug or technical issue you faced in game development. How did you solve it?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Game Developer"
+  },
+  {
+    "id": null,
+    "question": "What do you think makes a game fun and engaging?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Game Developer"
+  },
+  {
+    "id": null,
+    "question": ". How do you approach a new design project?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Graphic Designer"
+  },
+  {
+    "id": null,
+    "question": "Which design software and tools do you use most often?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Graphic Designer"
+  },
+  {
+    "id": null,
+    "question": "How do you handle feedback or criticism on your designs?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Graphic Designer"
+  },
+  {
+    "id": null,
+    "question": "Can you describe a design project you’re most proud of?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Graphic Designer"
+  },
+  {
+    "id": null,
+    "question": "How do you ensure your designs align with a client’s brand identity?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Graphic Designer"
+  },
+  {
+    "id": null,
+    "question": "How do you stay updated with design trends and technologies?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Graphic Designer"
+  },
+  {
+    "id": null,
+    "question": "What do you do when facing creative block?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Graphic Designer"
+  },
+  {
+    "id": null,
+    "question": "What are the key responsibilities of an HR Specialist?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Human Resources Specialist"
+  },
+  {
+    "id": null,
+    "question": "How do you handle conflicts between employees?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Human Resources Specialist"
+  },
+  {
+    "id": null,
+    "question": "What strategies do you use for effective recruitment?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Human Resources Specialist"
+  },
+  {
+    "id": null,
+    "question": "How do you ensure compliance with labor laws and regulations?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Human Resources Specialist"
+  },
+  {
+    "id": null,
+    "question": "How do you measure employee satisfaction or engagement?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Human Resources Specialist"
+  },
+  {
+    "id": null,
+    "question": "Describe a time you handled a sensitive HR issue.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Human Resources Specialist"
+  },
+  {
+    "id": null,
+    "question": "How do you stay organized when managing multiple HR processes at once?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Human Resources Specialist"
+  },
+  {
+    "id": null,
+    "question": "Can you explain what happens when a computer won’t turn on? How would you troubleshoot it?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "IT Support Specialist"
+  },
+  {
+    "id": null,
+    "question": "What’s the difference between IPv4 and IPv6?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "IT Support Specialist"
+  },
+  {
+    "id": null,
+    "question": "How do you handle a user who says, “My internet is not working”?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "IT Support Specialist"
+  },
+  {
+    "id": null,
+    "question": "How do you prioritize multiple support tickets?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "IT Support Specialist"
+  },
+  {
+    "id": null,
+    "question": "What is Active Directory and why is it used?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "IT Support Specialist"
+  },
+  {
+    "id": null,
+    "question": "What steps would you take if a user can’t log into their system?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "IT Support Specialist"
+  },
+  {
+    "id": null,
+    "question": "How do you stay up to date with the latest IT technologies and support tools?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "IT Support Specialist"
+  },
+  {
+    "id": null,
+    "question": "What’s the difference between supervised, unsupervised, and reinforcement learning?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Machine Learning Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you handle overfitting in a machine learning model?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Machine Learning Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you choose the right evaluation metric for a model?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Machine Learning Engineer"
+  },
+  {
+    "id": null,
+    "question": "What’s the difference between bagging and boosting?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Machine Learning Engineer"
+  },
+  {
+    "id": null,
+    "question": "Describe a machine learning project you’ve worked on.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Machine Learning Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you handle missing or imbalanced data?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Machine Learning Engineer"
+  },
+  {
+    "id": null,
+    "question": "Describe a machine learning project you’ve worked on.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Machine Learning Engineer"
+  },
+  {
+    "id": null,
+    "question": "What’s the difference between native, hybrid, and cross-platform apps?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": null,
+    "question": "Describe the mobile app development lifecycle.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": null,
+    "question": "How do you handle different screen sizes and device compatibility?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": null,
+    "question": "How do you optimize a mobile app’s performance?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": null,
+    "question": "How do you secure user data in a mobile app?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": null,
+    "question": "How do you debug and test mobile applications?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": null,
+    "question": "What technologies and frameworks have you worked with?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": null,
+    "question": ". Can you explain the difference between a switch, a router, and a hub?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Network Engineer"
+  },
+  {
+    "id": null,
+    "question": "What is the difference between TCP and UDP?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Network Engineer"
+  },
+  {
+    "id": null,
+    "question": "What happens when you type a URL in a browser and press Enter?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Network Engineer"
+  },
+  {
+    "id": null,
+    "question": "What is a subnet mask and why is it important?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Network Engineer"
+  },
+  {
+    "id": null,
+    "question": "Explain VLAN and why it’s used.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Network Engineer"
+  },
+  {
+    "id": null,
+    "question": "What are common troubleshooting steps if a user cannot connect to the internet?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Network Engineer"
+  },
+  {
+    "id": null,
+    "question": "What network monitoring or configuration tools have you used?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Network Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you decide what to build next?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Product Manager"
+  },
+  {
+    "id": null,
+    "question": "Tell me about a product you managed — what was your role and impact?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Product Manager"
+  },
+  {
+    "id": null,
+    "question": "How do you define success for a product?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Product Manager"
+  },
+  {
+    "id": null,
+    "question": "Describe a time you disagreed with an engineer or designer. How did you handle it?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Product Manager"
+  },
+  {
+    "id": null,
+    "question": "How do you gather customer feedback?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Product Manager"
+  },
+  {
+    "id": null,
+    "question": "What’s your approach to writing a Product Requirement Document (PRD)?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Product Manager"
+  },
+  {
+    "id": null,
+    "question": "Imagine user engagement has dropped by 20% — what do you do?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Product Manager"
+  },
+  {
+    "id": null,
+    "question": "Tell me about a project you managed from start to finish.",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Project Manager"
+  },
+  {
+    "id": null,
+    "question": "How do you handle scope creep?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Project Manager"
+  },
+  {
+    "id": null,
+    "question": "What project management methodologies have you used?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Project Manager"
+  },
+  {
+    "id": null,
+    "question": "How do you prioritize tasks when managing multiple projects?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Project Manager"
+  },
+  {
+    "id": null,
+    "question": "How do you deal with team conflicts?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Project Manager"
+  },
+  {
+    "id": null,
+    "question": "How do you measure project success?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Project Manager"
+  },
+  {
+    "id": null,
+    "question": "How do you manage risks in a project?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Project Manager"
+  },
+  {
+    "id": null,
+    "question": "What’s the difference between verification and validation?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "QA Engineer"
+  },
+  {
+    "id": null,
+    "question": "What are the different levels of testing?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "QA Engineer"
+  },
+  {
+    "id": null,
+    "question": "What’s the difference between regression testing and retesting?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "QA Engineer"
+  },
+  {
+    "id": null,
+    "question": "What is a test case? What are key components of a good test case?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "QA Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you prioritize test cases in a tight deadline?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "QA Engineer"
+  },
+  {
+    "id": null,
+    "question": "What tools have you used for testing and bug tracking?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "QA Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you ensure quality in Agile environments?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "QA Engineer"
+  },
+  {
+    "id": null,
+    "question": ". Can you describe a robotics project you’ve worked on? What was your role and what technologies did you use?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Robotics Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you approach designing and tuning a control system for a robotic manipulator or mobile robot?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Robotics Engineer"
+  },
+  {
+    "id": null,
+    "question": ". What sensors and perception techniques have you used for robot localization and navigation?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Robotics Engineer"
+  },
+  {
+    "id": null,
+    "question": "Which programming languages, frameworks, or simulation tools do you use for robotics development?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Robotics Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you integrate hardware and software components in a robotic system?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Robotics Engineer"
+  },
+  {
+    "id": null,
+    "question": "Can you explain a time when your robot didn’t perform as expected? How did you diagnose and fix the issue?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Robotics Engineer"
+  },
+  {
+    "id": null,
+    "question": "What recent advances in robotics or AI excite you the most, and how do you see them shaping the field?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Robotics Engineer"
+  },
+  {
+    "id": null,
+    "question": "Can you describe your software development process — from requirement gathering to deployment?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Software Developer"
+  },
+  {
+    "id": null,
+    "question": "How do you approach debugging or fixing a difficult issue in your code?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Software Developer"
+  },
+  {
+    "id": null,
+    "question": "Which programming languages and frameworks are you most proficient in, and what types of projects have you built with them?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Software Developer"
+  },
+  {
+    "id": null,
+    "question": "How do you ensure the code you write is efficient, maintainable, and scalable?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Software Developer"
+  },
+  {
+    "id": null,
+    "question": "What tools and techniques do you use for version control and collaboration in your development process?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Software Developer"
+  },
+  {
+    "id": null,
+    "question": "Describe a time when you collaborated with other developers or teams on a project. How did you handle differences in approach?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Software Developer"
+  },
+  {
+    "id": null,
+    "question": "Tell me about a project you’re most proud of — what challenges did you face, and how did you overcome them?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Software Developer"
+  },
+  {
+    "id": null,
+    "question": "Can you describe a software project you worked on from start to finish? What was your role and key contribution?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Software Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you approach solving a complex programming problem?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Software Engineer"
+  },
+  {
+    "id": null,
+    "question": "What programming languages and frameworks are you most comfortable with, and why?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Software Engineer"
+  },
+  {
+    "id": null,
+    "question": ". Can you explain the concept of Object-Oriented Programming (OOP) and give a real-world example?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Software Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you ensure the quality and reliability of your code?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Software Engineer"
+  },
+  {
+    "id": null,
+    "question": ". Have you worked with any DevOps or cloud technologies? How do they fit into your development workflow?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Software Engineer"
+  },
+  {
+    "id": null,
+    "question": "Tell me about a time you worked in a team with differing opinions on a technical decision. How did you handle it?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "Software Engineer"
+  },
+  {
+    "id": null,
+    "question": "Can you describe your experience managing servers and network infrastructure?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "System Administrator"
+  },
+  {
+    "id": null,
+    "question": "What steps do you take to ensure system reliability and minimize downtime?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "System Administrator"
+  },
+  {
+    "id": null,
+    "question": "How do you approach system security and protect against unauthorized access or data breaches?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "System Administrator"
+  },
+  {
+    "id": null,
+    "question": "Describe a major technical issue you resolved. What was the problem, and how did you fix it?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "System Administrator"
+  },
+  {
+    "id": null,
+    "question": "How do you handle system updates and patches without disrupting operations?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "System Administrator"
+  },
+  {
+    "id": null,
+    "question": "What experience do you have with cloud platforms or automation tools?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "System Administrator"
+  },
+  {
+    "id": null,
+    "question": "How do you manage user accounts, permissions, and access controls in a large organization?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "System Administrator"
+  },
+  {
+    "id": null,
+    "question": "Can you describe your design process from understanding user needs to delivering the final product?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UI/UX Designer"
+  },
+  {
+    "id": null,
+    "question": "How do you ensure your designs are both user-friendly and visually appealing?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UI/UX Designer"
+  },
+  {
+    "id": null,
+    "question": "Tell me about a time when user research or testing changed your initial design. What did you learn?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UI/UX Designer"
+  },
+  {
+    "id": null,
+    "question": "What tools do you use for wireframing, prototyping, and design handoff — and why?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UI/UX Designer"
+  },
+  {
+    "id": null,
+    "question": "How do you approach designing for different devices or platforms (web, mobile, tablet)?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UI/UX Designer"
+  },
+  {
+    "id": null,
+    "question": ". How do you collaborate with developers, product managers, and stakeholders throughout a project?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UI/UX Designer"
+  },
+  {
+    "id": null,
+    "question": "Describe a project you’re most proud of — what was the problem, your process, and the outcome?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UI/UX Designer"
+  },
+  {
+    "id": null,
+    "question": "Can you walk me through your typical UI design process?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "ui designer"
+  },
+  {
+    "id": null,
+    "question": "How do you ensure your designs align with the overall brand identity and design system?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "ui designer"
+  },
+  {
+    "id": null,
+    "question": "What are the key principles you follow to create visually balanced and intuitive interfaces?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "ui designer"
+  },
+  {
+    "id": null,
+    "question": "Tell me about a project where you improved the usability or aesthetics of an existing interface. What was your approach?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "ui designer"
+  },
+  {
+    "id": null,
+    "question": "Which design tools and technologies do you use most often, and why?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "ui designer"
+  },
+  {
+    "id": null,
+    "question": "How do you collaborate with UX designers, developers, and product managers?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "ui designer"
+  },
+  {
+    "id": null,
+    "question": "Can you share a UI design project you’re most proud of? What problem did it solve, and what was the outcome?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "ui designer"
+  },
+  {
+    "id": null,
+    "question": "How do you translate a design prototype (e.g., from Figma or Adobe XD) into functional, responsive code?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UI Engineer"
+  },
+  {
+    "id": null,
+    "question": "Which front-end frameworks or libraries do you use most often, and why?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UI Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you ensure consistency in design across multiple components or pages?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UI Engineer"
+  },
+  {
+    "id": null,
+    "question": "What is your approach to building responsive and cross-browser compatible interfaces?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UI Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you optimize UI performance for faster loading and smoother interactions?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UI Engineer"
+  },
+  {
+    "id": null,
+    "question": "How do you handle accessibility (a11y) in your UI components?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UI Engineer"
+  },
+  {
+    "id": null,
+    "question": "Can you describe a challenging UI feature you built — what made it complex, and how did you solve it?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UI Engineer"
+  },
+  {
+    "id": null,
+    "question": "Can you walk me through your design process — from understanding the problem to delivering the final UI?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UX Designer"
+  },
+  {
+    "id": null,
+    "question": "How do you balance aesthetics with usability in your designs?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UX Designer"
+  },
+  {
+    "id": null,
+    "question": "Which design tools do you use most often, and why do you prefer them?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UX Designer"
+  },
+  {
+    "id": null,
+    "question": "Can you describe a time when you had to design for multiple screen sizes or platforms? How did you handle responsiveness and consistency?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UX Designer"
+  },
+  {
+    "id": null,
+    "question": "How do you collaborate with developers and UX designers during a project?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UX Designer"
+  },
+  {
+    "id": null,
+    "question": "Tell me about a time when you received critical feedback on your design. How did you handle it?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UX Designer"
+  },
+  {
+    "id": null,
+    "question": "Describe a UI project you’re most proud of. What problem did it solve, and what impact did it have on users or business goals?",
+    "canonical_answer": "",
+    "rubric_points": [],
+    "role": "UX Designer"
+  }
+]

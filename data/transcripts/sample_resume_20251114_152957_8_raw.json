@@ -1,0 +1,465 @@
+{
+  "text": "其实有一点.. T Schwicaci T Schwicaci T Schwicaci T Schwicaci T Schwicaci",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 2.9999999999999987,
+      "end": 3.28,
+      "text": "其实有一点..",
+      "tokens": [
+        50389,
+        41646,
+        32241,
+        12579,
+        353,
+        50464
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": [
+        {
+          "word": "其实有一点..Archichk",
+          "start": 2.9999999999999987,
+          "end": 3.28,
+          "probability": 0.019498852056131
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.28,
+      "end": 3.28,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.28,
+      "end": 3.28,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 3.759999999999999,
+      "end": 4.04,
+      "text": " T Schwicaci",
+      "tokens": [
+        50657,
+        314,
+        17576,
+        299,
+        22086,
+        50789
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": [
+        {
+          "word": " T",
+          "start": 3.759999999999999,
+          "end": 4.04,
+          "probability": 0.010915908962488174
+        },
+        {
+          "word": " Schwicaci",
+          "start": 4.04,
+          "end": 4.04,
+          "probability": 0.5854953527450562
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 4.04,
+      "end": 4.06,
+      "text": " T Schwicaci",
+      "tokens": [
+        50789,
+        314,
+        17576,
+        299,
+        22086,
+        50865
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": [
+        {
+          "word": " T",
+          "start": 4.04,
+          "end": 4.06,
+          "probability": 0.706660270690918
+        },
+        {
+          "word": " Schwicaci",
+          "start": 4.06,
+          "end": 4.06,
+          "probability": 0.909330149491628
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 4.06,
+      "end": 4.06,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 4.06,
+      "end": 4.2,
+      "text": " T Schwicaci",
+      "tokens": [
+        50905,
+        314,
+        17576,
+        299,
+        22086,
+        51007
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": [
+        {
+          "word": " T",
+          "start": 4.06,
+          "end": 4.06,
+          "probability": 0.8791199326515198
+        },
+        {
+          "word": " Schwicaci",
+          "start": 4.06,
+          "end": 4.2,
+          "probability": 0.9425321817398071
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 13,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 14,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 15,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 16,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 17,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 18,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 19,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 20,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 21,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 22,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 23,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 24,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 25,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    },
+    {
+      "id": 26,
+      "seek": 0,
+      "start": 4.2,
+      "end": 4.22,
+      "text": " T Schwicaci",
+      "tokens": [
+        51856,
+        314,
+        17576,
+        299,
+        22086,
+        51857
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": [
+        {
+          "word": " Schwicaci",
+          "start": 4.2,
+          "end": 4.22,
+          "probability": 0.9663451512654623
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 0,
+      "start": 29.86,
+      "end": 29.98,
+      "text": " T Schwicaci",
+      "tokens": [
+        51857,
+        314,
+        17576,
+        299,
+        22086,
+        51863
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.447859608043324,
+      "compression_ratio": 4.797101449275362,
+      "no_speech_prob": 0.09306808561086655,
+      "words": []
+    }
+  ],
+  "language": "ml"
+}

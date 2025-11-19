@@ -1,0 +1,49 @@
+{
+  "role": "Cloud Architect",
+  "record_count": 254,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Explain how you would design a scalable and highly available architecture for a web application serving millions of users.",
+      "canonical_answer": "Use load balancers, auto-scaling groups, distributed caching, CDN, microservices, multi-AZ deployment, and managed databases to ensure scaling and high availability.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe the differences between IaaS, PaaS, and SaaS — and give examples of when to use each.",
+      "canonical_answer": "IaaS provides raw infrastructure (e.g., EC2), PaaS offers managed platforms for apps (e.g., Heroku), and SaaS delivers complete software services (e.g., Salesforce). Use them based on control vs convenience needs.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How would you ensure fault tolerance and disaster recovery in a cloud environment?",
+      "canonical_answer": "Use multi-AZ and multi-region setups, backups, replication, health checks, failover strategies, and automated recovery workflows.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain the concept of Infrastructure as Code (IaC). Which tools have you used and why?",
+      "canonical_answer": "IaC automates provisioning through code for consistency and repeatability. Tools like Terraform, CloudFormation, or Ansible manage infrastructure reliably.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Walk me through how you’d secure a cloud-based system — both at the infrastructure and application levels.",
+      "canonical_answer": "Use IAM, encryption, network segmentation, firewalls, patching, API security, secrets management, and continuous monitoring to secure cloud systems end to end.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Compare the architectures of AWS, Azure, and GCP. How would you approach a multi-cloud or hybrid cloud strategy?",
+      "canonical_answer": "AWS focuses on breadth, Azure on enterprise integration, and GCP on data/AI strengths. Multi-cloud uses portable workloads and standard APIs; hybrid connects on-prem with cloud environments.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What monitoring and observability tools would you include in a production cloud setup, and why?",
+      "canonical_answer": "Use CloudWatch, Azure Monitor, Stackdriver, Prometheus, Grafana, and centralized logging to track performance, errors, latency, and system health in real time.",
+      "rubric_points": []
+    }
+  ]
+}

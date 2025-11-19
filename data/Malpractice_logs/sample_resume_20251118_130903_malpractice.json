@@ -1,0 +1,10 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-18T07:39:10.759Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "What is gradient descent, and why is it important?"
+    }
+  }
+]

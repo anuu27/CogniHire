@@ -1,0 +1,39 @@
+{
+  "text": " That's it.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.5,
+      "text": " That's it.",
+      "tokens": [
+        50364,
+        663,
+        311,
+        309,
+        13,
+        50464
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.8864365986415318,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 0.7291361689567566,
+      "words": [
+        {
+          "word": " That's",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.47949404502287507
+        },
+        {
+          "word": " it.",
+          "start": 0.16,
+          "end": 0.5,
+          "probability": 0.5626010894775391
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

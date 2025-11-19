@@ -1,0 +1,52 @@
+{
+  "text": " Aw D. West Lane",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.12,
+      "text": " Aw D. West Lane",
+      "tokens": [
+        50364,
+        6381,
+        413,
+        13,
+        4055,
+        26226,
+        50417
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.88698148727417,
+      "compression_ratio": 0.6521739130434783,
+      "no_speech_prob": 0.29332730174064636,
+      "words": [
+        {
+          "word": " Aw",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.002186704194173217
+        },
+        {
+          "word": " D.",
+          "start": 0.26,
+          "end": 0.38,
+          "probability": 0.002187625039368868
+        },
+        {
+          "word": " West",
+          "start": 0.58,
+          "end": 0.88,
+          "probability": 2.9358714527916163e-05
+        },
+        {
+          "word": " Lane",
+          "start": 0.88,
+          "end": 1.12,
+          "probability": 0.00031908031087368727
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

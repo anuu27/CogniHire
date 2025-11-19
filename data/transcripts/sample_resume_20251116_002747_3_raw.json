@@ -1,0 +1,136 @@
+{
+  "text": " The bias variance tradeoff would be the difference between the original output and the required output",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 10.18,
+      "text": " The bias variance tradeoff would be the difference between the original output and the required output",
+      "tokens": [
+        50364,
+        440,
+        12577,
+        21977,
+        4923,
+        4506,
+        576,
+        312,
+        264,
+        2649,
+        1296,
+        264,
+        3380,
+        5598,
+        293,
+        264,
+        4739,
+        5598,
+        50877
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2959660291671753,
+      "compression_ratio": 1.275,
+      "no_speech_prob": 0.014230447821319103,
+      "words": [
+        {
+          "word": " The",
+          "start": 0.0,
+          "end": 0.5,
+          "probability": 0.6388685703277588
+        },
+        {
+          "word": " bias",
+          "start": 0.5,
+          "end": 0.86,
+          "probability": 0.9450984597206116
+        },
+        {
+          "word": " variance",
+          "start": 0.86,
+          "end": 1.2,
+          "probability": 0.9300357103347778
+        },
+        {
+          "word": " tradeoff",
+          "start": 1.2,
+          "end": 1.68,
+          "probability": 0.4755868464708328
+        },
+        {
+          "word": " would",
+          "start": 1.68,
+          "end": 1.9,
+          "probability": 0.9660391807556152
+        },
+        {
+          "word": " be",
+          "start": 1.9,
+          "end": 2.1,
+          "probability": 0.9977951049804688
+        },
+        {
+          "word": " the",
+          "start": 2.1,
+          "end": 2.28,
+          "probability": 0.9753273129463196
+        },
+        {
+          "word": " difference",
+          "start": 2.28,
+          "end": 2.56,
+          "probability": 0.9926939010620117
+        },
+        {
+          "word": " between",
+          "start": 2.56,
+          "end": 2.88,
+          "probability": 0.9974794983863831
+        },
+        {
+          "word": " the",
+          "start": 2.88,
+          "end": 3.98,
+          "probability": 0.8439977765083313
+        },
+        {
+          "word": " original",
+          "start": 3.98,
+          "end": 5.0,
+          "probability": 0.956912636756897
+        },
+        {
+          "word": " output",
+          "start": 5.0,
+          "end": 6.08,
+          "probability": 0.9167292714118958
+        },
+        {
+          "word": " and",
+          "start": 6.08,
+          "end": 6.4,
+          "probability": 0.9795588254928589
+        },
+        {
+          "word": " the",
+          "start": 6.4,
+          "end": 6.66,
+          "probability": 0.9505832195281982
+        },
+        {
+          "word": " required",
+          "start": 6.66,
+          "end": 9.66,
+          "probability": 0.77414470911026
+        },
+        {
+          "word": " output",
+          "start": 9.66,
+          "end": 10.18,
+          "probability": 0.9870358109474182
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

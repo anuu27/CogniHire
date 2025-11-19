@@ -1,0 +1,261 @@
+{
+  "session_id": "sample_resume_20251114_122002_8",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_122002_answer_processed.wav",
+  "raw_text": "Like starting from my island, to find a treasure in the shortest way possible.",
+  "processed_text": "Starting from my island, to find a treasure in the shortest way possible.",
+  "words": [
+    {
+      "text": "Like",
+      "start": 0.0,
+      "end": 0.34,
+      "confidence": 0.2851
+    },
+    {
+      "text": "starting",
+      "start": 0.34,
+      "end": 0.64,
+      "confidence": 0.9703
+    },
+    {
+      "text": "from",
+      "start": 0.64,
+      "end": 1.1,
+      "confidence": 0.9964
+    },
+    {
+      "text": "my",
+      "start": 1.1,
+      "end": 1.26,
+      "confidence": 0.6602
+    },
+    {
+      "text": "island,",
+      "start": 1.26,
+      "end": 1.82,
+      "confidence": 0.885
+    },
+    {
+      "text": "to",
+      "start": 2.62,
+      "end": 2.68,
+      "confidence": 0.4711
+    },
+    {
+      "text": "find",
+      "start": 2.68,
+      "end": 2.96,
+      "confidence": 0.9972
+    },
+    {
+      "text": "a",
+      "start": 2.96,
+      "end": 3.18,
+      "confidence": 0.7287
+    },
+    {
+      "text": "treasure",
+      "start": 3.18,
+      "end": 3.66,
+      "confidence": 0.9672
+    },
+    {
+      "text": "in",
+      "start": 3.66,
+      "end": 4.96,
+      "confidence": 0.8821
+    },
+    {
+      "text": "the",
+      "start": 4.96,
+      "end": 5.12,
+      "confidence": 0.9862
+    },
+    {
+      "text": "shortest",
+      "start": 5.12,
+      "end": 5.48,
+      "confidence": 0.8803
+    },
+    {
+      "text": "way",
+      "start": 5.48,
+      "end": 5.82,
+      "confidence": 0.9749
+    },
+    {
+      "text": "possible.",
+      "start": 5.82,
+      "end": 6.24,
+      "confidence": 0.9991
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 3.18,
+      "duration": 3.18,
+      "transcript": "Starting from my island, to find a",
+      "word_count": 8,
+      "words": [
+        {
+          "text": "Like",
+          "start": 0.0,
+          "end": 0.34,
+          "confidence": 0.2851
+        },
+        {
+          "text": "starting",
+          "start": 0.34,
+          "end": 0.64,
+          "confidence": 0.9703
+        },
+        {
+          "text": "from",
+          "start": 0.64,
+          "end": 1.1,
+          "confidence": 0.9964
+        },
+        {
+          "text": "my",
+          "start": 1.1,
+          "end": 1.26,
+          "confidence": 0.6602
+        },
+        {
+          "text": "island,",
+          "start": 1.26,
+          "end": 1.82,
+          "confidence": 0.885
+        },
+        {
+          "text": "to",
+          "start": 2.62,
+          "end": 2.68,
+          "confidence": 0.4711
+        },
+        {
+          "text": "find",
+          "start": 2.68,
+          "end": 2.96,
+          "confidence": 0.9972
+        },
+        {
+          "text": "a",
+          "start": 2.96,
+          "end": 3.18,
+          "confidence": 0.7287
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 3.66,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    },
+    {
+      "utterance_id": "u002",
+      "start": 4.96,
+      "end": 6.24,
+      "duration": 1.28,
+      "transcript": "The shortest way possible.",
+      "word_count": 4,
+      "words": [
+        {
+          "text": "the",
+          "start": 4.96,
+          "end": 5.12,
+          "confidence": 0.9862
+        },
+        {
+          "text": "shortest",
+          "start": 5.12,
+          "end": 5.48,
+          "confidence": 0.8803
+        },
+        {
+          "text": "way",
+          "start": 5.48,
+          "end": 5.82,
+          "confidence": 0.9749
+        },
+        {
+          "text": "possible.",
+          "start": 5.82,
+          "end": 6.24,
+          "confidence": 0.9991
+        }
+      ],
+      "vad_segment_start": 4.68,
+      "vad_segment_end": 6.33,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 6.34,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T12:22:34.499094",
+  "segment_count": 2,
+  "word_count": 14,
+  "utterance_count": 2
+}

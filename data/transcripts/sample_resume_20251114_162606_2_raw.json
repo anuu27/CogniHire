@@ -1,0 +1,134 @@
+{
+  "text": " asking what are you saying, what are you telling? What need to you?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.94,
+      "text": " asking what are you saying, what are you telling?",
+      "tokens": [
+        50364,
+        3365,
+        437,
+        366,
+        291,
+        1566,
+        11,
+        437,
+        366,
+        291,
+        3585,
+        30,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6409290858677456,
+      "compression_ratio": 1.1964285714285714,
+      "no_speech_prob": 0.08941531181335449,
+      "words": [
+        {
+          "word": " asking",
+          "start": 0.0,
+          "end": 0.68,
+          "probability": 0.4873547852039337
+        },
+        {
+          "word": " what",
+          "start": 0.68,
+          "end": 1.18,
+          "probability": 0.3149140775203705
+        },
+        {
+          "word": " are",
+          "start": 1.18,
+          "end": 1.4,
+          "probability": 0.75775146484375
+        },
+        {
+          "word": " you",
+          "start": 1.4,
+          "end": 1.5,
+          "probability": 0.9667856693267822
+        },
+        {
+          "word": " saying,",
+          "start": 1.5,
+          "end": 2.06,
+          "probability": 0.9872053861618042
+        },
+        {
+          "word": " what",
+          "start": 2.08,
+          "end": 2.22,
+          "probability": 0.9601069688796997
+        },
+        {
+          "word": " are",
+          "start": 2.22,
+          "end": 2.4,
+          "probability": 0.9534949064254761
+        },
+        {
+          "word": " you",
+          "start": 2.4,
+          "end": 2.52,
+          "probability": 0.9553547501564026
+        },
+        {
+          "word": " telling?",
+          "start": 2.52,
+          "end": 2.94,
+          "probability": 0.9915231466293335
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.2,
+      "end": 3.68,
+      "text": " What need to you?",
+      "tokens": [
+        50514,
+        708,
+        643,
+        281,
+        291,
+        30,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6409290858677456,
+      "compression_ratio": 1.1964285714285714,
+      "no_speech_prob": 0.08941531181335449,
+      "words": [
+        {
+          "word": " What",
+          "start": 3.2,
+          "end": 3.28,
+          "probability": 0.3949790894985199
+        },
+        {
+          "word": " need",
+          "start": 3.28,
+          "end": 3.46,
+          "probability": 0.391184538602829
+        },
+        {
+          "word": " to",
+          "start": 3.46,
+          "end": 3.6,
+          "probability": 0.5565629601478577
+        },
+        {
+          "word": " you?",
+          "start": 3.6,
+          "end": 3.68,
+          "probability": 0.23814134299755096
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T17:51:41.285Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "Walk me through how gradient descent actually works — and how optimizers like Adam improve upon it."
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T17:51:43.269Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "Walk me through how gradient descent actually works — and how optimizers like Adam improve upon it."
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T17:51:45.268Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "Walk me through how gradient descent actually works — and how optimizers like Adam improve upon it."
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T17:51:47.278Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "Walk me through how gradient descent actually works — and how optimizers like Adam improve upon it."
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T17:51:49.281Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "Walk me through how gradient descent actually works — and how optimizers like Adam improve upon it."
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T17:51:51.274Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "Walk me through how gradient descent actually works — and how optimizers like Adam improve upon it."
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T17:51:53.272Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "Walk me through how gradient descent actually works — and how optimizers like Adam improve upon it."
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T17:51:55.266Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "Walk me through how gradient descent actually works — and how optimizers like Adam improve upon it."
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T17:51:57.263Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "Walk me through how gradient descent actually works — and how optimizers like Adam improve upon it."
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T17:52:01.297Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "Walk me through how gradient descent actually works — and how optimizers like Adam improve upon it."
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T17:52:03.286Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "Walk me through how gradient descent actually works — and how optimizers like Adam improve upon it."
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T17:52:05.270Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "Walk me through how gradient descent actually works — and how optimizers like Adam improve upon it."
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T17:52:07.299Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "Walk me through how gradient descent actually works — and how optimizers like Adam improve upon it."
+    }
+  }
+]

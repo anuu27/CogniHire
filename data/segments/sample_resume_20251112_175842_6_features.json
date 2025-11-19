@@ -1,0 +1,149 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 5.54,
+    "duration": 5.54,
+    "transcript": "I do not remember it quitely.",
+    "word_count": 12,
+    "words": [
+      {
+        "text": "I",
+        "start": 0.0,
+        "end": 0.34,
+        "confidence": 0.5645
+      },
+      {
+        "text": "do",
+        "start": 0.34,
+        "end": 0.46,
+        "confidence": 0.4574
+      },
+      {
+        "text": "not",
+        "start": 0.46,
+        "end": 1.84,
+        "confidence": 0.4964
+      },
+      {
+        "text": "remember",
+        "start": 1.84,
+        "end": 2.3,
+        "confidence": 0.328
+      },
+      {
+        "text": "it",
+        "start": 2.3,
+        "end": 2.92,
+        "confidence": 0.5393
+      },
+      {
+        "text": "quitely.",
+        "start": 2.92,
+        "end": 4.18,
+        "confidence": 0.4659
+      },
+      {
+        "text": "Can",
+        "start": 4.6,
+        "end": 4.7,
+        "confidence": 0.7876
+      },
+      {
+        "text": "you",
+        "start": 4.7,
+        "end": 4.82,
+        "confidence": 0.9919
+      },
+      {
+        "text": "please",
+        "start": 4.82,
+        "end": 5.04,
+        "confidence": 0.9773
+      },
+      {
+        "text": "skip",
+        "start": 5.04,
+        "end": 5.22,
+        "confidence": 0.6339
+      },
+      {
+        "text": "this",
+        "start": 5.22,
+        "end": 5.4,
+        "confidence": 0.9185
+      },
+      {
+        "text": "question.",
+        "start": 5.4,
+        "end": 5.54,
+        "confidence": 0.967
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 5.55,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.677,
+    "speech_rate_wps": 2.166,
+    "speech_rate_wpm": 129.964,
+    "articulation_rate": 2.166,
+    "pause_count": 1,
+    "pause_rate": 0.091,
+    "mean_pause_duration": 0.42,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.42,
+    "speaking_time_ratio": 0.924,
+    "pitch_mean": 289.559,
+    "pitch_std": 36.609,
+    "pitch_range": 151.299,
+    "pitch_variance": 1340.238,
+    "voiced_frames_ratio": 0.741,
+    "rms_energy_mean": 0.048,
+    "rms_energy_std": 0.062,
+    "rms_energy_max": 0.286,
+    "rms_energy_min": 0.001,
+    "energy_dynamic_range": 0.285,
+    "zero_crossing_rate": 0.168,
+    "harmonic_noise_ratio": 0.706,
+    "spectral_centroid_mean": 2133.486,
+    "spectral_centroid_std": 895.418,
+    "mfcc_1_mean": -306.458,
+    "mfcc_2_mean": 56.333,
+    "mfcc_1_std": 137.731,
+    "spectral_rolloff": 3954.337,
+    "spectral_bandwidth": 1671.781,
+    "snr_approximation": 0.782,
+    "clipping_ratio": 0.0
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "session_id": "sample_resume_20251117_232105",
+  "Name": "Anugya Anantapur",
+  "role": "ai engineer",
+  "start_time": null,
+  "end_time": "2025-11-17T23:22:07.984332",
+  "overall_score": 9.7,
+  "score_before_malpractice": 11.5,
+  "cci": {
+    "raw": 11.49,
+    "percentile_vs_role": 15.14
+  },
+  "components": {
+    "role_relevance": 1.6,
+    "canonical_component": 1.6,
+    "resume_component": null,
+    "completeness": 3.02,
+    "conciseness": 0.0,
+    "fluency": 4.5
+  },
+  "subscores": {
+    "Conceptual correctness": 0.53,
+    "Reasoning depth": 1.21,
+    "Precision grounding": 0.53,
+    "Communication clarity": 3.0,
+    "Creativity / insight": 0.6
+  },
+  "trajectory": "The candidate is at a very foundational stage, needing substantial development in core AI engineering skills.",
+  "strength": "The top strength is Communication clarity with a score of 3.0, though it remains a low score overall.",
+  "risk": "Major risks include extremely low technical proficiency across all sub-scores and multiple malpractice incidents (no face detected).",
+  "recommendation": "Given the very low performance across all technical areas and malpractice incidents, the recommendation is to reject.",
+  "malpractice_detected": {
+    "count": 3,
+    "types": [
+      "no_face_detected"
+    ],
+    "deduction": 1.8
+  },
+  "per_question": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": "",
+      "type": "intro",
+      "canonical_matched_index": null,
+      "canonical_answer": "",
+      "canonical_similarity": 0.0,
+      "canonical_score": 0.0,
+      "q_a_similarity": 0.176,
+      "answer_length": 0,
+      "resume_eval": null
+    },
+    {
+      "question": " Explain the concept of attention mechanisms in neural networks.",
+      "answer": "",
+      "type": "role",
+      "canonical_matched_index": 27,
+      "canonical_answer": "Attention mechanisms allow models to focus on relevant parts of the input when making predictions, improving performance in tasks like machine translation and text summarization by capturing dependencies regardless of distance in the sequence.",
+      "canonical_similarity": 0.053,
+      "canonical_score": 5.34,
+      "q_a_similarity": 0.066,
+      "answer_length": 0,
+      "resume_eval": null
+    }
+  ],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T17:51:19.269Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "Walk me through how gradient descent actually works \u2014 and how optimizers like Adam improve upon it."
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T17:51:20.481Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "Walk me through how gradient descent actually works \u2014 and how optimizers like Adam improve upon it."
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T17:51:21.267Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "Walk me through how gradient descent actually works \u2014 and how optimizers like Adam improve upon it."
+      }
+    }
+  ],
+  "malpractice_count": 3
+}

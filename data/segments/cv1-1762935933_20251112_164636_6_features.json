@@ -1,0 +1,119 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 2.4,
+    "duration": 2.4,
+    "transcript": "I don't know anything, I did nothing",
+    "word_count": 7,
+    "words": [
+      {
+        "text": "I",
+        "start": 0.0,
+        "end": 0.3,
+        "confidence": 0.8291
+      },
+      {
+        "text": "don't",
+        "start": 0.3,
+        "end": 0.62,
+        "confidence": 0.9296
+      },
+      {
+        "text": "know",
+        "start": 0.62,
+        "end": 0.9,
+        "confidence": 0.994
+      },
+      {
+        "text": "anything,",
+        "start": 0.9,
+        "end": 1.34,
+        "confidence": 0.987
+      },
+      {
+        "text": "I",
+        "start": 1.68,
+        "end": 1.76,
+        "confidence": 0.9637
+      },
+      {
+        "text": "did",
+        "start": 1.76,
+        "end": 2.0,
+        "confidence": 0.917
+      },
+      {
+        "text": "nothing",
+        "start": 2.0,
+        "end": 2.4,
+        "confidence": 0.9701
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 2.49,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.942,
+    "speech_rate_wps": 2.917,
+    "speech_rate_wpm": 175.0,
+    "articulation_rate": 2.917,
+    "pause_count": 1,
+    "pause_rate": 0.167,
+    "mean_pause_duration": 0.34,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.34,
+    "speaking_time_ratio": 0.858,
+    "pitch_mean": 296.98,
+    "pitch_std": 23.279,
+    "pitch_range": 79.509,
+    "pitch_variance": 541.89,
+    "voiced_frames_ratio": 0.947,
+    "rms_energy_mean": 0.078,
+    "rms_energy_std": 0.045,
+    "rms_energy_max": 0.204,
+    "rms_energy_min": 0.001,
+    "energy_dynamic_range": 0.203,
+    "zero_crossing_rate": 0.147,
+    "harmonic_noise_ratio": 0.785,
+    "spectral_centroid_mean": 1977.687,
+    "spectral_centroid_std": 418.522,
+    "mfcc_1_mean": -233.783,
+    "mfcc_2_mean": 63.447,
+    "mfcc_1_std": 86.096,
+    "spectral_rolloff": 3537.418,
+    "spectral_bandwidth": 1489.648,
+    "snr_approximation": 1.711,
+    "clipping_ratio": 0.0
+  }
+]

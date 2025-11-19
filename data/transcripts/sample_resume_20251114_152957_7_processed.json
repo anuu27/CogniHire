@@ -1,0 +1,181 @@
+{
+  "session_id": "sample_resume_20251114_152957_7",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_152957_answer_processed.wav",
+  "raw_text": "My main goal was to get good grading that course.",
+  "processed_text": "My main goal was to get good grading that course.",
+  "words": [
+    {
+      "text": "My",
+      "start": 0.0,
+      "end": 0.26,
+      "confidence": 0.4464
+    },
+    {
+      "text": "main",
+      "start": 0.26,
+      "end": 0.56,
+      "confidence": 0.9918
+    },
+    {
+      "text": "goal",
+      "start": 0.56,
+      "end": 0.78,
+      "confidence": 0.9905
+    },
+    {
+      "text": "was",
+      "start": 0.78,
+      "end": 1.04,
+      "confidence": 0.9774
+    },
+    {
+      "text": "to",
+      "start": 1.04,
+      "end": 1.22,
+      "confidence": 0.9917
+    },
+    {
+      "text": "get",
+      "start": 1.22,
+      "end": 1.38,
+      "confidence": 0.9985
+    },
+    {
+      "text": "good",
+      "start": 1.38,
+      "end": 1.7,
+      "confidence": 0.9455
+    },
+    {
+      "text": "grading",
+      "start": 1.7,
+      "end": 1.96,
+      "confidence": 0.142
+    },
+    {
+      "text": "that",
+      "start": 1.96,
+      "end": 2.2,
+      "confidence": 0.7334
+    },
+    {
+      "text": "course.",
+      "start": 2.2,
+      "end": 2.3,
+      "confidence": 0.9462
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 2.3,
+      "duration": 2.3,
+      "transcript": "My main goal was to get good grading that course.",
+      "word_count": 10,
+      "words": [
+        {
+          "text": "My",
+          "start": 0.0,
+          "end": 0.26,
+          "confidence": 0.4464
+        },
+        {
+          "text": "main",
+          "start": 0.26,
+          "end": 0.56,
+          "confidence": 0.9918
+        },
+        {
+          "text": "goal",
+          "start": 0.56,
+          "end": 0.78,
+          "confidence": 0.9905
+        },
+        {
+          "text": "was",
+          "start": 0.78,
+          "end": 1.04,
+          "confidence": 0.9774
+        },
+        {
+          "text": "to",
+          "start": 1.04,
+          "end": 1.22,
+          "confidence": 0.9917
+        },
+        {
+          "text": "get",
+          "start": 1.22,
+          "end": 1.38,
+          "confidence": 0.9985
+        },
+        {
+          "text": "good",
+          "start": 1.38,
+          "end": 1.7,
+          "confidence": 0.9455
+        },
+        {
+          "text": "grading",
+          "start": 1.7,
+          "end": 1.96,
+          "confidence": 0.142
+        },
+        {
+          "text": "that",
+          "start": 1.96,
+          "end": 2.2,
+          "confidence": 0.7334
+        },
+        {
+          "text": "course.",
+          "start": 2.2,
+          "end": 2.3,
+          "confidence": 0.9462
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 2.31,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 2.34,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T15:31:29.945835",
+  "segment_count": 1,
+  "word_count": 10,
+  "utterance_count": 1
+}

@@ -1,0 +1,38 @@
+{
+  "text": "  propulsion maintenant",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 2.44,
+      "end": 4.88,
+      "text": "  propulsion maintenant",
+      "tokens": [
+        50364,
+        220,
+        49375,
+        14817,
+        50417
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.644248326619466,
+      "compression_ratio": 0.7241379310344828,
+      "no_speech_prob": 0.5886014699935913,
+      "words": [
+        {
+          "word": "  propulsion",
+          "start": 2.44,
+          "end": 3.84,
+          "probability": 2.4423417926300317e-05
+        },
+        {
+          "word": " maintenant",
+          "start": 3.84,
+          "end": 4.88,
+          "probability": 8.216821697715204e-06
+        }
+      ]
+    }
+  ],
+  "language": "ml"
+}

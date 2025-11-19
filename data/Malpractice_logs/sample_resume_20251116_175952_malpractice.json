@@ -1,0 +1,34 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T12:30:02.944Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is the difference between bagging and boosting in ensemble learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T12:30:04.240Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is the difference between bagging and boosting in ensemble learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T12:30:06.222Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is the difference between bagging and boosting in ensemble learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T12:30:10.218Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is the difference between bagging and boosting in ensemble learning?"
+    }
+  }
+]

@@ -1,0 +1,369 @@
+{
+  "session_id": "sample_resume_20251114_005658_9",
+  "audio_source": "audio_analysis_ingest\\response_20251114_010232_processed.wav",
+  "raw_text": "I enjoyed every project that was shot right. I enjoyed, I enjoy tea biz tea that was perfectly mixed with cook and Kontakt.",
+  "processed_text": "I enjoyed every project that was shot right.",
+  "words": [
+    {
+      "text": "I",
+      "start": 0.0,
+      "end": 0.48,
+      "confidence": 0.8133
+    },
+    {
+      "text": "enjoyed",
+      "start": 0.48,
+      "end": 0.82,
+      "confidence": 0.3181
+    },
+    {
+      "text": "every",
+      "start": 0.82,
+      "end": 1.62,
+      "confidence": 0.4484
+    },
+    {
+      "text": "project",
+      "start": 1.62,
+      "end": 2.22,
+      "confidence": 0.0995
+    },
+    {
+      "text": "that",
+      "start": 2.22,
+      "end": 2.6,
+      "confidence": 0.0184
+    },
+    {
+      "text": "was",
+      "start": 2.6,
+      "end": 2.78,
+      "confidence": 0.0377
+    },
+    {
+      "text": "shot",
+      "start": 2.78,
+      "end": 2.78,
+      "confidence": 0.0021
+    },
+    {
+      "text": "right.",
+      "start": 2.78,
+      "end": 2.78,
+      "confidence": 0.0038
+    },
+    {
+      "text": "I",
+      "start": 2.82,
+      "end": 2.84,
+      "confidence": 0.8582
+    },
+    {
+      "text": "enjoyed,",
+      "start": 2.84,
+      "end": 3.34,
+      "confidence": 0.9421
+    },
+    {
+      "text": "I",
+      "start": 3.34,
+      "end": 3.46,
+      "confidence": 0.7894
+    },
+    {
+      "text": "enjoy",
+      "start": 3.46,
+      "end": 4.24,
+      "confidence": 0.0143
+    },
+    {
+      "text": "tea",
+      "start": 4.24,
+      "end": 5.56,
+      "confidence": 0.0015
+    },
+    {
+      "text": "biz",
+      "start": 5.56,
+      "end": 6.08,
+      "confidence": 0.0018
+    },
+    {
+      "text": "tea",
+      "start": 6.08,
+      "end": 6.72,
+      "confidence": 0.0802
+    },
+    {
+      "text": "that",
+      "start": 6.72,
+      "end": 7.82,
+      "confidence": 0.0028
+    },
+    {
+      "text": "was",
+      "start": 7.82,
+      "end": 7.82,
+      "confidence": 0.7814
+    },
+    {
+      "text": "perfectly",
+      "start": 7.82,
+      "end": 7.82,
+      "confidence": 0.0002
+    },
+    {
+      "text": "mixed",
+      "start": 7.82,
+      "end": 7.82,
+      "confidence": 0.019
+    },
+    {
+      "text": "with",
+      "start": 7.82,
+      "end": 7.82,
+      "confidence": 0.3746
+    },
+    {
+      "text": "cook",
+      "start": 7.82,
+      "end": 7.82,
+      "confidence": 0.0
+    },
+    {
+      "text": "and",
+      "start": 7.82,
+      "end": 7.82,
+      "confidence": 0.0607
+    },
+    {
+      "text": "Kontakt.",
+      "start": 7.82,
+      "end": 7.82,
+      "confidence": 0.0
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 6.08,
+      "duration": 6.08,
+      "transcript": "I enjoyed every project that was shot right.",
+      "word_count": 14,
+      "words": [
+        {
+          "text": "I",
+          "start": 0.0,
+          "end": 0.48,
+          "confidence": 0.8133
+        },
+        {
+          "text": "enjoyed",
+          "start": 0.48,
+          "end": 0.82,
+          "confidence": 0.3181
+        },
+        {
+          "text": "every",
+          "start": 0.82,
+          "end": 1.62,
+          "confidence": 0.4484
+        },
+        {
+          "text": "project",
+          "start": 1.62,
+          "end": 2.22,
+          "confidence": 0.0995
+        },
+        {
+          "text": "that",
+          "start": 2.22,
+          "end": 2.6,
+          "confidence": 0.0184
+        },
+        {
+          "text": "was",
+          "start": 2.6,
+          "end": 2.78,
+          "confidence": 0.0377
+        },
+        {
+          "text": "shot",
+          "start": 2.78,
+          "end": 2.78,
+          "confidence": 0.0021
+        },
+        {
+          "text": "right.",
+          "start": 2.78,
+          "end": 2.78,
+          "confidence": 0.0038
+        },
+        {
+          "text": "I",
+          "start": 2.82,
+          "end": 2.84,
+          "confidence": 0.8582
+        },
+        {
+          "text": "enjoyed,",
+          "start": 2.84,
+          "end": 3.34,
+          "confidence": 0.9421
+        },
+        {
+          "text": "I",
+          "start": 3.34,
+          "end": 3.46,
+          "confidence": 0.7894
+        },
+        {
+          "text": "enjoy",
+          "start": 3.46,
+          "end": 4.24,
+          "confidence": 0.0143
+        },
+        {
+          "text": "tea",
+          "start": 4.24,
+          "end": 5.56,
+          "confidence": 0.0015
+        },
+        {
+          "text": "biz",
+          "start": 5.56,
+          "end": 6.08,
+          "confidence": 0.0018
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 6.6,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    },
+    {
+      "utterance_id": "u002",
+      "start": 7.82,
+      "end": 7.82,
+      "duration": 0.0,
+      "transcript": "Was perfectly mixed with cook and Kontakt.",
+      "word_count": 7,
+      "words": [
+        {
+          "text": "was",
+          "start": 7.82,
+          "end": 7.82,
+          "confidence": 0.7814
+        },
+        {
+          "text": "perfectly",
+          "start": 7.82,
+          "end": 7.82,
+          "confidence": 0.0002
+        },
+        {
+          "text": "mixed",
+          "start": 7.82,
+          "end": 7.82,
+          "confidence": 0.019
+        },
+        {
+          "text": "with",
+          "start": 7.82,
+          "end": 7.82,
+          "confidence": 0.3746
+        },
+        {
+          "text": "cook",
+          "start": 7.82,
+          "end": 7.82,
+          "confidence": 0.0
+        },
+        {
+          "text": "and",
+          "start": 7.82,
+          "end": 7.82,
+          "confidence": 0.0607
+        },
+        {
+          "text": "Kontakt.",
+          "start": 7.82,
+          "end": 7.82,
+          "confidence": 0.0
+        }
+      ],
+      "vad_segment_start": 7.17,
+      "vad_segment_end": 7.83,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 7.84,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T01:02:45.549668",
+  "segment_count": 2,
+  "word_count": 23,
+  "utterance_count": 2
+}

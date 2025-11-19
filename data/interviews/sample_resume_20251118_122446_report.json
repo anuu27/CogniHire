@@ -1,0 +1,239 @@
+{
+  "session_id": "sample_resume_20251118_122446",
+  "Name": "Anugya Anantapur",
+  "role": "AI engineer",
+  "start_time": null,
+  "end_time": "2025-11-18T12:31:06.773814",
+  "overall_score": 0,
+  "score_before_malpractice": 9.1,
+  "cci": {
+    "raw": 9.1,
+    "percentile_vs_role": 0.0
+  },
+  "components": {
+    "role_relevance": 0.0,
+    "canonical_component": 0.0,
+    "resume_component": null,
+    "completeness": 2.58,
+    "conciseness": 0.0,
+    "fluency": 4.5
+  },
+  "subscores": {
+    "Conceptual correctness": 0.0,
+    "Reasoning depth": 1.03,
+    "Precision grounding": 0.0,
+    "Communication clarity": 3.0,
+    "Creativity / insight": 0.52
+  },
+  "trajectory": "Candidate requires significant foundational development in all core AI engineering skills, indicating a very limited immediate trajectory in this specialized field.",
+  "strength": "The candidate's relative top strength is Communication clarity at 3.0, though this score remains very low.",
+  "risk": "Major risks include an extremely low grasp of conceptual correctness (0.0), a complete lack of precision grounding (0.0), poor reasoning depth, and significant malpractice flags (24 incidents including tab switches and gaze warnings).",
+  "recommendation": "Reject this candidate due to an extremely low overall CCI, critical skill gaps in foundational AI concepts, and significant malpractice incidents.",
+  "Badge": null,
+  "malpractice_detected": {
+    "count": 24,
+    "types": [
+      "gaze_warning",
+      "no_face_detected",
+      "tab_switch"
+    ],
+    "deduction": 30.0
+  },
+  "per_question": [],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:55:41.175Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:55:59.183Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:56:07.173Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:56:09.184Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:56:11.178Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:56:11.479Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:56:15.187Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "gaze_warning",
+      "timestamp": "2025-11-18T06:56:17.191Z",
+      "details": {
+        "raw": "Looking away from the screen.",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:56:21.175Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:56:22.473Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:56:23.177Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:56:31.192Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:56:45.962Z",
+      "details": {
+        "raw": "Window focus lost (switched to another application)",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:56:46.239Z",
+      "details": {
+        "raw": "Tab switched or minimized",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:57:10.639Z",
+      "details": {
+        "raw": "Window focus lost (switched to another application)",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:57:10.937Z",
+      "details": {
+        "raw": "Tab switched or minimized",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:57:33.571Z",
+      "details": {
+        "raw": "Window focus lost (switched to another application)",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:57:33.579Z",
+      "details": {
+        "raw": "Tab switched or minimized",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:57:47.758Z",
+      "details": {
+        "raw": "Window focus lost (switched to another application)",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:57:47.814Z",
+      "details": {
+        "raw": "Tab switched or minimized",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:57:59.190Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:58:01.183Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:58:19.480Z",
+      "details": {
+        "raw": "Tab switched or minimized",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:59:19.187Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": " What is data augmentation, and why is it useful in training AI models?"
+      }
+    }
+  ],
+  "malpractice_count": 24
+}

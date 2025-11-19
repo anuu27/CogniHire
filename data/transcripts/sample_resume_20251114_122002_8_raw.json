@@ -1,0 +1,123 @@
+{
+  "text": " Like starting from my island, to find a treasure in the shortest way possible.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.24,
+      "text": " Like starting from my island, to find a treasure in the shortest way possible.",
+      "tokens": [
+        50364,
+        1743,
+        2891,
+        490,
+        452,
+        6077,
+        11,
+        281,
+        915,
+        257,
+        12985,
+        294,
+        264,
+        31875,
+        636,
+        1944,
+        13,
+        50680
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4093628682588276,
+      "compression_ratio": 1.04,
+      "no_speech_prob": 0.018060997128486633,
+      "words": [
+        {
+          "word": " Like",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.28512999415397644
+        },
+        {
+          "word": " starting",
+          "start": 0.34,
+          "end": 0.64,
+          "probability": 0.9703460931777954
+        },
+        {
+          "word": " from",
+          "start": 0.64,
+          "end": 1.1,
+          "probability": 0.9963711500167847
+        },
+        {
+          "word": " my",
+          "start": 1.1,
+          "end": 1.26,
+          "probability": 0.6602244973182678
+        },
+        {
+          "word": " island,",
+          "start": 1.26,
+          "end": 1.82,
+          "probability": 0.8849607706069946
+        },
+        {
+          "word": " to",
+          "start": 2.62,
+          "end": 2.68,
+          "probability": 0.4710591435432434
+        },
+        {
+          "word": " find",
+          "start": 2.68,
+          "end": 2.96,
+          "probability": 0.9972009658813477
+        },
+        {
+          "word": " a",
+          "start": 2.96,
+          "end": 3.18,
+          "probability": 0.7287307381629944
+        },
+        {
+          "word": " treasure",
+          "start": 3.18,
+          "end": 3.66,
+          "probability": 0.9671956896781921
+        },
+        {
+          "word": " in",
+          "start": 3.66,
+          "end": 4.96,
+          "probability": 0.8820906281471252
+        },
+        {
+          "word": " the",
+          "start": 4.96,
+          "end": 5.12,
+          "probability": 0.9861783981323242
+        },
+        {
+          "word": " shortest",
+          "start": 5.12,
+          "end": 5.48,
+          "probability": 0.8802593350410461
+        },
+        {
+          "word": " way",
+          "start": 5.48,
+          "end": 5.82,
+          "probability": 0.9749338626861572
+        },
+        {
+          "word": " possible.",
+          "start": 5.82,
+          "end": 6.24,
+          "probability": 0.9991171956062317
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

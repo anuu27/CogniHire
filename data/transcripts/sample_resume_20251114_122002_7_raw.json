@@ -1,0 +1,157 @@
+{
+  "text": " People click on the path and play the game so it was the most incorrect to think about it.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.62,
+      "text": " People click on the path and play the game so it was the most incorrect to think about it.",
+      "tokens": [
+        50364,
+        3432,
+        2052,
+        322,
+        264,
+        3100,
+        293,
+        862,
+        264,
+        1216,
+        370,
+        309,
+        390,
+        264,
+        881,
+        18424,
+        281,
+        519,
+        466,
+        309,
+        13,
+        50744
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39676102347995923,
+      "compression_ratio": 1.1538461538461537,
+      "no_speech_prob": 0.0062647066079080105,
+      "words": [
+        {
+          "word": " People",
+          "start": 0.0,
+          "end": 0.54,
+          "probability": 0.27949318289756775
+        },
+        {
+          "word": " click",
+          "start": 0.54,
+          "end": 2.84,
+          "probability": 0.6612393260002136
+        },
+        {
+          "word": " on",
+          "start": 2.84,
+          "end": 4.0,
+          "probability": 0.9412906169891357
+        },
+        {
+          "word": " the",
+          "start": 4.0,
+          "end": 4.26,
+          "probability": 0.9632560610771179
+        },
+        {
+          "word": " path",
+          "start": 4.26,
+          "end": 4.6,
+          "probability": 0.8423762917518616
+        },
+        {
+          "word": " and",
+          "start": 4.6,
+          "end": 4.84,
+          "probability": 0.9670905470848083
+        },
+        {
+          "word": " play",
+          "start": 4.84,
+          "end": 5.06,
+          "probability": 0.9943922162055969
+        },
+        {
+          "word": " the",
+          "start": 5.06,
+          "end": 5.24,
+          "probability": 0.9686568379402161
+        },
+        {
+          "word": " game",
+          "start": 5.24,
+          "end": 5.48,
+          "probability": 0.987993597984314
+        },
+        {
+          "word": " so",
+          "start": 5.48,
+          "end": 5.82,
+          "probability": 0.47263145446777344
+        },
+        {
+          "word": " it",
+          "start": 5.82,
+          "end": 6.0,
+          "probability": 0.9646186232566833
+        },
+        {
+          "word": " was",
+          "start": 6.0,
+          "end": 6.14,
+          "probability": 0.9519931077957153
+        },
+        {
+          "word": " the",
+          "start": 6.14,
+          "end": 6.26,
+          "probability": 0.9878662824630737
+        },
+        {
+          "word": " most",
+          "start": 6.26,
+          "end": 6.46,
+          "probability": 0.9913538098335266
+        },
+        {
+          "word": " incorrect",
+          "start": 6.46,
+          "end": 6.8,
+          "probability": 0.2163470983505249
+        },
+        {
+          "word": " to",
+          "start": 6.8,
+          "end": 7.0,
+          "probability": 0.6546401977539062
+        },
+        {
+          "word": " think",
+          "start": 7.0,
+          "end": 7.16,
+          "probability": 0.9294856786727905
+        },
+        {
+          "word": " about",
+          "start": 7.16,
+          "end": 7.4,
+          "probability": 0.9922310709953308
+        },
+        {
+          "word": " it.",
+          "start": 7.4,
+          "end": 7.62,
+          "probability": 0.9908548593521118
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

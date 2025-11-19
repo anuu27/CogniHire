@@ -1,0 +1,49 @@
+{
+  "role": "Game Developer",
+  "record_count": 239,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "What game engines have you worked with, and which one do you prefer?",
+      "canonical_answer": "I’ve worked with Unity, Unreal Engine, and Godot. I prefer Unity for its flexibility, asset ecosystem, and ease of prototyping.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Can you explain the game development lifecycle?",
+      "canonical_answer": "It includes concept, design, prototyping, development, testing, optimization, and deployment, followed by updates and live support.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you optimize game performance?",
+      "canonical_answer": "I optimize assets, reduce draw calls, use object pooling, profile CPU/GPU bottlenecks, and manage memory carefully.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What’s the difference between Update(), FixedUpdate(), and LateUpdate() in Unity?",
+      "canonical_answer": "Update runs every frame for game logic, FixedUpdate runs at fixed intervals for physics, and LateUpdate runs after Update for camera adjustments.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle multiplayer synchronization or lag issues?",
+      "canonical_answer": "I use client prediction, server reconciliation, interpolation, and authoritative servers to reduce lag and maintain consistency.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe a challenging bug or technical issue you faced in game development. How did you solve it?",
+      "canonical_answer": "I debug using logs, breakpoints, profilers, and step-by-step isolation to trace the issue and apply targeted fixes.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What do you think makes a game fun and engaging?",
+      "canonical_answer": "Clear goals, responsive controls, balanced challenge, meaningful rewards, and strong feedback loops make games engaging.",
+      "rubric_points": []
+    }
+  ]
+}

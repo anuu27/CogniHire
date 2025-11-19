@@ -1,0 +1,743 @@
+{
+  "session_id": "sample_resume_20251117_155544_2",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251117_155544_answer_processed.wav",
+  "raw_text": "ätzen fewUNS You've to find its comprendre to define the meaning of this word. plant end by some words like livestream because with this typical language there is even some other words How shall I find out more about madam's post? it might make sense distance воспen Was Under That Doesn�� T province  Madison",
+  "processed_text": "Ätzen fewUNS You've to find its comprendre to define the meaning of this word. Plant end by some words livestream because with this typical language there is even some other words How shall I find out more about madam's post?",
+  "words": [
+    {
+      "text": "ätzen",
+      "start": 30.0,
+      "end": 30.5,
+      "confidence": 0.2062
+    },
+    {
+      "text": "fewUNS",
+      "start": 30.5,
+      "end": 31.12,
+      "confidence": 0.015
+    },
+    {
+      "text": "You've",
+      "start": 31.12,
+      "end": 31.28,
+      "confidence": 0.0045
+    },
+    {
+      "text": "to",
+      "start": 31.28,
+      "end": 31.28,
+      "confidence": 0.0128
+    },
+    {
+      "text": "find",
+      "start": 31.28,
+      "end": 31.28,
+      "confidence": 0.0272
+    },
+    {
+      "text": "its",
+      "start": 31.28,
+      "end": 31.4,
+      "confidence": 0.0012
+    },
+    {
+      "text": "comprendre",
+      "start": 31.4,
+      "end": 31.4,
+      "confidence": 0.0
+    },
+    {
+      "text": "to",
+      "start": 31.4,
+      "end": 31.4,
+      "confidence": 0.0084
+    },
+    {
+      "text": "define",
+      "start": 31.4,
+      "end": 31.4,
+      "confidence": 0.0006
+    },
+    {
+      "text": "the",
+      "start": 31.4,
+      "end": 31.4,
+      "confidence": 0.3789
+    },
+    {
+      "text": "meaning",
+      "start": 31.4,
+      "end": 31.44,
+      "confidence": 0.0088
+    },
+    {
+      "text": "of",
+      "start": 31.44,
+      "end": 31.44,
+      "confidence": 0.6863
+    },
+    {
+      "text": "this",
+      "start": 31.44,
+      "end": 31.44,
+      "confidence": 0.1231
+    },
+    {
+      "text": "word.",
+      "start": 31.44,
+      "end": 31.7,
+      "confidence": 0.0149
+    },
+    {
+      "text": "plant",
+      "start": 32.78,
+      "end": 32.96,
+      "confidence": 0.0
+    },
+    {
+      "text": "end",
+      "start": 32.96,
+      "end": 37.92,
+      "confidence": 0.0
+    },
+    {
+      "text": "by",
+      "start": 37.92,
+      "end": 38.08,
+      "confidence": 0.0015
+    },
+    {
+      "text": "some",
+      "start": 38.08,
+      "end": 38.12,
+      "confidence": 0.016
+    },
+    {
+      "text": "words",
+      "start": 38.12,
+      "end": 38.54,
+      "confidence": 0.0414
+    },
+    {
+      "text": "like",
+      "start": 38.54,
+      "end": 38.92,
+      "confidence": 0.009
+    },
+    {
+      "text": "livestream",
+      "start": 38.92,
+      "end": 39.4,
+      "confidence": 0.0
+    },
+    {
+      "text": "because",
+      "start": 39.4,
+      "end": 39.4,
+      "confidence": 0.0004
+    },
+    {
+      "text": "with",
+      "start": 39.4,
+      "end": 39.4,
+      "confidence": 0.0009
+    },
+    {
+      "text": "this",
+      "start": 39.4,
+      "end": 39.4,
+      "confidence": 0.0444
+    },
+    {
+      "text": "typical",
+      "start": 39.4,
+      "end": 39.4,
+      "confidence": 0.0
+    },
+    {
+      "text": "language",
+      "start": 39.4,
+      "end": 39.4,
+      "confidence": 0.0252
+    },
+    {
+      "text": "there",
+      "start": 39.4,
+      "end": 39.4,
+      "confidence": 0.0098
+    },
+    {
+      "text": "is",
+      "start": 39.4,
+      "end": 39.4,
+      "confidence": 0.2927
+    },
+    {
+      "text": "even",
+      "start": 39.4,
+      "end": 39.4,
+      "confidence": 0.0018
+    },
+    {
+      "text": "some",
+      "start": 39.4,
+      "end": 39.4,
+      "confidence": 0.0367
+    },
+    {
+      "text": "other",
+      "start": 39.4,
+      "end": 39.4,
+      "confidence": 0.0623
+    },
+    {
+      "text": "words",
+      "start": 39.4,
+      "end": 39.4,
+      "confidence": 0.1933
+    },
+    {
+      "text": "How",
+      "start": 39.4,
+      "end": 39.4,
+      "confidence": 0.0
+    },
+    {
+      "text": "shall",
+      "start": 39.4,
+      "end": 39.44,
+      "confidence": 0.0011
+    },
+    {
+      "text": "I",
+      "start": 39.44,
+      "end": 39.64,
+      "confidence": 0.4784
+    },
+    {
+      "text": "find",
+      "start": 39.64,
+      "end": 39.64,
+      "confidence": 0.0075
+    },
+    {
+      "text": "out",
+      "start": 39.64,
+      "end": 39.64,
+      "confidence": 0.0338
+    },
+    {
+      "text": "more",
+      "start": 39.64,
+      "end": 39.64,
+      "confidence": 0.0367
+    },
+    {
+      "text": "about",
+      "start": 39.64,
+      "end": 40.16,
+      "confidence": 0.144
+    },
+    {
+      "text": "madam's",
+      "start": 40.16,
+      "end": 40.32,
+      "confidence": 0.1559
+    },
+    {
+      "text": "post?",
+      "start": 40.32,
+      "end": 40.72,
+      "confidence": 0.0004
+    },
+    {
+      "text": "it",
+      "start": 40.72,
+      "end": 41.34,
+      "confidence": 0.0033
+    },
+    {
+      "text": "might",
+      "start": 41.34,
+      "end": 41.34,
+      "confidence": 0.0175
+    },
+    {
+      "text": "make",
+      "start": 41.34,
+      "end": 42.04,
+      "confidence": 0.0102
+    },
+    {
+      "text": "sense",
+      "start": 42.04,
+      "end": 42.04,
+      "confidence": 0.0968
+    },
+    {
+      "text": "distance",
+      "start": 42.69,
+      "end": 43.14,
+      "confidence": 0.0
+    },
+    {
+      "text": "воспen",
+      "start": 43.14,
+      "end": 43.32,
+      "confidence": 0.0463
+    },
+    {
+      "text": "Was",
+      "start": 47.18,
+      "end": 48.08,
+      "confidence": 0.0001
+    },
+    {
+      "text": "Under",
+      "start": 48.08,
+      "end": 48.62,
+      "confidence": 0.0
+    },
+    {
+      "text": "That",
+      "start": 48.62,
+      "end": 48.62,
+      "confidence": 0.0054
+    },
+    {
+      "text": "Doesn��",
+      "start": 48.62,
+      "end": 48.62,
+      "confidence": 0.0
+    },
+    {
+      "text": "T",
+      "start": 48.62,
+      "end": 48.62,
+      "confidence": 0.0006
+    },
+    {
+      "text": "province",
+      "start": 48.62,
+      "end": 49.36,
+      "confidence": 0.0
+    },
+    {
+      "text": "Madison",
+      "start": 50.14,
+      "end": 50.72,
+      "confidence": 0.0
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u008",
+      "start": 30.0,
+      "end": 32.96,
+      "duration": 2.96,
+      "transcript": "Ätzen fewUNS You've to find its comprendre to define the meaning of this word.",
+      "word_count": 15,
+      "words": [
+        {
+          "text": "ätzen",
+          "start": 30.0,
+          "end": 30.5,
+          "confidence": 0.2062
+        },
+        {
+          "text": "fewUNS",
+          "start": 30.5,
+          "end": 31.12,
+          "confidence": 0.015
+        },
+        {
+          "text": "You've",
+          "start": 31.12,
+          "end": 31.28,
+          "confidence": 0.0045
+        },
+        {
+          "text": "to",
+          "start": 31.28,
+          "end": 31.28,
+          "confidence": 0.0128
+        },
+        {
+          "text": "find",
+          "start": 31.28,
+          "end": 31.28,
+          "confidence": 0.0272
+        },
+        {
+          "text": "its",
+          "start": 31.28,
+          "end": 31.4,
+          "confidence": 0.0012
+        },
+        {
+          "text": "comprendre",
+          "start": 31.4,
+          "end": 31.4,
+          "confidence": 0.0
+        },
+        {
+          "text": "to",
+          "start": 31.4,
+          "end": 31.4,
+          "confidence": 0.0084
+        },
+        {
+          "text": "define",
+          "start": 31.4,
+          "end": 31.4,
+          "confidence": 0.0006
+        },
+        {
+          "text": "the",
+          "start": 31.4,
+          "end": 31.4,
+          "confidence": 0.3789
+        },
+        {
+          "text": "meaning",
+          "start": 31.4,
+          "end": 31.44,
+          "confidence": 0.0088
+        },
+        {
+          "text": "of",
+          "start": 31.44,
+          "end": 31.44,
+          "confidence": 0.6863
+        },
+        {
+          "text": "this",
+          "start": 31.44,
+          "end": 31.44,
+          "confidence": 0.1231
+        },
+        {
+          "text": "word.",
+          "start": 31.44,
+          "end": 31.7,
+          "confidence": 0.0149
+        },
+        {
+          "text": "plant",
+          "start": 32.78,
+          "end": 32.96,
+          "confidence": 0.0
+        }
+      ],
+      "vad_segment_start": 27.75,
+      "vad_segment_end": 33.3,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    },
+    {
+      "utterance_id": "u010",
+      "start": 37.92,
+      "end": 42.04,
+      "duration": 4.12,
+      "transcript": "By some words livestream because with this typical language there is even some other words How shall I find out more about madam's post?",
+      "word_count": 29,
+      "words": [
+        {
+          "text": "by",
+          "start": 37.92,
+          "end": 38.08,
+          "confidence": 0.0015
+        },
+        {
+          "text": "some",
+          "start": 38.08,
+          "end": 38.12,
+          "confidence": 0.016
+        },
+        {
+          "text": "words",
+          "start": 38.12,
+          "end": 38.54,
+          "confidence": 0.0414
+        },
+        {
+          "text": "like",
+          "start": 38.54,
+          "end": 38.92,
+          "confidence": 0.009
+        },
+        {
+          "text": "livestream",
+          "start": 38.92,
+          "end": 39.4,
+          "confidence": 0.0
+        },
+        {
+          "text": "because",
+          "start": 39.4,
+          "end": 39.4,
+          "confidence": 0.0004
+        },
+        {
+          "text": "with",
+          "start": 39.4,
+          "end": 39.4,
+          "confidence": 0.0009
+        },
+        {
+          "text": "this",
+          "start": 39.4,
+          "end": 39.4,
+          "confidence": 0.0444
+        },
+        {
+          "text": "typical",
+          "start": 39.4,
+          "end": 39.4,
+          "confidence": 0.0
+        },
+        {
+          "text": "language",
+          "start": 39.4,
+          "end": 39.4,
+          "confidence": 0.0252
+        },
+        {
+          "text": "there",
+          "start": 39.4,
+          "end": 39.4,
+          "confidence": 0.0098
+        },
+        {
+          "text": "is",
+          "start": 39.4,
+          "end": 39.4,
+          "confidence": 0.2927
+        },
+        {
+          "text": "even",
+          "start": 39.4,
+          "end": 39.4,
+          "confidence": 0.0018
+        },
+        {
+          "text": "some",
+          "start": 39.4,
+          "end": 39.4,
+          "confidence": 0.0367
+        },
+        {
+          "text": "other",
+          "start": 39.4,
+          "end": 39.4,
+          "confidence": 0.0623
+        },
+        {
+          "text": "words",
+          "start": 39.4,
+          "end": 39.4,
+          "confidence": 0.1933
+        },
+        {
+          "text": "How",
+          "start": 39.4,
+          "end": 39.4,
+          "confidence": 0.0
+        },
+        {
+          "text": "shall",
+          "start": 39.4,
+          "end": 39.44,
+          "confidence": 0.0011
+        },
+        {
+          "text": "I",
+          "start": 39.44,
+          "end": 39.64,
+          "confidence": 0.4784
+        },
+        {
+          "text": "find",
+          "start": 39.64,
+          "end": 39.64,
+          "confidence": 0.0075
+        },
+        {
+          "text": "out",
+          "start": 39.64,
+          "end": 39.64,
+          "confidence": 0.0338
+        },
+        {
+          "text": "more",
+          "start": 39.64,
+          "end": 39.64,
+          "confidence": 0.0367
+        },
+        {
+          "text": "about",
+          "start": 39.64,
+          "end": 40.16,
+          "confidence": 0.144
+        },
+        {
+          "text": "madam's",
+          "start": 40.16,
+          "end": 40.32,
+          "confidence": 0.1559
+        },
+        {
+          "text": "post?",
+          "start": 40.32,
+          "end": 40.72,
+          "confidence": 0.0004
+        },
+        {
+          "text": "it",
+          "start": 40.72,
+          "end": 41.34,
+          "confidence": 0.0033
+        },
+        {
+          "text": "might",
+          "start": 41.34,
+          "end": 41.34,
+          "confidence": 0.0175
+        },
+        {
+          "text": "make",
+          "start": 41.34,
+          "end": 42.04,
+          "confidence": 0.0102
+        },
+        {
+          "text": "sense",
+          "start": 42.04,
+          "end": 42.04,
+          "confidence": 0.0968
+        }
+      ],
+      "vad_segment_start": 37.38,
+      "vad_segment_end": 43.05,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    },
+    {
+      "utterance_id": "u014",
+      "start": 50.14,
+      "end": 50.72,
+      "duration": 0.58,
+      "transcript": "Madison",
+      "word_count": 1,
+      "words": [
+        {
+          "text": "Madison",
+          "start": 50.14,
+          "end": 50.72,
+          "confidence": 0.0
+        }
+      ],
+      "vad_segment_start": 49.05,
+      "vad_segment_end": 50.73,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "te",
+  "duration": 50.75,
+  "model_used": "small",
+  "timestamp": "2025-11-17T16:02:24.347123",
+  "segment_count": 3,
+  "word_count": 54,
+  "utterance_count": 3
+}

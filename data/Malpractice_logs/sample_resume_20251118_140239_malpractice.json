@@ -1,0 +1,10 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-18T08:32:46.850Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "What is the bias\u2013variance trade-off? How would you recognize and address high bias or high variance in a model?"
+    }
+  }
+]

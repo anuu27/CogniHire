@@ -1,0 +1,157 @@
+{
+  "session_id": "sample_resume_20251114_152957_8",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_152957_answer_processed.wav",
+  "raw_text": "其实有一点.. T Schwicaci T Schwicaci T Schwicaci T Schwicaci T Schwicaci",
+  "processed_text": "其实有一点..",
+  "words": [
+    {
+      "text": "其实有一点..Archichk",
+      "start": 3.0,
+      "end": 3.28,
+      "confidence": 0.0195
+    },
+    {
+      "text": "T",
+      "start": 3.76,
+      "end": 4.04,
+      "confidence": 0.0109
+    },
+    {
+      "text": "Schwicaci",
+      "start": 4.04,
+      "end": 4.04,
+      "confidence": 0.5855
+    },
+    {
+      "text": "T",
+      "start": 4.04,
+      "end": 4.06,
+      "confidence": 0.7067
+    },
+    {
+      "text": "Schwicaci",
+      "start": 4.06,
+      "end": 4.06,
+      "confidence": 0.9093
+    },
+    {
+      "text": "T",
+      "start": 4.06,
+      "end": 4.06,
+      "confidence": 0.8791
+    },
+    {
+      "text": "Schwicaci",
+      "start": 4.06,
+      "end": 4.2,
+      "confidence": 0.9425
+    },
+    {
+      "text": "Schwicaci",
+      "start": 4.2,
+      "end": 4.22,
+      "confidence": 0.9663
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 3.0,
+      "end": 4.22,
+      "duration": 1.22,
+      "transcript": "其实有一点..",
+      "word_count": 8,
+      "words": [
+        {
+          "text": "其实有一点..Archichk",
+          "start": 3.0,
+          "end": 3.28,
+          "confidence": 0.0195
+        },
+        {
+          "text": "T",
+          "start": 3.76,
+          "end": 4.04,
+          "confidence": 0.0109
+        },
+        {
+          "text": "Schwicaci",
+          "start": 4.04,
+          "end": 4.04,
+          "confidence": 0.5855
+        },
+        {
+          "text": "T",
+          "start": 4.04,
+          "end": 4.06,
+          "confidence": 0.7067
+        },
+        {
+          "text": "Schwicaci",
+          "start": 4.06,
+          "end": 4.06,
+          "confidence": 0.9093
+        },
+        {
+          "text": "T",
+          "start": 4.06,
+          "end": 4.06,
+          "confidence": 0.8791
+        },
+        {
+          "text": "Schwicaci",
+          "start": 4.06,
+          "end": 4.2,
+          "confidence": 0.9425
+        },
+        {
+          "text": "Schwicaci",
+          "start": 4.2,
+          "end": 4.22,
+          "confidence": 0.9663
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 4.23,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "ml",
+  "duration": 4.26,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T15:31:58.485429",
+  "segment_count": 1,
+  "word_count": 8,
+  "utterance_count": 1
+}

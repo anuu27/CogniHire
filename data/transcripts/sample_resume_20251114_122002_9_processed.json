@@ -1,0 +1,181 @@
+{
+  "session_id": "sample_resume_20251114_122002_9",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_122002_answer_processed.wav",
+  "raw_text": "I really don't remember this plate decided it long back.",
+  "processed_text": "I really don't remember this plate decided it long back.",
+  "words": [
+    {
+      "text": "I",
+      "start": 0.0,
+      "end": 0.26,
+      "confidence": 0.8551
+    },
+    {
+      "text": "really",
+      "start": 0.26,
+      "end": 0.52,
+      "confidence": 0.8968
+    },
+    {
+      "text": "don't",
+      "start": 0.52,
+      "end": 0.88,
+      "confidence": 0.9607
+    },
+    {
+      "text": "remember",
+      "start": 0.88,
+      "end": 1.18,
+      "confidence": 0.989
+    },
+    {
+      "text": "this",
+      "start": 1.18,
+      "end": 1.5,
+      "confidence": 0.9118
+    },
+    {
+      "text": "plate",
+      "start": 1.5,
+      "end": 1.74,
+      "confidence": 0.3822
+    },
+    {
+      "text": "decided",
+      "start": 1.74,
+      "end": 2.18,
+      "confidence": 0.3023
+    },
+    {
+      "text": "it",
+      "start": 2.18,
+      "end": 2.58,
+      "confidence": 0.6377
+    },
+    {
+      "text": "long",
+      "start": 2.58,
+      "end": 2.84,
+      "confidence": 0.451
+    },
+    {
+      "text": "back.",
+      "start": 2.84,
+      "end": 3.04,
+      "confidence": 0.9338
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 3.04,
+      "duration": 3.04,
+      "transcript": "I really don't remember this plate decided it long back.",
+      "word_count": 10,
+      "words": [
+        {
+          "text": "I",
+          "start": 0.0,
+          "end": 0.26,
+          "confidence": 0.8551
+        },
+        {
+          "text": "really",
+          "start": 0.26,
+          "end": 0.52,
+          "confidence": 0.8968
+        },
+        {
+          "text": "don't",
+          "start": 0.52,
+          "end": 0.88,
+          "confidence": 0.9607
+        },
+        {
+          "text": "remember",
+          "start": 0.88,
+          "end": 1.18,
+          "confidence": 0.989
+        },
+        {
+          "text": "this",
+          "start": 1.18,
+          "end": 1.5,
+          "confidence": 0.9118
+        },
+        {
+          "text": "plate",
+          "start": 1.5,
+          "end": 1.74,
+          "confidence": 0.3822
+        },
+        {
+          "text": "decided",
+          "start": 1.74,
+          "end": 2.18,
+          "confidence": 0.3023
+        },
+        {
+          "text": "it",
+          "start": 2.18,
+          "end": 2.58,
+          "confidence": 0.6377
+        },
+        {
+          "text": "long",
+          "start": 2.58,
+          "end": 2.84,
+          "confidence": 0.451
+        },
+        {
+          "text": "back.",
+          "start": 2.84,
+          "end": 3.04,
+          "confidence": 0.9338
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 3.06,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 3.07,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T12:22:50.102904",
+  "segment_count": 1,
+  "word_count": 10,
+  "utterance_count": 1
+}

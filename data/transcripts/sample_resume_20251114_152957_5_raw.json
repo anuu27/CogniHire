@@ -1,0 +1,58 @@
+{
+  "text": " God God God God God",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.68,
+      "text": " God God God God God",
+      "tokens": [
+        50364,
+        1265,
+        1265,
+        1265,
+        1265,
+        1265,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8607357144355774,
+      "compression_ratio": 1.3571428571428572,
+      "no_speech_prob": 0.5147743225097656,
+      "words": [
+        {
+          "word": " God",
+          "start": 0.0,
+          "end": 0.24,
+          "probability": 0.028425198048353195
+        },
+        {
+          "word": " God",
+          "start": 0.24,
+          "end": 0.84,
+          "probability": 0.25467726588249207
+        },
+        {
+          "word": " God",
+          "start": 0.84,
+          "end": 1.12,
+          "probability": 0.9364431500434875
+        },
+        {
+          "word": " God",
+          "start": 1.12,
+          "end": 1.44,
+          "probability": 0.9315062761306763
+        },
+        {
+          "word": " God",
+          "start": 1.44,
+          "end": 1.68,
+          "probability": 0.8671912550926208
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

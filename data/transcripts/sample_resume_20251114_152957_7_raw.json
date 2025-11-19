@@ -1,0 +1,94 @@
+{
+  "text": " My main goal was to get good grading that course.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.3,
+      "text": " My main goal was to get good grading that course.",
+      "tokens": [
+        50364,
+        1222,
+        2135,
+        3387,
+        390,
+        281,
+        483,
+        665,
+        35540,
+        300,
+        1164,
+        13,
+        50488
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47485027994428364,
+      "compression_ratio": 0.8909090909090909,
+      "no_speech_prob": 0.027505943551659584,
+      "words": [
+        {
+          "word": " My",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.4463708996772766
+        },
+        {
+          "word": " main",
+          "start": 0.26,
+          "end": 0.56,
+          "probability": 0.991795003414154
+        },
+        {
+          "word": " goal",
+          "start": 0.56,
+          "end": 0.78,
+          "probability": 0.9905189871788025
+        },
+        {
+          "word": " was",
+          "start": 0.78,
+          "end": 1.04,
+          "probability": 0.9773958325386047
+        },
+        {
+          "word": " to",
+          "start": 1.04,
+          "end": 1.22,
+          "probability": 0.9917465448379517
+        },
+        {
+          "word": " get",
+          "start": 1.22,
+          "end": 1.38,
+          "probability": 0.9984795451164246
+        },
+        {
+          "word": " good",
+          "start": 1.38,
+          "end": 1.7,
+          "probability": 0.945492684841156
+        },
+        {
+          "word": " grading",
+          "start": 1.7,
+          "end": 1.96,
+          "probability": 0.14196638762950897
+        },
+        {
+          "word": " that",
+          "start": 1.96,
+          "end": 2.2,
+          "probability": 0.733423113822937
+        },
+        {
+          "word": " course.",
+          "start": 2.2,
+          "end": 2.3,
+          "probability": 0.9461554884910583
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

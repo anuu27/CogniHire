@@ -1,0 +1,20 @@
+[
+  {
+    "id": "Q1",
+    "role_tags": [
+      "ml"
+    ],
+    "question": "Explain the bias-variance tradeoff in machine learning.",
+    "canonical_answer": "Bias-variance tradeoff describes the balance between a model's ability to capture true patterns (bias) and its sensitivity to noise (variance).",
+    "candidate_answer": "High bias leads to underfitting; high variance leads to overfitting. Find balance using capacity and regularization."
+  },
+  {
+    "id": "Q2",
+    "role_tags": [
+      "swe"
+    ],
+    "question": "Design a scalable URL shortening service.",
+    "canonical_answer": "Use key-generation service, sharded DB, cache, consistent hashing, and idempotent writes.",
+    "candidate_answer": "Use consistent hashing, short keys, Redis cache and durable store."
+  }
+]

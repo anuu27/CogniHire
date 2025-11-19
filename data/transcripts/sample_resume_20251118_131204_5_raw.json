@@ -1,0 +1,23 @@
+{
+  "text": "Reinforcement learning takes a feedback from the human to improve the model but supervised  learning trains based on the available data set with labels.",
+  "segments": [
+    {
+      "id": null,
+      "seek": null,
+      "start": 0.0,
+      "end": 5.44,
+      "text": " Reinforcement learning takes a feedback from the human to improve the model but supervised",
+      "words": []
+    },
+    {
+      "id": null,
+      "seek": null,
+      "start": 5.44,
+      "end": 8.46,
+      "text": " learning trains based on the available data set with labels.",
+      "words": []
+    }
+  ],
+  "language": "en",
+  "duration": 8.896
+}

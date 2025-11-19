@@ -1,0 +1,69 @@
+{
+  "session_id": "sample_resume_20251118_140239",
+  "Name": "Anugya Anantapur",
+  "role": "AI engineer",
+  "start_time": null,
+  "end_time": "2025-11-18T14:03:13.372985",
+  "overall_score": 7.0,
+  "score_before_malpractice": 10.0,
+  "cci": {
+    "raw": 10.04,
+    "percentile_vs_role": 11.57
+  },
+  "components": {
+    "role_relevance": 0.86,
+    "canonical_component": 0.86,
+    "resume_component": null,
+    "completeness": 2.53,
+    "conciseness": 0.0,
+    "fluency": 4.5
+  },
+  "subscores": {
+    "Conceptual correctness": 0.29,
+    "Reasoning depth": 1.01,
+    "Precision grounding": 0.29,
+    "Communication clarity": 3.0,
+    "Creativity / insight": 0.51
+  },
+  "trajectory": "The candidate demonstrates very limited foundational skills for an AI engineering role, suggesting a need for significant basic development.",
+  "strength": "The top strength is Communication clarity with a score of 3.0, though this is still a low score for the role.",
+  "risk": "Major risks include extremely low technical proficiency across all sub-scores and an assessment issue related to face detection.",
+  "recommendation": "Given the very low overall CCI and sub-scores, the candidate should be rejected for this role.",
+  "Badge": null,
+  "malpractice_detected": {
+    "count": 1,
+    "types": [
+      "no_face_detected"
+    ],
+    "deduction": 3.0
+  },
+  "per_question": [
+    {
+      "question": "What is the bias\u2013variance trade-off? How would you recognize and address high bias or high variance in a model?",
+      "answer": "",
+      "type": "role",
+      "canonical_matched_index": 1,
+      "canonical_answer": "The bias-variance trade-off is a fundamental concept in machine learning that describes the balance between two sources of error that affect model performance: Bias and Variance. To recognize high bias, look for poor performance on both training and validation data; to address it, consider using a more complex model or adding features. To recognize high variance, look for good performance on training data but poor performance on validation data; to address it, consider simplifying the model, using regularization techniques, or gathering more training data.",
+      "canonical_similarity": 0.057,
+      "canonical_score": 5.74,
+      "gemini_score": 0.0,
+      "gemini_reason": "The candidate provided no answer to the question.",
+      "combined_role_score": 2.87,
+      "q_a_similarity": 0.026,
+      "answer_length": 0,
+      "resume_eval": null
+    }
+  ],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T08:32:46.850Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What is the bias\u2013variance trade-off? How would you recognize and address high bias or high variance in a model?"
+      }
+    }
+  ],
+  "malpractice_count": 1
+}

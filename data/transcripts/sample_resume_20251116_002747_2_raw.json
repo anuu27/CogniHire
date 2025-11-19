@@ -1,0 +1,66 @@
+{
+  "text": " I will do this and that.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.38,
+      "text": " I will do this and that.",
+      "tokens": [
+        50364,
+        286,
+        486,
+        360,
+        341,
+        293,
+        300,
+        13,
+        50434
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3466867208480835,
+      "compression_ratio": 0.8,
+      "no_speech_prob": 0.02361360751092434,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.14,
+          "probability": 0.8251401782035828
+        },
+        {
+          "word": " will",
+          "start": 0.14,
+          "end": 0.26,
+          "probability": 0.8948396444320679
+        },
+        {
+          "word": " do",
+          "start": 0.26,
+          "end": 0.5,
+          "probability": 0.9908440709114075
+        },
+        {
+          "word": " this",
+          "start": 0.5,
+          "end": 0.82,
+          "probability": 0.983489990234375
+        },
+        {
+          "word": " and",
+          "start": 0.82,
+          "end": 1.16,
+          "probability": 0.9649071097373962
+        },
+        {
+          "word": " that.",
+          "start": 1.16,
+          "end": 1.38,
+          "probability": 0.7600724101066589
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

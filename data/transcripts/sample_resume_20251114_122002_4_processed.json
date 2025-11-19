@@ -1,0 +1,229 @@
+{
+  "session_id": "sample_resume_20251114_122002_4",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_122002_answer_processed.wav",
+  "raw_text": "basically it reduces the error and will occur to me as the loss function.",
+  "processed_text": "It reduces the error and will occur to me as the loss function.",
+  "words": [
+    {
+      "text": "basically",
+      "start": 0.0,
+      "end": 1.24,
+      "confidence": 0.5033
+    },
+    {
+      "text": "it",
+      "start": 1.24,
+      "end": 1.56,
+      "confidence": 0.8804
+    },
+    {
+      "text": "reduces",
+      "start": 1.56,
+      "end": 1.9,
+      "confidence": 0.8044
+    },
+    {
+      "text": "the",
+      "start": 1.9,
+      "end": 2.22,
+      "confidence": 0.9881
+    },
+    {
+      "text": "error",
+      "start": 2.22,
+      "end": 2.56,
+      "confidence": 0.7155
+    },
+    {
+      "text": "and",
+      "start": 2.56,
+      "end": 2.94,
+      "confidence": 0.2336
+    },
+    {
+      "text": "will",
+      "start": 2.94,
+      "end": 3.06,
+      "confidence": 0.7038
+    },
+    {
+      "text": "occur",
+      "start": 3.06,
+      "end": 3.3,
+      "confidence": 0.0725
+    },
+    {
+      "text": "to",
+      "start": 3.3,
+      "end": 3.5,
+      "confidence": 0.7333
+    },
+    {
+      "text": "me",
+      "start": 3.5,
+      "end": 3.56,
+      "confidence": 0.6531
+    },
+    {
+      "text": "as",
+      "start": 3.56,
+      "end": 3.7,
+      "confidence": 0.8684
+    },
+    {
+      "text": "the",
+      "start": 3.7,
+      "end": 3.86,
+      "confidence": 0.4569
+    },
+    {
+      "text": "loss",
+      "start": 3.86,
+      "end": 4.36,
+      "confidence": 0.5329
+    },
+    {
+      "text": "function.",
+      "start": 4.36,
+      "end": 4.84,
+      "confidence": 0.9888
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 4.84,
+      "duration": 4.84,
+      "transcript": "It reduces the error and will occur to me as the loss function.",
+      "word_count": 14,
+      "words": [
+        {
+          "text": "basically",
+          "start": 0.0,
+          "end": 1.24,
+          "confidence": 0.5033
+        },
+        {
+          "text": "it",
+          "start": 1.24,
+          "end": 1.56,
+          "confidence": 0.8804
+        },
+        {
+          "text": "reduces",
+          "start": 1.56,
+          "end": 1.9,
+          "confidence": 0.8044
+        },
+        {
+          "text": "the",
+          "start": 1.9,
+          "end": 2.22,
+          "confidence": 0.9881
+        },
+        {
+          "text": "error",
+          "start": 2.22,
+          "end": 2.56,
+          "confidence": 0.7155
+        },
+        {
+          "text": "and",
+          "start": 2.56,
+          "end": 2.94,
+          "confidence": 0.2336
+        },
+        {
+          "text": "will",
+          "start": 2.94,
+          "end": 3.06,
+          "confidence": 0.7038
+        },
+        {
+          "text": "occur",
+          "start": 3.06,
+          "end": 3.3,
+          "confidence": 0.0725
+        },
+        {
+          "text": "to",
+          "start": 3.3,
+          "end": 3.5,
+          "confidence": 0.7333
+        },
+        {
+          "text": "me",
+          "start": 3.5,
+          "end": 3.56,
+          "confidence": 0.6531
+        },
+        {
+          "text": "as",
+          "start": 3.56,
+          "end": 3.7,
+          "confidence": 0.8684
+        },
+        {
+          "text": "the",
+          "start": 3.7,
+          "end": 3.86,
+          "confidence": 0.4569
+        },
+        {
+          "text": "loss",
+          "start": 3.86,
+          "end": 4.36,
+          "confidence": 0.5329
+        },
+        {
+          "text": "function.",
+          "start": 4.36,
+          "end": 4.84,
+          "confidence": 0.9888
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 4.95,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 5.86,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T12:21:20.998451",
+  "segment_count": 1,
+  "word_count": 14,
+  "utterance_count": 1
+}

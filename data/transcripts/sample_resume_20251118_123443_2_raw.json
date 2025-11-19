@@ -1,0 +1,31 @@
+{
+  "text": "But I don't know why it's effective.  I'm just interested.  I don't know, I don't know, I don't know.",
+  "segments": [
+    {
+      "id": null,
+      "seek": null,
+      "start": 0.0,
+      "end": 1.06,
+      "text": " But I don't know why it's effective.",
+      "words": []
+    },
+    {
+      "id": null,
+      "seek": null,
+      "start": 2.14,
+      "end": 3.08,
+      "text": " I'm just interested.",
+      "words": []
+    },
+    {
+      "id": null,
+      "seek": null,
+      "start": 11.38,
+      "end": 13.68,
+      "text": " I don't know, I don't know, I don't know.",
+      "words": []
+    }
+  ],
+  "language": "en",
+  "duration": 13.792
+}

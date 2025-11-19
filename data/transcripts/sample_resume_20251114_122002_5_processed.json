@@ -1,0 +1,217 @@
+{
+  "session_id": "sample_resume_20251114_122002_5",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_122002_answer_processed.wav",
+  "raw_text": "and the transfer on models split the input into tokens and then processes.",
+  "processed_text": "And the transfer on models split the input into tokens and then processes.",
+  "words": [
+    {
+      "text": "and",
+      "start": 0.0,
+      "end": 0.74,
+      "confidence": 0.2432
+    },
+    {
+      "text": "the",
+      "start": 0.74,
+      "end": 0.88,
+      "confidence": 0.7424
+    },
+    {
+      "text": "transfer",
+      "start": 0.88,
+      "end": 1.36,
+      "confidence": 0.217
+    },
+    {
+      "text": "on",
+      "start": 1.36,
+      "end": 1.64,
+      "confidence": 0.1856
+    },
+    {
+      "text": "models",
+      "start": 1.64,
+      "end": 2.36,
+      "confidence": 0.9621
+    },
+    {
+      "text": "split",
+      "start": 2.36,
+      "end": 3.5,
+      "confidence": 0.2613
+    },
+    {
+      "text": "the",
+      "start": 3.5,
+      "end": 4.18,
+      "confidence": 0.8713
+    },
+    {
+      "text": "input",
+      "start": 4.18,
+      "end": 4.42,
+      "confidence": 0.9825
+    },
+    {
+      "text": "into",
+      "start": 4.42,
+      "end": 4.74,
+      "confidence": 0.9434
+    },
+    {
+      "text": "tokens",
+      "start": 4.74,
+      "end": 5.14,
+      "confidence": 0.7974
+    },
+    {
+      "text": "and",
+      "start": 5.14,
+      "end": 5.42,
+      "confidence": 0.9773
+    },
+    {
+      "text": "then",
+      "start": 5.42,
+      "end": 5.62,
+      "confidence": 0.9652
+    },
+    {
+      "text": "processes.",
+      "start": 5.62,
+      "end": 6.0,
+      "confidence": 0.7746
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 6.0,
+      "duration": 6.0,
+      "transcript": "And the transfer on models split the input into tokens and then processes.",
+      "word_count": 13,
+      "words": [
+        {
+          "text": "and",
+          "start": 0.0,
+          "end": 0.74,
+          "confidence": 0.2432
+        },
+        {
+          "text": "the",
+          "start": 0.74,
+          "end": 0.88,
+          "confidence": 0.7424
+        },
+        {
+          "text": "transfer",
+          "start": 0.88,
+          "end": 1.36,
+          "confidence": 0.217
+        },
+        {
+          "text": "on",
+          "start": 1.36,
+          "end": 1.64,
+          "confidence": 0.1856
+        },
+        {
+          "text": "models",
+          "start": 1.64,
+          "end": 2.36,
+          "confidence": 0.9621
+        },
+        {
+          "text": "split",
+          "start": 2.36,
+          "end": 3.5,
+          "confidence": 0.2613
+        },
+        {
+          "text": "the",
+          "start": 3.5,
+          "end": 4.18,
+          "confidence": 0.8713
+        },
+        {
+          "text": "input",
+          "start": 4.18,
+          "end": 4.42,
+          "confidence": 0.9825
+        },
+        {
+          "text": "into",
+          "start": 4.42,
+          "end": 4.74,
+          "confidence": 0.9434
+        },
+        {
+          "text": "tokens",
+          "start": 4.74,
+          "end": 5.14,
+          "confidence": 0.7974
+        },
+        {
+          "text": "and",
+          "start": 5.14,
+          "end": 5.42,
+          "confidence": 0.9773
+        },
+        {
+          "text": "then",
+          "start": 5.42,
+          "end": 5.62,
+          "confidence": 0.9652
+        },
+        {
+          "text": "processes.",
+          "start": 5.62,
+          "end": 6.0,
+          "confidence": 0.7746
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 6.33,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 6.34,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T12:21:38.773494",
+  "segment_count": 1,
+  "word_count": 13,
+  "utterance_count": 1
+}

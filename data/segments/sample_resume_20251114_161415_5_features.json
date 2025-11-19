@@ -1,0 +1,143 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 5.5,
+    "duration": 5.5,
+    "transcript": "Transformant model process input sequences and outper forms RNNs in LSTM.",
+    "word_count": 11,
+    "words": [
+      {
+        "text": "Transformant",
+        "start": 0.0,
+        "end": 0.76,
+        "confidence": 0.3468
+      },
+      {
+        "text": "model",
+        "start": 0.76,
+        "end": 1.04,
+        "confidence": 0.8988
+      },
+      {
+        "text": "process",
+        "start": 1.04,
+        "end": 1.4,
+        "confidence": 0.4641
+      },
+      {
+        "text": "input",
+        "start": 1.4,
+        "end": 1.84,
+        "confidence": 0.9417
+      },
+      {
+        "text": "sequences",
+        "start": 1.84,
+        "end": 2.5,
+        "confidence": 0.9575
+      },
+      {
+        "text": "and",
+        "start": 2.5,
+        "end": 3.0,
+        "confidence": 0.8363
+      },
+      {
+        "text": "outper",
+        "start": 3.0,
+        "end": 3.38,
+        "confidence": 0.5291
+      },
+      {
+        "text": "forms",
+        "start": 3.38,
+        "end": 3.7,
+        "confidence": 0.3507
+      },
+      {
+        "text": "RNNs",
+        "start": 3.7,
+        "end": 4.84,
+        "confidence": 0.5365
+      },
+      {
+        "text": "in",
+        "start": 4.84,
+        "end": 4.94,
+        "confidence": 0.6052
+      },
+      {
+        "text": "LSTM.",
+        "start": 4.94,
+        "end": 5.5,
+        "confidence": 0.7923
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 5.52,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.66,
+    "speech_rate_wps": 2.0,
+    "speech_rate_wpm": 120.0,
+    "articulation_rate": 2.0,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 126.121,
+    "pitch_std": 10.352,
+    "pitch_range": 53.1,
+    "pitch_variance": 107.158,
+    "voiced_frames_ratio": 0.924,
+    "rms_energy_mean": 0.065,
+    "rms_energy_std": 0.039,
+    "rms_energy_max": 0.177,
+    "rms_energy_min": 0.002,
+    "energy_dynamic_range": 0.175,
+    "zero_crossing_rate": 0.124,
+    "harmonic_noise_ratio": 1.751,
+    "spectral_centroid_mean": 1442.629,
+    "spectral_centroid_std": 1126.063,
+    "mfcc_1_mean": -288.012,
+    "mfcc_2_mean": 127.896,
+    "mfcc_1_std": 62.848,
+    "spectral_rolloff": 2615.234,
+    "spectral_bandwidth": 1328.419,
+    "snr_approximation": 1.691,
+    "clipping_ratio": 0.0
+  }
+]

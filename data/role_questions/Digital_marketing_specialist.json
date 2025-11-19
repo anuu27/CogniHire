@@ -1,0 +1,49 @@
+{
+  "role": "Digital Marketing Specialist",
+  "record_count": 260,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "How do you approach developing a digital marketing strategy for a new product or service?",
+      "canonical_answer": "I research the target audience, analyze competitors, set goals, choose channels, create content plans, and track performance with clear KPIs.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain the differences between SEO, SEM, and paid advertising campaigns. How do you decide which to use?",
+      "canonical_answer": "SEO improves organic visibility, SEM combines SEO and paid search, and paid ads provide quick targeted reach. I choose based on goals, budget, and timeline.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you measure the success of a digital marketing campaign? What KPIs and metrics do you track?",
+      "canonical_answer": "I track metrics like CTR, conversion rate, ROI, traffic, engagement, and customer acquisition cost to measure campaign success.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you use social media platforms strategically to drive engagement and conversions?",
+      "canonical_answer": "I tailor content to each platform, use trends, run targeted ads, engage with users, and optimize posts for reach and conversions.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain how you would perform competitor analysis in the digital space.",
+      "canonical_answer": "I review competitors’ websites, content, SEO rankings, ads, social engagement, and messaging to identify opportunities and gaps.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe your experience with email marketing campaigns. How do you improve open and click-through rates?",
+      "canonical_answer": "I segment audiences, personalize messages, A/B test subject lines, optimize send times, and use clear CTAs to boost open and click rates.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What strategies do you use to improve website traffic and lead generation organically?",
+      "canonical_answer": "I use SEO, high-quality content, blogging, internal linking, keyword optimization, and user experience improvements to grow organic traffic.",
+      "rubric_points": []
+    }
+  ]
+}

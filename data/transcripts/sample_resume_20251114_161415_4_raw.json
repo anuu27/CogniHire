@@ -1,0 +1,96 @@
+{
+  "text": " Gradient descent works and optimizes like admin through app on.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.3,
+      "text": " Gradient descent works and optimizes like admin through app on.",
+      "tokens": [
+        50364,
+        16710,
+        1196,
+        23475,
+        1985,
+        293,
+        5028,
+        5660,
+        411,
+        24236,
+        807,
+        724,
+        322,
+        13,
+        50584
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8536006808280945,
+      "compression_ratio": 0.9545454545454546,
+      "no_speech_prob": 0.12815044820308685,
+      "words": [
+        {
+          "word": " Gradient",
+          "start": 0.0,
+          "end": 1.14,
+          "probability": 0.6396199613809586
+        },
+        {
+          "word": " descent",
+          "start": 1.14,
+          "end": 1.48,
+          "probability": 0.2819666564464569
+        },
+        {
+          "word": " works",
+          "start": 1.48,
+          "end": 1.78,
+          "probability": 0.9677734375
+        },
+        {
+          "word": " and",
+          "start": 1.78,
+          "end": 2.42,
+          "probability": 0.8020978569984436
+        },
+        {
+          "word": " optimizes",
+          "start": 2.42,
+          "end": 3.06,
+          "probability": 0.770447313785553
+        },
+        {
+          "word": " like",
+          "start": 3.06,
+          "end": 3.44,
+          "probability": 0.4683396816253662
+        },
+        {
+          "word": " admin",
+          "start": 3.44,
+          "end": 3.72,
+          "probability": 0.4498380720615387
+        },
+        {
+          "word": " through",
+          "start": 3.72,
+          "end": 4.06,
+          "probability": 0.4800148010253906
+        },
+        {
+          "word": " app",
+          "start": 4.06,
+          "end": 4.3,
+          "probability": 0.3720722794532776
+        },
+        {
+          "word": " on.",
+          "start": 4.3,
+          "end": 4.3,
+          "probability": 0.31078866124153137
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,125 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 4.06,
+    "duration": 4.06,
+    "transcript": "Gradient descent works and optimizes admin through",
+    "word_count": 8,
+    "words": [
+      {
+        "text": "Gradient",
+        "start": 0.0,
+        "end": 1.14,
+        "confidence": 0.6396
+      },
+      {
+        "text": "descent",
+        "start": 1.14,
+        "end": 1.48,
+        "confidence": 0.282
+      },
+      {
+        "text": "works",
+        "start": 1.48,
+        "end": 1.78,
+        "confidence": 0.9678
+      },
+      {
+        "text": "and",
+        "start": 1.78,
+        "end": 2.42,
+        "confidence": 0.8021
+      },
+      {
+        "text": "optimizes",
+        "start": 2.42,
+        "end": 3.06,
+        "confidence": 0.7704
+      },
+      {
+        "text": "like",
+        "start": 3.06,
+        "end": 3.44,
+        "confidence": 0.4683
+      },
+      {
+        "text": "admin",
+        "start": 3.44,
+        "end": 3.72,
+        "confidence": 0.4498
+      },
+      {
+        "text": "through",
+        "start": 3.72,
+        "end": 4.06,
+        "confidence": 0.48
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 4.29,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.607,
+    "speech_rate_wps": 1.97,
+    "speech_rate_wpm": 118.227,
+    "articulation_rate": 1.97,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 123.966,
+    "pitch_std": 10.711,
+    "pitch_range": 43.65,
+    "pitch_variance": 114.73,
+    "voiced_frames_ratio": 0.843,
+    "rms_energy_mean": 0.066,
+    "rms_energy_std": 0.047,
+    "rms_energy_max": 0.202,
+    "rms_energy_min": 0.002,
+    "energy_dynamic_range": 0.2,
+    "zero_crossing_rate": 0.09,
+    "harmonic_noise_ratio": 1.495,
+    "spectral_centroid_mean": 1182.419,
+    "spectral_centroid_std": 752.945,
+    "mfcc_1_mean": -305.78,
+    "mfcc_2_mean": 142.548,
+    "mfcc_1_std": 89.176,
+    "spectral_rolloff": 2184.424,
+    "spectral_bandwidth": 1224.427,
+    "snr_approximation": 1.405,
+    "clipping_ratio": 0.0
+  }
+]

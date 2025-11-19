@@ -1,0 +1,115 @@
+{
+  "text": " I don't know, I don't know, I don't know, I don't know.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.58,
+      "text": " I don't know, I don't know, I don't know, I don't know.",
+      "tokens": [
+        50364,
+        286,
+        500,
+        380,
+        458,
+        11,
+        286,
+        500,
+        380,
+        458,
+        11,
+        286,
+        500,
+        380,
+        458,
+        11,
+        286,
+        500,
+        380,
+        458,
+        13,
+        50496
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22618140345034393,
+      "compression_ratio": 2.1153846153846154,
+      "no_speech_prob": 0.15477079153060913,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.8122928738594055
+        },
+        {
+          "word": " don't",
+          "start": 0.22,
+          "end": 0.56,
+          "probability": 0.9684910774230957
+        },
+        {
+          "word": " know,",
+          "start": 0.56,
+          "end": 0.72,
+          "probability": 0.9903053045272827
+        },
+        {
+          "word": " I",
+          "start": 0.8,
+          "end": 0.94,
+          "probability": 0.9600889086723328
+        },
+        {
+          "word": " don't",
+          "start": 0.94,
+          "end": 1.3,
+          "probability": 0.9939848184585571
+        },
+        {
+          "word": " know,",
+          "start": 1.3,
+          "end": 1.44,
+          "probability": 0.9954379200935364
+        },
+        {
+          "word": " I",
+          "start": 1.48,
+          "end": 1.6,
+          "probability": 0.9911359548568726
+        },
+        {
+          "word": " don't",
+          "start": 1.6,
+          "end": 1.94,
+          "probability": 0.9963713884353638
+        },
+        {
+          "word": " know,",
+          "start": 1.94,
+          "end": 2.06,
+          "probability": 0.9945371747016907
+        },
+        {
+          "word": " I",
+          "start": 2.1,
+          "end": 2.18,
+          "probability": 0.9940872192382812
+        },
+        {
+          "word": " don't",
+          "start": 2.18,
+          "end": 2.48,
+          "probability": 0.9971215724945068
+        },
+        {
+          "word": " know.",
+          "start": 2.48,
+          "end": 2.58,
+          "probability": 0.9806361794471741
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

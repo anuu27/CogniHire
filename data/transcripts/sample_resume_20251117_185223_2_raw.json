@@ -1,0 +1,87 @@
+{
+  "text": " blah blah blah blah blah blah I don't know",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.48,
+      "text": " blah blah blah blah blah blah I don't know",
+      "tokens": [
+        50364,
+        12288,
+        12288,
+        12288,
+        12288,
+        12288,
+        12288,
+        286,
+        500,
+        380,
+        458,
+        50588
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5078041370098407,
+      "compression_ratio": 1.5,
+      "no_speech_prob": 0.2606378495693207,
+      "words": [
+        {
+          "word": " blah",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.3367448151111603
+        },
+        {
+          "word": " blah",
+          "start": 0.4,
+          "end": 1.02,
+          "probability": 0.8561041951179504
+        },
+        {
+          "word": " blah",
+          "start": 1.02,
+          "end": 1.42,
+          "probability": 0.9448140263557434
+        },
+        {
+          "word": " blah",
+          "start": 1.42,
+          "end": 1.82,
+          "probability": 0.8321775794029236
+        },
+        {
+          "word": " blah",
+          "start": 1.82,
+          "end": 2.16,
+          "probability": 0.7837766408920288
+        },
+        {
+          "word": " blah",
+          "start": 2.16,
+          "end": 2.3,
+          "probability": 0.5680627226829529
+        },
+        {
+          "word": " I",
+          "start": 2.3,
+          "end": 2.68,
+          "probability": 0.400271475315094
+        },
+        {
+          "word": " don't",
+          "start": 2.68,
+          "end": 3.12,
+          "probability": 0.9701718986034393
+        },
+        {
+          "word": " know",
+          "start": 3.12,
+          "end": 3.48,
+          "probability": 0.9941206574440002
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

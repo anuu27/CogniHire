@@ -1,0 +1,94 @@
+{
+  "text": " to implement a program with less time and less complexity.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.94,
+      "text": " to implement a program with less time and less complexity.",
+      "tokens": [
+        50364,
+        281,
+        4445,
+        257,
+        1461,
+        365,
+        1570,
+        565,
+        293,
+        1570,
+        14024,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.455176728112357,
+      "compression_ratio": 0.9830508474576272,
+      "no_speech_prob": 0.02065150812268257,
+      "words": [
+        {
+          "word": " to",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.37730205059051514
+        },
+        {
+          "word": " implement",
+          "start": 0.3,
+          "end": 0.68,
+          "probability": 0.9597607851028442
+        },
+        {
+          "word": " a",
+          "start": 0.68,
+          "end": 1.74,
+          "probability": 0.6577562093734741
+        },
+        {
+          "word": " program",
+          "start": 1.74,
+          "end": 2.4,
+          "probability": 0.710150420665741
+        },
+        {
+          "word": " with",
+          "start": 2.4,
+          "end": 2.78,
+          "probability": 0.990830659866333
+        },
+        {
+          "word": " less",
+          "start": 2.78,
+          "end": 4.2,
+          "probability": 0.9674710631370544
+        },
+        {
+          "word": " time",
+          "start": 4.2,
+          "end": 4.94,
+          "probability": 0.3207032382488251
+        },
+        {
+          "word": " and",
+          "start": 4.94,
+          "end": 6.04,
+          "probability": 0.6885541677474976
+        },
+        {
+          "word": " less",
+          "start": 6.04,
+          "end": 6.28,
+          "probability": 0.9900780916213989
+        },
+        {
+          "word": " complexity.",
+          "start": 6.28,
+          "end": 6.94,
+          "probability": 0.9314418435096741
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

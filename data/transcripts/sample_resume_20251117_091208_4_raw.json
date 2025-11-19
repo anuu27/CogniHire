@@ -1,0 +1,48 @@
+{
+  "text": " Blah, blah, blah.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.66,
+      "text": " Blah, blah, blah.",
+      "tokens": [
+        50364,
+        2177,
+        545,
+        11,
+        12288,
+        11,
+        12288,
+        13,
+        50404
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4602809906005859,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.15624117851257324,
+      "words": [
+        {
+          "word": " Blah,",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.5694818496704102
+        },
+        {
+          "word": " blah,",
+          "start": 0.34,
+          "end": 0.46,
+          "probability": 0.9287234544754028
+        },
+        {
+          "word": " blah.",
+          "start": 0.54,
+          "end": 0.66,
+          "probability": 0.97904372215271
+        }
+      ]
+    }
+  ],
+  "language": "pt"
+}

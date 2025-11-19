@@ -1,0 +1,283 @@
+{
+  "session_id": "sample_resume_20251114_122002_7",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_122002_answer_processed.wav",
+  "raw_text": "People click on the path and play the game so it was the most incorrect to think about it.",
+  "processed_text": "People click on the path and play the game so it was the most incorrect to think about it.",
+  "words": [
+    {
+      "text": "People",
+      "start": 0.0,
+      "end": 0.54,
+      "confidence": 0.2795
+    },
+    {
+      "text": "click",
+      "start": 0.54,
+      "end": 2.84,
+      "confidence": 0.6612
+    },
+    {
+      "text": "on",
+      "start": 2.84,
+      "end": 4.0,
+      "confidence": 0.9413
+    },
+    {
+      "text": "the",
+      "start": 4.0,
+      "end": 4.26,
+      "confidence": 0.9633
+    },
+    {
+      "text": "path",
+      "start": 4.26,
+      "end": 4.6,
+      "confidence": 0.8424
+    },
+    {
+      "text": "and",
+      "start": 4.6,
+      "end": 4.84,
+      "confidence": 0.9671
+    },
+    {
+      "text": "play",
+      "start": 4.84,
+      "end": 5.06,
+      "confidence": 0.9944
+    },
+    {
+      "text": "the",
+      "start": 5.06,
+      "end": 5.24,
+      "confidence": 0.9687
+    },
+    {
+      "text": "game",
+      "start": 5.24,
+      "end": 5.48,
+      "confidence": 0.988
+    },
+    {
+      "text": "so",
+      "start": 5.48,
+      "end": 5.82,
+      "confidence": 0.4726
+    },
+    {
+      "text": "it",
+      "start": 5.82,
+      "end": 6.0,
+      "confidence": 0.9646
+    },
+    {
+      "text": "was",
+      "start": 6.0,
+      "end": 6.14,
+      "confidence": 0.952
+    },
+    {
+      "text": "the",
+      "start": 6.14,
+      "end": 6.26,
+      "confidence": 0.9879
+    },
+    {
+      "text": "most",
+      "start": 6.26,
+      "end": 6.46,
+      "confidence": 0.9914
+    },
+    {
+      "text": "incorrect",
+      "start": 6.46,
+      "end": 6.8,
+      "confidence": 0.2163
+    },
+    {
+      "text": "to",
+      "start": 6.8,
+      "end": 7.0,
+      "confidence": 0.6546
+    },
+    {
+      "text": "think",
+      "start": 7.0,
+      "end": 7.16,
+      "confidence": 0.9295
+    },
+    {
+      "text": "about",
+      "start": 7.16,
+      "end": 7.4,
+      "confidence": 0.9922
+    },
+    {
+      "text": "it.",
+      "start": 7.4,
+      "end": 7.62,
+      "confidence": 0.9909
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.54,
+      "end": 7.62,
+      "duration": 7.08,
+      "transcript": "Click on the path and play the game so it was the most incorrect to think about it.",
+      "word_count": 18,
+      "words": [
+        {
+          "text": "click",
+          "start": 0.54,
+          "end": 2.84,
+          "confidence": 0.6612
+        },
+        {
+          "text": "on",
+          "start": 2.84,
+          "end": 4.0,
+          "confidence": 0.9413
+        },
+        {
+          "text": "the",
+          "start": 4.0,
+          "end": 4.26,
+          "confidence": 0.9633
+        },
+        {
+          "text": "path",
+          "start": 4.26,
+          "end": 4.6,
+          "confidence": 0.8424
+        },
+        {
+          "text": "and",
+          "start": 4.6,
+          "end": 4.84,
+          "confidence": 0.9671
+        },
+        {
+          "text": "play",
+          "start": 4.84,
+          "end": 5.06,
+          "confidence": 0.9944
+        },
+        {
+          "text": "the",
+          "start": 5.06,
+          "end": 5.24,
+          "confidence": 0.9687
+        },
+        {
+          "text": "game",
+          "start": 5.24,
+          "end": 5.48,
+          "confidence": 0.988
+        },
+        {
+          "text": "so",
+          "start": 5.48,
+          "end": 5.82,
+          "confidence": 0.4726
+        },
+        {
+          "text": "it",
+          "start": 5.82,
+          "end": 6.0,
+          "confidence": 0.9646
+        },
+        {
+          "text": "was",
+          "start": 6.0,
+          "end": 6.14,
+          "confidence": 0.952
+        },
+        {
+          "text": "the",
+          "start": 6.14,
+          "end": 6.26,
+          "confidence": 0.9879
+        },
+        {
+          "text": "most",
+          "start": 6.26,
+          "end": 6.46,
+          "confidence": 0.9914
+        },
+        {
+          "text": "incorrect",
+          "start": 6.46,
+          "end": 6.8,
+          "confidence": 0.2163
+        },
+        {
+          "text": "to",
+          "start": 6.8,
+          "end": 7.0,
+          "confidence": 0.6546
+        },
+        {
+          "text": "think",
+          "start": 7.0,
+          "end": 7.16,
+          "confidence": 0.9295
+        },
+        {
+          "text": "about",
+          "start": 7.16,
+          "end": 7.4,
+          "confidence": 0.9922
+        },
+        {
+          "text": "it.",
+          "start": 7.4,
+          "end": 7.62,
+          "confidence": 0.9909
+        }
+      ],
+      "vad_segment_start": 0.03,
+      "vad_segment_end": 7.62,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 7.65,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T12:22:12.023546",
+  "segment_count": 1,
+  "word_count": 19,
+  "utterance_count": 1
+}

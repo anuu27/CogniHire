@@ -1,0 +1,193 @@
+{
+  "session_id": "sample_resume_20251114_155811_5",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_155811_answer_processed.wav",
+  "raw_text": "transformer process has input sequence better than RMS. And LST is.",
+  "processed_text": "Transformer process has input sequence better than RMS.",
+  "words": [
+    {
+      "text": "transformer",
+      "start": 0.0,
+      "end": 0.76,
+      "confidence": 0.3389
+    },
+    {
+      "text": "process",
+      "start": 0.76,
+      "end": 1.26,
+      "confidence": 0.6115
+    },
+    {
+      "text": "has",
+      "start": 1.26,
+      "end": 1.54,
+      "confidence": 0.615
+    },
+    {
+      "text": "input",
+      "start": 1.54,
+      "end": 1.88,
+      "confidence": 0.6883
+    },
+    {
+      "text": "sequence",
+      "start": 1.88,
+      "end": 2.38,
+      "confidence": 0.6547
+    },
+    {
+      "text": "better",
+      "start": 2.38,
+      "end": 2.88,
+      "confidence": 0.6003
+    },
+    {
+      "text": "than",
+      "start": 2.88,
+      "end": 3.26,
+      "confidence": 0.9825
+    },
+    {
+      "text": "RMS.",
+      "start": 3.26,
+      "end": 4.04,
+      "confidence": 0.4065
+    },
+    {
+      "text": "And",
+      "start": 4.84,
+      "end": 4.98,
+      "confidence": 0.3588
+    },
+    {
+      "text": "LST",
+      "start": 4.98,
+      "end": 5.44,
+      "confidence": 0.2872
+    },
+    {
+      "text": "is.",
+      "start": 5.44,
+      "end": 5.74,
+      "confidence": 0.3962
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 5.74,
+      "duration": 5.74,
+      "transcript": "Transformer process has input sequence better than RMS.",
+      "word_count": 11,
+      "words": [
+        {
+          "text": "transformer",
+          "start": 0.0,
+          "end": 0.76,
+          "confidence": 0.3389
+        },
+        {
+          "text": "process",
+          "start": 0.76,
+          "end": 1.26,
+          "confidence": 0.6115
+        },
+        {
+          "text": "has",
+          "start": 1.26,
+          "end": 1.54,
+          "confidence": 0.615
+        },
+        {
+          "text": "input",
+          "start": 1.54,
+          "end": 1.88,
+          "confidence": 0.6883
+        },
+        {
+          "text": "sequence",
+          "start": 1.88,
+          "end": 2.38,
+          "confidence": 0.6547
+        },
+        {
+          "text": "better",
+          "start": 2.38,
+          "end": 2.88,
+          "confidence": 0.6003
+        },
+        {
+          "text": "than",
+          "start": 2.88,
+          "end": 3.26,
+          "confidence": 0.9825
+        },
+        {
+          "text": "RMS.",
+          "start": 3.26,
+          "end": 4.04,
+          "confidence": 0.4065
+        },
+        {
+          "text": "And",
+          "start": 4.84,
+          "end": 4.98,
+          "confidence": 0.3588
+        },
+        {
+          "text": "LST",
+          "start": 4.98,
+          "end": 5.44,
+          "confidence": 0.2872
+        },
+        {
+          "text": "is.",
+          "start": 5.44,
+          "end": 5.74,
+          "confidence": 0.3962
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 6.12,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 6.14,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T15:59:33.269781",
+  "segment_count": 1,
+  "word_count": 11,
+  "utterance_count": 1
+}

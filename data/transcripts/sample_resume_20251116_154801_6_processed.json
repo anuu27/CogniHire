@@ -1,0 +1,247 @@
+{
+  "session_id": "sample_resume_20251116_154801_6",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251116_154801_answer_processed.wav",
+  "raw_text": "If we, if we didn't know that we would have fast in U only, you know?",
+  "processed_text": "If we, if we didn't know that we would have fast in U only, ?",
+  "words": [
+    {
+      "text": "If",
+      "start": 0.0,
+      "end": 0.24,
+      "confidence": 0.5357
+    },
+    {
+      "text": "we,",
+      "start": 0.24,
+      "end": 0.46,
+      "confidence": 0.9023
+    },
+    {
+      "text": "if",
+      "start": 0.6,
+      "end": 1.16,
+      "confidence": 0.8717
+    },
+    {
+      "text": "we",
+      "start": 1.16,
+      "end": 1.52,
+      "confidence": 0.9938
+    },
+    {
+      "text": "didn't",
+      "start": 1.52,
+      "end": 1.86,
+      "confidence": 0.8114
+    },
+    {
+      "text": "know",
+      "start": 1.86,
+      "end": 2.06,
+      "confidence": 0.9952
+    },
+    {
+      "text": "that",
+      "start": 2.06,
+      "end": 2.26,
+      "confidence": 0.9401
+    },
+    {
+      "text": "we",
+      "start": 2.26,
+      "end": 2.42,
+      "confidence": 0.8796
+    },
+    {
+      "text": "would",
+      "start": 2.42,
+      "end": 2.56,
+      "confidence": 0.966
+    },
+    {
+      "text": "have",
+      "start": 2.56,
+      "end": 2.76,
+      "confidence": 0.9847
+    },
+    {
+      "text": "fast",
+      "start": 2.76,
+      "end": 3.1,
+      "confidence": 0.6215
+    },
+    {
+      "text": "in",
+      "start": 3.1,
+      "end": 3.32,
+      "confidence": 0.269
+    },
+    {
+      "text": "U",
+      "start": 3.32,
+      "end": 3.5,
+      "confidence": 0.5931
+    },
+    {
+      "text": "only,",
+      "start": 3.5,
+      "end": 3.8,
+      "confidence": 0.7366
+    },
+    {
+      "text": "you",
+      "start": 3.8,
+      "end": 3.96,
+      "confidence": 0.7471
+    },
+    {
+      "text": "know?",
+      "start": 3.96,
+      "end": 4.0,
+      "confidence": 0.998
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.24,
+      "end": 4.0,
+      "duration": 3.76,
+      "transcript": "We, if we didn't know that we would have fast in U only, ?",
+      "word_count": 15,
+      "words": [
+        {
+          "text": "we,",
+          "start": 0.24,
+          "end": 0.46,
+          "confidence": 0.9023
+        },
+        {
+          "text": "if",
+          "start": 0.6,
+          "end": 1.16,
+          "confidence": 0.8717
+        },
+        {
+          "text": "we",
+          "start": 1.16,
+          "end": 1.52,
+          "confidence": 0.9938
+        },
+        {
+          "text": "didn't",
+          "start": 1.52,
+          "end": 1.86,
+          "confidence": 0.8114
+        },
+        {
+          "text": "know",
+          "start": 1.86,
+          "end": 2.06,
+          "confidence": 0.9952
+        },
+        {
+          "text": "that",
+          "start": 2.06,
+          "end": 2.26,
+          "confidence": 0.9401
+        },
+        {
+          "text": "we",
+          "start": 2.26,
+          "end": 2.42,
+          "confidence": 0.8796
+        },
+        {
+          "text": "would",
+          "start": 2.42,
+          "end": 2.56,
+          "confidence": 0.966
+        },
+        {
+          "text": "have",
+          "start": 2.56,
+          "end": 2.76,
+          "confidence": 0.9847
+        },
+        {
+          "text": "fast",
+          "start": 2.76,
+          "end": 3.1,
+          "confidence": 0.6215
+        },
+        {
+          "text": "in",
+          "start": 3.1,
+          "end": 3.32,
+          "confidence": 0.269
+        },
+        {
+          "text": "U",
+          "start": 3.32,
+          "end": 3.5,
+          "confidence": 0.5931
+        },
+        {
+          "text": "only,",
+          "start": 3.5,
+          "end": 3.8,
+          "confidence": 0.7366
+        },
+        {
+          "text": "you",
+          "start": 3.8,
+          "end": 3.96,
+          "confidence": 0.7471
+        },
+        {
+          "text": "know?",
+          "start": 3.96,
+          "end": 4.0,
+          "confidence": 0.998
+        }
+      ],
+      "vad_segment_start": 0.03,
+      "vad_segment_end": 4.14,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 4.16,
+  "model_used": "small",
+  "timestamp": "2025-11-16T15:50:58.534208",
+  "segment_count": 1,
+  "word_count": 16,
+  "utterance_count": 1
+}

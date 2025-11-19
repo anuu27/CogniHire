@@ -1,0 +1,179 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.44,
+    "end": 10.0,
+    "duration": 9.56,
+    "transcript": "Descent goes back on how much difference is there between the current output and the required output.",
+    "word_count": 17,
+    "words": [
+      {
+        "text": "descent",
+        "start": 0.44,
+        "end": 1.16,
+        "confidence": 0.9908
+      },
+      {
+        "text": "goes",
+        "start": 1.16,
+        "end": 2.92,
+        "confidence": 0.7839
+      },
+      {
+        "text": "back",
+        "start": 2.92,
+        "end": 3.3,
+        "confidence": 0.999
+      },
+      {
+        "text": "on",
+        "start": 3.3,
+        "end": 3.92,
+        "confidence": 0.9819
+      },
+      {
+        "text": "how",
+        "start": 3.92,
+        "end": 4.44,
+        "confidence": 0.9877
+      },
+      {
+        "text": "much",
+        "start": 4.44,
+        "end": 4.9,
+        "confidence": 0.9987
+      },
+      {
+        "text": "difference",
+        "start": 4.9,
+        "end": 5.34,
+        "confidence": 0.9827
+      },
+      {
+        "text": "is",
+        "start": 5.34,
+        "end": 5.72,
+        "confidence": 0.9763
+      },
+      {
+        "text": "there",
+        "start": 5.72,
+        "end": 5.98,
+        "confidence": 0.9944
+      },
+      {
+        "text": "between",
+        "start": 5.98,
+        "end": 6.32,
+        "confidence": 0.9953
+      },
+      {
+        "text": "the",
+        "start": 6.32,
+        "end": 6.78,
+        "confidence": 0.9877
+      },
+      {
+        "text": "current",
+        "start": 6.78,
+        "end": 8.16,
+        "confidence": 0.9787
+      },
+      {
+        "text": "output",
+        "start": 8.16,
+        "end": 8.64,
+        "confidence": 0.9972
+      },
+      {
+        "text": "and",
+        "start": 8.64,
+        "end": 8.96,
+        "confidence": 0.9948
+      },
+      {
+        "text": "the",
+        "start": 8.96,
+        "end": 9.22,
+        "confidence": 0.9595
+      },
+      {
+        "text": "required",
+        "start": 9.22,
+        "end": 9.56,
+        "confidence": 0.9977
+      },
+      {
+        "text": "output.",
+        "start": 9.56,
+        "end": 10.0,
+        "confidence": 0.9901
+      }
+    ],
+    "vad_segment_start": 0.03,
+    "vad_segment_end": 10.14,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.976,
+    "speech_rate_wps": 1.778,
+    "speech_rate_wpm": 106.695,
+    "articulation_rate": 1.778,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 244.68,
+    "pitch_std": 30.834,
+    "pitch_range": 167.954,
+    "pitch_variance": 950.746,
+    "voiced_frames_ratio": 0.886,
+    "rms_energy_mean": 0.067,
+    "rms_energy_std": 0.043,
+    "rms_energy_max": 0.214,
+    "rms_energy_min": 0.001,
+    "energy_dynamic_range": 0.213,
+    "zero_crossing_rate": 0.141,
+    "harmonic_noise_ratio": 1.062,
+    "spectral_centroid_mean": 1843.289,
+    "spectral_centroid_std": 945.473,
+    "mfcc_1_mean": -278.199,
+    "mfcc_2_mean": 75.24,
+    "mfcc_1_std": 95.829,
+    "spectral_rolloff": 3424.044,
+    "spectral_bandwidth": 1507.981,
+    "snr_approximation": 1.558,
+    "clipping_ratio": 0.0
+  }
+]

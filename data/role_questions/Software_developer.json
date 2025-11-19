@@ -1,0 +1,49 @@
+{
+  "role": "Software Developer",
+  "record_count": 66,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Can you describe your software development process — from requirement gathering to deployment?",
+      "canonical_answer": "I gather requirements, design the architecture, implement features, write tests, review code, deploy using CI/CD, and monitor the system.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you approach debugging or fixing a difficult issue in your code?",
+      "canonical_answer": "I reproduce the issue, check logs, isolate components, use breakpoints or debug tools, test hypotheses, and apply targeted fixes.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Which programming languages and frameworks are you most proficient in, and what types of projects have you built with them?",
+      "canonical_answer": "I work mainly with languages like Python, JavaScript, or Java and frameworks like React, Node.js, or Django for web and backend applications.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you ensure the code you write is efficient, maintainable, and scalable?",
+      "canonical_answer": "I use clean code practices, modular design, code reviews, testing, refactoring, and performance profiling when needed.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What tools and techniques do you use for version control and collaboration in your development process?",
+      "canonical_answer": "I use Git with platforms like GitHub or GitLab, follow branching strategies, write clear commits, and use pull requests for reviews.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe a time when you collaborated with other developers or teams on a project. How did you handle differences in approach?",
+      "canonical_answer": "I communicated openly, compared solutions with data, aligned on project goals, and worked toward a solution that balanced quality and timelines.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Tell me about a project you’re most proud of — what challenges did you face, and how did you overcome them?",
+      "canonical_answer": "I built a project where I solved technical challenges through debugging, refactoring, performance tuning, and close collaboration with the team.",
+      "rubric_points": []
+    }
+  ]
+}

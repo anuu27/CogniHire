@@ -1,0 +1,217 @@
+{
+  "session_id": "sample_resume_20251114_162606_2",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_162606_answer_processed.wav",
+  "raw_text": "asking what are you saying, what are you telling? What need to you?",
+  "processed_text": "Asking what are you saying, what are you telling?",
+  "words": [
+    {
+      "text": "asking",
+      "start": 0.0,
+      "end": 0.68,
+      "confidence": 0.4874
+    },
+    {
+      "text": "what",
+      "start": 0.68,
+      "end": 1.18,
+      "confidence": 0.3149
+    },
+    {
+      "text": "are",
+      "start": 1.18,
+      "end": 1.4,
+      "confidence": 0.7578
+    },
+    {
+      "text": "you",
+      "start": 1.4,
+      "end": 1.5,
+      "confidence": 0.9668
+    },
+    {
+      "text": "saying,",
+      "start": 1.5,
+      "end": 2.06,
+      "confidence": 0.9872
+    },
+    {
+      "text": "what",
+      "start": 2.08,
+      "end": 2.22,
+      "confidence": 0.9601
+    },
+    {
+      "text": "are",
+      "start": 2.22,
+      "end": 2.4,
+      "confidence": 0.9535
+    },
+    {
+      "text": "you",
+      "start": 2.4,
+      "end": 2.52,
+      "confidence": 0.9554
+    },
+    {
+      "text": "telling?",
+      "start": 2.52,
+      "end": 2.94,
+      "confidence": 0.9915
+    },
+    {
+      "text": "What",
+      "start": 3.2,
+      "end": 3.28,
+      "confidence": 0.395
+    },
+    {
+      "text": "need",
+      "start": 3.28,
+      "end": 3.46,
+      "confidence": 0.3912
+    },
+    {
+      "text": "to",
+      "start": 3.46,
+      "end": 3.6,
+      "confidence": 0.5566
+    },
+    {
+      "text": "you?",
+      "start": 3.6,
+      "end": 3.68,
+      "confidence": 0.2381
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 3.68,
+      "duration": 3.68,
+      "transcript": "Asking what are you saying, what are you telling?",
+      "word_count": 13,
+      "words": [
+        {
+          "text": "asking",
+          "start": 0.0,
+          "end": 0.68,
+          "confidence": 0.4874
+        },
+        {
+          "text": "what",
+          "start": 0.68,
+          "end": 1.18,
+          "confidence": 0.3149
+        },
+        {
+          "text": "are",
+          "start": 1.18,
+          "end": 1.4,
+          "confidence": 0.7578
+        },
+        {
+          "text": "you",
+          "start": 1.4,
+          "end": 1.5,
+          "confidence": 0.9668
+        },
+        {
+          "text": "saying,",
+          "start": 1.5,
+          "end": 2.06,
+          "confidence": 0.9872
+        },
+        {
+          "text": "what",
+          "start": 2.08,
+          "end": 2.22,
+          "confidence": 0.9601
+        },
+        {
+          "text": "are",
+          "start": 2.22,
+          "end": 2.4,
+          "confidence": 0.9535
+        },
+        {
+          "text": "you",
+          "start": 2.4,
+          "end": 2.52,
+          "confidence": 0.9554
+        },
+        {
+          "text": "telling?",
+          "start": 2.52,
+          "end": 2.94,
+          "confidence": 0.9915
+        },
+        {
+          "text": "What",
+          "start": 3.2,
+          "end": 3.28,
+          "confidence": 0.395
+        },
+        {
+          "text": "need",
+          "start": 3.28,
+          "end": 3.46,
+          "confidence": 0.3912
+        },
+        {
+          "text": "to",
+          "start": 3.46,
+          "end": 3.6,
+          "confidence": 0.5566
+        },
+        {
+          "text": "you?",
+          "start": 3.6,
+          "end": 3.68,
+          "confidence": 0.2381
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 3.69,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 3.71,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T16:26:29.716596",
+  "segment_count": 1,
+  "word_count": 13,
+  "utterance_count": 1
+}

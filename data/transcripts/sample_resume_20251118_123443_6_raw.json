@@ -1,0 +1,23 @@
+{
+  "text": "Supervised learning is the case when data is with labels and non-supervised learning there  will be no labels.",
+  "segments": [
+    {
+      "id": null,
+      "seek": null,
+      "start": 0.0,
+      "end": 7.52,
+      "text": " Supervised learning is the case when data is with labels and non-supervised learning there",
+      "words": []
+    },
+    {
+      "id": null,
+      "seek": null,
+      "start": 7.52,
+      "end": 10.72,
+      "text": " will be no labels.",
+      "words": []
+    }
+  ],
+  "language": "en",
+  "duration": 11.136
+}

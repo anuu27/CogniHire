@@ -1,0 +1,191 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 3.88,
+    "duration": 3.88,
+    "transcript": "I would design it and deploy it from end to end.",
+    "word_count": 19,
+    "words": [
+      {
+        "text": "I",
+        "start": 0.0,
+        "end": 0.14,
+        "confidence": 0.8611
+      },
+      {
+        "text": "would",
+        "start": 0.14,
+        "end": 0.3,
+        "confidence": 0.9348
+      },
+      {
+        "text": "design",
+        "start": 0.3,
+        "end": 0.7,
+        "confidence": 0.8223
+      },
+      {
+        "text": "it",
+        "start": 0.7,
+        "end": 0.9,
+        "confidence": 0.965
+      },
+      {
+        "text": "and",
+        "start": 0.9,
+        "end": 1.04,
+        "confidence": 0.963
+      },
+      {
+        "text": "deploy",
+        "start": 1.04,
+        "end": 1.4,
+        "confidence": 0.9452
+      },
+      {
+        "text": "it",
+        "start": 1.4,
+        "end": 1.6,
+        "confidence": 0.9549
+      },
+      {
+        "text": "from",
+        "start": 1.6,
+        "end": 1.74,
+        "confidence": 0.9776
+      },
+      {
+        "text": "end",
+        "start": 1.74,
+        "end": 2.0,
+        "confidence": 0.8373
+      },
+      {
+        "text": "to",
+        "start": 2.0,
+        "end": 2.18,
+        "confidence": 0.9849
+      },
+      {
+        "text": "end.",
+        "start": 2.18,
+        "end": 2.44,
+        "confidence": 0.9982
+      },
+      {
+        "text": "That",
+        "start": 2.7,
+        "end": 2.82,
+        "confidence": 0.894
+      },
+      {
+        "text": "is",
+        "start": 2.82,
+        "end": 2.92,
+        "confidence": 0.9498
+      },
+      {
+        "text": "what",
+        "start": 2.92,
+        "end": 3.1,
+        "confidence": 0.9916
+      },
+      {
+        "text": "I",
+        "start": 3.1,
+        "end": 3.2,
+        "confidence": 0.9423
+      },
+      {
+        "text": "am",
+        "start": 3.2,
+        "end": 3.26,
+        "confidence": 0.8103
+      },
+      {
+        "text": "doing",
+        "start": 3.26,
+        "end": 3.42,
+        "confidence": 0.9925
+      },
+      {
+        "text": "right",
+        "start": 3.42,
+        "end": 3.64,
+        "confidence": 0.9729
+      },
+      {
+        "text": "now.",
+        "start": 3.64,
+        "end": 3.88,
+        "confidence": 0.9969
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 3.9,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.937,
+    "speech_rate_wps": 4.897,
+    "speech_rate_wpm": 293.814,
+    "articulation_rate": 4.897,
+    "pause_count": 1,
+    "pause_rate": 0.056,
+    "mean_pause_duration": 0.26,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.26,
+    "speaking_time_ratio": 0.933,
+    "pitch_mean": 230.516,
+    "pitch_std": 27.198,
+    "pitch_range": 126.279,
+    "pitch_variance": 739.746,
+    "voiced_frames_ratio": 0.967,
+    "rms_energy_mean": 0.088,
+    "rms_energy_std": 0.04,
+    "rms_energy_max": 0.176,
+    "rms_energy_min": 0.006,
+    "energy_dynamic_range": 0.171,
+    "zero_crossing_rate": 0.089,
+    "harmonic_noise_ratio": 1.908,
+    "spectral_centroid_mean": 1431.507,
+    "spectral_centroid_std": 580.51,
+    "mfcc_1_mean": -242.467,
+    "mfcc_2_mean": 96.429,
+    "mfcc_1_std": 84.547,
+    "spectral_rolloff": 2800.333,
+    "spectral_bandwidth": 1413.238,
+    "snr_approximation": 2.196,
+    "clipping_ratio": 0.0
+  }
+]

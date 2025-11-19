@@ -1,0 +1,200 @@
+{
+  "role": "AI Engineer",
+  "record_count": 13,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Explain how you would design and deploy an end-to-end AI system — from data collection to production monitoring.",
+      "canonical_answer": "  Data Collection , Data Preprocessing , Model Selection , Training , Evaluation , Deployment , and Monitoring (continuously tracking model performance, retraining as needed, and ensuring scalability and reliability).",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the bias–variance trade-off? How would you recognize and address high bias or high variance in a model?",
+      "canonical_answer": " The bias-variance trade-off is a fundamental concept in machine learning that describes the balance between two sources of error that affect model performance: Bias and Variance. To recognize high bias, look for poor performance on both training and validation data; to address it, consider using a more complex model or adding features. To recognize high variance, look for good performance on training data but poor performance on validation data; to address it, consider simplifying the model, using regularization techniques, or gathering more training data.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Walk me through how gradient descent actually works — and how optimizers like Adam improve upon it.",
+      "canonical_answer": " Gradient descent is an optimization algorithm used to minimize a loss function by iteratively updating model parameters in the direction of the negative gradient. The basic steps are: Initialize parameters, compute the gradient of the loss function with respect to the parameters, update the parameters by subtracting a fraction (learning rate) of the gradient, and repeat until convergence. Adam (Adaptive Moment Estimation) improves upon standard gradient descent by maintaining per-parameter learning rates that adapt based on first and second moments of the gradients, allowing for faster convergence and better handling of sparse gradients.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain how a Transformer model processes input sequences and why it outperformed RNNs/LSTMs.",
+      "canonical_answer": " Transformer models process input sequences using self-attention mechanisms that allow the model to weigh the importance of different parts of the input data simultaneously, rather than sequentially as in RNNs/LSTMs. This enables Transformers to capture long-range dependencies more effectively and allows for parallel processing, leading to faster training times. The architecture consists of an encoder-decoder structure, where both components use multi-head self-attention and feed-forward neural networks.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe how you would optimize a model that’s accurate but too slow for real-time use.",
+      "canonical_answer": " To optimize a model for real-time use, consider techniques such as model pruning (removing unnecessary weights), quantization (reducing precision of weights), knowledge distillation (training a smaller model to mimic a larger one), and using more efficient architectures (e.g., MobileNet). Additionally, optimizing inference through hardware acceleration (using GPUs or TPUs), batching inputs, and leveraging optimized libraries can help reduce latency.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle missing or corrupted data when training AI models?",
+      "canonical_answer": "Techniques include imputation (mean, median, mode), using algorithms that handle missing data, or removing affected records/features depending on the context and extent of missingness",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the difference between bagging and boosting in ensemble learning?",
+      "canonical_answer": "Bagging (Bootstrap Aggregating) trains multiple models independently on random subsets of data and averages their predictions to reduce variance. Boosting trains models sequentially, where each model focuses on correcting errors of the previous one, reducing bias.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is supervised and unsupervised learning?",
+      "canonical_answer": "Supervised learning: Model is trained on labeled data. Unsupervised learning: Model finds hidden patterns in unlabeled data",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is overfitting, and how can it be prevented?",
+      "canonical_answer": "Overfitting happens when a model learns noise instead of the actual pattern, performing well on training data but poorly on new data. Prevention: Regularization, dropout, more data, or cross-validation.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What are hyperparameters in machine learning?",
+      "canonical_answer": "Hyperparameters are configuration values set before training (e.g., learning rate, number of layers, batch size) that control how the model learns.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is a confusion matrix, and what does it show?",
+      "canonical_answer": "A confusion matrix shows the counts of actual vs. predicted classifications: True Positives, True Negatives, False Positives, and False Negatives — helping measure accuracy, precision, recall, and F1-score.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the difference between classification and regression?",
+      "canonical_answer": "Classification: Predicts discrete categories (e.g., “spam” or “not spam”). Regression: Predicts continuous values (e.g., house prices).",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is gradient descent, and why is it important?",
+      "canonical_answer": "Gradient descent is an optimization algorithm that minimizes a loss function by iteratively updating parameters in the opposite direction of the gradient — essential for training ML and DL models.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What are activation functions in neural networks?",
+      "canonical_answer": "Activation functions introduce non-linearity, allowing the network to learn complex patterns. Common ones: ReLU, Sigmoid, Tanh.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What are some commonly used libraries or frameworks in AI development?",
+      "canonical_answer": "TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, Hugging Face Transformers are few python-based frameworks",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the difference between batch learning and online learning?",
+      "canonical_answer": "Batch learning trains on the entire dataset at once, ideal for static data. Online learning updates the model incrementally as new data arrives — useful for streaming or evolving data (e.g., stock prices).",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How does gradient descent work, and what are its limitations?",
+      "canonical_answer": "Gradient descent updates model parameters in the direction of negative gradient of loss function. Limitations: may get stuck in local minima, slow convergence, sensitive to learning rate. Solutions include momentum, Adam optimizer, and learning rate scheduling.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is transfer learning, and when would you use it?",
+      "canonical_answer": "Transfer learning leverages a pre-trained model on a large dataset and fine-tunes it for a related but smaller dataset. Useful when data is limited or training from scratch is computationally expensive.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What are some ethical considerations in AI development?",
+      "canonical_answer": "Bias in data/models, transparency, privacy concerns, accountability for decisions, and potential job displacement are key ethical considerations in AI development.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you evaluate the performance of an AI model?",
+      "canonical_answer": "Use metrics like accuracy, precision, recall, F1-score for classification; MSE, RMSE for regression; confusion matrix for detailed error analysis; and cross-validation for robustness.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the difference between AI, machine learning, and deep learning?",
+      "canonical_answer": "AI is the broad field of creating intelligent machines. Machine learning is a subset of AI focused on algorithms that learn from data. Deep learning is a subset of machine learning that uses neural networks with many layers to model complex patterns.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is regularization in machine learning, and why is it important?",
+      "canonical_answer": "Regularization adds a penalty to the loss function to prevent overfitting by discouraging overly complex models. Common techniques: L1 (Lasso) and L2 (Ridge) regularization.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle imbalanced datasets in classification problems?",
+      "canonical_answer": "Techniques include resampling (oversampling minority or undersampling majority), using different evaluation metrics (precision, recall, F1-score), or applying algorithms designed for imbalance (e.g., SMOTE).",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is cross-validation, and why is it used?",
+      "canonical_answer": "Cross-validation splits data into training and validation sets multiple times to assess model performance more reliably, reducing overfitting and ensuring generalization to unseen data.",
+      "rubric_points": []
+    },
+    {
+      "id":null,
+      "question": "How do you choose the right model architecture for a given AI problem?",
+      "canonical_answer": "Consider the problem type (classification, regression, etc.), data size and quality, computational resources, and interpretability needs. Experiment with different architectures and validate using performance metrics.",
+      "rubric_points": []
+    },
+    {
+      "id":null,
+      "question": "Differentiate between L1 and L2 regularization.",
+      "canonical_answer": "L1 (Lasso): Adds absolute weight penalties. It promotes sparsity. L2 (Ridge): Adds squared weight penalties → discourages large weights smoothly.Both prevent overfitting but in different ways.",
+      "rubric_points": []    
+    },
+    {
+      "id":null,
+      "question": " What is data augmentation, and why is it useful in training AI models?",
+      "canonical_answer": " Data augmentation artificially increases training data diversity by applying transformations (e.g., rotation, scaling) — improving model generalization and reducing overfitting.",
+      "rubric_points": []    
+    },
+    {
+      "id":null,
+      "question": " Explain the concept of attention mechanisms in neural networks.",
+      "canonical_answer": " Attention mechanisms allow models to focus on relevant parts of the input when making predictions, improving performance in tasks like machine translation and text summarization by capturing dependencies regardless of distance in the sequence.",
+      "rubric_points": []    
+    }, 
+    {
+      "id":null,
+      "question": " What are some common techniques for hyperparameter tuning?",
+      "canonical_answer": " Common techniques include grid search, random search, and Bayesian optimization — systematically exploring hyperparameter combinations to find the best model performance.",
+      "rubric_points": []    
+    },
+    {
+      "id":null,
+      "question": " How do convolutional neural networks (CNNs) differ from traditional neural networks?",
+      "canonical_answer": " CNNs use convolutional layers to automatically learn spatial hierarchies of features from input data (like images), while traditional neural networks use fully connected layers that treat all input features equally.",
+      "rubric_points": []    
+    },
+    {
+      "id":null,
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?",
+      "canonical_answer": " Reinforcement learning trains agents to make sequential decisions by maximizing cumulative rewards through trial and error, while supervised learning trains models on labeled data to predict outcomes.",
+      "rubric_points": []    
+    },
+    {
+      "id":null,
+      "question": " How do you ensure the scalability and reliability of AI systems in production?",
+      "canonical_answer": " Ensure scalability through containerization, microservices, and cloud infrastructure; reliability through monitoring, automated testing, and failover mechanisms.",
+      "rubric_points": []    
+    }
+
+  ]
+}

@@ -1,0 +1,75 @@
+% data/templates/report_ultra_premium.tex
+\documentclass[10pt]{article}
+\usepackage[a4paper,margin=0.7in]{geometry}
+\usepackage{fontspec}
+\usepackage[HTML]{xcolor}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{microtype}
+\usepackage{enumitem}
+\setmainfont{JetBrains Mono}
+
+\definecolor{taobg}{HTML}{0f0f0f}
+\definecolor{taogreen}{HTML}{50F0AA}
+\definecolor{taopink}{HTML}{FF7796}
+\definecolor{taogray}{HTML}{3A3A3A}
+\definecolor{taowhite}{HTML}{D0F0E0}
+\pagecolor{taobg}
+\color{taogreen}
+\raggedright
+\setlength{\parskip}{6pt}
+\newcommand{\baritem}[3]{%
+  \noindent{\color{taopink}\texttt{-- #1:}}%
+  \begin{tikzpicture}[baseline=-0.5ex]
+    \fill[taogray!35] (0,0) rectangle (6,0.28);
+    \pgfmathsetmacro{\val}{min(max(#2,0),10)}
+    \fill[taogreen] (0,0) rectangle (6*\val/10,0.28);
+    \draw[taogray!60] (6*\val/10,0) rectangle (6,0.28);
+  \end{tikzpicture}%
+  \hspace{0.6em}{\color{taopink}\texttt{#3}}%
+}
+
+\begin{document}
+\thispagestyle{empty}
+
+{\bfseries AIRF Evaluation Report — {{ROLE_NAME}}} \\[6pt]
+\textcolor{taopink}{Candidate: [{{CANDIDATE}}]} \\[6pt]
+
+\textbf{Cognitive Competency Index (CCI):} \textcolor{taogreen}{\textbf{{CCI}} — {{BADGE}}} \\[6pt]
+Tech Avg: {{TECH_AVG_10}} \quad CV Score: {{CV_RELEVANCE}} \quad Confidence (σ): {{SIGMA}} \\[12pt]
+
+\textbf{Cognitive Profile:} \\[3pt]
+\baritem{Conceptual Correctness}{ {{S_CONCEPTUAL}} }{ {{S_CONCEPTUAL}} }\\[3pt]
+\baritem{Reasoning Depth}{ {{S_REASONING}} }{ {{S_REASONING}} }\\[3pt]
+\baritem{Precision Grounding}{ {{S_PRECISION}} }{ {{S_PRECISION}} }\\[3pt]
+\baritem{Communication Clarity}{ {{S_CLARITY}} }{ {{S_CLARITY}} }\\[3pt]
+\baritem{Creativity / Insight}{ {{S_CREATIVITY}} }{ {{S_CREATIVITY}} }\\[12pt]
+
+{\bfseries Trajectory:} \textcolor{taogreen}{ {{TRAJECTORY}} } \\[2pt]
+{\bfseries Strength:} \textcolor{taogreen}{ {{STRENGTH}} } \\[2pt]
+{\bfseries Risk:} \textcolor{taopink}{ {{RISK}} } \\[2pt]
+{\bfseries Recommendation:} \textcolor{taogreen}{ {{RECOMMENDATION}} } \\[12pt]
+
+\begin{center}
+\includegraphics[width=0.5\textwidth]{radar.png}
+\end{center}
+
+\newpage
+
+{\bfseries CV Round Summary} \\[6pt]
+\baritem{Target Alignment}{ {{CV_RELEVANCE}} }{ {{CV_RELEVANCE}} }\\[3pt]
+\baritem{Impact Quantifier}{ {{CV_PLAUSIBILITY}} }{ {{CV_PLAUSIBILITY}} }\\[3pt]
+\baritem{Trajectory Coherence}{ {{CV_CONSISTENCY}} }{ {{CV_CONSISTENCY}} }\\[3pt]
+\baritem{Technical Resolution}{ {{CV_SPECIFICITY}} }{ {{CV_SPECIFICITY}} }\\[3pt]
+\baritem{Career Velocity}{ {{CV_CONSISTENCY}} }{ {{CV_CONSISTENCY}} }\\[12pt]
+
+\noindent\textbf{Analytics:} \\[6pt]
+\noindent\texttt{Role-Fit Delta:} \ \ \ \texttt{{ANALYTICS_FIT_DELTA}} \\[6pt]
+\noindent\texttt{CV-to-Skill Efficacy:} \ \ \ \texttt{{ANALYTICS_RESUME_EFFICIENCY}} \\[6pt]
+\noindent\texttt{Top strengths:} \ \ \ \texttt{{ANALYTICS_TOP}} \\[4pt]
+\noindent\texttt{Weakness hotspots:} \ \ \ \texttt{{ANALYTICS_WEAK}} \\[12pt]
+
+{\bfseries Evaluator's Note:} \\
+{{SUMMARY_TEXT}} \\[8pt]
+
+\end{document}

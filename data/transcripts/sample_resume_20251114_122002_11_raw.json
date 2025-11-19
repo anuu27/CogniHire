@@ -1,0 +1,206 @@
+{
+  "text": " You might rather say hi to the first session, because though, a typicalongo logical video, I think I look like an independent subject.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.62,
+      "text": " You might rather say hi to the first session, because",
+      "tokens": [
+        50364,
+        509,
+        1062,
+        2831,
+        584,
+        4879,
+        281,
+        264,
+        700,
+        5481,
+        11,
+        570,
+        50887
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.344785353716682,
+      "compression_ratio": 1.2072072072072073,
+      "no_speech_prob": 0.06093095988035202,
+      "words": [
+        {
+          "word": " You",
+          "start": 0.0,
+          "end": 0.7,
+          "probability": 0.0007595494971610606
+        },
+        {
+          "word": " might",
+          "start": 0.7,
+          "end": 0.7,
+          "probability": 0.003538887482136488
+        },
+        {
+          "word": " rather",
+          "start": 0.7,
+          "end": 0.7,
+          "probability": 0.0018553162226453424
+        },
+        {
+          "word": " say",
+          "start": 0.7,
+          "end": 0.7,
+          "probability": 0.05390855297446251
+        },
+        {
+          "word": " hi",
+          "start": 0.7,
+          "end": 0.7,
+          "probability": 0.044065557420253754
+        },
+        {
+          "word": " to",
+          "start": 0.7,
+          "end": 0.86,
+          "probability": 0.20907334983348846
+        },
+        {
+          "word": " the",
+          "start": 0.86,
+          "end": 1.18,
+          "probability": 0.10532556474208832
+        },
+        {
+          "word": " first",
+          "start": 1.18,
+          "end": 1.58,
+          "probability": 0.002806016942486167
+        },
+        {
+          "word": " session,",
+          "start": 1.58,
+          "end": 1.6,
+          "probability": 0.001068744109943509
+        },
+        {
+          "word": " because",
+          "start": 1.62,
+          "end": 1.62,
+          "probability": 0.009535222314298153
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.62,
+      "end": 6.72,
+      "text": " though, a typicalongo logical video, I think I look like an independent subject.",
+      "tokens": [
+        50887,
+        1673,
+        11,
+        257,
+        7476,
+        25729,
+        14978,
+        960,
+        11,
+        286,
+        519,
+        286,
+        574,
+        411,
+        364,
+        6695,
+        3983,
+        13,
+        51818
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.344785353716682,
+      "compression_ratio": 1.2072072072072073,
+      "no_speech_prob": 0.06093095988035202,
+      "words": [
+        {
+          "word": " though,",
+          "start": 1.62,
+          "end": 1.62,
+          "probability": 0.00035482700332067907
+        },
+        {
+          "word": " a",
+          "start": 1.62,
+          "end": 1.66,
+          "probability": 0.004497169982641935
+        },
+        {
+          "word": " typicalongo",
+          "start": 1.66,
+          "end": 1.66,
+          "probability": 0.0004351734842202859
+        },
+        {
+          "word": " logical",
+          "start": 1.66,
+          "end": 1.66,
+          "probability": 6.657628546236083e-05
+        },
+        {
+          "word": " video,",
+          "start": 1.66,
+          "end": 2.22,
+          "probability": 0.011521616019308567
+        },
+        {
+          "word": " I",
+          "start": 3.08,
+          "end": 3.64,
+          "probability": 0.24156704545021057
+        },
+        {
+          "word": " think",
+          "start": 3.64,
+          "end": 4.14,
+          "probability": 0.06554114818572998
+        },
+        {
+          "word": " I",
+          "start": 4.14,
+          "end": 4.14,
+          "probability": 0.1418398916721344
+        },
+        {
+          "word": " look",
+          "start": 4.14,
+          "end": 4.14,
+          "probability": 0.0010996299097314477
+        },
+        {
+          "word": " like",
+          "start": 4.14,
+          "end": 5.88,
+          "probability": 0.2641967535018921
+        },
+        {
+          "word": " an",
+          "start": 5.88,
+          "end": 5.88,
+          "probability": 0.09076565504074097
+        },
+        {
+          "word": " independent",
+          "start": 5.88,
+          "end": 6.26,
+          "probability": 0.012773968279361725
+        },
+        {
+          "word": " subject.",
+          "start": 6.26,
+          "end": 6.72,
+          "probability": 0.0019249882316216826
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

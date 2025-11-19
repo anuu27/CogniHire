@@ -1,0 +1,119 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 0.78,
+    "duration": 0.78,
+    "transcript": "لا ترى ماذا you would be bored",
+    "word_count": 7,
+    "words": [
+      {
+        "text": "لا",
+        "start": 0.0,
+        "end": 0.28,
+        "confidence": 0.3436
+      },
+      {
+        "text": "ترى",
+        "start": 0.28,
+        "end": 0.56,
+        "confidence": 0.1585
+      },
+      {
+        "text": "ماذا",
+        "start": 0.56,
+        "end": 0.78,
+        "confidence": 0.3505
+      },
+      {
+        "text": "you",
+        "start": 0.78,
+        "end": 0.78,
+        "confidence": 0.0006
+      },
+      {
+        "text": "would",
+        "start": 0.78,
+        "end": 0.78,
+        "confidence": 0.0014
+      },
+      {
+        "text": "be",
+        "start": 0.78,
+        "end": 0.78,
+        "confidence": 0.1577
+      },
+      {
+        "text": "bored",
+        "start": 0.78,
+        "end": 0.78,
+        "confidence": 0.0034
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 0.78,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.145,
+    "speech_rate_wps": 8.974,
+    "speech_rate_wpm": 538.462,
+    "articulation_rate": 8.974,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 257.555,
+    "pitch_std": 19.847,
+    "pitch_range": 65.526,
+    "pitch_variance": 393.916,
+    "voiced_frames_ratio": 1.0,
+    "rms_energy_mean": 0.102,
+    "rms_energy_std": 0.044,
+    "rms_energy_max": 0.174,
+    "rms_energy_min": 0.022,
+    "energy_dynamic_range": 0.152,
+    "zero_crossing_rate": 0.048,
+    "harmonic_noise_ratio": 2.959,
+    "spectral_centroid_mean": 832.808,
+    "spectral_centroid_std": 216.976,
+    "mfcc_1_mean": -274.648,
+    "mfcc_2_mean": 143.396,
+    "mfcc_1_std": 67.906,
+    "spectral_rolloff": 1324.688,
+    "spectral_bandwidth": 1049.049,
+    "snr_approximation": 2.307,
+    "clipping_ratio": 0.0
+  }
+]

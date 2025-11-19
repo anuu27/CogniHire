@@ -1,0 +1,125 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 3.0,
+    "end": 4.22,
+    "duration": 1.22,
+    "transcript": "其实有一点..",
+    "word_count": 8,
+    "words": [
+      {
+        "text": "其实有一点..Archichk",
+        "start": 3.0,
+        "end": 3.28,
+        "confidence": 0.0195
+      },
+      {
+        "text": "T",
+        "start": 3.76,
+        "end": 4.04,
+        "confidence": 0.0109
+      },
+      {
+        "text": "Schwicaci",
+        "start": 4.04,
+        "end": 4.04,
+        "confidence": 0.5855
+      },
+      {
+        "text": "T",
+        "start": 4.04,
+        "end": 4.06,
+        "confidence": 0.7067
+      },
+      {
+        "text": "Schwicaci",
+        "start": 4.06,
+        "end": 4.06,
+        "confidence": 0.9093
+      },
+      {
+        "text": "T",
+        "start": 4.06,
+        "end": 4.06,
+        "confidence": 0.8791
+      },
+      {
+        "text": "Schwicaci",
+        "start": 4.06,
+        "end": 4.2,
+        "confidence": 0.9425
+      },
+      {
+        "text": "Schwicaci",
+        "start": 4.2,
+        "end": 4.22,
+        "confidence": 0.9663
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 4.23,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.627,
+    "speech_rate_wps": 6.557,
+    "speech_rate_wpm": 393.443,
+    "articulation_rate": 6.557,
+    "pause_count": 1,
+    "pause_rate": 0.143,
+    "mean_pause_duration": 0.48,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.48,
+    "speaking_time_ratio": 0.607,
+    "pitch_mean": 313.846,
+    "pitch_std": 50.494,
+    "pitch_range": 147.155,
+    "pitch_variance": 2549.687,
+    "voiced_frames_ratio": 0.974,
+    "rms_energy_mean": 0.081,
+    "rms_energy_std": 0.032,
+    "rms_energy_max": 0.137,
+    "rms_energy_min": 0.011,
+    "energy_dynamic_range": 0.125,
+    "zero_crossing_rate": 0.129,
+    "harmonic_noise_ratio": 2.024,
+    "spectral_centroid_mean": 1782.899,
+    "spectral_centroid_std": 826.148,
+    "mfcc_1_mean": -236.889,
+    "mfcc_2_mean": 87.622,
+    "mfcc_1_std": 58.516,
+    "spectral_rolloff": 3390.224,
+    "spectral_bandwidth": 1580.177,
+    "snr_approximation": 2.51,
+    "clipping_ratio": 0.0
+  }
+]

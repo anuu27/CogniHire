@@ -1,0 +1,93 @@
+{
+  "session_id": "sample_resume_20251117_185223",
+  "Name": "Anugya Anantapur",
+  "role": "ai engineer",
+  "start_time": null,
+  "end_time": "2025-11-17T18:53:14.407470",
+  "overall_score": 9.5,
+  "score_before_malpractice": 11.3,
+  "cci": {
+    "raw": 11.27,
+    "percentile_vs_role": 9.27
+  },
+  "components": {
+    "role_relevance": 1.6,
+    "canonical_component": 1.6,
+    "resume_component": null,
+    "completeness": 2.84,
+    "conciseness": 0.0,
+    "fluency": 4.5
+  },
+  "subscores": {
+    "Conceptual correctness": 0.53,
+    "Reasoning depth": 1.14,
+    "Precision grounding": 0.53,
+    "Communication clarity": 3.0,
+    "Creativity / insight": 0.57
+  },
+  "trajectory": "The candidate is at a very nascent stage in their technical development and requires substantial foundational skill building across all core areas.",
+  "strength": "The candidate's top strength is Communication clarity with a score of 3.0.",
+  "risk": "Major risks include multiple malpractice instances ('no_face_detected') and extremely low scores in conceptual correctness, reasoning depth, and precision grounding.",
+  "recommendation": "Given the overall very low CCI and significant skill gaps for an AI Engineer role, it is recommended to reject this candidate.",
+  "malpractice_detected": {
+    "count": 3,
+    "types": [
+      "no_face_detected"
+    ],
+    "deduction": 1.8
+  },
+  "per_question": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": "",
+      "type": "intro",
+      "canonical_matched_index": null,
+      "canonical_answer": "",
+      "canonical_similarity": 0.0,
+      "canonical_score": 0.0,
+      "q_a_similarity": 0.176,
+      "answer_length": 0,
+      "resume_eval": null
+    },
+    {
+      "question": "What is regularization in machine learning, and why is it important?",
+      "answer": "",
+      "type": "role",
+      "canonical_matched_index": 21,
+      "canonical_answer": "Regularization adds a penalty to the loss function to prevent overfitting by discouraging overly complex models. Common techniques: L1 (Lasso) and L2 (Ridge) regularization.",
+      "canonical_similarity": 0.053,
+      "canonical_score": 5.34,
+      "q_a_similarity": 0.051,
+      "answer_length": 0,
+      "resume_eval": null
+    }
+  ],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T13:22:47.128Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What is regularization in machine learning, and why is it important?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T13:22:49.143Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What is regularization in machine learning, and why is it important?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T13:22:49.154Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What is regularization in machine learning, and why is it important?"
+      }
+    }
+  ],
+  "malpractice_count": 3
+}

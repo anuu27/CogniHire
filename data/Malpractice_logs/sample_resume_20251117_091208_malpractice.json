@@ -1,0 +1,106 @@
+[
+  {
+    "type": "tab_switch",
+    "timestamp": "2025-11-17T03:42:50.221Z",
+    "details": {
+      "raw": "Window focus lost (switched to another application)",
+      "question": "What is overfitting, and how can it be prevented?"
+    }
+  },
+  {
+    "type": "tab_switch",
+    "timestamp": "2025-11-17T03:42:50.268Z",
+    "details": {
+      "raw": "Tab switched or minimized",
+      "question": "What is overfitting, and how can it be prevented?"
+    }
+  },
+  {
+    "type": "tab_switch",
+    "timestamp": "2025-11-17T03:43:12.095Z",
+    "details": {
+      "raw": "Window focus lost (switched to another application)",
+      "question": "What is overfitting, and how can it be prevented?"
+    }
+  },
+  {
+    "type": "tab_switch",
+    "timestamp": "2025-11-17T03:43:12.364Z",
+    "details": {
+      "raw": "Tab switched or minimized",
+      "question": "What is overfitting, and how can it be prevented?"
+    }
+  },
+  {
+    "type": "tab_switch",
+    "timestamp": "2025-11-17T03:43:15.022Z",
+    "details": {
+      "raw": "Window focus lost (switched to another application)",
+      "question": "What is overfitting, and how can it be prevented?"
+    }
+  },
+  {
+    "type": "tab_switch",
+    "timestamp": "2025-11-17T03:43:15.308Z",
+    "details": {
+      "raw": "Tab switched or minimized",
+      "question": "What is overfitting, and how can it be prevented?"
+    }
+  },
+  {
+    "type": "tab_switch",
+    "timestamp": "2025-11-17T03:43:22.503Z",
+    "details": {
+      "raw": "Window focus lost (switched to another application)",
+      "question": "What is overfitting, and how can it be prevented?"
+    }
+  },
+  {
+    "type": "tab_switch",
+    "timestamp": "2025-11-17T03:43:22.510Z",
+    "details": {
+      "raw": "Tab switched or minimized",
+      "question": "What is overfitting, and how can it be prevented?"
+    }
+  },
+  {
+    "type": "tab_switch",
+    "timestamp": "2025-11-17T03:43:28.324Z",
+    "details": {
+      "raw": "Window focus lost (switched to another application)",
+      "question": "What is overfitting, and how can it be prevented?"
+    }
+  },
+  {
+    "type": "tab_switch",
+    "timestamp": "2025-11-17T03:43:28.370Z",
+    "details": {
+      "raw": "Tab switched or minimized",
+      "question": "What is overfitting, and how can it be prevented?"
+    }
+  },
+  {
+    "type": "no_record_start_within_timeout",
+    "timestamp": "2025-11-17T03:43:42.383Z",
+    "details": {
+      "timeout_ms": 20000,
+      "question": "What is gradient descent, and why is it important?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T03:45:48.907Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What is overfitting, and how can it be prevented?"
+    }
+  },
+  {
+    "type": "no_record_start_within_timeout",
+    "timestamp": "2025-11-17T03:46:19.558Z",
+    "details": {
+      "timeout_ms": 20000,
+      "question": "What is the bias\u2013variance trade-off? How would you recognize and address high bias or high variance in a model?"
+    }
+  }
+]

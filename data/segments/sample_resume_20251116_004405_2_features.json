@@ -1,0 +1,131 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 3.06,
+    "duration": 3.06,
+    "transcript": "I will do this, that and everything about AIS.",
+    "word_count": 9,
+    "words": [
+      {
+        "text": "I",
+        "start": 0.0,
+        "end": 0.16,
+        "confidence": 0.8168
+      },
+      {
+        "text": "will",
+        "start": 0.16,
+        "end": 0.28,
+        "confidence": 0.8141
+      },
+      {
+        "text": "do",
+        "start": 0.28,
+        "end": 0.46,
+        "confidence": 0.9923
+      },
+      {
+        "text": "this,",
+        "start": 0.46,
+        "end": 0.84,
+        "confidence": 0.9561
+      },
+      {
+        "text": "that",
+        "start": 1.1,
+        "end": 1.26,
+        "confidence": 0.9872
+      },
+      {
+        "text": "and",
+        "start": 1.26,
+        "end": 1.6,
+        "confidence": 0.8725
+      },
+      {
+        "text": "everything",
+        "start": 1.6,
+        "end": 2.14,
+        "confidence": 0.9853
+      },
+      {
+        "text": "about",
+        "start": 2.14,
+        "end": 2.58,
+        "confidence": 0.9791
+      },
+      {
+        "text": "AIS.",
+        "start": 2.58,
+        "end": 3.06,
+        "confidence": 0.728
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 3.24,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.903,
+    "speech_rate_wps": 2.941,
+    "speech_rate_wpm": 176.471,
+    "articulation_rate": 2.941,
+    "pause_count": 1,
+    "pause_rate": 0.125,
+    "mean_pause_duration": 0.26,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.26,
+    "speaking_time_ratio": 0.915,
+    "pitch_mean": 256.099,
+    "pitch_std": 20.803,
+    "pitch_range": 110.575,
+    "pitch_variance": 432.746,
+    "voiced_frames_ratio": 0.708,
+    "rms_energy_mean": 0.082,
+    "rms_energy_std": 0.048,
+    "rms_energy_max": 0.216,
+    "rms_energy_min": 0.01,
+    "energy_dynamic_range": 0.206,
+    "zero_crossing_rate": 0.148,
+    "harmonic_noise_ratio": 1.933,
+    "spectral_centroid_mean": 1927.404,
+    "spectral_centroid_std": 1193.064,
+    "mfcc_1_mean": -238.879,
+    "mfcc_2_mean": 73.554,
+    "mfcc_1_std": 75.889,
+    "spectral_rolloff": 3540.771,
+    "spectral_bandwidth": 1530.83,
+    "snr_approximation": 1.707,
+    "clipping_ratio": 0.0
+  }
+]

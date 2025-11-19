@@ -1,0 +1,51 @@
+{
+  "session_id": "sample_resume_20251118_002927",
+  "role": "ai engineer",
+  "resume_file": "uploads\\sample_resume.pdf",
+  "candidate_info": {
+    "name": "Anugya Anantapur",
+    "skills": [
+      "Python",
+      "Bash",
+      "SQL",
+      "Problem Solving",
+      "Recursive Trees",
+      "Algorithms",
+      "Dynamic Programming",
+      "OpenAI API",
+      "C",
+      "NumPy",
+      "Git",
+      "Jupyter Notebook",
+      "ADT",
+      "Hypothesis library",
+      "TRIE"
+    ],
+    "projects": [
+      "Trie-Based Dictionary Reimplementation",
+      "Interactive Bellman-Ford Path Visualizer",
+      "Performance Analysis of Splay Trees",
+      "HyperLogLog Neighbor Optimizer",
+      "Ultra-Large Integer Optimization"
+    ]
+  },
+  "start_time": "2025-11-18T00:29:27.182953",
+  "end_time": "2025-11-18T00:32:12.359705",
+  "interview_transcript": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": null,
+      "type": "intro"
+    },
+    {
+      "question": "How do you handle missing or corrupted data when training AI models?",
+      "answer": "Propulsion maintenant",
+      "type": "role"
+    },
+    {
+      "question": "Walk me through how gradient descent actually works — and how optimizers like Adam improve upon it.",
+      "answer": null,
+      "type": "role"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "role": "AI Researcher",
+  "record_count": 225,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "What motivates the use of deep learning from a representation-learning perspective?",
+      "canonical_answer": "Deep learning learns hierarchical and distributed representations automatically, removing manual feature engineering and capturing complex patterns in high-dimensional data.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain the role of optimization in machine learning. Why is non-convex optimization particularly challenging in deep networks, and how is it handled in practice?",
+      "canonical_answer": "Optimization fits parameters by minimizing loss. Deep networks are non-convex with many saddle points, so methods like SGD, momentum, Adam, and techniques like batch-norm or overparameterization help reach good solutions.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How does the Transformer architecture differ fundamentally from recurrent models — both in design and in theoretical capacity?",
+      "canonical_answer": "Transformers use self-attention instead of recurrence, enabling parallel processing and global context modeling, giving them higher expressiveness and better long-range dependency handling than RNNs.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe how the concept of “self-supervised learning” has changed modern AI research. Give an example of a key method.",
+      "canonical_answer": "Self-supervised learning uses data-derived labels, enabling massive pretraining without annotation. Examples include masked language modeling (BERT) and contrastive learning (SimCLR).",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain the difference between generative and discriminative models. Can you relate this to modern foundation models like diffusion models or VAEs?",
+      "canonical_answer": "Discriminative models learn p(y|x) for prediction; generative models learn p(x) to model data. Diffusion models and VAEs are generative because they learn the data distribution to create new samples.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What are the theoretical or practical limitations of current large language models, and what research directions could overcome them?",
+      "canonical_answer": "LLMs face issues like hallucinations, weak reasoning, and high compute cost. Improvements may come from retrieval-augmented models, better grounding, hybrid symbolic-neural systems, and alignment advances.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you evaluate whether an AI model is truly “understanding” or just “memorizing”?",
+      "canonical_answer": "Test on out-of-distribution data, counterfactuals, and compositional tasks; strong performance under shifts indicates understanding rather than memorization.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the main goal of representation learning?",
+      "canonical_answer": "To automatically learn useful features from raw data, reducing the need for manual feature engineering.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What problem does the attention mechanism solve?",
+      "canonical_answer": "It allows models to focus on the most relevant parts of the input, improving long-range dependency modeling and reducing reliance on recurrence.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Why are Transformers better than RNNs for large-scale NLP tasks?",
+      "canonical_answer": "They process sequences in parallel (not sequentially), use attention for context, and scale efficiently with large data.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is self-supervised learning?",
+      "canonical_answer": "Learning from unlabeled data by creating surrogate tasks (e.g., predicting masked tokens), reducing dependence on labeled datasets.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the purpose of a loss function?",
+      "canonical_answer": "It quantifies how different the model’s predictions are from the target; optimization algorithms minimize it during training.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is a latent space?",
+      "canonical_answer": "A compressed representation where similar inputs are mapped close together, typically learned by models like autoencoders or VAEs.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the vanishing gradient problem?",
+      "canonical_answer": "Gradients shrink as they propagate backward in deep networks, making early layers learn very slowly.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do GANs work?",
+      "canonical_answer": "A generator creates fake samples while a discriminator tries to distinguish real vs fake — both improve through adversarial training.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is a diffusion model?",
+      "canonical_answer": "A generative model that learns to reverse a gradual noise-adding process to generate high-quality images or signals.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is transfer learning, and why does it work well?",
+      "canonical_answer": "It fine-tunes a pre-trained model on new tasks; works because early layers capture general features across tasks/domains.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the purpose of a research baseline?",
+      "canonical_answer": "To provide a consistent comparison point for evaluating improvements in new methods.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What metric would you use to evaluate generative models?",
+      "canonical_answer": "FID, IS score, or human evaluation — depending on image quality and diversity.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Why are large language models trained with next-token prediction?",
+      "canonical_answer": "It’s a simple, scalable objective that encourages learning structure, grammar, semantics, and world knowledge from large corpora.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you choose a research problem?",
+      "canonical_answer": "By identifying gaps in literature, feasibility, potential impact, clear evaluation methods, and alignment with current research trends.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the purpose of positional encoding in Transformers?",
+      "canonical_answer": "Transformers lack recurrence, so positional encoding injects sequence order information into the input embeddings.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What are inductive biases in machine learning?",
+      "canonical_answer": "Assumptions that guide a model’s learning (e.g., CNN’s locality, RNN’s sequential bias). They help models generalize from limited data.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Why is model interpretability important in AI research?",
+      "canonical_answer": "It helps diagnose errors, improve trust, ensure safety, and reveal biases in models, especially in high-risk applications.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is a reward shaping in reinforcement learning?",
+      "canonical_answer": "Modifying the reward function to guide the agent toward better or faster learning without changing the optimal policy.",
+      "rubric_points": []
+    }, 
+    {
+      "id": null,
+      "question": "What is the difference between empirical risk minimization and structural risk minimization?",
+      "canonical_answer": "ERM: Minimizes error on training data. SRM: Minimizes error + model complexity to avoid overfitting (foundation of regularization and VC theory).",
+      "rubric_points": []
+    }
+  ]
+}

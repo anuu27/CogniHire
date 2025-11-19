@@ -1,0 +1,161 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 5.72,
+    "duration": 5.72,
+    "transcript": "Have faced many technical challenges recently as a store beating non -wazan that",
+    "word_count": 14,
+    "words": [
+      {
+        "text": "have",
+        "start": 0.0,
+        "end": 0.28,
+        "confidence": 0.3484
+      },
+      {
+        "text": "faced",
+        "start": 0.28,
+        "end": 0.62,
+        "confidence": 0.8738
+      },
+      {
+        "text": "many",
+        "start": 0.62,
+        "end": 0.92,
+        "confidence": 0.9812
+      },
+      {
+        "text": "technical",
+        "start": 0.92,
+        "end": 1.4,
+        "confidence": 0.9949
+      },
+      {
+        "text": "challenges",
+        "start": 1.4,
+        "end": 1.92,
+        "confidence": 0.9488
+      },
+      {
+        "text": "recently",
+        "start": 1.92,
+        "end": 2.56,
+        "confidence": 0.9209
+      },
+      {
+        "text": "like",
+        "start": 2.56,
+        "end": 3.88,
+        "confidence": 0.6867
+      },
+      {
+        "text": "as",
+        "start": 3.88,
+        "end": 4.14,
+        "confidence": 0.4655
+      },
+      {
+        "text": "a",
+        "start": 4.14,
+        "end": 4.42,
+        "confidence": 0.9037
+      },
+      {
+        "text": "store",
+        "start": 4.42,
+        "end": 4.56,
+        "confidence": 0.4418
+      },
+      {
+        "text": "beating",
+        "start": 4.56,
+        "end": 4.92,
+        "confidence": 0.1274
+      },
+      {
+        "text": "non",
+        "start": 4.92,
+        "end": 5.26,
+        "confidence": 0.4454
+      },
+      {
+        "text": "-wazan",
+        "start": 5.26,
+        "end": 5.56,
+        "confidence": 0.2687
+      },
+      {
+        "text": "that",
+        "start": 5.56,
+        "end": 5.72,
+        "confidence": 0.1391
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 6.78,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.61,
+    "speech_rate_wps": 2.448,
+    "speech_rate_wpm": 146.853,
+    "articulation_rate": 2.448,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 243.04,
+    "pitch_std": 14.591,
+    "pitch_range": 69.284,
+    "pitch_variance": 212.895,
+    "voiced_frames_ratio": 0.933,
+    "rms_energy_mean": 0.057,
+    "rms_energy_std": 0.045,
+    "rms_energy_max": 0.25,
+    "rms_energy_min": 0.002,
+    "energy_dynamic_range": 0.248,
+    "zero_crossing_rate": 0.166,
+    "harmonic_noise_ratio": 0.332,
+    "spectral_centroid_mean": 2083.784,
+    "spectral_centroid_std": 699.552,
+    "mfcc_1_mean": -255.693,
+    "mfcc_2_mean": 69.432,
+    "mfcc_1_std": 85.588,
+    "spectral_rolloff": 4093.663,
+    "spectral_bandwidth": 1721.556,
+    "snr_approximation": 1.273,
+    "clipping_ratio": 0.0
+  }
+]

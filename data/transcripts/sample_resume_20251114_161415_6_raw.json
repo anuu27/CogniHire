@@ -1,0 +1,73 @@
+{
+  "text": " decrease the accuracy and increase the speed.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.56,
+      "text": " decrease the accuracy and increase the speed.",
+      "tokens": [
+        50364,
+        11514,
+        264,
+        14170,
+        293,
+        3488,
+        264,
+        3073,
+        13,
+        50496
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45738831433382904,
+      "compression_ratio": 1.0227272727272727,
+      "no_speech_prob": 0.03875743970274925,
+      "words": [
+        {
+          "word": " decrease",
+          "start": 0.0,
+          "end": 0.54,
+          "probability": 0.577560544013977
+        },
+        {
+          "word": " the",
+          "start": 0.54,
+          "end": 0.82,
+          "probability": 0.8098039031028748
+        },
+        {
+          "word": " accuracy",
+          "start": 0.82,
+          "end": 1.26,
+          "probability": 0.9922945499420166
+        },
+        {
+          "word": " and",
+          "start": 1.26,
+          "end": 1.64,
+          "probability": 0.9820826053619385
+        },
+        {
+          "word": " increase",
+          "start": 1.64,
+          "end": 2.02,
+          "probability": 0.9796565771102905
+        },
+        {
+          "word": " the",
+          "start": 2.02,
+          "end": 2.32,
+          "probability": 0.9927858710289001
+        },
+        {
+          "word": " speed.",
+          "start": 2.32,
+          "end": 2.56,
+          "probability": 0.9917286038398743
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

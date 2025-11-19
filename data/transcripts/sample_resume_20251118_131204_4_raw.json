@@ -1,0 +1,23 @@
+{
+  "text": "The performance of an AI model can be evaluated using few metrics like its accuracy, pressure  and also F1 score depending on the requirements of the model.",
+  "segments": [
+    {
+      "id": null,
+      "seek": null,
+      "start": 0.0,
+      "end": 6.12,
+      "text": " The performance of an AI model can be evaluated using few metrics like its accuracy, pressure",
+      "words": []
+    },
+    {
+      "id": null,
+      "seek": null,
+      "start": 7.0,
+      "end": 12.74,
+      "text": " and also F1 score depending on the requirements of the model.",
+      "words": []
+    }
+  ],
+  "language": "en",
+  "duration": 12.864
+}

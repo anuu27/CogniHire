@@ -1,0 +1,266 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 1.36,
+    "duration": 1.36,
+    "transcript": "So the self -servable wise",
+    "word_count": 5,
+    "words": [
+      {
+        "text": "So",
+        "start": 0.0,
+        "end": 0.74,
+        "confidence": 0.0846
+      },
+      {
+        "text": "the",
+        "start": 0.74,
+        "end": 0.74,
+        "confidence": 0.1865
+      },
+      {
+        "text": "self",
+        "start": 0.74,
+        "end": 0.92,
+        "confidence": 0.0938
+      },
+      {
+        "text": "-servable",
+        "start": 0.92,
+        "end": 1.12,
+        "confidence": 0.4185
+      },
+      {
+        "text": "wise",
+        "start": 1.12,
+        "end": 1.36,
+        "confidence": 0.6698
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 1.86,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.291,
+    "speech_rate_wps": 3.676,
+    "speech_rate_wpm": 220.588,
+    "articulation_rate": 3.676,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 308.899,
+    "pitch_std": 32.783,
+    "pitch_range": 124.825,
+    "pitch_variance": 1074.73,
+    "voiced_frames_ratio": 0.372,
+    "rms_energy_mean": 0.102,
+    "rms_energy_std": 0.073,
+    "rms_energy_max": 0.292,
+    "rms_energy_min": 0.034,
+    "energy_dynamic_range": 0.258,
+    "zero_crossing_rate": 0.29,
+    "harmonic_noise_ratio": 0.098,
+    "spectral_centroid_mean": 2986.693,
+    "spectral_centroid_std": 1252.387,
+    "mfcc_1_mean": -148.103,
+    "mfcc_2_mean": 37.014,
+    "mfcc_1_std": 76.529,
+    "spectral_rolloff": 5288.517,
+    "spectral_bandwidth": 1963.978,
+    "snr_approximation": 1.395,
+    "clipping_ratio": 0.0
+  },
+  {
+    "utterance_id": "u002",
+    "start": 2.78,
+    "end": 8.54,
+    "duration": 5.76,
+    "transcript": "A super wise learning which is done by the model itself.",
+    "word_count": 14,
+    "words": [
+      {
+        "text": "a",
+        "start": 2.78,
+        "end": 3.2,
+        "confidence": 0.1753
+      },
+      {
+        "text": "super",
+        "start": 3.2,
+        "end": 3.24,
+        "confidence": 0.0897
+      },
+      {
+        "text": "wise",
+        "start": 3.24,
+        "end": 3.48,
+        "confidence": 0.8159
+      },
+      {
+        "text": "learning",
+        "start": 3.48,
+        "end": 3.92,
+        "confidence": 0.9956
+      },
+      {
+        "text": "which",
+        "start": 3.92,
+        "end": 4.34,
+        "confidence": 0.4195
+      },
+      {
+        "text": "is",
+        "start": 4.34,
+        "end": 4.62,
+        "confidence": 0.9883
+      },
+      {
+        "text": "done",
+        "start": 4.62,
+        "end": 4.88,
+        "confidence": 0.98
+      },
+      {
+        "text": "by",
+        "start": 4.88,
+        "end": 5.16,
+        "confidence": 0.9946
+      },
+      {
+        "text": "the",
+        "start": 5.16,
+        "end": 5.8,
+        "confidence": 0.6583
+      },
+      {
+        "text": "model",
+        "start": 5.8,
+        "end": 6.06,
+        "confidence": 0.4052
+      },
+      {
+        "text": "itself.",
+        "start": 6.06,
+        "end": 6.72,
+        "confidence": 0.9773
+      },
+      {
+        "text": "So",
+        "start": 7.52,
+        "end": 7.72,
+        "confidence": 0.9386
+      },
+      {
+        "text": "that's",
+        "start": 7.72,
+        "end": 8.54,
+        "confidence": 0.4648
+      },
+      {
+        "text": "it.",
+        "start": 8.54,
+        "end": 8.54,
+        "confidence": 0.532
+      }
+    ],
+    "vad_segment_start": 2.37,
+    "vad_segment_end": 8.55,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.674,
+    "speech_rate_wps": 2.431,
+    "speech_rate_wpm": 145.833,
+    "articulation_rate": 2.431,
+    "pause_count": 1,
+    "pause_rate": 0.077,
+    "mean_pause_duration": 0.8,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.8,
+    "speaking_time_ratio": 0.861,
+    "pitch_mean": 266.954,
+    "pitch_std": 38.209,
+    "pitch_range": 161.512,
+    "pitch_variance": 1459.906,
+    "voiced_frames_ratio": 0.63,
+    "rms_energy_mean": 0.05,
+    "rms_energy_std": 0.046,
+    "rms_energy_max": 0.251,
+    "rms_energy_min": 0.001,
+    "energy_dynamic_range": 0.251,
+    "zero_crossing_rate": 0.24,
+    "harmonic_noise_ratio": 0.587,
+    "spectral_centroid_mean": 2563.303,
+    "spectral_centroid_std": 1203.328,
+    "mfcc_1_mean": -285.477,
+    "mfcc_2_mean": 43.788,
+    "mfcc_1_std": 121.012,
+    "spectral_rolloff": 4579.852,
+    "spectral_bandwidth": 1818.469,
+    "snr_approximation": 1.084,
+    "clipping_ratio": 0.0
+  }
+]

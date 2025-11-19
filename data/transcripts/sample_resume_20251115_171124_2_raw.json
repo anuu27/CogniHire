@@ -1,0 +1,175 @@
+{
+  "text": " I would design it and deploy it from end to end. That is what I am doing right now.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.44,
+      "text": " I would design it and deploy it from end to end.",
+      "tokens": [
+        50364,
+        286,
+        576,
+        1715,
+        309,
+        293,
+        7274,
+        309,
+        490,
+        917,
+        281,
+        917,
+        13,
+        50503
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27136923716618466,
+      "compression_ratio": 1.0921052631578947,
+      "no_speech_prob": 0.011929483152925968,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.14,
+          "probability": 0.8611139059066772
+        },
+        {
+          "word": " would",
+          "start": 0.14,
+          "end": 0.3,
+          "probability": 0.9348109364509583
+        },
+        {
+          "word": " design",
+          "start": 0.3,
+          "end": 0.7,
+          "probability": 0.8223478198051453
+        },
+        {
+          "word": " it",
+          "start": 0.7,
+          "end": 0.9,
+          "probability": 0.9649811387062073
+        },
+        {
+          "word": " and",
+          "start": 0.9,
+          "end": 1.04,
+          "probability": 0.9630089402198792
+        },
+        {
+          "word": " deploy",
+          "start": 1.04,
+          "end": 1.4,
+          "probability": 0.9452111124992371
+        },
+        {
+          "word": " it",
+          "start": 1.4,
+          "end": 1.6,
+          "probability": 0.9549446105957031
+        },
+        {
+          "word": " from",
+          "start": 1.6,
+          "end": 1.74,
+          "probability": 0.9776006937026978
+        },
+        {
+          "word": " end",
+          "start": 1.74,
+          "end": 2.0,
+          "probability": 0.8372670412063599
+        },
+        {
+          "word": " to",
+          "start": 2.0,
+          "end": 2.18,
+          "probability": 0.984928548336029
+        },
+        {
+          "word": " end.",
+          "start": 2.18,
+          "end": 2.44,
+          "probability": 0.9981995820999146
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.7,
+      "end": 3.88,
+      "text": " That is what I am doing right now.",
+      "tokens": [
+        50503,
+        663,
+        307,
+        437,
+        286,
+        669,
+        884,
+        558,
+        586,
+        13,
+        50559
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27136923716618466,
+      "compression_ratio": 1.0921052631578947,
+      "no_speech_prob": 0.011929483152925968,
+      "words": [
+        {
+          "word": " That",
+          "start": 2.7,
+          "end": 2.82,
+          "probability": 0.8939803242683411
+        },
+        {
+          "word": " is",
+          "start": 2.82,
+          "end": 2.92,
+          "probability": 0.9498018622398376
+        },
+        {
+          "word": " what",
+          "start": 2.92,
+          "end": 3.1,
+          "probability": 0.991592526435852
+        },
+        {
+          "word": " I",
+          "start": 3.1,
+          "end": 3.2,
+          "probability": 0.9423152208328247
+        },
+        {
+          "word": " am",
+          "start": 3.2,
+          "end": 3.26,
+          "probability": 0.8103404641151428
+        },
+        {
+          "word": " doing",
+          "start": 3.26,
+          "end": 3.42,
+          "probability": 0.9925097227096558
+        },
+        {
+          "word": " right",
+          "start": 3.42,
+          "end": 3.64,
+          "probability": 0.9729492664337158
+        },
+        {
+          "word": " now.",
+          "start": 3.64,
+          "end": 3.88,
+          "probability": 0.9968547821044922
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

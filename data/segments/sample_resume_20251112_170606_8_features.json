@@ -1,0 +1,278 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 3.78,
+    "duration": 3.78,
+    "transcript": "I haven't done the 3 ways dictionary, implementation",
+    "word_count": 8,
+    "words": [
+      {
+        "text": "I",
+        "start": 0.0,
+        "end": 0.5,
+        "confidence": 0.7838
+      },
+      {
+        "text": "haven't",
+        "start": 0.5,
+        "end": 0.7,
+        "confidence": 0.8707
+      },
+      {
+        "text": "done",
+        "start": 0.7,
+        "end": 0.96,
+        "confidence": 0.9973
+      },
+      {
+        "text": "the",
+        "start": 0.96,
+        "end": 1.2,
+        "confidence": 0.8035
+      },
+      {
+        "text": "3",
+        "start": 1.2,
+        "end": 1.32,
+        "confidence": 0.123
+      },
+      {
+        "text": "ways",
+        "start": 1.32,
+        "end": 1.56,
+        "confidence": 0.3366
+      },
+      {
+        "text": "dictionary,",
+        "start": 1.56,
+        "end": 2.1,
+        "confidence": 0.4434
+      },
+      {
+        "text": "implementation",
+        "start": 2.58,
+        "end": 3.78,
+        "confidence": 0.1752
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 4.44,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.567,
+    "speech_rate_wps": 2.116,
+    "speech_rate_wpm": 126.984,
+    "articulation_rate": 2.116,
+    "pause_count": 1,
+    "pause_rate": 0.143,
+    "mean_pause_duration": 0.48,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.48,
+    "speaking_time_ratio": 0.873,
+    "pitch_mean": 139.16,
+    "pitch_std": 12.358,
+    "pitch_range": 53.808,
+    "pitch_variance": 152.716,
+    "voiced_frames_ratio": 0.975,
+    "rms_energy_mean": 0.067,
+    "rms_energy_std": 0.044,
+    "rms_energy_max": 0.183,
+    "rms_energy_min": 0.001,
+    "energy_dynamic_range": 0.182,
+    "zero_crossing_rate": 0.062,
+    "harmonic_noise_ratio": 9.501,
+    "spectral_centroid_mean": 1119.627,
+    "spectral_centroid_std": 527.471,
+    "mfcc_1_mean": -299.264,
+    "mfcc_2_mean": 118.399,
+    "mfcc_1_std": 79.035,
+    "spectral_rolloff": 2278.23,
+    "spectral_bandwidth": 1304.185,
+    "snr_approximation": 1.532,
+    "clipping_ratio": 0.0
+  },
+  {
+    "utterance_id": "u002",
+    "start": 5.38,
+    "end": 9.04,
+    "duration": 3.66,
+    "transcript": "But I have just seen it work in a good error chip system.",
+    "word_count": 13,
+    "words": [
+      {
+        "text": "but",
+        "start": 5.38,
+        "end": 5.38,
+        "confidence": 0.9486
+      },
+      {
+        "text": "I",
+        "start": 5.38,
+        "end": 5.58,
+        "confidence": 0.9571
+      },
+      {
+        "text": "have",
+        "start": 5.58,
+        "end": 5.78,
+        "confidence": 0.5807
+      },
+      {
+        "text": "just",
+        "start": 5.78,
+        "end": 6.06,
+        "confidence": 0.9866
+      },
+      {
+        "text": "seen",
+        "start": 6.06,
+        "end": 6.54,
+        "confidence": 0.9744
+      },
+      {
+        "text": "it",
+        "start": 6.54,
+        "end": 6.76,
+        "confidence": 0.9345
+      },
+      {
+        "text": "work",
+        "start": 6.76,
+        "end": 7.2,
+        "confidence": 0.9622
+      },
+      {
+        "text": "in",
+        "start": 7.2,
+        "end": 7.5,
+        "confidence": 0.9486
+      },
+      {
+        "text": "a",
+        "start": 7.5,
+        "end": 7.6,
+        "confidence": 0.7463
+      },
+      {
+        "text": "good",
+        "start": 7.6,
+        "end": 7.88,
+        "confidence": 0.7509
+      },
+      {
+        "text": "error",
+        "start": 7.88,
+        "end": 8.42,
+        "confidence": 0.1232
+      },
+      {
+        "text": "chip",
+        "start": 8.42,
+        "end": 8.7,
+        "confidence": 0.0998
+      },
+      {
+        "text": "system.",
+        "start": 8.7,
+        "end": 9.04,
+        "confidence": 0.3419
+      }
+    ],
+    "vad_segment_start": 5.04,
+    "vad_segment_end": 9.06,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.72,
+    "speech_rate_wps": 3.552,
+    "speech_rate_wpm": 213.115,
+    "articulation_rate": 3.552,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 129.49,
+    "pitch_std": 14.49,
+    "pitch_range": 55.264,
+    "pitch_variance": 209.969,
+    "voiced_frames_ratio": 0.783,
+    "rms_energy_mean": 0.062,
+    "rms_energy_std": 0.049,
+    "rms_energy_max": 0.216,
+    "rms_energy_min": 0.002,
+    "energy_dynamic_range": 0.214,
+    "zero_crossing_rate": 0.136,
+    "harmonic_noise_ratio": 2.166,
+    "spectral_centroid_mean": 1665.888,
+    "spectral_centroid_std": 1302.396,
+    "mfcc_1_mean": -307.321,
+    "mfcc_2_mean": 104.373,
+    "mfcc_1_std": 81.442,
+    "spectral_rolloff": 3001.359,
+    "spectral_bandwidth": 1478.322,
+    "snr_approximation": 1.272,
+    "clipping_ratio": 0.0
+  }
+]

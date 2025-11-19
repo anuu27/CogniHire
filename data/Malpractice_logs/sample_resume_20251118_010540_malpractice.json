@@ -1,0 +1,410 @@
+[
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T19:45:42.082Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:45:46.061Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:45:52.057Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:46:04.048Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T19:46:06.088Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T19:46:08.068Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T19:46:24.115Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:46:36.054Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:46:38.047Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:46:38.358Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:46:40.073Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:46:42.078Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T19:46:48.067Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T19:46:50.092Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:46:54.046Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:46:54.851Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:46:58.045Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:46:59.259Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:47:00.068Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:47:02.042Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:47:08.074Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:47:10.056Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:47:20.066Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:47:20.153Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T19:47:22.065Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:47:48.058Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:47:52.090Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T19:47:56.087Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:48:02.044Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:48:18.048Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T19:48:20.089Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T19:49:02.121Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T19:49:10.106Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T19:49:12.091Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T19:49:14.082Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T19:49:16.078Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:49:18.057Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:49:24.059Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:49:26.056Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:49:32.077Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:49:40.058Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:49:42.088Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:50:26.102Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:50:34.063Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:50:46.057Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:50:48.087Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:50:49.153Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:51:00.066Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:51:04.059Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:51:30.938Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "What are activation functions in neural networks?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T19:51:32.068Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  }
+]

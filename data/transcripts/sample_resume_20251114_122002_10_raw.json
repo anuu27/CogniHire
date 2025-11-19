@@ -1,0 +1,31 @@
+{
+  "text": " Now...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.62,
+      "text": " Now...",
+      "tokens": [
+        50364,
+        823,
+        485,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9152863502502442,
+      "compression_ratio": 0.42857142857142855,
+      "no_speech_prob": 0.16921168565750122,
+      "words": [
+        {
+          "word": " Now...",
+          "start": 0.0,
+          "end": 0.62,
+          "probability": 0.3790774792432785
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,185 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 2.3,
+    "duration": 2.3,
+    "transcript": "あ い の お い の お い の お い の お い の お い の",
+    "word_count": 18,
+    "words": [
+      {
+        "text": "あ",
+        "start": 0.0,
+        "end": 0.16,
+        "confidence": 0.268
+      },
+      {
+        "text": "い",
+        "start": 0.16,
+        "end": 0.26,
+        "confidence": 0.7115
+      },
+      {
+        "text": "の",
+        "start": 0.26,
+        "end": 0.42,
+        "confidence": 0.7996
+      },
+      {
+        "text": "お",
+        "start": 0.42,
+        "end": 0.56,
+        "confidence": 0.1068
+      },
+      {
+        "text": "い",
+        "start": 0.56,
+        "end": 0.68,
+        "confidence": 0.3445
+      },
+      {
+        "text": "の",
+        "start": 0.68,
+        "end": 0.86,
+        "confidence": 0.8303
+      },
+      {
+        "text": "お",
+        "start": 0.86,
+        "end": 0.98,
+        "confidence": 0.8574
+      },
+      {
+        "text": "い",
+        "start": 0.98,
+        "end": 1.1,
+        "confidence": 0.983
+      },
+      {
+        "text": "の",
+        "start": 1.1,
+        "end": 1.24,
+        "confidence": 0.987
+      },
+      {
+        "text": "お",
+        "start": 1.24,
+        "end": 1.4,
+        "confidence": 0.9017
+      },
+      {
+        "text": "い",
+        "start": 1.4,
+        "end": 1.5,
+        "confidence": 0.9794
+      },
+      {
+        "text": "の",
+        "start": 1.5,
+        "end": 1.64,
+        "confidence": 0.9836
+      },
+      {
+        "text": "お",
+        "start": 1.64,
+        "end": 1.74,
+        "confidence": 0.8714
+      },
+      {
+        "text": "い",
+        "start": 1.74,
+        "end": 1.86,
+        "confidence": 0.9674
+      },
+      {
+        "text": "の",
+        "start": 1.86,
+        "end": 1.98,
+        "confidence": 0.9862
+      },
+      {
+        "text": "お",
+        "start": 1.98,
+        "end": 2.06,
+        "confidence": 0.8816
+      },
+      {
+        "text": "い",
+        "start": 2.06,
+        "end": 2.16,
+        "confidence": 0.9567
+      },
+      {
+        "text": "の",
+        "start": 2.16,
+        "end": 2.3,
+        "confidence": 0.9861
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 2.46,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.8,
+    "speech_rate_wps": 7.826,
+    "speech_rate_wpm": 469.565,
+    "articulation_rate": 7.826,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 204.361,
+    "pitch_std": 11.392,
+    "pitch_range": 51.683,
+    "pitch_variance": 129.774,
+    "voiced_frames_ratio": 1.0,
+    "rms_energy_mean": 0.098,
+    "rms_energy_std": 0.025,
+    "rms_energy_max": 0.145,
+    "rms_energy_min": 0.026,
+    "energy_dynamic_range": 0.119,
+    "zero_crossing_rate": 0.063,
+    "harmonic_noise_ratio": 27.813,
+    "spectral_centroid_mean": 1247.6,
+    "spectral_centroid_std": 356.351,
+    "mfcc_1_mean": -210.617,
+    "mfcc_2_mean": 109.411,
+    "mfcc_1_std": 43.819,
+    "spectral_rolloff": 2366.862,
+    "spectral_bandwidth": 1404.508,
+    "snr_approximation": 3.883,
+    "clipping_ratio": 0.0
+  }
+]

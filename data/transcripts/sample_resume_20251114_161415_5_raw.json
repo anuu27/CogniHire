@@ -1,0 +1,107 @@
+{
+  "text": " Transformant model process input sequences and outper forms RNNs in LSTM.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.5,
+      "text": " Transformant model process input sequences and outper forms RNNs in LSTM.",
+      "tokens": [
+        50364,
+        27938,
+        394,
+        2316,
+        1399,
+        4846,
+        22978,
+        293,
+        484,
+        610,
+        6422,
+        45702,
+        45,
+        82,
+        294,
+        441,
+        6840,
+        44,
+        13,
+        50638
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5981196903047108,
+      "compression_ratio": 0.9864864864864865,
+      "no_speech_prob": 0.011966327205300331,
+      "words": [
+        {
+          "word": " Transformant",
+          "start": 0.0,
+          "end": 0.76,
+          "probability": 0.3467569500207901
+        },
+        {
+          "word": " model",
+          "start": 0.76,
+          "end": 1.04,
+          "probability": 0.8988041877746582
+        },
+        {
+          "word": " process",
+          "start": 1.04,
+          "end": 1.4,
+          "probability": 0.464110404253006
+        },
+        {
+          "word": " input",
+          "start": 1.4,
+          "end": 1.84,
+          "probability": 0.9416561126708984
+        },
+        {
+          "word": " sequences",
+          "start": 1.84,
+          "end": 2.5,
+          "probability": 0.9575166702270508
+        },
+        {
+          "word": " and",
+          "start": 2.5,
+          "end": 3.0,
+          "probability": 0.8363000750541687
+        },
+        {
+          "word": " outper",
+          "start": 3.0,
+          "end": 3.38,
+          "probability": 0.529056578874588
+        },
+        {
+          "word": " forms",
+          "start": 3.38,
+          "end": 3.7,
+          "probability": 0.3506883978843689
+        },
+        {
+          "word": " RNNs",
+          "start": 3.7,
+          "end": 4.84,
+          "probability": 0.5364981691042582
+        },
+        {
+          "word": " in",
+          "start": 4.84,
+          "end": 4.94,
+          "probability": 0.6052271723747253
+        },
+        {
+          "word": " LSTM.",
+          "start": 4.94,
+          "end": 5.5,
+          "probability": 0.7922629515329996
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

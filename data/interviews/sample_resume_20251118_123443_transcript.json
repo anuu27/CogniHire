@@ -1,0 +1,96 @@
+{
+  "session_id": "sample_resume_20251118_123443",
+  "role": "AI engineer",
+  "resume_file": "uploads\\sample_resume.pdf",
+  "candidate_info": {
+    "name": "Anugya Anantapur",
+    "skills": [
+      "Python",
+      "Bash",
+      "SQL",
+      "Problem Solving",
+      "Recursive Trees",
+      "Algorithms",
+      "Dynamic Programming",
+      "OpenAI API",
+      "C",
+      "NumPy",
+      "Git",
+      "Jupyter Notebook",
+      "ADT",
+      "Hypothesis library",
+      "TRIE"
+    ],
+    "projects": [
+      {
+        "title": "Trie-Based Dictionary Reimplementation (C)",
+        "description": "Rebuilt an array-based dictionary into a Trie-based data structure, preserving the abstract data type’s interface. Eliminated hardcoded size constraints and improved lookup/set speed via recursive node operations. Maintained strict memory safety and clean pointer logic throughout."
+      },
+      {
+        "title": "Interactive Bellman-Ford Path Visualizer (Python)",
+        "description": "Designed an interactive game-like simulation of the Bellman-Ford algorithm, styled as a treasure hunt. Built a fixed graph using island images for nodes and ocean paths for edges, with dynamic glowing of user-selected paths. Highlighted the optimal path and displayed a final success message to complete the animated gameplay."
+      },
+      {
+        "title": "Performance Analysis of Splay Trees (Java)",
+        "description": "Simulated splay trees under skewed query patterns to demonstrate their near-constant amortized access time. Benchmarked against naive BSTs and presented results using comparative trend plots. Conveyed empirical insights clearly without relying on formal theory."
+      },
+      {
+        "title": "HyperLogLog Neighbor Optimizer (Python)",
+        "description": "Optimized the getnearest neighbors() routine in a probabilistic HyperLogLog structure. Rewrote logic using vectorization and smarter iteration to handle large-scale queries efficiently. Preserved functional correctness while significantly improving runtime performance."
+      },
+      {
+        "title": "Ultra-Large Integer Optimization (Python + C)",
+        "description": "Rewrote performance-critical sections of a Python-based large integer processing app in C. Implemented a custom big-integer ADT, integrated via ctypes, and managed builds with Makefile. Achieved significant speedup on large-scale integer datasets."
+      }
+    ]
+  },
+  "start_time": "2025-11-18T12:34:43.122980",
+  "end_time": "2025-11-18T12:37:53.359516",
+  "interview_transcript": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": null,
+      "type": "intro"
+    },
+    {
+      "question": "What is regularization in machine learning, and why is it important?",
+      "answer": "But I don't know why it's effective. I'm just interested.",
+      "type": "role"
+    },
+    {
+      "question": "What is gradient descent, and why is it important?",
+      "answer": "Gradient descent is process of optimizing loss function by minimizing it.",
+      "type": "role"
+    },
+    {
+      "question": "What are activation functions in neural networks?",
+      "answer": "They are applied to each neuron to make it more non-linear add-lonia related to the Neural Networks.",
+      "type": "role"
+    },
+    {
+      "question": "How do you handle imbalanced datasets in classification problems?",
+      "answer": "I try being balanced to them by using some methods.",
+      "type": "role"
+    },
+    {
+      "question": "What is supervised and unsupervised learning?",
+      "answer": "Supervised learning is the case when data is with labels and non-supervised learning there will be no labels.",
+      "type": "role"
+    },
+    {
+      "question": "Why choose Bellman-Ford for path visualization?",
+      "answer": "Because it's the one of the new topics that can be introduced for children in our open day.",
+      "type": "resume"
+    },
+    {
+      "question": "What makes Bellman-Ford a good fit for *showing* paths to children?",
+      "answer": "Because I don't know.",
+      "type": "follow-up"
+    },
+    {
+      "question": "What was the biggest challenge integrating C with Python via ctypes?",
+      "answer": null,
+      "type": "resume"
+    }
+  ]
+}

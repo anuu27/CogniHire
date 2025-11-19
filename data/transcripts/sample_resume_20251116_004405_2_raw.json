@@ -1,0 +1,89 @@
+{
+  "text": " I will do this, that and everything about AIS.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.06,
+      "text": " I will do this, that and everything about AIS.",
+      "tokens": [
+        50364,
+        286,
+        486,
+        360,
+        341,
+        11,
+        300,
+        293,
+        1203,
+        466,
+        316,
+        2343,
+        13,
+        50528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37498413721720375,
+      "compression_ratio": 0.9019607843137255,
+      "no_speech_prob": 0.003967726603150368,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.8167775273323059
+        },
+        {
+          "word": " will",
+          "start": 0.16,
+          "end": 0.28,
+          "probability": 0.8140963912010193
+        },
+        {
+          "word": " do",
+          "start": 0.28,
+          "end": 0.46,
+          "probability": 0.9923481941223145
+        },
+        {
+          "word": " this,",
+          "start": 0.46,
+          "end": 0.84,
+          "probability": 0.9560802578926086
+        },
+        {
+          "word": " that",
+          "start": 1.1,
+          "end": 1.26,
+          "probability": 0.9872258305549622
+        },
+        {
+          "word": " and",
+          "start": 1.26,
+          "end": 1.6,
+          "probability": 0.872545063495636
+        },
+        {
+          "word": " everything",
+          "start": 1.6,
+          "end": 2.14,
+          "probability": 0.9852783679962158
+        },
+        {
+          "word": " about",
+          "start": 2.14,
+          "end": 2.58,
+          "probability": 0.9790728688240051
+        },
+        {
+          "word": " AIS.",
+          "start": 2.58,
+          "end": 3.06,
+          "probability": 0.7279654741287231
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,139 @@
+{
+  "text": " If we, if we didn't know that we would have fast in U only, you know?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": " If we, if we didn't know that we would have fast in U only, you know?",
+      "tokens": [
+        50364,
+        759,
+        321,
+        11,
+        498,
+        321,
+        994,
+        380,
+        458,
+        300,
+        321,
+        576,
+        362,
+        2370,
+        294,
+        624,
+        787,
+        11,
+        291,
+        458,
+        30,
+        50572
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4497258974158246,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.07753770798444748,
+      "words": [
+        {
+          "word": " If",
+          "start": 0.0,
+          "end": 0.24,
+          "probability": 0.5357438921928406
+        },
+        {
+          "word": " we,",
+          "start": 0.24,
+          "end": 0.46,
+          "probability": 0.9022918343544006
+        },
+        {
+          "word": " if",
+          "start": 0.6,
+          "end": 1.16,
+          "probability": 0.8717086911201477
+        },
+        {
+          "word": " we",
+          "start": 1.16,
+          "end": 1.52,
+          "probability": 0.9937520623207092
+        },
+        {
+          "word": " didn't",
+          "start": 1.52,
+          "end": 1.86,
+          "probability": 0.8114278614521027
+        },
+        {
+          "word": " know",
+          "start": 1.86,
+          "end": 2.06,
+          "probability": 0.995194137096405
+        },
+        {
+          "word": " that",
+          "start": 2.06,
+          "end": 2.26,
+          "probability": 0.9401282072067261
+        },
+        {
+          "word": " we",
+          "start": 2.26,
+          "end": 2.42,
+          "probability": 0.8795536160469055
+        },
+        {
+          "word": " would",
+          "start": 2.42,
+          "end": 2.56,
+          "probability": 0.9659916758537292
+        },
+        {
+          "word": " have",
+          "start": 2.56,
+          "end": 2.76,
+          "probability": 0.9847308397293091
+        },
+        {
+          "word": " fast",
+          "start": 2.76,
+          "end": 3.1,
+          "probability": 0.6215486526489258
+        },
+        {
+          "word": " in",
+          "start": 3.1,
+          "end": 3.32,
+          "probability": 0.2690025866031647
+        },
+        {
+          "word": " U",
+          "start": 3.32,
+          "end": 3.5,
+          "probability": 0.5931115746498108
+        },
+        {
+          "word": " only,",
+          "start": 3.5,
+          "end": 3.8,
+          "probability": 0.7366161346435547
+        },
+        {
+          "word": " you",
+          "start": 3.8,
+          "end": 3.96,
+          "probability": 0.7470768690109253
+        },
+        {
+          "word": " know?",
+          "start": 3.96,
+          "end": 4.0,
+          "probability": 0.9979634284973145
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

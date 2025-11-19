@@ -1,0 +1,251 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 14.34,
+    "duration": 14.34,
+    "transcript": "This process can be visualized as continuous cycle often called the AI flywheel.",
+    "word_count": 29,
+    "words": [
+      {
+        "text": "This",
+        "start": 0.0,
+        "end": 0.36,
+        "confidence": 0.5604
+      },
+      {
+        "text": "process",
+        "start": 0.36,
+        "end": 1.02,
+        "confidence": 0.998
+      },
+      {
+        "text": "can",
+        "start": 1.02,
+        "end": 1.36,
+        "confidence": 0.9951
+      },
+      {
+        "text": "be",
+        "start": 1.36,
+        "end": 1.56,
+        "confidence": 0.9958
+      },
+      {
+        "text": "visualized",
+        "start": 1.56,
+        "end": 2.32,
+        "confidence": 0.9336
+      },
+      {
+        "text": "as",
+        "start": 2.32,
+        "end": 2.72,
+        "confidence": 0.9622
+      },
+      {
+        "text": "continuous",
+        "start": 2.72,
+        "end": 3.2,
+        "confidence": 0.9287
+      },
+      {
+        "text": "cycle",
+        "start": 3.2,
+        "end": 3.62,
+        "confidence": 0.802
+      },
+      {
+        "text": "often",
+        "start": 3.62,
+        "end": 4.06,
+        "confidence": 0.5401
+      },
+      {
+        "text": "called",
+        "start": 4.06,
+        "end": 4.56,
+        "confidence": 0.9448
+      },
+      {
+        "text": "the",
+        "start": 4.56,
+        "end": 5.02,
+        "confidence": 0.8998
+      },
+      {
+        "text": "AI",
+        "start": 5.02,
+        "end": 5.2,
+        "confidence": 0.2996
+      },
+      {
+        "text": "flywheel.",
+        "start": 5.2,
+        "end": 6.06,
+        "confidence": 0.6841
+      },
+      {
+        "text": "Like",
+        "start": 6.5,
+        "end": 6.62,
+        "confidence": 0.8785
+      },
+      {
+        "text": "this",
+        "start": 6.62,
+        "end": 6.78,
+        "confidence": 0.9176
+      },
+      {
+        "text": "involves",
+        "start": 6.78,
+        "end": 7.38,
+        "confidence": 0.8205
+      },
+      {
+        "text": "problem",
+        "start": 7.38,
+        "end": 7.86,
+        "confidence": 0.9322
+      },
+      {
+        "text": "definition,",
+        "start": 7.86,
+        "end": 8.28,
+        "confidence": 0.9862
+      },
+      {
+        "text": "data",
+        "start": 8.6,
+        "end": 8.76,
+        "confidence": 0.9941
+      },
+      {
+        "text": "collection,",
+        "start": 8.76,
+        "end": 9.88,
+        "confidence": 0.9853
+      },
+      {
+        "text": "model",
+        "start": 10.64,
+        "end": 10.9,
+        "confidence": 0.914
+      },
+      {
+        "text": "deployment,",
+        "start": 10.9,
+        "end": 11.58,
+        "confidence": 0.9667
+      },
+      {
+        "text": "system",
+        "start": 11.96,
+        "end": 12.12,
+        "confidence": 0.9815
+      },
+      {
+        "text": "and",
+        "start": 12.12,
+        "end": 12.32,
+        "confidence": 0.9543
+      },
+      {
+        "text": "design",
+        "start": 12.32,
+        "end": 12.6,
+        "confidence": 0.9926
+      },
+      {
+        "text": "deployment,",
+        "start": 12.6,
+        "end": 13.22,
+        "confidence": 0.9888
+      },
+      {
+        "text": "monitoring",
+        "start": 13.7,
+        "end": 13.72,
+        "confidence": 0.9674
+      },
+      {
+        "text": "and",
+        "start": 13.72,
+        "end": 14.02,
+        "confidence": 0.8571
+      },
+      {
+        "text": "maintenance.",
+        "start": 14.02,
+        "end": 14.34,
+        "confidence": 0.8897
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 14.61,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.882,
+    "speech_rate_wps": 2.022,
+    "speech_rate_wpm": 121.339,
+    "articulation_rate": 2.022,
+    "pause_count": 5,
+    "pause_rate": 0.179,
+    "mean_pause_duration": 0.476,
+    "std_pause_duration": 0.152,
+    "total_pause_time": 2.38,
+    "speaking_time_ratio": 0.834,
+    "pitch_mean": 209.807,
+    "pitch_std": 27.512,
+    "pitch_range": 126.655,
+    "pitch_variance": 756.932,
+    "voiced_frames_ratio": 0.855,
+    "rms_energy_mean": 0.071,
+    "rms_energy_std": 0.042,
+    "rms_energy_max": 0.203,
+    "rms_energy_min": 0.001,
+    "energy_dynamic_range": 0.202,
+    "zero_crossing_rate": 0.157,
+    "harmonic_noise_ratio": 1.312,
+    "spectral_centroid_mean": 1791.649,
+    "spectral_centroid_std": 1275.915,
+    "mfcc_1_mean": -273.069,
+    "mfcc_2_mean": 94.103,
+    "mfcc_1_std": 87.82,
+    "spectral_rolloff": 3227.815,
+    "spectral_bandwidth": 1478.047,
+    "snr_approximation": 1.679,
+    "clipping_ratio": 0.0
+  }
+]

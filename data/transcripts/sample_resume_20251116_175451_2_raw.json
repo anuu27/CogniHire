@@ -1,0 +1,87 @@
+{
+  "text": " Blah blah blah blah blah blah blah blah lover",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.6,
+      "text": " Blah blah blah blah blah blah blah blah lover",
+      "tokens": [
+        50364,
+        2177,
+        545,
+        12288,
+        12288,
+        12288,
+        12288,
+        12288,
+        12288,
+        12288,
+        18009,
+        50508
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.207565160898062,
+      "compression_ratio": 2.142857142857143,
+      "no_speech_prob": 0.30563923716545105,
+      "words": [
+        {
+          "word": " Blah",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.6320038884878159
+        },
+        {
+          "word": " blah",
+          "start": 0.34,
+          "end": 0.58,
+          "probability": 0.6758875250816345
+        },
+        {
+          "word": " blah",
+          "start": 0.58,
+          "end": 1.02,
+          "probability": 0.9643629789352417
+        },
+        {
+          "word": " blah",
+          "start": 1.02,
+          "end": 1.34,
+          "probability": 0.9456376433372498
+        },
+        {
+          "word": " blah",
+          "start": 1.34,
+          "end": 1.68,
+          "probability": 0.92747563123703
+        },
+        {
+          "word": " blah",
+          "start": 1.68,
+          "end": 1.92,
+          "probability": 0.9131437540054321
+        },
+        {
+          "word": " blah",
+          "start": 1.92,
+          "end": 2.12,
+          "probability": 0.901621401309967
+        },
+        {
+          "word": " blah",
+          "start": 2.12,
+          "end": 2.22,
+          "probability": 0.8771424293518066
+        },
+        {
+          "word": " lover",
+          "start": 2.22,
+          "end": 2.6,
+          "probability": 1.3126455087331124e-05
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

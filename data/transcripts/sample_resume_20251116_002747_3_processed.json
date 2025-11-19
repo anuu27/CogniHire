@@ -1,0 +1,291 @@
+{
+  "session_id": "sample_resume_20251116_002747_3",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251116_002747_answer_processed.wav",
+  "raw_text": "The bias variance tradeoff would be the difference between the original output and the required output",
+  "processed_text": "The bias variance tradeoff would be the difference between the original output and the required output",
+  "words": [
+    {
+      "text": "The",
+      "start": 0.0,
+      "end": 0.5,
+      "confidence": 0.6389
+    },
+    {
+      "text": "bias",
+      "start": 0.5,
+      "end": 0.86,
+      "confidence": 0.9451
+    },
+    {
+      "text": "variance",
+      "start": 0.86,
+      "end": 1.2,
+      "confidence": 0.93
+    },
+    {
+      "text": "tradeoff",
+      "start": 1.2,
+      "end": 1.68,
+      "confidence": 0.4756
+    },
+    {
+      "text": "would",
+      "start": 1.68,
+      "end": 1.9,
+      "confidence": 0.966
+    },
+    {
+      "text": "be",
+      "start": 1.9,
+      "end": 2.1,
+      "confidence": 0.9978
+    },
+    {
+      "text": "the",
+      "start": 2.1,
+      "end": 2.28,
+      "confidence": 0.9753
+    },
+    {
+      "text": "difference",
+      "start": 2.28,
+      "end": 2.56,
+      "confidence": 0.9927
+    },
+    {
+      "text": "between",
+      "start": 2.56,
+      "end": 2.88,
+      "confidence": 0.9975
+    },
+    {
+      "text": "the",
+      "start": 2.88,
+      "end": 3.98,
+      "confidence": 0.844
+    },
+    {
+      "text": "original",
+      "start": 3.98,
+      "end": 5.0,
+      "confidence": 0.9569
+    },
+    {
+      "text": "output",
+      "start": 5.0,
+      "end": 6.08,
+      "confidence": 0.9167
+    },
+    {
+      "text": "and",
+      "start": 6.08,
+      "end": 6.4,
+      "confidence": 0.9796
+    },
+    {
+      "text": "the",
+      "start": 6.4,
+      "end": 6.66,
+      "confidence": 0.9506
+    },
+    {
+      "text": "required",
+      "start": 6.66,
+      "end": 9.66,
+      "confidence": 0.7741
+    },
+    {
+      "text": "output",
+      "start": 9.66,
+      "end": 10.18,
+      "confidence": 0.987
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 6.66,
+      "duration": 6.66,
+      "transcript": "The bias variance tradeoff would be the difference between the original output and the",
+      "word_count": 14,
+      "words": [
+        {
+          "text": "The",
+          "start": 0.0,
+          "end": 0.5,
+          "confidence": 0.6389
+        },
+        {
+          "text": "bias",
+          "start": 0.5,
+          "end": 0.86,
+          "confidence": 0.9451
+        },
+        {
+          "text": "variance",
+          "start": 0.86,
+          "end": 1.2,
+          "confidence": 0.93
+        },
+        {
+          "text": "tradeoff",
+          "start": 1.2,
+          "end": 1.68,
+          "confidence": 0.4756
+        },
+        {
+          "text": "would",
+          "start": 1.68,
+          "end": 1.9,
+          "confidence": 0.966
+        },
+        {
+          "text": "be",
+          "start": 1.9,
+          "end": 2.1,
+          "confidence": 0.9978
+        },
+        {
+          "text": "the",
+          "start": 2.1,
+          "end": 2.28,
+          "confidence": 0.9753
+        },
+        {
+          "text": "difference",
+          "start": 2.28,
+          "end": 2.56,
+          "confidence": 0.9927
+        },
+        {
+          "text": "between",
+          "start": 2.56,
+          "end": 2.88,
+          "confidence": 0.9975
+        },
+        {
+          "text": "the",
+          "start": 2.88,
+          "end": 3.98,
+          "confidence": 0.844
+        },
+        {
+          "text": "original",
+          "start": 3.98,
+          "end": 5.0,
+          "confidence": 0.9569
+        },
+        {
+          "text": "output",
+          "start": 5.0,
+          "end": 6.08,
+          "confidence": 0.9167
+        },
+        {
+          "text": "and",
+          "start": 6.08,
+          "end": 6.4,
+          "confidence": 0.9796
+        },
+        {
+          "text": "the",
+          "start": 6.4,
+          "end": 6.66,
+          "confidence": 0.9506
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 6.78,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    },
+    {
+      "utterance_id": "u002",
+      "start": 9.66,
+      "end": 10.18,
+      "duration": 0.52,
+      "transcript": "Output",
+      "word_count": 1,
+      "words": [
+        {
+          "text": "output",
+          "start": 9.66,
+          "end": 10.18,
+          "confidence": 0.987
+        }
+      ],
+      "vad_segment_start": 8.31,
+      "vad_segment_end": 10.29,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 10.3,
+  "model_used": "small",
+  "timestamp": "2025-11-16T00:28:57.282528",
+  "segment_count": 2,
+  "word_count": 16,
+  "utterance_count": 2
+}

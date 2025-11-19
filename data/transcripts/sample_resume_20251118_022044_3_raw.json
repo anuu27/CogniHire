@@ -1,0 +1,104 @@
+{
+  "text": " Actually, I'm looking into it, how I will optimize my performance.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 1.6599999999999997,
+      "end": 7.36,
+      "text": " Actually, I'm looking into it, how I will optimize my performance.",
+      "tokens": [
+        50364,
+        5135,
+        11,
+        286,
+        478,
+        1237,
+        666,
+        309,
+        11,
+        577,
+        286,
+        486,
+        19719,
+        452,
+        3389,
+        13,
+        50744
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42843325932820636,
+      "compression_ratio": 0.9295774647887324,
+      "no_speech_prob": 0.11134954541921616,
+      "words": [
+        {
+          "word": " Actually,",
+          "start": 1.6599999999999997,
+          "end": 2.48,
+          "probability": 0.5943554639816284
+        },
+        {
+          "word": " I'm",
+          "start": 3.0,
+          "end": 3.18,
+          "probability": 0.7844817638397217
+        },
+        {
+          "word": " looking",
+          "start": 3.18,
+          "end": 3.9,
+          "probability": 0.985248327255249
+        },
+        {
+          "word": " into",
+          "start": 3.9,
+          "end": 4.28,
+          "probability": 0.9637094736099243
+        },
+        {
+          "word": " it,",
+          "start": 4.28,
+          "end": 5.0,
+          "probability": 0.6409266591072083
+        },
+        {
+          "word": " how",
+          "start": 5.56,
+          "end": 5.74,
+          "probability": 0.726894736289978
+        },
+        {
+          "word": " I",
+          "start": 5.74,
+          "end": 5.92,
+          "probability": 0.9613998532295227
+        },
+        {
+          "word": " will",
+          "start": 5.92,
+          "end": 6.08,
+          "probability": 0.9232287406921387
+        },
+        {
+          "word": " optimize",
+          "start": 6.08,
+          "end": 6.48,
+          "probability": 0.9410253763198853
+        },
+        {
+          "word": " my",
+          "start": 6.48,
+          "end": 6.94,
+          "probability": 0.9921754002571106
+        },
+        {
+          "word": " performance.",
+          "start": 6.94,
+          "end": 7.36,
+          "probability": 0.9830915331840515
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T12:54:08.480Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are some ethical considerations in AI development?"
+    }
+  }
+]

@@ -1,0 +1,143 @@
+{
+  "text": " I don't know anything about that. I just wanted an interrelate experience web chip.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.04,
+      "text": " I don't know anything about that.",
+      "tokens": [
+        50364,
+        286,
+        500,
+        380,
+        458,
+        1340,
+        466,
+        300,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5354857047398885,
+      "compression_ratio": 1.0506329113924051,
+      "no_speech_prob": 0.002242644317448139,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.28,
+          "probability": 0.8113713264465332
+        },
+        {
+          "word": " don't",
+          "start": 0.28,
+          "end": 0.5,
+          "probability": 0.9428530633449554
+        },
+        {
+          "word": " know",
+          "start": 0.5,
+          "end": 0.68,
+          "probability": 0.9791082739830017
+        },
+        {
+          "word": " anything",
+          "start": 0.68,
+          "end": 0.98,
+          "probability": 0.7449197173118591
+        },
+        {
+          "word": " about",
+          "start": 0.98,
+          "end": 1.44,
+          "probability": 0.9786021709442139
+        },
+        {
+          "word": " that.",
+          "start": 1.44,
+          "end": 2.04,
+          "probability": 0.950617253780365
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.12,
+      "end": 5.82,
+      "text": " I just wanted an interrelate experience web chip.",
+      "tokens": [
+        50464,
+        286,
+        445,
+        1415,
+        364,
+        728,
+        4419,
+        473,
+        1752,
+        3670,
+        11409,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5354857047398885,
+      "compression_ratio": 1.0506329113924051,
+      "no_speech_prob": 0.002242644317448139,
+      "words": [
+        {
+          "word": " I",
+          "start": 2.12,
+          "end": 2.22,
+          "probability": 0.7542396783828735
+        },
+        {
+          "word": " just",
+          "start": 2.22,
+          "end": 2.5,
+          "probability": 0.9947819113731384
+        },
+        {
+          "word": " wanted",
+          "start": 2.5,
+          "end": 2.94,
+          "probability": 0.9362677335739136
+        },
+        {
+          "word": " an",
+          "start": 2.94,
+          "end": 3.88,
+          "probability": 0.7462418675422668
+        },
+        {
+          "word": " interrelate",
+          "start": 3.88,
+          "end": 4.44,
+          "probability": 0.3437894384066264
+        },
+        {
+          "word": " experience",
+          "start": 4.44,
+          "end": 4.94,
+          "probability": 0.7295058965682983
+        },
+        {
+          "word": " web",
+          "start": 4.94,
+          "end": 5.52,
+          "probability": 0.3598117530345917
+        },
+        {
+          "word": " chip.",
+          "start": 5.52,
+          "end": 5.82,
+          "probability": 0.6640240550041199
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

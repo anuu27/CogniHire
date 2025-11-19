@@ -1,0 +1,121 @@
+{
+  "text": " transformer process has input sequence better than RMS. And LST is.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.04,
+      "text": " transformer process has input sequence better than RMS.",
+      "tokens": [
+        50364,
+        31782,
+        1399,
+        575,
+        4846,
+        8310,
+        1101,
+        813,
+        497,
+        10288,
+        13,
+        50564
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.9521590232849121,
+      "compression_ratio": 0.9436619718309859,
+      "no_speech_prob": 0.018983488902449608,
+      "words": [
+        {
+          "word": " transformer",
+          "start": 0.0,
+          "end": 0.76,
+          "probability": 0.3389035165309906
+        },
+        {
+          "word": " process",
+          "start": 0.76,
+          "end": 1.26,
+          "probability": 0.6114532947540283
+        },
+        {
+          "word": " has",
+          "start": 1.26,
+          "end": 1.54,
+          "probability": 0.6149648427963257
+        },
+        {
+          "word": " input",
+          "start": 1.54,
+          "end": 1.88,
+          "probability": 0.6883386969566345
+        },
+        {
+          "word": " sequence",
+          "start": 1.88,
+          "end": 2.38,
+          "probability": 0.6547304391860962
+        },
+        {
+          "word": " better",
+          "start": 2.38,
+          "end": 2.88,
+          "probability": 0.6003031134605408
+        },
+        {
+          "word": " than",
+          "start": 2.88,
+          "end": 3.26,
+          "probability": 0.9824788570404053
+        },
+        {
+          "word": " RMS.",
+          "start": 3.26,
+          "end": 4.04,
+          "probability": 0.4065370038151741
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.84,
+      "end": 5.74,
+      "text": " And LST is.",
+      "tokens": [
+        50564,
+        400,
+        441,
+        6840,
+        307,
+        13,
+        50664
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.9521590232849121,
+      "compression_ratio": 0.9436619718309859,
+      "no_speech_prob": 0.018983488902449608,
+      "words": [
+        {
+          "word": " And",
+          "start": 4.84,
+          "end": 4.98,
+          "probability": 0.35879600048065186
+        },
+        {
+          "word": " LST",
+          "start": 4.98,
+          "end": 5.44,
+          "probability": 0.28718940913677216
+        },
+        {
+          "word": " is.",
+          "start": 5.44,
+          "end": 5.74,
+          "probability": 0.3962181508541107
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

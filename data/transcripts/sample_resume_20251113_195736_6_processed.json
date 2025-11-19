@@ -1,0 +1,133 @@
+{
+  "session_id": "sample_resume_20251113_195736_6",
+  "audio_source": "audio_analysis_ingest\\response_20251113_195904_processed.wav",
+  "raw_text": "I'm sorry, I'm sorry, I'm sorry.",
+  "processed_text": "I'm sorry, I'm sorry, I'm sorry.",
+  "words": [
+    {
+      "text": "I'm",
+      "start": 0.0,
+      "end": 0.6,
+      "confidence": 0.2539
+    },
+    {
+      "text": "sorry,",
+      "start": 0.6,
+      "end": 0.6,
+      "confidence": 0.1493
+    },
+    {
+      "text": "I'm",
+      "start": 0.98,
+      "end": 1.24,
+      "confidence": 0.679
+    },
+    {
+      "text": "sorry,",
+      "start": 1.24,
+      "end": 1.34,
+      "confidence": 0.9148
+    },
+    {
+      "text": "I'm",
+      "start": 1.36,
+      "end": 1.56,
+      "confidence": 0.9188
+    },
+    {
+      "text": "sorry.",
+      "start": 1.56,
+      "end": 1.64,
+      "confidence": 0.9505
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 1.64,
+      "duration": 1.64,
+      "transcript": "I'm sorry, I'm sorry, I'm sorry.",
+      "word_count": 6,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 0.0,
+          "end": 0.6,
+          "confidence": 0.2539
+        },
+        {
+          "text": "sorry,",
+          "start": 0.6,
+          "end": 0.6,
+          "confidence": 0.1493
+        },
+        {
+          "text": "I'm",
+          "start": 0.98,
+          "end": 1.24,
+          "confidence": 0.679
+        },
+        {
+          "text": "sorry,",
+          "start": 1.24,
+          "end": 1.34,
+          "confidence": 0.9148
+        },
+        {
+          "text": "I'm",
+          "start": 1.36,
+          "end": 1.56,
+          "confidence": 0.9188
+        },
+        {
+          "text": "sorry.",
+          "start": 1.56,
+          "end": 1.64,
+          "confidence": 0.9505
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 2.01,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 2.02,
+  "model_used": "tiny",
+  "timestamp": "2025-11-13T19:59:13.087521",
+  "segment_count": 1,
+  "word_count": 6,
+  "utterance_count": 1
+}

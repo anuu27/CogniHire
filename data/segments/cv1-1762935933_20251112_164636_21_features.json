@@ -1,0 +1,137 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 2.72,
+    "duration": 2.72,
+    "transcript": "I didn't say big mind.",
+    "word_count": 10,
+    "words": [
+      {
+        "text": "I",
+        "start": 0.0,
+        "end": 0.28,
+        "confidence": 0.8027
+      },
+      {
+        "text": "didn't",
+        "start": 0.28,
+        "end": 0.66,
+        "confidence": 0.897
+      },
+      {
+        "text": "say",
+        "start": 0.66,
+        "end": 0.84,
+        "confidence": 0.6186
+      },
+      {
+        "text": "big",
+        "start": 0.84,
+        "end": 1.1,
+        "confidence": 0.7931
+      },
+      {
+        "text": "mind.",
+        "start": 1.1,
+        "end": 1.48,
+        "confidence": 0.6009
+      },
+      {
+        "text": "I",
+        "start": 1.78,
+        "end": 1.94,
+        "confidence": 0.9483
+      },
+      {
+        "text": "said",
+        "start": 1.94,
+        "end": 2.22,
+        "confidence": 0.9819
+      },
+      {
+        "text": "it's",
+        "start": 2.22,
+        "end": 2.56,
+        "confidence": 0.7347
+      },
+      {
+        "text": "a",
+        "start": 2.56,
+        "end": 2.64,
+        "confidence": 0.1656
+      },
+      {
+        "text": "big.",
+        "start": 2.64,
+        "end": 2.72,
+        "confidence": 0.9897
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 2.73,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.753,
+    "speech_rate_wps": 3.676,
+    "speech_rate_wpm": 220.588,
+    "articulation_rate": 3.676,
+    "pause_count": 1,
+    "pause_rate": 0.111,
+    "mean_pause_duration": 0.3,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.3,
+    "speaking_time_ratio": 0.89,
+    "pitch_mean": 195.218,
+    "pitch_std": 27.962,
+    "pitch_range": 134.218,
+    "pitch_variance": 781.881,
+    "voiced_frames_ratio": 0.953,
+    "rms_energy_mean": 0.073,
+    "rms_energy_std": 0.054,
+    "rms_energy_max": 0.197,
+    "rms_energy_min": 0.003,
+    "energy_dynamic_range": 0.194,
+    "zero_crossing_rate": 0.166,
+    "harmonic_noise_ratio": 0.963,
+    "spectral_centroid_mean": 2131.513,
+    "spectral_centroid_std": 1197.542,
+    "mfcc_1_mean": -246.079,
+    "mfcc_2_mean": 62.56,
+    "mfcc_1_std": 108.426,
+    "spectral_rolloff": 3818.768,
+    "spectral_bandwidth": 1668.116,
+    "snr_approximation": 1.34,
+    "clipping_ratio": 0.0
+  }
+]

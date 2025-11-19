@@ -1,0 +1,167 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 7.74,
+    "duration": 7.74,
+    "transcript": "The difference between generating and your discriminative models is very crucial the foundation of lack.",
+    "word_count": 15,
+    "words": [
+      {
+        "text": "The",
+        "start": 0.0,
+        "end": 0.16,
+        "confidence": 0.4448
+      },
+      {
+        "text": "difference",
+        "start": 0.16,
+        "end": 0.42,
+        "confidence": 0.9477
+      },
+      {
+        "text": "between",
+        "start": 0.42,
+        "end": 0.78,
+        "confidence": 0.9982
+      },
+      {
+        "text": "generating",
+        "start": 0.78,
+        "end": 1.24,
+        "confidence": 0.1578
+      },
+      {
+        "text": "and",
+        "start": 1.24,
+        "end": 1.52,
+        "confidence": 0.5189
+      },
+      {
+        "text": "your",
+        "start": 1.52,
+        "end": 1.64,
+        "confidence": 0.4615
+      },
+      {
+        "text": "discriminative",
+        "start": 1.64,
+        "end": 2.28,
+        "confidence": 0.3866
+      },
+      {
+        "text": "models",
+        "start": 2.28,
+        "end": 3.02,
+        "confidence": 0.9559
+      },
+      {
+        "text": "is",
+        "start": 3.02,
+        "end": 4.6,
+        "confidence": 0.9423
+      },
+      {
+        "text": "very",
+        "start": 4.6,
+        "end": 5.08,
+        "confidence": 0.8642
+      },
+      {
+        "text": "crucial",
+        "start": 5.08,
+        "end": 5.82,
+        "confidence": 0.9989
+      },
+      {
+        "text": "the",
+        "start": 5.82,
+        "end": 6.5,
+        "confidence": 0.4887
+      },
+      {
+        "text": "foundation",
+        "start": 6.5,
+        "end": 6.98,
+        "confidence": 0.6179
+      },
+      {
+        "text": "of",
+        "start": 6.98,
+        "end": 7.62,
+        "confidence": 0.8169
+      },
+      {
+        "text": "lack.",
+        "start": 7.62,
+        "end": 7.74,
+        "confidence": 0.5523
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 7.77,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.677,
+    "speech_rate_wps": 1.938,
+    "speech_rate_wpm": 116.279,
+    "articulation_rate": 1.938,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 280.976,
+    "pitch_std": 52.186,
+    "pitch_range": 183.155,
+    "pitch_variance": 2723.411,
+    "voiced_frames_ratio": 0.764,
+    "rms_energy_mean": 0.064,
+    "rms_energy_std": 0.042,
+    "rms_energy_max": 0.211,
+    "rms_energy_min": 0.001,
+    "energy_dynamic_range": 0.21,
+    "zero_crossing_rate": 0.246,
+    "harmonic_noise_ratio": 0.338,
+    "spectral_centroid_mean": 2800.754,
+    "spectral_centroid_std": 1185.578,
+    "mfcc_1_mean": -226.417,
+    "mfcc_2_mean": 29.028,
+    "mfcc_1_std": 91.296,
+    "spectral_rolloff": 4957.903,
+    "spectral_bandwidth": 1822.411,
+    "snr_approximation": 1.52,
+    "clipping_ratio": 0.0
+  }
+]

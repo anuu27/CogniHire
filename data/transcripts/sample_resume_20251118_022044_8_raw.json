@@ -1,0 +1,130 @@
+{
+  "text": " Gone for dixon every three hour out a dog man. Coincident and.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.74,
+      "text": " Gone for dixon every three hour out a dog man.",
+      "tokens": [
+        50364,
+        39068,
+        337,
+        274,
+        970,
+        266,
+        633,
+        1045,
+        1773,
+        484,
+        257,
+        3000,
+        587,
+        13,
+        50522
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.3515548706054688,
+      "compression_ratio": 0.9393939393939394,
+      "no_speech_prob": 0.44650551676750183,
+      "words": [
+        {
+          "word": " Gone",
+          "start": 0.0,
+          "end": 1.0,
+          "probability": 0.00022086233366280794
+        },
+        {
+          "word": " for",
+          "start": 1.0,
+          "end": 1.28,
+          "probability": 0.8716363310813904
+        },
+        {
+          "word": " dixon",
+          "start": 1.28,
+          "end": 1.78,
+          "probability": 0.15790867060422897
+        },
+        {
+          "word": " every",
+          "start": 1.78,
+          "end": 1.96,
+          "probability": 0.11378562450408936
+        },
+        {
+          "word": " three",
+          "start": 1.96,
+          "end": 2.3,
+          "probability": 0.08213808387517929
+        },
+        {
+          "word": " hour",
+          "start": 2.3,
+          "end": 2.58,
+          "probability": 0.4062558710575104
+        },
+        {
+          "word": " out",
+          "start": 2.58,
+          "end": 2.9,
+          "probability": 0.0005611447268165648
+        },
+        {
+          "word": " a",
+          "start": 2.9,
+          "end": 2.96,
+          "probability": 0.009905556216835976
+        },
+        {
+          "word": " dog",
+          "start": 2.96,
+          "end": 3.18,
+          "probability": 0.009443738497793674
+        },
+        {
+          "word": " man.",
+          "start": 3.18,
+          "end": 3.74,
+          "probability": 0.0016991411102935672
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.06,
+      "end": 4.9,
+      "text": " Coincident and.",
+      "tokens": [
+        50529,
+        3066,
+        4647,
+        1078,
+        293,
+        13,
+        50592
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.3515548706054688,
+      "compression_ratio": 0.9393939393939394,
+      "no_speech_prob": 0.44650551676750183,
+      "words": [
+        {
+          "word": " Coincident",
+          "start": 4.06,
+          "end": 4.62,
+          "probability": 0.08030761545524001
+        },
+        {
+          "word": " and.",
+          "start": 4.62,
+          "end": 4.9,
+          "probability": 0.2535030245780945
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

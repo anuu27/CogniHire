@@ -1,0 +1,65 @@
+{
+  "text": " I will just make it just",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.84,
+      "text": " I will just make it just",
+      "tokens": [
+        50364,
+        286,
+        486,
+        445,
+        652,
+        309,
+        445,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.804367807176378,
+      "compression_ratio": 0.8571428571428571,
+      "no_speech_prob": 0.029199976474046707,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.76,
+          "probability": 0.45282286405563354
+        },
+        {
+          "word": " will",
+          "start": 0.76,
+          "end": 1.24,
+          "probability": 0.4901278614997864
+        },
+        {
+          "word": " just",
+          "start": 1.24,
+          "end": 2.28,
+          "probability": 0.4579170346260071
+        },
+        {
+          "word": " make",
+          "start": 2.28,
+          "end": 3.38,
+          "probability": 0.9398461580276489
+        },
+        {
+          "word": " it",
+          "start": 3.38,
+          "end": 3.58,
+          "probability": 0.4747507870197296
+        },
+        {
+          "word": " just",
+          "start": 3.58,
+          "end": 3.84,
+          "probability": 0.12580618262290955
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

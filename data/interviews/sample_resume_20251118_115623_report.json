@@ -1,0 +1,143 @@
+{
+  "session_id": "sample_resume_20251118_115623",
+  "Name": "Anugya Anantapur",
+  "role": "AI engineer",
+  "start_time": null,
+  "end_time": "2025-11-18T12:00:16.061938",
+  "overall_score": 0,
+  "score_before_malpractice": 12.9,
+  "cci": {
+    "raw": 12.95,
+    "percentile_vs_role": null
+  },
+  "components": {
+    "role_relevance": 0.0,
+    "canonical_component": 0.0,
+    "resume_component": null,
+    "completeness": 1.49,
+    "conciseness": 2.5,
+    "fluency": 6.5
+  },
+  "subscores": {
+    "Conceptual correctness": 0.0,
+    "Reasoning depth": 0.6,
+    "Precision grounding": 0.0,
+    "Communication clarity": 4.33,
+    "Creativity / insight": 1.13
+  },
+  "trajectory": "This candidate appears to be at a very early stage of development in technical AI engineering skills, demonstrating significant foundational gaps across key areas.",
+  "strength": "The top strength identified is 'Communication clarity' with a score of 4.33, though this is a moderate score.",
+  "risk": "Major risks include extremely low technical competency scores, especially in 'Conceptual correctness' (0.0), 'Reasoning depth' (0.6), and 'Precision grounding' (0.0), coupled with significant malpractice flags (12 instances including 'no_face_detected', 'gaze_warning', and 'tab_switch').",
+  "recommendation": "Given the very low overall CCI (12.95) and profound skill gaps, rejection is recommended.",
+  "Badge": null,
+  "malpractice_detected": {
+    "count": 12,
+    "types": [
+      "no_face_detected",
+      "gaze_warning",
+      "tab_switch"
+    ],
+    "deduction": 21.0
+  },
+  "per_question": [],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "gaze_warning",
+      "timestamp": "2025-11-18T06:27:17.906Z",
+      "details": {
+        "raw": "Looking away from the screen.",
+        "question": "What is the difference between classification and regression?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:27:56.059Z",
+      "details": {
+        "raw": "Window focus lost (switched to another application)",
+        "question": "What is the difference between classification and regression?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:27:56.111Z",
+      "details": {
+        "raw": "Tab switched or minimized",
+        "question": "What is the difference between classification and regression?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:28:40.782Z",
+      "details": {
+        "raw": "Window focus lost (switched to another application)",
+        "question": "What is the difference between classification and regression?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:28:40.846Z",
+      "details": {
+        "raw": "Tab switched or minimized",
+        "question": "What is the difference between classification and regression?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:28:57.730Z",
+      "details": {
+        "raw": "Window focus lost (switched to another application)",
+        "question": "What is the difference between classification and regression?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:28:58.028Z",
+      "details": {
+        "raw": "Tab switched or minimized",
+        "question": "What is the difference between classification and regression?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:29:19.852Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What is the difference between classification and regression?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:29:21.855Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What is the difference between classification and regression?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T06:29:31.923Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What is the difference between classification and regression?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:29:39.883Z",
+      "details": {
+        "raw": "Window focus lost (switched to another application)",
+        "question": "What is the difference between classification and regression?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T06:29:39.943Z",
+      "details": {
+        "raw": "Tab switched or minimized",
+        "question": "What is the difference between classification and regression?"
+      }
+    }
+  ],
+  "malpractice_count": 12
+}

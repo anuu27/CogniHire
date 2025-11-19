@@ -1,0 +1,178 @@
+{
+  "text": " Yeah, I face somewhat like lag issues and somewhat close to some other issues. I don't know that's all.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 12.72,
+      "text": " Yeah, I face somewhat like lag issues and somewhat close to some other issues.",
+      "tokens": [
+        50364,
+        865,
+        11,
+        286,
+        1851,
+        8344,
+        411,
+        8953,
+        2663,
+        293,
+        8344,
+        1998,
+        281,
+        512,
+        661,
+        2663,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5824933545342807,
+      "compression_ratio": 1.1839080459770115,
+      "no_speech_prob": 0.033985283225774765,
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.47941213846206665
+        },
+        {
+          "word": " I",
+          "start": 0.44,
+          "end": 0.58,
+          "probability": 0.8998803496360779
+        },
+        {
+          "word": " face",
+          "start": 0.58,
+          "end": 1.08,
+          "probability": 0.693048894405365
+        },
+        {
+          "word": " somewhat",
+          "start": 1.08,
+          "end": 1.46,
+          "probability": 0.5465872287750244
+        },
+        {
+          "word": " like",
+          "start": 1.46,
+          "end": 1.84,
+          "probability": 0.8195230960845947
+        },
+        {
+          "word": " lag",
+          "start": 1.84,
+          "end": 2.36,
+          "probability": 0.704463541507721
+        },
+        {
+          "word": " issues",
+          "start": 2.36,
+          "end": 2.84,
+          "probability": 0.9778092503547668
+        },
+        {
+          "word": " and",
+          "start": 2.84,
+          "end": 4.02,
+          "probability": 0.6635661125183105
+        },
+        {
+          "word": " somewhat",
+          "start": 4.02,
+          "end": 6.64,
+          "probability": 0.6257192492485046
+        },
+        {
+          "word": " close",
+          "start": 6.64,
+          "end": 9.7,
+          "probability": 0.3352828621864319
+        },
+        {
+          "word": " to",
+          "start": 9.7,
+          "end": 10.36,
+          "probability": 0.1992010623216629
+        },
+        {
+          "word": " some",
+          "start": 10.36,
+          "end": 12.26,
+          "probability": 0.35786643624305725
+        },
+        {
+          "word": " other",
+          "start": 12.26,
+          "end": 12.42,
+          "probability": 0.8202756643295288
+        },
+        {
+          "word": " issues.",
+          "start": 12.42,
+          "end": 12.72,
+          "probability": 0.9957581162452698
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 13.18,
+      "end": 14.22,
+      "text": " I don't know that's all.",
+      "tokens": [
+        51014,
+        286,
+        500,
+        380,
+        458,
+        300,
+        311,
+        439,
+        13,
+        51084
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5824933545342807,
+      "compression_ratio": 1.1839080459770115,
+      "no_speech_prob": 0.033985283225774765,
+      "words": [
+        {
+          "word": " I",
+          "start": 13.18,
+          "end": 13.18,
+          "probability": 0.9674906134605408
+        },
+        {
+          "word": " don't",
+          "start": 13.18,
+          "end": 13.6,
+          "probability": 0.9591795206069946
+        },
+        {
+          "word": " know",
+          "start": 13.6,
+          "end": 13.78,
+          "probability": 0.9741228222846985
+        },
+        {
+          "word": " that's",
+          "start": 13.78,
+          "end": 14.04,
+          "probability": 0.3935539126396179
+        },
+        {
+          "word": " all.",
+          "start": 14.04,
+          "end": 14.22,
+          "probability": 0.7172227501869202
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

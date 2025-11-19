@@ -1,0 +1,109 @@
+{
+  "session_id": "sample_resume_20251118_123443",
+  "Name": "Anugya Anantapur",
+  "role": "AI engineer",
+  "start_time": null,
+  "end_time": "2025-11-18T12:38:18.074162",
+  "overall_score": 28.8,
+  "score_before_malpractice": 36.8,
+  "cci": {
+    "raw": 36.77,
+    "percentile_vs_role": 100.0
+  },
+  "components": {
+    "role_relevance": 0.4,
+    "canonical_component": 0.0,
+    "resume_component": 1.0,
+    "completeness": 8.26,
+    "conciseness": 10.83,
+    "fluency": 11.67
+  },
+  "subscores": {
+    "Conceptual correctness": 0.0,
+    "Reasoning depth": 3.3,
+    "Precision grounding": 0.13,
+    "Communication clarity": 7.78,
+    "Creativity / insight": 5.26
+  },
+  "trajectory": "The candidate's trajectory appears misaligned with a technical AI engineering role, showing potential in communication but severe gaps in core technical understanding.",
+  "strength": "The candidate's top strength is Communication clarity with a score of 7.78.",
+  "risk": "Major risks include extremely low technical understanding in Conceptual correctness (0.0) and Precision grounding (0.13), coupled with two instances of malpractice during the session.",
+  "recommendation": "Reject the candidate due to critical technical skill gaps and malpractice flags, making them unsuitable for the AI Engineer role.",
+  "Badge": null,
+  "malpractice_detected": {
+    "count": 2,
+    "types": [
+      "no_face_detected",
+      "tab_switch"
+    ],
+    "deduction": 8.0
+  },
+  "per_question": [
+    {
+      "question": "Why choose Bellman-Ford for path visualization?",
+      "answer": "Because it's the one of the new topics that can be introduced for children in our open day.",
+      "type": "resume",
+      "resume_eval": {
+        "resume_score": 5.0,
+        "evidence": [],
+        "weaknesses": [
+          "Fails to provide any technical justification for choosing Bellman-Ford.",
+          "Suggests a lack of understanding of the algorithm's properties and specific use cases relevant to its selection (e.g., handling negative edge weights).",
+          "The proposed application ('for children in our open day') is not aligned with the technical requirements of an AI engineer role."
+        ],
+        "notes": "The candidate's answer completely lacks technical reasoning for selecting the Bellman-Ford algorithm for path visualization, instead offering an outreach-focused explanation. This indicates a significant gap in fundamental algorithmic understanding expected for an AI engineer role.",
+        "raw_llm_text": "```json\n{\n  \"resume_score\": 5,\n  \"evidence\": [],\n  \"weaknesses\": [\n    \"Fails to provide any technical justification for choosing Bellman-Ford.\",\n    \"Suggests a lack of understanding of the algorithm's properties and specific use cases relevant to its selection (e.g., handling negative edge weights).\",\n    \"The proposed application ('for children in our open day') is not aligned with the technical requirements of an AI engineer role.\"\n  ],\n  \"notes\": \"The candidate's answer completely lacks technical reasoning for selecting the Bellman-Ford algorithm for path visualization, instead offering an outreach-focused explanation. This indicates a significant gap in fundamental algorithmic understanding expected for an AI engineer role.\"\n}\n```"
+      }
+    },
+    {
+      "question": "What makes Bellman-Ford a good fit for *showing* paths to children?",
+      "answer": "Because I don't know.",
+      "type": "follow-up",
+      "resume_eval": {
+        "resume_score": 5.0,
+        "evidence": [],
+        "weaknesses": [
+          "Candidate explicitly stated they do not know the answer.",
+          "Lack of understanding of the Bellman-Ford algorithm and its applications."
+        ],
+        "notes": "The candidate directly admitted to not knowing the answer to the technical question, indicating a significant knowledge gap relevant to algorithmic understanding. As no resume was provided, no claims could be verified.",
+        "raw_llm_text": "```json\n{\n  \"resume_score\": 5,\n  \"evidence\": [],\n  \"weaknesses\": [\n    \"Candidate explicitly stated they do not know the answer.\",\n    \"Lack of understanding of the Bellman-Ford algorithm and its applications.\"\n  ],\n  \"notes\": \"The candidate directly admitted to not knowing the answer to the technical question, indicating a significant knowledge gap relevant to algorithmic understanding. As no resume was provided, no claims could be verified.\"\n}\n```"
+      }
+    },
+    {
+      "question": "What was the biggest challenge integrating C with Python via ctypes?",
+      "answer": "",
+      "type": "resume",
+      "resume_eval": {
+        "resume_score": 0.0,
+        "evidence": [],
+        "weaknesses": [
+          "No answer provided.",
+          "Unable to assess technical knowledge regarding C/Python integration via ctypes."
+        ],
+        "notes": "The candidate provided no answer to this specific technical question. This means there is no information to assess their experience or understanding of C/Python integration, a potentially relevant skill for an AI engineer.",
+        "raw_llm_text": "```json\n{\n  \"resume_score\": 0,\n  \"evidence\": [],\n  \"weaknesses\": [\n    \"No answer provided.\",\n    \"Unable to assess technical knowledge regarding C/Python integration via ctypes.\"\n  ],\n  \"notes\": \"The candidate provided no answer to this specific technical question. This means there is no information to assess their experience or understanding of C/Python integration, a potentially relevant skill for an AI engineer.\"\n}\n```"
+      }
+    }
+  ],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T07:04:52.709Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What is regularization in machine learning, and why is it important?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-18T07:07:48.072Z",
+      "details": {
+        "raw": "Window focus lost (switched to another application)",
+        "question": "What is regularization in machine learning, and why is it important?"
+      }
+    }
+  ],
+  "malpractice_count": 2
+}

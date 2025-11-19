@@ -1,0 +1,74 @@
+{
+  "text": " I don't know why I don't know",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": " I don't know why I don't know",
+      "tokens": [
+        50364,
+        286,
+        500,
+        380,
+        458,
+        983,
+        286,
+        500,
+        380,
+        458,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4803268512090047,
+      "compression_ratio": 1.0357142857142858,
+      "no_speech_prob": 0.48804885149002075,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 1.32,
+          "probability": 0.6435169577598572
+        },
+        {
+          "word": " don't",
+          "start": 1.32,
+          "end": 1.82,
+          "probability": 0.9613882303237915
+        },
+        {
+          "word": " know",
+          "start": 1.82,
+          "end": 2.1,
+          "probability": 0.9646373391151428
+        },
+        {
+          "word": " why",
+          "start": 2.1,
+          "end": 2.42,
+          "probability": 0.7192004323005676
+        },
+        {
+          "word": " I",
+          "start": 2.42,
+          "end": 2.42,
+          "probability": 0.37935322523117065
+        },
+        {
+          "word": " don't",
+          "start": 2.42,
+          "end": 3.72,
+          "probability": 0.9805803596973419
+        },
+        {
+          "word": " know",
+          "start": 3.72,
+          "end": 4.0,
+          "probability": 0.9011543393135071
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

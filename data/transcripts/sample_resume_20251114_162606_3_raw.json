@@ -1,0 +1,672 @@
+{
+  "text": " The base-lice, the base variant straight off describes the problem of simultaneously minimizing two sources of error that prevents supervised learning algorithms from generalizing beyond their training data. By us error from overlays, simplistic assumptions in the model, variants error from the excesses, instability to small fluctuations in the training set. The rate of is that you can't minimize both at the same time. As you try to reduce one, the other is inevitably increased.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.9,
+      "text": " The base-lice, the base variant straight off describes the problem of simultaneously minimizing",
+      "tokens": [
+        50364,
+        440,
+        3096,
+        12,
+        75,
+        573,
+        11,
+        264,
+        3096,
+        17501,
+        2997,
+        766,
+        15626,
+        264,
+        1154,
+        295,
+        16561,
+        46608,
+        50676
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4566236172082289,
+      "compression_ratio": 1.7127659574468086,
+      "no_speech_prob": 0.014247477054595947,
+      "words": [
+        {
+          "word": " The",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.8247318863868713
+        },
+        {
+          "word": " base",
+          "start": 0.26,
+          "end": 0.48,
+          "probability": 0.6767237186431885
+        },
+        {
+          "word": "-lice,",
+          "start": 0.48,
+          "end": 1.1,
+          "probability": 0.12032254785299301
+        },
+        {
+          "word": " the",
+          "start": 1.3,
+          "end": 1.86,
+          "probability": 0.948491096496582
+        },
+        {
+          "word": " base",
+          "start": 1.86,
+          "end": 2.16,
+          "probability": 0.9961712956428528
+        },
+        {
+          "word": " variant",
+          "start": 2.16,
+          "end": 2.5,
+          "probability": 0.381268709897995
+        },
+        {
+          "word": " straight",
+          "start": 2.5,
+          "end": 2.86,
+          "probability": 0.7461557388305664
+        },
+        {
+          "word": " off",
+          "start": 2.86,
+          "end": 3.12,
+          "probability": 0.5136969685554504
+        },
+        {
+          "word": " describes",
+          "start": 3.12,
+          "end": 3.48,
+          "probability": 0.9082225561141968
+        },
+        {
+          "word": " the",
+          "start": 3.48,
+          "end": 3.82,
+          "probability": 0.9956443309783936
+        },
+        {
+          "word": " problem",
+          "start": 3.82,
+          "end": 4.12,
+          "probability": 0.9940624833106995
+        },
+        {
+          "word": " of",
+          "start": 4.12,
+          "end": 4.46,
+          "probability": 0.9842367172241211
+        },
+        {
+          "word": " simultaneously",
+          "start": 4.46,
+          "end": 5.08,
+          "probability": 0.8948350548744202
+        },
+        {
+          "word": " minimizing",
+          "start": 5.08,
+          "end": 5.9,
+          "probability": 0.8537653088569641
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.9,
+      "end": 11.28,
+      "text": " two sources of error that prevents supervised learning algorithms from generalizing beyond",
+      "tokens": [
+        50676,
+        732,
+        7139,
+        295,
+        6713,
+        300,
+        22367,
+        46533,
+        2539,
+        14642,
+        490,
+        2674,
+        3319,
+        4399,
+        50930
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4566236172082289,
+      "compression_ratio": 1.7127659574468086,
+      "no_speech_prob": 0.014247477054595947,
+      "words": [
+        {
+          "word": " two",
+          "start": 5.9,
+          "end": 6.54,
+          "probability": 0.7632842659950256
+        },
+        {
+          "word": " sources",
+          "start": 6.54,
+          "end": 6.84,
+          "probability": 0.9836693406105042
+        },
+        {
+          "word": " of",
+          "start": 6.84,
+          "end": 7.14,
+          "probability": 0.9972265362739563
+        },
+        {
+          "word": " error",
+          "start": 7.14,
+          "end": 7.5,
+          "probability": 0.995681643486023
+        },
+        {
+          "word": " that",
+          "start": 7.5,
+          "end": 7.94,
+          "probability": 0.8513451218605042
+        },
+        {
+          "word": " prevents",
+          "start": 7.94,
+          "end": 8.3,
+          "probability": 0.887307345867157
+        },
+        {
+          "word": " supervised",
+          "start": 8.3,
+          "end": 8.72,
+          "probability": 0.08783414214849472
+        },
+        {
+          "word": " learning",
+          "start": 8.72,
+          "end": 9.14,
+          "probability": 0.9920511841773987
+        },
+        {
+          "word": " algorithms",
+          "start": 9.14,
+          "end": 9.6,
+          "probability": 0.9722610712051392
+        },
+        {
+          "word": " from",
+          "start": 9.6,
+          "end": 10.1,
+          "probability": 0.9955892562866211
+        },
+        {
+          "word": " generalizing",
+          "start": 10.1,
+          "end": 10.82,
+          "probability": 0.984490692615509
+        },
+        {
+          "word": " beyond",
+          "start": 10.82,
+          "end": 11.28,
+          "probability": 0.9512001872062683
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.28,
+      "end": 12.54,
+      "text": " their training data.",
+      "tokens": [
+        50930,
+        641,
+        3097,
+        1412,
+        13,
+        51022
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4566236172082289,
+      "compression_ratio": 1.7127659574468086,
+      "no_speech_prob": 0.014247477054595947,
+      "words": [
+        {
+          "word": " their",
+          "start": 11.28,
+          "end": 11.58,
+          "probability": 0.5550956130027771
+        },
+        {
+          "word": " training",
+          "start": 11.58,
+          "end": 11.84,
+          "probability": 0.9264470338821411
+        },
+        {
+          "word": " data.",
+          "start": 11.84,
+          "end": 12.54,
+          "probability": 0.9660941362380981
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.28,
+      "end": 17.62,
+      "text": " By us error from overlays, simplistic assumptions in the model, variants error from the",
+      "tokens": [
+        51022,
+        3146,
+        505,
+        6713,
+        490,
+        15986,
+        3772,
+        11,
+        44199,
+        17695,
+        294,
+        264,
+        2316,
+        11,
+        21669,
+        6713,
+        490,
+        264,
+        51236
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4566236172082289,
+      "compression_ratio": 1.7127659574468086,
+      "no_speech_prob": 0.014247477054595947,
+      "words": [
+        {
+          "word": " By",
+          "start": 13.28,
+          "end": 13.32,
+          "probability": 0.8627341985702515
+        },
+        {
+          "word": " us",
+          "start": 13.32,
+          "end": 13.64,
+          "probability": 0.7345655560493469
+        },
+        {
+          "word": " error",
+          "start": 13.64,
+          "end": 13.9,
+          "probability": 0.5154930353164673
+        },
+        {
+          "word": " from",
+          "start": 13.9,
+          "end": 14.18,
+          "probability": 0.9661777019500732
+        },
+        {
+          "word": " overlays,",
+          "start": 14.18,
+          "end": 14.5,
+          "probability": 0.5517018362879753
+        },
+        {
+          "word": " simplistic",
+          "start": 14.68,
+          "end": 14.9,
+          "probability": 0.1593579798936844
+        },
+        {
+          "word": " assumptions",
+          "start": 14.9,
+          "end": 15.3,
+          "probability": 0.9322187900543213
+        },
+        {
+          "word": " in",
+          "start": 15.3,
+          "end": 15.6,
+          "probability": 0.9905145168304443
+        },
+        {
+          "word": " the",
+          "start": 15.6,
+          "end": 15.7,
+          "probability": 0.9956620335578918
+        },
+        {
+          "word": " model,",
+          "start": 15.7,
+          "end": 16.08,
+          "probability": 0.9942477941513062
+        },
+        {
+          "word": " variants",
+          "start": 16.44,
+          "end": 16.78,
+          "probability": 0.8470460772514343
+        },
+        {
+          "word": " error",
+          "start": 16.78,
+          "end": 17.16,
+          "probability": 0.7897780537605286
+        },
+        {
+          "word": " from",
+          "start": 17.16,
+          "end": 17.42,
+          "probability": 0.9898139834403992
+        },
+        {
+          "word": " the",
+          "start": 17.42,
+          "end": 17.62,
+          "probability": 0.995183527469635
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.62,
+      "end": 20.68,
+      "text": " excesses, instability to small fluctuations in the training set.",
+      "tokens": [
+        51236,
+        9310,
+        279,
+        11,
+        34379,
+        281,
+        1359,
+        45276,
+        294,
+        264,
+        3097,
+        992,
+        13,
+        51420
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4566236172082289,
+      "compression_ratio": 1.7127659574468086,
+      "no_speech_prob": 0.014247477054595947,
+      "words": [
+        {
+          "word": " excesses,",
+          "start": 17.62,
+          "end": 18.12,
+          "probability": 0.5978080332279205
+        },
+        {
+          "word": " instability",
+          "start": 18.22,
+          "end": 18.42,
+          "probability": 0.3198978900909424
+        },
+        {
+          "word": " to",
+          "start": 18.42,
+          "end": 18.84,
+          "probability": 0.9726219177246094
+        },
+        {
+          "word": " small",
+          "start": 18.84,
+          "end": 19.14,
+          "probability": 0.9222838878631592
+        },
+        {
+          "word": " fluctuations",
+          "start": 19.14,
+          "end": 19.54,
+          "probability": 0.974112868309021
+        },
+        {
+          "word": " in",
+          "start": 19.54,
+          "end": 19.98,
+          "probability": 0.9986078143119812
+        },
+        {
+          "word": " the",
+          "start": 19.98,
+          "end": 20.02,
+          "probability": 0.9830924868583679
+        },
+        {
+          "word": " training",
+          "start": 20.02,
+          "end": 20.26,
+          "probability": 0.9841527342796326
+        },
+        {
+          "word": " set.",
+          "start": 20.26,
+          "end": 20.68,
+          "probability": 0.9102747440338135
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 21.22,
+      "end": 24.02,
+      "text": " The rate of is that you can't minimize both at the same time.",
+      "tokens": [
+        51420,
+        440,
+        3314,
+        295,
+        307,
+        300,
+        291,
+        393,
+        380,
+        17522,
+        1293,
+        412,
+        264,
+        912,
+        565,
+        13,
+        51568
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4566236172082289,
+      "compression_ratio": 1.7127659574468086,
+      "no_speech_prob": 0.014247477054595947,
+      "words": [
+        {
+          "word": " The",
+          "start": 21.22,
+          "end": 21.24,
+          "probability": 0.9554387331008911
+        },
+        {
+          "word": " rate",
+          "start": 21.24,
+          "end": 21.44,
+          "probability": 0.28634485602378845
+        },
+        {
+          "word": " of",
+          "start": 21.44,
+          "end": 21.66,
+          "probability": 0.9522055387496948
+        },
+        {
+          "word": " is",
+          "start": 21.66,
+          "end": 21.84,
+          "probability": 0.6248515248298645
+        },
+        {
+          "word": " that",
+          "start": 21.84,
+          "end": 22.0,
+          "probability": 0.9921467900276184
+        },
+        {
+          "word": " you",
+          "start": 22.0,
+          "end": 22.12,
+          "probability": 0.8994025588035583
+        },
+        {
+          "word": " can't",
+          "start": 22.12,
+          "end": 22.64,
+          "probability": 0.8874625265598297
+        },
+        {
+          "word": " minimize",
+          "start": 22.64,
+          "end": 22.7,
+          "probability": 0.8433952927589417
+        },
+        {
+          "word": " both",
+          "start": 22.7,
+          "end": 23.08,
+          "probability": 0.9988658428192139
+        },
+        {
+          "word": " at",
+          "start": 23.08,
+          "end": 23.32,
+          "probability": 0.9689100384712219
+        },
+        {
+          "word": " the",
+          "start": 23.32,
+          "end": 23.4,
+          "probability": 0.959791898727417
+        },
+        {
+          "word": " same",
+          "start": 23.4,
+          "end": 23.6,
+          "probability": 0.9997535347938538
+        },
+        {
+          "word": " time.",
+          "start": 23.6,
+          "end": 24.02,
+          "probability": 0.9980036616325378
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 24.22,
+      "end": 27.66,
+      "text": " As you try to reduce one, the other is inevitably increased.",
+      "tokens": [
+        51568,
+        1018,
+        291,
+        853,
+        281,
+        5407,
+        472,
+        11,
+        264,
+        661,
+        307,
+        28171,
+        6505,
+        13,
+        51750
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4566236172082289,
+      "compression_ratio": 1.7127659574468086,
+      "no_speech_prob": 0.014247477054595947,
+      "words": [
+        {
+          "word": " As",
+          "start": 24.22,
+          "end": 24.4,
+          "probability": 0.9833577275276184
+        },
+        {
+          "word": " you",
+          "start": 24.4,
+          "end": 24.5,
+          "probability": 0.9179184436798096
+        },
+        {
+          "word": " try",
+          "start": 24.5,
+          "end": 24.7,
+          "probability": 0.8213853240013123
+        },
+        {
+          "word": " to",
+          "start": 24.7,
+          "end": 24.88,
+          "probability": 0.998601496219635
+        },
+        {
+          "word": " reduce",
+          "start": 24.88,
+          "end": 25.16,
+          "probability": 0.9522992372512817
+        },
+        {
+          "word": " one,",
+          "start": 25.16,
+          "end": 25.46,
+          "probability": 0.7075534462928772
+        },
+        {
+          "word": " the",
+          "start": 25.5,
+          "end": 25.66,
+          "probability": 0.9322472810745239
+        },
+        {
+          "word": " other",
+          "start": 25.66,
+          "end": 25.68,
+          "probability": 0.9542931318283081
+        },
+        {
+          "word": " is",
+          "start": 25.68,
+          "end": 25.96,
+          "probability": 0.9838711023330688
+        },
+        {
+          "word": " inevitably",
+          "start": 25.96,
+          "end": 27.18,
+          "probability": 0.7120967507362366
+        },
+        {
+          "word": " increased.",
+          "start": 27.18,
+          "end": 27.66,
+          "probability": 0.5357053875923157
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

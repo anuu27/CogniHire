@@ -1,0 +1,21 @@
+{
+  "candidate_name": "Sample Candidate",
+  "summary": "ML engineer with 3 years experience in recommendation systems.",
+  "experience": [
+    {
+      "company": "TechCorp",
+      "role": "ML Engineer",
+      "duration": "2021-2024",
+      "details": [
+        "Built ranking models",
+        "Improved latency by 40%"
+      ]
+    }
+  ],
+  "skills": [
+    "Python",
+    "PyTorch",
+    "MLOps",
+    "Redis"
+  ]
+}

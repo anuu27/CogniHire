@@ -1,0 +1,10 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T12:17:06.744Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are activation functions in neural networks?"
+    }
+  }
+]

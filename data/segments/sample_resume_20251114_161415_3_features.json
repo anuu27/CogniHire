@@ -1,0 +1,143 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 3.62,
+    "duration": 3.62,
+    "transcript": "Pi s variance layered off a cogniz hab trhvai s hybrid.",
+    "word_count": 11,
+    "words": [
+      {
+        "text": "pi",
+        "start": 0.0,
+        "end": 0.3,
+        "confidence": 0.0181
+      },
+      {
+        "text": "s",
+        "start": 0.3,
+        "end": 0.48,
+        "confidence": 0.2324
+      },
+      {
+        "text": "variance",
+        "start": 0.48,
+        "end": 0.92,
+        "confidence": 0.519
+      },
+      {
+        "text": "layered",
+        "start": 0.92,
+        "end": 1.26,
+        "confidence": 0.0025
+      },
+      {
+        "text": "off",
+        "start": 1.26,
+        "end": 1.6,
+        "confidence": 0.7722
+      },
+      {
+        "text": "a",
+        "start": 1.6,
+        "end": 1.72,
+        "confidence": 0.0017
+      },
+      {
+        "text": "cogniz",
+        "start": 1.72,
+        "end": 2.2,
+        "confidence": 0.5301
+      },
+      {
+        "text": "hab",
+        "start": 2.2,
+        "end": 2.38,
+        "confidence": 0.0013
+      },
+      {
+        "text": "trhvai",
+        "start": 2.38,
+        "end": 2.92,
+        "confidence": 0.0035
+      },
+      {
+        "text": "s",
+        "start": 2.92,
+        "end": 3.3,
+        "confidence": 0.2735
+      },
+      {
+        "text": "hybrid.",
+        "start": 3.3,
+        "end": 3.62,
+        "confidence": 0.3268
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 3.63,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.244,
+    "speech_rate_wps": 3.039,
+    "speech_rate_wpm": 182.32,
+    "articulation_rate": 3.039,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 121.851,
+    "pitch_std": 6.867,
+    "pitch_range": 31.814,
+    "pitch_variance": 47.155,
+    "voiced_frames_ratio": 0.965,
+    "rms_energy_mean": 0.072,
+    "rms_energy_std": 0.04,
+    "rms_energy_max": 0.19,
+    "rms_energy_min": 0.006,
+    "energy_dynamic_range": 0.184,
+    "zero_crossing_rate": 0.11,
+    "harmonic_noise_ratio": 6.454,
+    "spectral_centroid_mean": 1400.159,
+    "spectral_centroid_std": 1024.608,
+    "mfcc_1_mean": -274.64,
+    "mfcc_2_mean": 128.75,
+    "mfcc_1_std": 55.489,
+    "spectral_rolloff": 2709.91,
+    "spectral_bandwidth": 1319.04,
+    "snr_approximation": 1.806,
+    "clipping_ratio": 0.0
+  }
+]

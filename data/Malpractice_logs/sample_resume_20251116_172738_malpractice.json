@@ -1,0 +1,50 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T11:58:14.760Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are hyperparameters in machine learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T11:58:17.481Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are hyperparameters in machine learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T11:58:18.759Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are hyperparameters in machine learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T11:58:20.756Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are hyperparameters in machine learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T11:58:22.758Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are hyperparameters in machine learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T11:58:24.744Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What are hyperparameters in machine learning?"
+    }
+  }
+]

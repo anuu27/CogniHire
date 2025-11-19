@@ -1,0 +1,191 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 9.06,
+    "duration": 9.06,
+    "transcript": "Is always a generator in the screen, the more than more than foundation models diffusion models or PAs.",
+    "word_count": 19,
+    "words": [
+      {
+        "text": "is",
+        "start": 0.0,
+        "end": 0.4,
+        "confidence": 0.4408
+      },
+      {
+        "text": "always",
+        "start": 0.4,
+        "end": 0.8,
+        "confidence": 0.9715
+      },
+      {
+        "text": "a",
+        "start": 0.8,
+        "end": 1.6,
+        "confidence": 0.2776
+      },
+      {
+        "text": "generator",
+        "start": 1.6,
+        "end": 2.0,
+        "confidence": 0.5288
+      },
+      {
+        "text": "in",
+        "start": 2.0,
+        "end": 2.34,
+        "confidence": 0.5118
+      },
+      {
+        "text": "the",
+        "start": 2.34,
+        "end": 2.38,
+        "confidence": 0.6405
+      },
+      {
+        "text": "screen,",
+        "start": 2.38,
+        "end": 2.64,
+        "confidence": 0.3102
+      },
+      {
+        "text": "the",
+        "start": 3.52,
+        "end": 3.68,
+        "confidence": 0.1908
+      },
+      {
+        "text": "more",
+        "start": 3.68,
+        "end": 4.0,
+        "confidence": 0.7252
+      },
+      {
+        "text": "than",
+        "start": 4.0,
+        "end": 4.6,
+        "confidence": 0.3955
+      },
+      {
+        "text": "more",
+        "start": 4.6,
+        "end": 5.5,
+        "confidence": 0.3403
+      },
+      {
+        "text": "than",
+        "start": 5.5,
+        "end": 5.84,
+        "confidence": 0.7935
+      },
+      {
+        "text": "foundation",
+        "start": 5.84,
+        "end": 6.32,
+        "confidence": 0.4561
+      },
+      {
+        "text": "models",
+        "start": 6.32,
+        "end": 6.94,
+        "confidence": 0.3283
+      },
+      {
+        "text": "like",
+        "start": 6.94,
+        "end": 7.32,
+        "confidence": 0.5437
+      },
+      {
+        "text": "diffusion",
+        "start": 7.32,
+        "end": 7.64,
+        "confidence": 0.8622
+      },
+      {
+        "text": "models",
+        "start": 7.64,
+        "end": 8.12,
+        "confidence": 0.8847
+      },
+      {
+        "text": "or",
+        "start": 8.12,
+        "end": 8.36,
+        "confidence": 0.416
+      },
+      {
+        "text": "PAs.",
+        "start": 8.36,
+        "end": 9.06,
+        "confidence": 0.3154
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 9.75,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.523,
+    "speech_rate_wps": 2.097,
+    "speech_rate_wpm": 125.828,
+    "articulation_rate": 2.097,
+    "pause_count": 1,
+    "pause_rate": 0.056,
+    "mean_pause_duration": 0.88,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.88,
+    "speaking_time_ratio": 0.903,
+    "pitch_mean": 259.091,
+    "pitch_std": 45.22,
+    "pitch_range": 160.391,
+    "pitch_variance": 2044.823,
+    "voiced_frames_ratio": 0.725,
+    "rms_energy_mean": 0.067,
+    "rms_energy_std": 0.038,
+    "rms_energy_max": 0.171,
+    "rms_energy_min": 0.003,
+    "energy_dynamic_range": 0.168,
+    "zero_crossing_rate": 0.224,
+    "harmonic_noise_ratio": 1.37,
+    "spectral_centroid_mean": 2333.57,
+    "spectral_centroid_std": 1500.042,
+    "mfcc_1_mean": -248.408,
+    "mfcc_2_mean": 67.937,
+    "mfcc_1_std": 69.507,
+    "spectral_rolloff": 3899.868,
+    "spectral_bandwidth": 1629.887,
+    "snr_approximation": 1.752,
+    "clipping_ratio": 0.0
+  }
+]

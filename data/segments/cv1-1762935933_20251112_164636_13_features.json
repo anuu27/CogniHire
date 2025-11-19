@@ -1,0 +1,125 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 2.72,
+    "duration": 2.72,
+    "transcript": "Geanth answer your questions because I know nothing.",
+    "word_count": 8,
+    "words": [
+      {
+        "text": "Geanth",
+        "start": 0.0,
+        "end": 0.6,
+        "confidence": 0.236
+      },
+      {
+        "text": "answer",
+        "start": 0.6,
+        "end": 0.94,
+        "confidence": 0.514
+      },
+      {
+        "text": "your",
+        "start": 0.94,
+        "end": 1.22,
+        "confidence": 0.76
+      },
+      {
+        "text": "questions",
+        "start": 1.22,
+        "end": 1.6,
+        "confidence": 0.9697
+      },
+      {
+        "text": "because",
+        "start": 1.6,
+        "end": 1.98,
+        "confidence": 0.7655
+      },
+      {
+        "text": "I",
+        "start": 1.98,
+        "end": 2.16,
+        "confidence": 0.8661
+      },
+      {
+        "text": "know",
+        "start": 2.16,
+        "end": 2.4,
+        "confidence": 0.9923
+      },
+      {
+        "text": "nothing.",
+        "start": 2.4,
+        "end": 2.72,
+        "confidence": 0.9144
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 2.79,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.752,
+    "speech_rate_wps": 2.941,
+    "speech_rate_wpm": 176.471,
+    "articulation_rate": 2.941,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 231.918,
+    "pitch_std": 16.882,
+    "pitch_range": 71.295,
+    "pitch_variance": 285.004,
+    "voiced_frames_ratio": 0.953,
+    "rms_energy_mean": 0.061,
+    "rms_energy_std": 0.057,
+    "rms_energy_max": 0.241,
+    "rms_energy_min": 0.003,
+    "energy_dynamic_range": 0.238,
+    "zero_crossing_rate": 0.161,
+    "harmonic_noise_ratio": 0.582,
+    "spectral_centroid_mean": 2071.284,
+    "spectral_centroid_std": 770.563,
+    "mfcc_1_mean": -272.454,
+    "mfcc_2_mean": 66.338,
+    "mfcc_1_std": 100.865,
+    "spectral_rolloff": 3956.759,
+    "spectral_bandwidth": 1616.175,
+    "snr_approximation": 1.08,
+    "clipping_ratio": 0.0
+  }
+]

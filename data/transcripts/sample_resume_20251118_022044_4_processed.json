@@ -1,0 +1,321 @@
+{
+  "session_id": "sample_resume_20251118_022044_4",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251118_022044_answer_processed.wav",
+  "raw_text": "Yeah, I face somewhat like lag issues and somewhat close to some other issues. I don't know that's all.",
+  "processed_text": "Yeah, I face somewhat lag issues and somewhat close to some other issues.",
+  "words": [
+    {
+      "text": "Yeah,",
+      "start": 0.0,
+      "end": 0.26,
+      "confidence": 0.4794
+    },
+    {
+      "text": "I",
+      "start": 0.44,
+      "end": 0.58,
+      "confidence": 0.8999
+    },
+    {
+      "text": "face",
+      "start": 0.58,
+      "end": 1.08,
+      "confidence": 0.693
+    },
+    {
+      "text": "somewhat",
+      "start": 1.08,
+      "end": 1.46,
+      "confidence": 0.5466
+    },
+    {
+      "text": "like",
+      "start": 1.46,
+      "end": 1.84,
+      "confidence": 0.8195
+    },
+    {
+      "text": "lag",
+      "start": 1.84,
+      "end": 2.36,
+      "confidence": 0.7045
+    },
+    {
+      "text": "issues",
+      "start": 2.36,
+      "end": 2.84,
+      "confidence": 0.9778
+    },
+    {
+      "text": "and",
+      "start": 2.84,
+      "end": 4.02,
+      "confidence": 0.6636
+    },
+    {
+      "text": "somewhat",
+      "start": 4.02,
+      "end": 6.64,
+      "confidence": 0.6257
+    },
+    {
+      "text": "close",
+      "start": 6.64,
+      "end": 9.7,
+      "confidence": 0.3353
+    },
+    {
+      "text": "to",
+      "start": 9.7,
+      "end": 10.36,
+      "confidence": 0.1992
+    },
+    {
+      "text": "some",
+      "start": 10.36,
+      "end": 12.26,
+      "confidence": 0.3579
+    },
+    {
+      "text": "other",
+      "start": 12.26,
+      "end": 12.42,
+      "confidence": 0.8203
+    },
+    {
+      "text": "issues.",
+      "start": 12.42,
+      "end": 12.72,
+      "confidence": 0.9958
+    },
+    {
+      "text": "I",
+      "start": 13.18,
+      "end": 13.18,
+      "confidence": 0.9675
+    },
+    {
+      "text": "don't",
+      "start": 13.18,
+      "end": 13.6,
+      "confidence": 0.9592
+    },
+    {
+      "text": "know",
+      "start": 13.6,
+      "end": 13.78,
+      "confidence": 0.9741
+    },
+    {
+      "text": "that's",
+      "start": 13.78,
+      "end": 14.04,
+      "confidence": 0.3936
+    },
+    {
+      "text": "all.",
+      "start": 14.04,
+      "end": 14.22,
+      "confidence": 0.7172
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 4.02,
+      "duration": 4.02,
+      "transcript": "Yeah, I face somewhat lag issues and",
+      "word_count": 8,
+      "words": [
+        {
+          "text": "Yeah,",
+          "start": 0.0,
+          "end": 0.26,
+          "confidence": 0.4794
+        },
+        {
+          "text": "I",
+          "start": 0.44,
+          "end": 0.58,
+          "confidence": 0.8999
+        },
+        {
+          "text": "face",
+          "start": 0.58,
+          "end": 1.08,
+          "confidence": 0.693
+        },
+        {
+          "text": "somewhat",
+          "start": 1.08,
+          "end": 1.46,
+          "confidence": 0.5466
+        },
+        {
+          "text": "like",
+          "start": 1.46,
+          "end": 1.84,
+          "confidence": 0.8195
+        },
+        {
+          "text": "lag",
+          "start": 1.84,
+          "end": 2.36,
+          "confidence": 0.7045
+        },
+        {
+          "text": "issues",
+          "start": 2.36,
+          "end": 2.84,
+          "confidence": 0.9778
+        },
+        {
+          "text": "and",
+          "start": 2.84,
+          "end": 4.02,
+          "confidence": 0.6636
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 4.41,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    },
+    {
+      "utterance_id": "u004",
+      "start": 9.7,
+      "end": 14.22,
+      "duration": 4.52,
+      "transcript": "To some other issues.",
+      "word_count": 9,
+      "words": [
+        {
+          "text": "to",
+          "start": 9.7,
+          "end": 10.36,
+          "confidence": 0.1992
+        },
+        {
+          "text": "some",
+          "start": 10.36,
+          "end": 12.26,
+          "confidence": 0.3579
+        },
+        {
+          "text": "other",
+          "start": 12.26,
+          "end": 12.42,
+          "confidence": 0.8203
+        },
+        {
+          "text": "issues.",
+          "start": 12.42,
+          "end": 12.72,
+          "confidence": 0.9958
+        },
+        {
+          "text": "I",
+          "start": 13.18,
+          "end": 13.18,
+          "confidence": 0.9675
+        },
+        {
+          "text": "don't",
+          "start": 13.18,
+          "end": 13.6,
+          "confidence": 0.9592
+        },
+        {
+          "text": "know",
+          "start": 13.6,
+          "end": 13.78,
+          "confidence": 0.9741
+        },
+        {
+          "text": "that's",
+          "start": 13.78,
+          "end": 14.04,
+          "confidence": 0.3936
+        },
+        {
+          "text": "all.",
+          "start": 14.04,
+          "end": 14.22,
+          "confidence": 0.7172
+        }
+      ],
+      "vad_segment_start": 8.22,
+      "vad_segment_end": 14.37,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 14.4,
+  "model_used": "small",
+  "timestamp": "2025-11-18T02:22:47.930791",
+  "segment_count": 2,
+  "word_count": 19,
+  "utterance_count": 2
+}

@@ -1,0 +1,145 @@
+{
+  "session_id": "sample_resume_20251116_004405_3",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251116_004405_answer_processed.wav",
+  "raw_text": "I can do this or that anything.",
+  "processed_text": "I can do this or that anything.",
+  "words": [
+    {
+      "text": "I",
+      "start": 0.0,
+      "end": 0.12,
+      "confidence": 0.8718
+    },
+    {
+      "text": "can",
+      "start": 0.12,
+      "end": 0.32,
+      "confidence": 0.9938
+    },
+    {
+      "text": "do",
+      "start": 0.32,
+      "end": 0.52,
+      "confidence": 0.9943
+    },
+    {
+      "text": "this",
+      "start": 0.52,
+      "end": 0.86,
+      "confidence": 0.9901
+    },
+    {
+      "text": "or",
+      "start": 0.86,
+      "end": 1.12,
+      "confidence": 0.9433
+    },
+    {
+      "text": "that",
+      "start": 1.12,
+      "end": 1.44,
+      "confidence": 0.9962
+    },
+    {
+      "text": "anything.",
+      "start": 1.44,
+      "end": 2.06,
+      "confidence": 0.3425
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 2.06,
+      "duration": 2.06,
+      "transcript": "I can do this or that anything.",
+      "word_count": 7,
+      "words": [
+        {
+          "text": "I",
+          "start": 0.0,
+          "end": 0.12,
+          "confidence": 0.8718
+        },
+        {
+          "text": "can",
+          "start": 0.12,
+          "end": 0.32,
+          "confidence": 0.9938
+        },
+        {
+          "text": "do",
+          "start": 0.32,
+          "end": 0.52,
+          "confidence": 0.9943
+        },
+        {
+          "text": "this",
+          "start": 0.52,
+          "end": 0.86,
+          "confidence": 0.9901
+        },
+        {
+          "text": "or",
+          "start": 0.86,
+          "end": 1.12,
+          "confidence": 0.9433
+        },
+        {
+          "text": "that",
+          "start": 1.12,
+          "end": 1.44,
+          "confidence": 0.9962
+        },
+        {
+          "text": "anything.",
+          "start": 1.44,
+          "end": 2.06,
+          "confidence": 0.3425
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 2.37,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 2.4,
+  "model_used": "small",
+  "timestamp": "2025-11-16T00:45:09.205459",
+  "segment_count": 1,
+  "word_count": 7,
+  "utterance_count": 1
+}

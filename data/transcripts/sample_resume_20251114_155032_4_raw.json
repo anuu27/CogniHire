@@ -1,0 +1,87 @@
+{
+  "text": " it works by minimizing the loss at each step.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.74,
+      "text": " it works by minimizing the loss at each step.",
+      "tokens": [
+        50364,
+        309,
+        1985,
+        538,
+        46608,
+        264,
+        4470,
+        412,
+        1184,
+        1823,
+        13,
+        50556
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.603708817408635,
+      "compression_ratio": 0.8490566037735849,
+      "no_speech_prob": 0.17363394796848297,
+      "words": [
+        {
+          "word": " it",
+          "start": 0.0,
+          "end": 1.1,
+          "probability": 0.3874853551387787
+        },
+        {
+          "word": " works",
+          "start": 1.1,
+          "end": 1.54,
+          "probability": 0.9929048418998718
+        },
+        {
+          "word": " by",
+          "start": 1.54,
+          "end": 2.06,
+          "probability": 0.8808590173721313
+        },
+        {
+          "word": " minimizing",
+          "start": 2.06,
+          "end": 2.54,
+          "probability": 0.9551778435707092
+        },
+        {
+          "word": " the",
+          "start": 2.54,
+          "end": 2.86,
+          "probability": 0.9819807410240173
+        },
+        {
+          "word": " loss",
+          "start": 2.86,
+          "end": 3.08,
+          "probability": 0.5255064368247986
+        },
+        {
+          "word": " at",
+          "start": 3.08,
+          "end": 3.34,
+          "probability": 0.2774493098258972
+        },
+        {
+          "word": " each",
+          "start": 3.34,
+          "end": 3.52,
+          "probability": 0.7170528769493103
+        },
+        {
+          "word": " step.",
+          "start": 3.52,
+          "end": 3.74,
+          "probability": 0.9980676770210266
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

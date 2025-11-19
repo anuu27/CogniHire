@@ -1,0 +1,49 @@
+{
+  "role": "Database Administrator",
+  "record_count": 243,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "How do you design a normalized database schema? When would you denormalize, and why?",
+      "canonical_answer": "I design schemas using normalization rules (1NF–3NF) to reduce redundancy and ensure integrity. I denormalize for performance when read speed or fewer joins are more important than storage efficiency.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe strategies you use to optimize database performance.",
+      "canonical_answer": "I use indexing, query optimization, caching, partitioning, proper schema design, and resource tuning to improve performance.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain how you would monitor and maintain database health in production.",
+      "canonical_answer": "I track performance metrics, slow queries, storage, replication status, backups, and error logs using monitoring tools and proactive alerts.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you implement backup and recovery for critical databases? What strategies do you use for disaster recovery?",
+      "canonical_answer": "I use full, incremental, and point-in-time backups with automated schedules, and implement disaster recovery using replication, failover clusters, and offsite backups.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you secure databases from unauthorized access and attacks?",
+      "canonical_answer": "I enforce strong authentication, role-based access, encryption, patching, firewalls, auditing, and least-privilege policies.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe your experience with database replication and clustering. How do you ensure high availability?",
+      "canonical_answer": "I use master-slave or multi-master replication, clustering, and automatic failover to keep databases available and reduce downtime.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How would you troubleshoot a slow-performing query or a locked table in a production environment?",
+      "canonical_answer": "I analyze execution plans, check locks, optimize indexes, rewrite queries, and kill blocking sessions if needed while preserving data safety.",
+      "rubric_points": []
+    }
+  ]
+}

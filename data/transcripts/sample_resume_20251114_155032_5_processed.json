@@ -1,0 +1,223 @@
+{
+  "session_id": "sample_resume_20251114_155032_5",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_155032_answer_processed.wav",
+  "raw_text": "it is a process that is input by splitting them into tokens called tokenization.",
+  "processed_text": "It is a process that is input by splitting them into tokens called tokenization.",
+  "words": [
+    {
+      "text": "it",
+      "start": 0.0,
+      "end": 0.28,
+      "confidence": 0.3778
+    },
+    {
+      "text": "is",
+      "start": 0.28,
+      "end": 0.46,
+      "confidence": 0.337
+    },
+    {
+      "text": "a",
+      "start": 0.46,
+      "end": 0.7,
+      "confidence": 0.3632
+    },
+    {
+      "text": "process",
+      "start": 0.7,
+      "end": 1.38,
+      "confidence": 0.8863
+    },
+    {
+      "text": "that",
+      "start": 1.38,
+      "end": 1.82,
+      "confidence": 0.1401
+    },
+    {
+      "text": "is",
+      "start": 1.82,
+      "end": 1.86,
+      "confidence": 0.8254
+    },
+    {
+      "text": "input",
+      "start": 1.86,
+      "end": 2.1,
+      "confidence": 0.6523
+    },
+    {
+      "text": "by",
+      "start": 2.1,
+      "end": 2.84,
+      "confidence": 0.9313
+    },
+    {
+      "text": "splitting",
+      "start": 2.84,
+      "end": 3.38,
+      "confidence": 0.9267
+    },
+    {
+      "text": "them",
+      "start": 3.38,
+      "end": 3.74,
+      "confidence": 0.9364
+    },
+    {
+      "text": "into",
+      "start": 3.74,
+      "end": 4.0,
+      "confidence": 0.9461
+    },
+    {
+      "text": "tokens",
+      "start": 4.0,
+      "end": 4.66,
+      "confidence": 0.9628
+    },
+    {
+      "text": "called",
+      "start": 4.66,
+      "end": 5.38,
+      "confidence": 0.5612
+    },
+    {
+      "text": "tokenization.",
+      "start": 5.38,
+      "end": 6.12,
+      "confidence": 0.9238
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.28,
+      "end": 6.12,
+      "duration": 5.84,
+      "transcript": "Is a process that is input by splitting them into tokens called tokenization.",
+      "word_count": 13,
+      "words": [
+        {
+          "text": "is",
+          "start": 0.28,
+          "end": 0.46,
+          "confidence": 0.337
+        },
+        {
+          "text": "a",
+          "start": 0.46,
+          "end": 0.7,
+          "confidence": 0.3632
+        },
+        {
+          "text": "process",
+          "start": 0.7,
+          "end": 1.38,
+          "confidence": 0.8863
+        },
+        {
+          "text": "that",
+          "start": 1.38,
+          "end": 1.82,
+          "confidence": 0.1401
+        },
+        {
+          "text": "is",
+          "start": 1.82,
+          "end": 1.86,
+          "confidence": 0.8254
+        },
+        {
+          "text": "input",
+          "start": 1.86,
+          "end": 2.1,
+          "confidence": 0.6523
+        },
+        {
+          "text": "by",
+          "start": 2.1,
+          "end": 2.84,
+          "confidence": 0.9313
+        },
+        {
+          "text": "splitting",
+          "start": 2.84,
+          "end": 3.38,
+          "confidence": 0.9267
+        },
+        {
+          "text": "them",
+          "start": 3.38,
+          "end": 3.74,
+          "confidence": 0.9364
+        },
+        {
+          "text": "into",
+          "start": 3.74,
+          "end": 4.0,
+          "confidence": 0.9461
+        },
+        {
+          "text": "tokens",
+          "start": 4.0,
+          "end": 4.66,
+          "confidence": 0.9628
+        },
+        {
+          "text": "called",
+          "start": 4.66,
+          "end": 5.38,
+          "confidence": 0.5612
+        },
+        {
+          "text": "tokenization.",
+          "start": 5.38,
+          "end": 6.12,
+          "confidence": 0.9238
+        }
+      ],
+      "vad_segment_start": 0.03,
+      "vad_segment_end": 6.21,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 6.24,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T15:52:00.316958",
+  "segment_count": 1,
+  "word_count": 14,
+  "utterance_count": 1
+}

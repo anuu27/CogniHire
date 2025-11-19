@@ -1,0 +1,204 @@
+{
+  "text": " I enjoyed every project that was shot right. I enjoyed, I enjoy tea biz tea that was perfectly mixed with cook and Kontakt.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.78,
+      "text": " I enjoyed every project that was shot right.",
+      "tokens": [
+        50364,
+        286,
+        4626,
+        633,
+        1716,
+        300,
+        390,
+        3347,
+        558,
+        13,
+        50492
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.3492863178253174,
+      "compression_ratio": 1.268041237113402,
+      "no_speech_prob": 0.02089596912264824,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.48,
+          "probability": 0.8132506608963013
+        },
+        {
+          "word": " enjoyed",
+          "start": 0.48,
+          "end": 0.82,
+          "probability": 0.3180692493915558
+        },
+        {
+          "word": " every",
+          "start": 0.82,
+          "end": 1.62,
+          "probability": 0.4483765959739685
+        },
+        {
+          "word": " project",
+          "start": 1.62,
+          "end": 2.22,
+          "probability": 0.09949053078889847
+        },
+        {
+          "word": " that",
+          "start": 2.22,
+          "end": 2.6,
+          "probability": 0.01840016059577465
+        },
+        {
+          "word": " was",
+          "start": 2.6,
+          "end": 2.78,
+          "probability": 0.037658799439668655
+        },
+        {
+          "word": " shot",
+          "start": 2.78,
+          "end": 2.78,
+          "probability": 0.0020973440259695053
+        },
+        {
+          "word": " right.",
+          "start": 2.78,
+          "end": 2.78,
+          "probability": 0.0037906349170953035
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.82,
+      "end": 7.82,
+      "text": " I enjoyed, I enjoy tea biz tea that was perfectly mixed with cook and Kontakt.",
+      "tokens": [
+        50492,
+        286,
+        4626,
+        11,
+        286,
+        2103,
+        5817,
+        7390,
+        5817,
+        300,
+        390,
+        6239,
+        7467,
+        365,
+        2543,
+        293,
+        43396,
+        13,
+        50767
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.3492863178253174,
+      "compression_ratio": 1.268041237113402,
+      "no_speech_prob": 0.02089596912264824,
+      "words": [
+        {
+          "word": " I",
+          "start": 2.82,
+          "end": 2.84,
+          "probability": 0.8581933379173279
+        },
+        {
+          "word": " enjoyed,",
+          "start": 2.84,
+          "end": 3.34,
+          "probability": 0.9421027302742004
+        },
+        {
+          "word": " I",
+          "start": 3.34,
+          "end": 3.46,
+          "probability": 0.789414644241333
+        },
+        {
+          "word": " enjoy",
+          "start": 3.46,
+          "end": 4.24,
+          "probability": 0.014342485927045345
+        },
+        {
+          "word": " tea",
+          "start": 4.24,
+          "end": 5.56,
+          "probability": 0.0015381274279206991
+        },
+        {
+          "word": " biz",
+          "start": 5.56,
+          "end": 6.08,
+          "probability": 0.0017539963591843843
+        },
+        {
+          "word": " tea",
+          "start": 6.08,
+          "end": 6.72,
+          "probability": 0.08018495887517929
+        },
+        {
+          "word": " that",
+          "start": 6.72,
+          "end": 7.82,
+          "probability": 0.0028454784769564867
+        },
+        {
+          "word": " was",
+          "start": 7.82,
+          "end": 7.82,
+          "probability": 0.781412661075592
+        },
+        {
+          "word": " perfectly",
+          "start": 7.82,
+          "end": 7.82,
+          "probability": 0.0001886162644950673
+        },
+        {
+          "word": " mixed",
+          "start": 7.82,
+          "end": 7.82,
+          "probability": 0.01902625896036625
+        },
+        {
+          "word": " with",
+          "start": 7.82,
+          "end": 7.82,
+          "probability": 0.3746008276939392
+        },
+        {
+          "word": " cook",
+          "start": 7.82,
+          "end": 7.82,
+          "probability": 3.0335295377881266e-05
+        },
+        {
+          "word": " and",
+          "start": 7.82,
+          "end": 7.82,
+          "probability": 0.060692887753248215
+        },
+        {
+          "word": " Kontakt.",
+          "start": 7.82,
+          "end": 7.82,
+          "probability": 6.633889370277757e-06
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,49 @@
+{
+  "role": "Machine Learning Engineer",
+  "record_count": 265,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "What’s the difference between supervised, unsupervised, and reinforcement learning?",
+      "canonical_answer": "Supervised uses labeled data, unsupervised finds patterns without labels, and reinforcement learning learns through rewards based on actions.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle overfitting in a machine learning model?",
+      "canonical_answer": "I use regularization, early stopping, dropout, cross-validation, and gather more data or simplify the model.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you choose the right evaluation metric for a model?",
+      "canonical_answer": "I choose metrics based on the task—accuracy or F1 for classification, ROC-AUC for imbalance, and RMSE or MAE for regression.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What’s the difference between bagging and boosting?",
+      "canonical_answer": "Bagging trains models in parallel to reduce variance, while boosting trains sequentially to reduce bias by focusing on hard examples.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe a machine learning project you’ve worked on.",
+      "canonical_answer": "I built a predictive model using feature engineering, model selection, and evaluation, deploying it with monitoring for real-world use.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle missing or imbalanced data?",
+      "canonical_answer": "I impute missing values and address imbalance using oversampling, undersampling, or class-weighted training.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe a machine learning project you’ve worked on.",
+      "canonical_answer": "I developed an end-to-end ML pipeline—from data cleaning to model training and deployment—ensuring reliability and strong performance.",
+      "rubric_points": []
+    }
+  ]
+}

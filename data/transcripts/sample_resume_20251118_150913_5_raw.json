@@ -1,0 +1,15 @@
+{
+  "text": "I'm going to do it.",
+  "segments": [
+    {
+      "id": null,
+      "seek": null,
+      "start": 0.0,
+      "end": 0.64,
+      "text": " I'm going to do it.",
+      "words": []
+    }
+  ],
+  "language": "en",
+  "duration": 0.672
+}

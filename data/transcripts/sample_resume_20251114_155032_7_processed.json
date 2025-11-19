@@ -1,0 +1,207 @@
+{
+  "session_id": "sample_resume_20251114_155032_7",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_155032_answer_processed.wav",
+  "raw_text": "to implement a program with less time and less complexity.",
+  "processed_text": "To implement a program with less time and less complexity.",
+  "words": [
+    {
+      "text": "to",
+      "start": 0.0,
+      "end": 0.3,
+      "confidence": 0.3773
+    },
+    {
+      "text": "implement",
+      "start": 0.3,
+      "end": 0.68,
+      "confidence": 0.9598
+    },
+    {
+      "text": "a",
+      "start": 0.68,
+      "end": 1.74,
+      "confidence": 0.6578
+    },
+    {
+      "text": "program",
+      "start": 1.74,
+      "end": 2.4,
+      "confidence": 0.7102
+    },
+    {
+      "text": "with",
+      "start": 2.4,
+      "end": 2.78,
+      "confidence": 0.9908
+    },
+    {
+      "text": "less",
+      "start": 2.78,
+      "end": 4.2,
+      "confidence": 0.9675
+    },
+    {
+      "text": "time",
+      "start": 4.2,
+      "end": 4.94,
+      "confidence": 0.3207
+    },
+    {
+      "text": "and",
+      "start": 4.94,
+      "end": 6.04,
+      "confidence": 0.6886
+    },
+    {
+      "text": "less",
+      "start": 6.04,
+      "end": 6.28,
+      "confidence": 0.9901
+    },
+    {
+      "text": "complexity.",
+      "start": 6.28,
+      "end": 6.94,
+      "confidence": 0.9314
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 2.78,
+      "duration": 2.78,
+      "transcript": "To implement a program with",
+      "word_count": 5,
+      "words": [
+        {
+          "text": "to",
+          "start": 0.0,
+          "end": 0.3,
+          "confidence": 0.3773
+        },
+        {
+          "text": "implement",
+          "start": 0.3,
+          "end": 0.68,
+          "confidence": 0.9598
+        },
+        {
+          "text": "a",
+          "start": 0.68,
+          "end": 1.74,
+          "confidence": 0.6578
+        },
+        {
+          "text": "program",
+          "start": 1.74,
+          "end": 2.4,
+          "confidence": 0.7102
+        },
+        {
+          "text": "with",
+          "start": 2.4,
+          "end": 2.78,
+          "confidence": 0.9908
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 3.45,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    },
+    {
+      "utterance_id": "u003",
+      "start": 6.04,
+      "end": 6.94,
+      "duration": 0.9,
+      "transcript": "Less complexity.",
+      "word_count": 2,
+      "words": [
+        {
+          "text": "less",
+          "start": 6.04,
+          "end": 6.28,
+          "confidence": 0.9901
+        },
+        {
+          "text": "complexity.",
+          "start": 6.28,
+          "end": 6.94,
+          "confidence": 0.9314
+        }
+      ],
+      "vad_segment_start": 5.82,
+      "vad_segment_end": 9.48,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 16.99,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T15:52:46.205933",
+  "segment_count": 2,
+  "word_count": 10,
+  "utterance_count": 2
+}

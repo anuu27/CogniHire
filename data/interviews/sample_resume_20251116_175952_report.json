@@ -1,0 +1,66 @@
+{
+  "session_id": "sample_resume_20251116_175952",
+  "Name": "Anugya Anantapur",
+  "role": "AI Engineer",
+  "start_time": null,
+  "end_time": "2025-11-16T18:00:10.813260",
+  "overall_score": 12.7,
+  "score_before_malpractice": 14.3,
+  "cci": {
+    "raw": 14.29,
+    "percentile_vs_role": null
+  },
+  "components": {
+    "role_relevance": 4.08,
+    "canonical_component": 4.08,
+    "resume_component": null,
+    "completeness": 2.94,
+    "conciseness": 0.0,
+    "fluency": 4.5
+  },
+  "malpractice_detected": {
+    "count": 1,
+    "types": [
+      "no_face_detected"
+    ],
+    "deduction": 1.6
+  },
+  "per_question": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": "",
+      "type": "intro",
+      "canonical_matched_index": null,
+      "canonical_answer": "",
+      "canonical_similarity": 0.0,
+      "canonical_score": 0.0,
+      "q_a_similarity": 0.176,
+      "answer_length": 0,
+      "resume_eval": null
+    },
+    {
+      "question": "What is the difference between bagging and boosting in ensemble learning?",
+      "answer": "",
+      "type": "role",
+      "canonical_matched_index": 6,
+      "canonical_answer": "Bagging (Bootstrap Aggregating) trains multiple models independently on random subsets of data and averages their predictions to reduce variance. Boosting trains models sequentially, where each model focuses on correcting errors of the previous one, reducing bias.",
+      "canonical_similarity": 0.136,
+      "canonical_score": 13.59,
+      "q_a_similarity": 0.059,
+      "answer_length": 0,
+      "resume_eval": null
+    }
+  ],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T12:30:00.217Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What is the difference between bagging and boosting in ensemble learning?"
+      }
+    }
+  ],
+  "malpractice_count": 1
+}

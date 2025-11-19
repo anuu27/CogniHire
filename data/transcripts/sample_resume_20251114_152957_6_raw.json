@@ -1,0 +1,56 @@
+{
+  "text": " Pakaiknya bisa sama-paik",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.56,
+      "text": " Pakaiknya bisa sama-paik",
+      "tokens": [
+        50364,
+        430,
+        7849,
+        1035,
+        7457,
+        14386,
+        17768,
+        12,
+        4306,
+        1035,
+        50444
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.406806310017904,
+      "compression_ratio": 0.7741935483870968,
+      "no_speech_prob": 0.12188909202814102,
+      "words": [
+        {
+          "word": " Pakaiknya",
+          "start": 0.0,
+          "end": 0.7,
+          "probability": 0.04034823563415557
+        },
+        {
+          "word": " bisa",
+          "start": 0.7,
+          "end": 0.98,
+          "probability": 0.05850893259048462
+        },
+        {
+          "word": " sama",
+          "start": 0.98,
+          "end": 1.28,
+          "probability": 0.010641859844326973
+        },
+        {
+          "word": "-paik",
+          "start": 1.28,
+          "end": 1.56,
+          "probability": 0.19282627012580633
+        }
+      ]
+    }
+  ],
+  "language": "id"
+}

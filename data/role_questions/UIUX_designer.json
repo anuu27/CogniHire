@@ -1,0 +1,49 @@
+{
+  "role": "UI/UX Designer",
+  "record_count": 7,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Can you describe your design process from understanding user needs to delivering the final product?",
+      "canonical_answer": "I research user needs, create personas, sketch wireframes, build prototypes, test with users, iterate, and deliver final UI designs.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you ensure your designs are both user-friendly and visually appealing?",
+      "canonical_answer": "I follow usability principles, keep layouts intuitive, use strong visual hierarchy, and balance aesthetics with functionality.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Tell me about a time when user research or testing changed your initial design. What did you learn?",
+      "canonical_answer": "User feedback revealed usability issues, so I iterated the design to improve clarity and learned the value of early testing.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What tools do you use for wireframing, prototyping, and design handoff — and why?",
+      "canonical_answer": "I use Figma, Sketch, or Adobe XD for collaboration, fast iteration, prototyping, and smooth design-to-development handoff.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you approach designing for different devices or platforms (web, mobile, tablet)?",
+      "canonical_answer": "I use responsive layouts, adaptive components, platform guidelines, and test designs across breakpoints.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you collaborate with developers, product managers, and stakeholders throughout a project?",
+      "canonical_answer": "I communicate early, share prototypes, gather feedback, clarify requirements, and ensure smooth design implementation.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Can you explain how accessibility (a11y) influences your design decisions?",
+      "canonical_answer": "I ensure proper contrast, readable text, keyboard navigation, clear structure, and inclusive interactions for all users.",
+      "rubric_points": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "session_id": "sample_resume_20251118_140544",
+  "Name": "Anugya Anantapur",
+  "role": "AI engineer",
+  "start_time": null,
+  "end_time": "2025-11-18T14:06:14.252347",
+  "overall_score": 9.2,
+  "score_before_malpractice": 9.2,
+  "cci": {
+    "raw": 9.17,
+    "percentile_vs_role": 15.02
+  },
+  "components": {
+    "role_relevance": 0.31,
+    "canonical_component": 0.31,
+    "resume_component": null,
+    "completeness": 2.34,
+    "conciseness": 0.0,
+    "fluency": 4.5
+  },
+  "subscores": {
+    "Conceptual correctness": 0.1,
+    "Reasoning depth": 0.94,
+    "Precision grounding": 0.1,
+    "Communication clarity": 3.0,
+    "Creativity / insight": 0.47
+  },
+  "trajectory": "The candidate shows extremely limited foundational knowledge and technical skills, indicating a need for significant development before pursuing an AI engineering career.",
+  "strength": "The candidate's top relative strength is Communication clarity with a score of 3.0, though still low overall.",
+  "risk": "Major risks include extremely low scores across all critical technical sub-skills (conceptual correctness, reasoning depth, precision grounding, creativity / insight).",
+  "recommendation": "Reject this candidate as their overall CCI and technical sub-scores are significantly below the required threshold for an AI engineer role.",
+  "Badge": null,
+  "malpractice_detected": {
+    "count": 0,
+    "types": [],
+    "deduction": 0.0
+  },
+  "per_question": [
+    {
+      "question": "Differentiate between L1 and L2 regularization.",
+      "answer": "",
+      "type": "role",
+      "canonical_matched_index": 25,
+      "canonical_answer": "L1 (Lasso): Adds absolute weight penalties. It promotes sparsity. L2 (Ridge): Adds squared weight penalties \u2192 discourages large weights smoothly.Both prevent overfitting but in different ways.",
+      "canonical_similarity": 0.021,
+      "canonical_score": 2.05,
+      "gemini_score": 0.0,
+      "gemini_reason": "The candidate provided no answer to the question.",
+      "combined_role_score": 1.02,
+      "q_a_similarity": 0.011,
+      "answer_length": 0,
+      "resume_eval": null
+    }
+  ],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T08:35:51.443Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "Differentiate between L1 and L2 regularization."
+      }
+    }
+  ],
+  "malpractice_count": 1
+}

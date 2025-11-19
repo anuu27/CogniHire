@@ -1,0 +1,52 @@
+{
+  "text": " free based dictionary implementation.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.96,
+      "text": " free based dictionary implementation.",
+      "tokens": [
+        50364,
+        1737,
+        2361,
+        25890,
+        11420,
+        13,
+        50488
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8268746137619019,
+      "compression_ratio": 0.8604651162790697,
+      "no_speech_prob": 0.12018155306577682,
+      "words": [
+        {
+          "word": " free",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.09493335336446762
+        },
+        {
+          "word": " based",
+          "start": 0.4,
+          "end": 0.78,
+          "probability": 0.7077406644821167
+        },
+        {
+          "word": " dictionary",
+          "start": 0.78,
+          "end": 1.28,
+          "probability": 0.9383988380432129
+        },
+        {
+          "word": " implementation.",
+          "start": 1.28,
+          "end": 1.96,
+          "probability": 0.7645098567008972
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

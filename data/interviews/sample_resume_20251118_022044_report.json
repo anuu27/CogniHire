@@ -1,0 +1,585 @@
+{
+  "session_id": "sample_resume_20251118_022044",
+  "Name": "Anugya Anantapur",
+  "role": "game developer",
+  "start_time": null,
+  "end_time": "2025-11-18T02:25:56.064847",
+  "overall_score": 16.1,
+  "score_before_malpractice": 46.1,
+  "cci": {
+    "raw": 46.12,
+    "percentile_vs_role": null
+  },
+  "components": {
+    "role_relevance": 8.29,
+    "canonical_component": 13.81,
+    "resume_component": 0.0,
+    "completeness": 8.38,
+    "conciseness": 10.83,
+    "fluency": 11.67
+  },
+  "subscores": {
+    "Conceptual correctness": 4.6,
+    "Reasoning depth": 3.35,
+    "Precision grounding": 2.76,
+    "Communication clarity": 7.78,
+    "Creativity / insight": 5.29
+  },
+  "trajectory": "Anugya shows potential in communication but needs substantial development in core technical and problem-solving skills to advance in game development.",
+  "strength": "The candidate's top strength is Communication clarity with a score of 7.78, indicating effective conveying of ideas.",
+  "risk": "Major risks include severe malpractice (50 instances of tab switching and no face detected, leading to a 30-point deduction) and significant gaps in technical areas like precision grounding and reasoning depth.",
+  "recommendation": "Given the very low overall CCI and substantial malpractice flags, it is recommended to reject this candidate.",
+  "Badge": null,
+  "malpractice_detected": {
+    "count": 50,
+    "types": [
+      "tab_switch",
+      "no_face_detected"
+    ],
+    "deduction": 30.0
+  },
+  "per_question": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": "",
+      "type": "intro",
+      "canonical_matched_index": null,
+      "canonical_answer": "",
+      "canonical_similarity": 0.0,
+      "canonical_score": 0.0,
+      "q_a_similarity": 0.176,
+      "answer_length": 0,
+      "resume_eval": null
+    },
+    {
+      "question": "What game engines have you worked with, and which one do you prefer?",
+      "answer": "I have worked with so many games that they are sub-bass, number match, nonogram, etc. I them all. I prefer all of them. But Sub-bass is nice.",
+      "type": "role",
+      "canonical_matched_index": 0,
+      "canonical_answer": "I\u2019ve worked with Unity, Unreal Engine, and Godot. I prefer Unity for its flexibility, asset ecosystem, and ease of prototyping.",
+      "canonical_similarity": 0.234,
+      "canonical_score": 23.41,
+      "q_a_similarity": 0.387,
+      "answer_length": 27,
+      "resume_eval": null
+    },
+    {
+      "question": "How do you optimize game performance?",
+      "answer": ", I'm looking into it, how I will optimize my performance.",
+      "type": "role",
+      "canonical_matched_index": 2,
+      "canonical_answer": "I optimize assets, reduce draw calls, use object pooling, profile CPU/GPU bottlenecks, and manage memory carefully.",
+      "canonical_similarity": 0.659,
+      "canonical_score": 65.92,
+      "q_a_similarity": 0.643,
+      "answer_length": 11,
+      "resume_eval": null
+    },
+    {
+      "question": "Describe a challenging bug or technical issue you faced in game development. How did you solve it?",
+      "answer": "Yeah, I face somewhat lag issues and somewhat close to some other issues.",
+      "type": "role",
+      "canonical_matched_index": 5,
+      "canonical_answer": "I debug using logs, breakpoints, profilers, and step-by-step isolation to trace the issue and apply targeted fixes.",
+      "canonical_similarity": 0.434,
+      "canonical_score": 43.36,
+      "q_a_similarity": 0.348,
+      "answer_length": 13,
+      "resume_eval": null
+    },
+    {
+      "question": "How do you handle multiplayer synchronization or lag issues?",
+      "answer": "Multiplayer synchronization.",
+      "type": "role",
+      "canonical_matched_index": 4,
+      "canonical_answer": "I use client prediction, server reconciliation, interpolation, and authoritative servers to reduce lag and maintain consistency.",
+      "canonical_similarity": 0.516,
+      "canonical_score": 51.58,
+      "q_a_similarity": 0.735,
+      "answer_length": 2,
+      "resume_eval": null
+    },
+    {
+      "question": "What do you think makes a game fun and engaging?",
+      "answer": "Good graphics, nice designs and interactive games, everything.",
+      "type": "role",
+      "canonical_matched_index": 6,
+      "canonical_answer": "Clear goals, responsive controls, balanced challenge, meaningful rewards, and strong feedback loops make games engaging.",
+      "canonical_similarity": 0.459,
+      "canonical_score": 45.9,
+      "q_a_similarity": 0.475,
+      "answer_length": 8,
+      "resume_eval": null
+    },
+    {
+      "question": "What was the main goal of reimplementing the dictionary using Tries?",
+      "answer": "So, main goal of implementing the strategy is to have people there, people there, people there.",
+      "type": "resume",
+      "canonical_matched_index": null,
+      "canonical_answer": "",
+      "canonical_similarity": 0.0,
+      "canonical_score": 0.0,
+      "q_a_similarity": 0.161,
+      "answer_length": 16,
+      "resume_eval": {
+        "resume_score": 0.0,
+        "evidence": [],
+        "weaknesses": [
+          "No understanding of 'Tries' or 'dictionary' concepts.",
+          "Did not address the 'main goal' of the reimplementation.",
+          "Answer is vague, repetitive, and technically irrelevant.",
+          "Completely misses the technical context of the question."
+        ],
+        "notes": "The candidate's answer completely misses the technical concepts of Tries and dictionaries, providing a vague and repetitive response unrelated to the question. It demonstrates a significant lack of understanding of fundamental data structures and problem context.",
+        "raw_llm_text": "```json\n{\n  \"resume_score\": 0,\n  \"evidence\": [],\n  \"weaknesses\": [\n    \"No understanding of 'Tries' or 'dictionary' concepts.\",\n    \"Did not address the 'main goal' of the reimplementation.\",\n    \"Answer is vague, repetitive, and technically irrelevant.\",\n    \"Completely misses the technical context of the question.\"\n  ],\n  \"notes\": \"The candidate's answer completely misses the technical concepts of Tries and dictionaries, providing a vague and repetitive response unrelated to the question. It demonstrates a significant lack of understanding of fundamental data structures and problem context.\"\n}\n```"
+      }
+    },
+    {
+      "question": "Could you tell me more about the goal for the *dictionary*?",
+      "answer": "Gone for dixon every three hour out a dog man.",
+      "type": "follow-up",
+      "canonical_matched_index": null,
+      "canonical_answer": "",
+      "canonical_similarity": 0.0,
+      "canonical_score": 0.0,
+      "q_a_similarity": -0.007,
+      "answer_length": 10,
+      "resume_eval": {
+        "resume_score": 0.0,
+        "evidence": [],
+        "weaknesses": [
+          "Answer is completely incoherent and nonsensical.",
+          "Does not address the question regarding the 'dictionary' goal.",
+          "Demonstrates a severe communication breakdown or misunderstanding."
+        ],
+        "notes": "The candidate's answer is entirely incomprehensible and bears no relevance to the question asked. It is impossible to assess any technical understanding, resume claims, or role-fit based on this response.",
+        "raw_llm_text": "```json\n{\n  \"resume_score\": 0,\n  \"evidence\": [],\n  \"weaknesses\": [\n    \"Answer is completely incoherent and nonsensical.\",\n    \"Does not address the question regarding the 'dictionary' goal.\",\n    \"Demonstrates a severe communication breakdown or misunderstanding.\"\n  ],\n  \"notes\": \"The candidate's answer is entirely incomprehensible and bears no relevance to the question asked. It is impossible to assess any technical understanding, resume claims, or role-fit based on this response.\"\n}\n```"
+      }
+    },
+    {
+      "question": "How did you approach visualizing paths in Bellman-Ford?",
+      "answer": "",
+      "type": "resume",
+      "canonical_matched_index": null,
+      "canonical_answer": "",
+      "canonical_similarity": 0.0,
+      "canonical_score": 0.0,
+      "q_a_similarity": 0.1,
+      "answer_length": 0,
+      "resume_eval": {
+        "resume_score": 0.0,
+        "evidence": [],
+        "weaknesses": [
+          "No answer provided",
+          "Unable to assess understanding of Bellman-Ford or visualization techniques"
+        ],
+        "notes": "The candidate provided an empty answer, offering no information about their approach to visualizing paths in Bellman-Ford. This makes it impossible to evaluate their technical knowledge or problem-solving skills for this specific question.",
+        "raw_llm_text": "```json\n{\n  \"resume_score\": 0,\n  \"evidence\": [],\n  \"weaknesses\": [\n    \"No answer provided\",\n    \"Unable to assess understanding of Bellman-Ford or visualization techniques\"\n  ],\n  \"notes\": \"The candidate provided an empty answer, offering no information about their approach to visualizing paths in Bellman-Ford. This makes it impossible to evaluate their technical knowledge or problem-solving skills for this specific question.\"\n}\n```"
+      }
+    }
+  ],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:50:56.360Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:51:04.379Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:51:20.264Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:51:30.367Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:51:31.272Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:51:34.358Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:51:35.661Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:51:36.364Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:51:40.362Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:51:42.371Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:51:44.363Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:51:45.559Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:51:50.373Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:51:52.367Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:51:53.253Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:52:00.372Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:52:06.373Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:52:10.367Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:52:12.362Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:52:13.063Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:52:14.365Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:52:16.378Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:52:20.366Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:52:20.759Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:52:22.375Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:52:30.378Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:52:32.369Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:52:36.354Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:52:40.356Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:53:02.359Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:53:10.364Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:53:12.360Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-17T20:53:15.409Z",
+      "details": {
+        "raw": "Window focus lost (switched to another application)",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-17T20:53:15.419Z",
+      "details": {
+        "raw": "Tab switched or minimized",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:53:36.363Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:53:37.757Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:53:46.371Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:53:48.360Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:53:49.864Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:53:54.362Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:54:12.358Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:54:16.363Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:54:18.367Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:54:20.354Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:54:24.355Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:54:46.365Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:54:47.066Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:54:56.370Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:55:20.368Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-17T20:55:21.162Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What game engines have you worked with, and which one do you prefer?"
+      }
+    }
+  ],
+  "malpractice_count": 50
+}

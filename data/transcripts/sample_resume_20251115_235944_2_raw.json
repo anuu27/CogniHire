@@ -1,0 +1,157 @@
+{
+  "text": " I would design and deploy an end to end A system and we take a lecture to production monitoring.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.06,
+      "text": " I would design and deploy an end to end A system and we take a lecture to production monitoring.",
+      "tokens": [
+        50364,
+        286,
+        576,
+        1715,
+        293,
+        7274,
+        364,
+        917,
+        281,
+        917,
+        316,
+        1185,
+        293,
+        321,
+        747,
+        257,
+        7991,
+        281,
+        4265,
+        11028,
+        13,
+        50685
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.576933653458305,
+      "compression_ratio": 1.170731707317073,
+      "no_speech_prob": 0.004705481696873903,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.8457372188568115
+        },
+        {
+          "word": " would",
+          "start": 0.16,
+          "end": 0.44,
+          "probability": 0.5137568712234497
+        },
+        {
+          "word": " design",
+          "start": 0.44,
+          "end": 1.86,
+          "probability": 0.9087927937507629
+        },
+        {
+          "word": " and",
+          "start": 1.86,
+          "end": 2.06,
+          "probability": 0.9035279154777527
+        },
+        {
+          "word": " deploy",
+          "start": 2.06,
+          "end": 2.4,
+          "probability": 0.98649001121521
+        },
+        {
+          "word": " an",
+          "start": 2.4,
+          "end": 2.68,
+          "probability": 0.7547736167907715
+        },
+        {
+          "word": " end",
+          "start": 2.68,
+          "end": 2.84,
+          "probability": 0.7680425643920898
+        },
+        {
+          "word": " to",
+          "start": 2.84,
+          "end": 2.96,
+          "probability": 0.5087621212005615
+        },
+        {
+          "word": " end",
+          "start": 2.96,
+          "end": 3.12,
+          "probability": 0.9957727789878845
+        },
+        {
+          "word": " A",
+          "start": 3.12,
+          "end": 3.3,
+          "probability": 0.37303590774536133
+        },
+        {
+          "word": " system",
+          "start": 3.3,
+          "end": 3.62,
+          "probability": 0.806226909160614
+        },
+        {
+          "word": " and",
+          "start": 3.62,
+          "end": 4.36,
+          "probability": 0.285612553358078
+        },
+        {
+          "word": " we",
+          "start": 4.36,
+          "end": 4.52,
+          "probability": 0.35652852058410645
+        },
+        {
+          "word": " take",
+          "start": 4.52,
+          "end": 4.66,
+          "probability": 0.8103562593460083
+        },
+        {
+          "word": " a",
+          "start": 4.66,
+          "end": 4.78,
+          "probability": 0.26089808344841003
+        },
+        {
+          "word": " lecture",
+          "start": 4.78,
+          "end": 4.98,
+          "probability": 0.08019609749317169
+        },
+        {
+          "word": " to",
+          "start": 4.98,
+          "end": 5.26,
+          "probability": 0.4729826748371124
+        },
+        {
+          "word": " production",
+          "start": 5.26,
+          "end": 5.7,
+          "probability": 0.887908399105072
+        },
+        {
+          "word": " monitoring.",
+          "start": 5.7,
+          "end": 6.06,
+          "probability": 0.9158694744110107
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

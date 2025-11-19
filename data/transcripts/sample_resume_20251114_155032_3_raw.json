@@ -1,0 +1,73 @@
+{
+  "text": " Right back to wherever you are today.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.26,
+      "text": " Right back to wherever you are today.",
+      "tokens": [
+        50364,
+        1779,
+        646,
+        281,
+        8660,
+        291,
+        366,
+        965,
+        13,
+        50430
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.2789982882413,
+      "compression_ratio": 0.8409090909090909,
+      "no_speech_prob": 0.23973822593688965,
+      "words": [
+        {
+          "word": " Right",
+          "start": 0.0,
+          "end": 0.0,
+          "probability": 0.0004535327898338437
+        },
+        {
+          "word": " back",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.030192900449037552
+        },
+        {
+          "word": " to",
+          "start": 0.34,
+          "end": 0.7,
+          "probability": 0.03190978616476059
+        },
+        {
+          "word": " wherever",
+          "start": 0.7,
+          "end": 0.84,
+          "probability": 7.75581065681763e-06
+        },
+        {
+          "word": " you",
+          "start": 0.84,
+          "end": 0.96,
+          "probability": 0.9674912691116333
+        },
+        {
+          "word": " are",
+          "start": 0.96,
+          "end": 1.02,
+          "probability": 0.2459593266248703
+        },
+        {
+          "word": " today.",
+          "start": 1.02,
+          "end": 1.26,
+          "probability": 0.03725360706448555
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

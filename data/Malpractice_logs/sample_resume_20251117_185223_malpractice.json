@@ -1,0 +1,74 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T13:22:51.136Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is regularization in machine learning, and why is it important?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T13:22:55.122Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is regularization in machine learning, and why is it important?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T13:22:59.137Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is regularization in machine learning, and why is it important?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T13:23:01.120Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is regularization in machine learning, and why is it important?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T13:23:03.119Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is regularization in machine learning, and why is it important?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T13:23:05.139Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is regularization in machine learning, and why is it important?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T13:23:07.128Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is regularization in machine learning, and why is it important?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T13:23:09.129Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is regularization in machine learning, and why is it important?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T13:23:11.135Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is regularization in machine learning, and why is it important?"
+    }
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "role": "Robotics Engineer",
+  "record_count": 257,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Can you describe a robotics project you’ve worked on? What was your role and what technologies did you use?",
+      "canonical_answer": "I designed and programmed a robot using ROS, sensors, and control algorithms, handling integration, testing, and performance tuning.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you approach designing and tuning a control system for a robotic manipulator or mobile robot?",
+      "canonical_answer": "I model the system, choose a controller like PID or MPC, tune parameters through simulation, and refine using real-world testing.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What sensors and perception techniques have you used for robot localization and navigation?",
+      "canonical_answer": "I’ve used LiDAR, IMU, cameras, SLAM algorithms, sensor fusion, and path planning methods for accurate localization.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Which programming languages, frameworks, or simulation tools do you use for robotics development?",
+      "canonical_answer": "I use Python, C++, ROS, Gazebo, RViz, and sometimes MATLAB or Unity for simulation and testing.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you integrate hardware and software components in a robotic system?",
+      "canonical_answer": "I interface sensors and actuators with controllers, use ROS nodes for communication, and test modules incrementally to ensure reliability.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Can you explain a time when your robot didn’t perform as expected? How did you diagnose and fix the issue?",
+      "canonical_answer": "I reproduced the issue, checked logs and sensor data, isolated modules, and applied fixes to calibration, code, or hardware connections.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What recent advances in robotics or AI excite you the most, and how do you see them shaping the field?",
+      "canonical_answer": "Advances in deep learning, real-time perception, and robot learning excite me as they make robots more adaptable and autonomous.",
+      "rubric_points": []
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "text": " and the transfer on models split the input into tokens and then processes.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.0,
+      "text": " and the transfer on models split the input into tokens and then processes.",
+      "tokens": [
+        50364,
+        293,
+        264,
+        5003,
+        322,
+        5245,
+        7472,
+        264,
+        4846,
+        666,
+        22667,
+        293,
+        550,
+        7555,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.649832052343032,
+      "compression_ratio": 1.088235294117647,
+      "no_speech_prob": 0.003811378264799714,
+      "words": [
+        {
+          "word": " and",
+          "start": 0.0,
+          "end": 0.74,
+          "probability": 0.24319621920585632
+        },
+        {
+          "word": " the",
+          "start": 0.74,
+          "end": 0.88,
+          "probability": 0.7424367666244507
+        },
+        {
+          "word": " transfer",
+          "start": 0.88,
+          "end": 1.36,
+          "probability": 0.21702386438846588
+        },
+        {
+          "word": " on",
+          "start": 1.36,
+          "end": 1.64,
+          "probability": 0.18559525907039642
+        },
+        {
+          "word": " models",
+          "start": 1.64,
+          "end": 2.36,
+          "probability": 0.9620983600616455
+        },
+        {
+          "word": " split",
+          "start": 2.36,
+          "end": 3.5,
+          "probability": 0.261258989572525
+        },
+        {
+          "word": " the",
+          "start": 3.5,
+          "end": 4.18,
+          "probability": 0.8713045120239258
+        },
+        {
+          "word": " input",
+          "start": 4.18,
+          "end": 4.42,
+          "probability": 0.9824579358100891
+        },
+        {
+          "word": " into",
+          "start": 4.42,
+          "end": 4.74,
+          "probability": 0.9434317350387573
+        },
+        {
+          "word": " tokens",
+          "start": 4.74,
+          "end": 5.14,
+          "probability": 0.797370970249176
+        },
+        {
+          "word": " and",
+          "start": 5.14,
+          "end": 5.42,
+          "probability": 0.977299153804779
+        },
+        {
+          "word": " then",
+          "start": 5.42,
+          "end": 5.62,
+          "probability": 0.9651861190795898
+        },
+        {
+          "word": " processes.",
+          "start": 5.62,
+          "end": 6.0,
+          "probability": 0.7745803594589233
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

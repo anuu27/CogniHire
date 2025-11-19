@@ -1,0 +1,166 @@
+{
+  "text": " I'll do the bias variance tradeoff would be generally the tradeoff between the bias and variance which is this that",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.36,
+      "text": " I'll do the bias variance tradeoff would be generally the tradeoff between the bias and variance which is this that",
+      "tokens": [
+        50364,
+        286,
+        603,
+        360,
+        264,
+        12577,
+        21977,
+        4923,
+        4506,
+        576,
+        312,
+        5101,
+        264,
+        4923,
+        4506,
+        1296,
+        264,
+        12577,
+        293,
+        21977,
+        597,
+        307,
+        341,
+        300,
+        50782
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38719709102924055,
+      "compression_ratio": 1.3529411764705883,
+      "no_speech_prob": 0.05912346765398979,
+      "words": [
+        {
+          "word": " I'll",
+          "start": 0.0,
+          "end": 0.98,
+          "probability": 0.2992819733917713
+        },
+        {
+          "word": " do",
+          "start": 0.98,
+          "end": 1.22,
+          "probability": 0.9794551134109497
+        },
+        {
+          "word": " the",
+          "start": 1.22,
+          "end": 1.66,
+          "probability": 0.8657308220863342
+        },
+        {
+          "word": " bias",
+          "start": 1.66,
+          "end": 2.0,
+          "probability": 0.8788698315620422
+        },
+        {
+          "word": " variance",
+          "start": 2.0,
+          "end": 2.58,
+          "probability": 0.777557373046875
+        },
+        {
+          "word": " tradeoff",
+          "start": 2.58,
+          "end": 3.1,
+          "probability": 0.7698568403720856
+        },
+        {
+          "word": " would",
+          "start": 3.1,
+          "end": 3.28,
+          "probability": 0.7699116468429565
+        },
+        {
+          "word": " be",
+          "start": 3.28,
+          "end": 3.44,
+          "probability": 0.9951004385948181
+        },
+        {
+          "word": " generally",
+          "start": 3.44,
+          "end": 3.86,
+          "probability": 0.9381375312805176
+        },
+        {
+          "word": " the",
+          "start": 3.86,
+          "end": 4.72,
+          "probability": 0.4706118404865265
+        },
+        {
+          "word": " tradeoff",
+          "start": 4.72,
+          "end": 5.4,
+          "probability": 0.9714283049106598
+        },
+        {
+          "word": " between",
+          "start": 5.4,
+          "end": 5.68,
+          "probability": 0.9973262548446655
+        },
+        {
+          "word": " the",
+          "start": 5.68,
+          "end": 5.84,
+          "probability": 0.9922239780426025
+        },
+        {
+          "word": " bias",
+          "start": 5.84,
+          "end": 6.12,
+          "probability": 0.9609580039978027
+        },
+        {
+          "word": " and",
+          "start": 6.12,
+          "end": 6.32,
+          "probability": 0.9747878313064575
+        },
+        {
+          "word": " variance",
+          "start": 6.32,
+          "end": 6.74,
+          "probability": 0.9496435523033142
+        },
+        {
+          "word": " which",
+          "start": 6.74,
+          "end": 7.14,
+          "probability": 0.6180914640426636
+        },
+        {
+          "word": " is",
+          "start": 7.14,
+          "end": 7.44,
+          "probability": 0.9613928198814392
+        },
+        {
+          "word": " this",
+          "start": 7.44,
+          "end": 8.08,
+          "probability": 0.7078530788421631
+        },
+        {
+          "word": " that",
+          "start": 8.08,
+          "end": 8.36,
+          "probability": 0.2561954855918884
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

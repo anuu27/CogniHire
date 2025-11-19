@@ -1,0 +1,86 @@
+{
+  "session_id": "sample_resume_20251118_131204",
+  "role": "AI engineer",
+  "resume_file": "uploads\\sample_resume.pdf",
+  "candidate_info": {
+    "name": "Anugya Anantapur",
+    "skills": [
+      "Python",
+      "Bash",
+      "SQL",
+      "Problem Solving",
+      "Recursive Trees",
+      "Algorithms",
+      "Dynamic Programming",
+      "OpenAI API",
+      "C",
+      "NumPy",
+      "Git",
+      "Jupyter Notebook",
+      "ADT",
+      "Hypothesis library",
+      "TRIE"
+    ],
+    "projects": [
+      "Trie-Based Dictionary Reimplementation (C)",
+      "Interactive Bellman-Ford Path Visualizer (Python)",
+      "Performance Analysis of Splay Trees (Java)",
+      "HyperLogLog Neighbor Optimizer (Python)",
+      "Ultra-Large Integer Optimization (Python + C)"
+    ]
+  },
+  "start_time": "2025-11-18T13:12:04.883737",
+  "end_time": "2025-11-18T13:16:18.655696",
+  "interview_transcript": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": null,
+      "type": "intro"
+    },
+    {
+      "question": "What is overfitting, and how can it be prevented?",
+      "answer": "Overfitting is when the training error is very less so that it becomes 0 but the model doesn't perform well on the testing data.",
+      "type": "role"
+    },
+    {
+      "question": "What is cross-validation, and why is it used?",
+      "answer": "Cross validation is just splitting the data set into few sets and ensuring and using one as a validation set and trading set so that the model model model gets trained more better and avoids generalization.",
+      "type": "role"
+    },
+    {
+      "question": "How do you evaluate the performance of an AI model?",
+      "answer": "The performance of an AI model can be evaluated using few metrics its accuracy, pressure and also F1 score depending on the requirements of the model.",
+      "type": "role"
+    },
+    {
+      "question": " What is reinforcement learning, and how does it differ from supervised learning?",
+      "answer": "Reinforcement learning takes a feedback from the human to improve the model but supervised learning trains based on the available data set with labels.",
+      "type": "role"
+    },
+    {
+      "question": "How do you handle missing or corrupted data when training AI models?",
+      "answer": "I handle missing or corporate data using imputation or methods that remove the missing data and also add something accounts to that.",
+      "type": "role"
+    },
+    {
+      "question": "What was the main goal of your Trie dictionary project?",
+      "answer": "...",
+      "type": "resume"
+    },
+    {
+      "question": "What was the main thing you wanted it to accomplish?",
+      "answer": "I didn't remember exactly, it was a long time ago.",
+      "type": "follow-up"
+    },
+    {
+      "question": "Tell me more about your HyperLogLog Neighbor Optimizer project.",
+      "answer": "Have a log log used the hyper log log data structure and they didn't remember much about it",
+      "type": "resume"
+    },
+    {
+      "question": "So, what was your HyperLogLog Neighbor Optimizer project about?",
+      "answer": null,
+      "type": "follow-up"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "text": " What do you think? Tell me your answer. What?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.4,
+      "text": " What do you think? Tell me your answer.",
+      "tokens": [
+        50364,
+        708,
+        360,
+        291,
+        519,
+        30,
+        5115,
+        385,
+        428,
+        1867,
+        13,
+        50494
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5786961948170382,
+      "compression_ratio": 0.9,
+      "no_speech_prob": 0.026816213503479958,
+      "words": [
+        {
+          "word": " What",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.7445706725120544
+        },
+        {
+          "word": " do",
+          "start": 0.22,
+          "end": 0.38,
+          "probability": 0.9469529390335083
+        },
+        {
+          "word": " you",
+          "start": 0.38,
+          "end": 0.5,
+          "probability": 0.9966975450515747
+        },
+        {
+          "word": " think?",
+          "start": 0.5,
+          "end": 0.76,
+          "probability": 0.9958451390266418
+        },
+        {
+          "word": " Tell",
+          "start": 1.48,
+          "end": 1.66,
+          "probability": 0.9145408868789673
+        },
+        {
+          "word": " me",
+          "start": 1.66,
+          "end": 1.86,
+          "probability": 0.9974344372749329
+        },
+        {
+          "word": " your",
+          "start": 1.86,
+          "end": 2.04,
+          "probability": 0.9588178396224976
+        },
+        {
+          "word": " answer.",
+          "start": 2.04,
+          "end": 2.4,
+          "probability": 0.9701277017593384
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.2,
+      "end": 3.68,
+      "text": " What?",
+      "tokens": [
+        50744,
+        708,
+        30,
+        50769
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5786961948170382,
+      "compression_ratio": 0.9,
+      "no_speech_prob": 0.026816213503479958,
+      "words": [
+        {
+          "word": " What?",
+          "start": 3.2,
+          "end": 3.68,
+          "probability": 0.5346868634223938
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

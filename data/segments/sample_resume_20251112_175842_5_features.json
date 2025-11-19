@@ -1,0 +1,155 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 3.42,
+    "duration": 3.42,
+    "transcript": "Why... Bhakt, Bhakt, B seemingly..",
+    "word_count": 13,
+    "words": [
+      {
+        "text": "why...",
+        "start": 0.0,
+        "end": 0.4,
+        "confidence": 0.0021
+      },
+      {
+        "text": "Bhakt,",
+        "start": 0.4,
+        "end": 1.0,
+        "confidence": 0.018
+      },
+      {
+        "text": "Bhakt,",
+        "start": 1.22,
+        "end": 1.22,
+        "confidence": 0.3394
+      },
+      {
+        "text": "B",
+        "start": 1.24,
+        "end": 1.4,
+        "confidence": 0.0027
+      },
+      {
+        "text": "seemingly..",
+        "start": 1.4,
+        "end": 1.58,
+        "confidence": 0.1211
+      },
+      {
+        "text": "Can",
+        "start": 1.58,
+        "end": 1.76,
+        "confidence": 0.1093
+      },
+      {
+        "text": "you",
+        "start": 1.76,
+        "end": 1.94,
+        "confidence": 0.9672
+      },
+      {
+        "text": "please",
+        "start": 1.94,
+        "end": 2.22,
+        "confidence": 0.9816
+      },
+      {
+        "text": "skip",
+        "start": 2.22,
+        "end": 2.46,
+        "confidence": 0.7324
+      },
+      {
+        "text": "this",
+        "start": 2.46,
+        "end": 2.72,
+        "confidence": 0.9784
+      },
+      {
+        "text": "Kojrat,",
+        "start": 2.72,
+        "end": 3.06,
+        "confidence": 0.4384
+      },
+      {
+        "text": "Eth",
+        "start": 3.22,
+        "end": 3.32,
+        "confidence": 0.0034
+      },
+      {
+        "text": "read",
+        "start": 3.32,
+        "end": 3.42,
+        "confidence": 0.0004
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 3.66,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.361,
+    "speech_rate_wps": 3.801,
+    "speech_rate_wpm": 228.07,
+    "articulation_rate": 3.801,
+    "pause_count": 2,
+    "pause_rate": 0.167,
+    "mean_pause_duration": 0.19,
+    "std_pause_duration": 0.03,
+    "total_pause_time": 0.38,
+    "speaking_time_ratio": 0.889,
+    "pitch_mean": 252.816,
+    "pitch_std": 47.312,
+    "pitch_range": 175.632,
+    "pitch_variance": 2238.415,
+    "voiced_frames_ratio": 0.636,
+    "rms_energy_mean": 0.069,
+    "rms_energy_std": 0.047,
+    "rms_energy_max": 0.198,
+    "rms_energy_min": 0.017,
+    "energy_dynamic_range": 0.181,
+    "zero_crossing_rate": 0.206,
+    "harmonic_noise_ratio": 0.4,
+    "spectral_centroid_mean": 2263.933,
+    "spectral_centroid_std": 1032.699,
+    "mfcc_1_mean": -191.31,
+    "mfcc_2_mean": 70.539,
+    "mfcc_1_std": 68.784,
+    "spectral_rolloff": 4107.988,
+    "spectral_bandwidth": 1688.727,
+    "snr_approximation": 1.477,
+    "clipping_ratio": 0.0
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "session_id": "sample_resume_20251118_131204_2",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251118_131204_answer_processed.wav",
+  "raw_text": "Overfitting is when the training error is very less so that it becomes 0 but the model  doesn't perform well on the testing data.  So that is called overfitting, it can be prevented by reducing the complexity of the model.",
+  "processed_text": "Overfitting is when the training error is very less so that it becomes 0 but the model doesn't perform well on the testing data.",
+  "words": [],
+  "utterances": [],
+  "language": "en",
+  "duration": 15.17,
+  "model_used": "base",
+  "timestamp": "2025-11-18T13:12:43.679921",
+  "segment_count": 0,
+  "word_count": 0,
+  "utterance_count": 0
+}

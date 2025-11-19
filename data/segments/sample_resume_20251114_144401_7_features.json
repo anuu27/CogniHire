@@ -1,0 +1,143 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 3.52,
+    "duration": 3.52,
+    "transcript": "My main goal is to get some marks in that project.",
+    "word_count": 11,
+    "words": [
+      {
+        "text": "My",
+        "start": 0.0,
+        "end": 0.3,
+        "confidence": 0.5368
+      },
+      {
+        "text": "main",
+        "start": 0.3,
+        "end": 0.66,
+        "confidence": 0.4855
+      },
+      {
+        "text": "goal",
+        "start": 0.66,
+        "end": 0.94,
+        "confidence": 0.9992
+      },
+      {
+        "text": "is",
+        "start": 0.94,
+        "end": 1.2,
+        "confidence": 0.9964
+      },
+      {
+        "text": "to",
+        "start": 1.2,
+        "end": 1.38,
+        "confidence": 0.9932
+      },
+      {
+        "text": "get",
+        "start": 1.38,
+        "end": 2.04,
+        "confidence": 0.9965
+      },
+      {
+        "text": "some",
+        "start": 2.04,
+        "end": 2.38,
+        "confidence": 0.9115
+      },
+      {
+        "text": "marks",
+        "start": 2.38,
+        "end": 2.7,
+        "confidence": 0.4937
+      },
+      {
+        "text": "in",
+        "start": 2.7,
+        "end": 2.92,
+        "confidence": 0.9917
+      },
+      {
+        "text": "that",
+        "start": 2.92,
+        "end": 3.16,
+        "confidence": 0.6656
+      },
+      {
+        "text": "project.",
+        "start": 3.16,
+        "end": 3.52,
+        "confidence": 0.9887
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 3.54,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.824,
+    "speech_rate_wps": 3.125,
+    "speech_rate_wpm": 187.5,
+    "articulation_rate": 3.125,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 206.894,
+    "pitch_std": 26.874,
+    "pitch_range": 82.842,
+    "pitch_variance": 722.231,
+    "voiced_frames_ratio": 0.838,
+    "rms_energy_mean": 0.073,
+    "rms_energy_std": 0.044,
+    "rms_energy_max": 0.17,
+    "rms_energy_min": 0.004,
+    "energy_dynamic_range": 0.166,
+    "zero_crossing_rate": 0.136,
+    "harmonic_noise_ratio": 1.612,
+    "spectral_centroid_mean": 1942.978,
+    "spectral_centroid_std": 1018.373,
+    "mfcc_1_mean": -237.342,
+    "mfcc_2_mean": 80.254,
+    "mfcc_1_std": 88.485,
+    "spectral_rolloff": 3627.745,
+    "spectral_bandwidth": 1626.175,
+    "snr_approximation": 1.658,
+    "clipping_ratio": 0.0
+  }
+]

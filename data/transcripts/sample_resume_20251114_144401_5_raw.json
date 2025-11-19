@@ -1,0 +1,86 @@
+{
+  "text": " Hey hey hey hey hey again and on now",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.12,
+      "text": " Hey hey hey hey hey again and on now",
+      "tokens": [
+        50364,
+        1911,
+        4177,
+        4177,
+        4177,
+        4177,
+        797,
+        293,
+        322,
+        586,
+        50476
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.3609495162963867,
+      "compression_ratio": 1.2,
+      "no_speech_prob": 0.13601185381412506,
+      "words": [
+        {
+          "word": " Hey",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.073549784719944
+        },
+        {
+          "word": " hey",
+          "start": 0.4,
+          "end": 0.94,
+          "probability": 0.38684919476509094
+        },
+        {
+          "word": " hey",
+          "start": 0.94,
+          "end": 1.34,
+          "probability": 0.9194259643554688
+        },
+        {
+          "word": " hey",
+          "start": 1.34,
+          "end": 1.46,
+          "probability": 0.9086607694625854
+        },
+        {
+          "word": " hey",
+          "start": 1.46,
+          "end": 1.48,
+          "probability": 0.8371057510375977
+        },
+        {
+          "word": " again",
+          "start": 1.48,
+          "end": 1.64,
+          "probability": 0.023334836587309837
+        },
+        {
+          "word": " and",
+          "start": 1.64,
+          "end": 1.8,
+          "probability": 0.14317597448825836
+        },
+        {
+          "word": " on",
+          "start": 1.8,
+          "end": 1.96,
+          "probability": 0.13945670425891876
+        },
+        {
+          "word": " now",
+          "start": 1.96,
+          "end": 2.12,
+          "probability": 0.16637365520000458
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

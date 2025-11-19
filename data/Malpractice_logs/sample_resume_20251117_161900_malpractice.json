@@ -1,0 +1,74 @@
+[
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T10:49:12.527Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "What is a confusion matrix, and what does it show?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T10:49:18.006Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "What is a confusion matrix, and what does it show?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T10:49:33.434Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "What is a confusion matrix, and what does it show?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:49:36.794Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is a confusion matrix, and what does it show?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T10:49:46.806Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What is a confusion matrix, and what does it show?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T10:49:49.919Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "What is a confusion matrix, and what does it show?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T10:49:56.815Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "What is a confusion matrix, and what does it show?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:49:58.794Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is a confusion matrix, and what does it show?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T10:50:06.793Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is a confusion matrix, and what does it show?"
+    }
+  }
+]

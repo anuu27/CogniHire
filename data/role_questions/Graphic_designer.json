@@ -1,0 +1,49 @@
+{
+  "role": "Graphic Designer",
+  "record_count": 15,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "How do you approach a new design project?",
+      "canonical_answer": "I start by understanding the client’s goals, researching the brand and audience, creating mood boards, and drafting initial concepts.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Which design software and tools do you use most often?",
+      "canonical_answer": "I mainly use Adobe Photoshop, Illustrator, InDesign, Figma, and sometimes Canva or Procreate depending on the project.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle feedback or criticism on your designs?",
+      "canonical_answer": "I listen openly, clarify expectations, revise based on constructive feedback, and maintain a collaborative mindset.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Can you describe a design project you’re most proud of?",
+      "canonical_answer": "I created a branding design that improved the client’s visual identity and engagement, balancing creativity with clear messaging.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you ensure your designs align with a client’s brand identity?",
+      "canonical_answer": "I follow brand guidelines, use consistent colors and typography, and ensure visuals reflect the client's tone and values.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you stay updated with design trends and technologies?",
+      "canonical_answer": "I follow design blogs, explore inspiration platforms, take online courses, and experiment with new tools regularly.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What do you do when facing creative block?",
+      "canonical_answer": "I step back, explore references, sketch freely, or switch tasks to refresh my mind and regain inspiration.",
+      "rubric_points": []
+    }
+  ]
+}

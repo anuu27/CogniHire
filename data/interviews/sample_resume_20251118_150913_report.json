@@ -1,0 +1,167 @@
+{
+  "session_id": "sample_resume_20251118_150913",
+  "Name": "Anugya Anantapur",
+  "role": "AI engineer",
+  "start_time": null,
+  "end_time": "2025-11-18T15:14:25.374078",
+  "overall_score": 15.8,
+  "score_before_malpractice": 18.8,
+  "cci": {
+    "raw": 18.77,
+    "percentile_vs_role": 38.46
+  },
+  "components": {
+    "role_relevance": 0.32,
+    "canonical_component": 0.53,
+    "resume_component": 0.0,
+    "completeness": 1.07,
+    "conciseness": 5.62,
+    "fluency": 8.62
+  },
+  "subscores": {
+    "Conceptual correctness": 0.18,
+    "Reasoning depth": 0.43,
+    "Precision grounding": 0.11,
+    "Communication clarity": 5.75,
+    "Creativity / insight": 2.09
+  },
+  "trajectory": "This candidate shows potential in communication but requires significant development in core AI engineering skills.",
+  "strength": "The top strength is Communication clarity with a score of 5.75.",
+  "risk": "Major risks include extremely low conceptual correctness, reasoning depth, and precision grounding scores, compounded by a malpractice incident.",
+  "recommendation": "Reject this candidate for the AI engineer role at this time due to very low technical proficiency and overall CCI.",
+  "Badge": null,
+  "malpractice_detected": {
+    "count": 1,
+    "types": [
+      "no_record_start_within_timeout"
+    ],
+    "deduction": 3.0
+  },
+  "per_question": [
+    {
+      "question": "How does gradient descent work, and what are its limitations?",
+      "answer": "What do you need for the bags?",
+      "type": "role",
+      "canonical_matched_index": 16,
+      "canonical_answer": "Gradient descent updates model parameters in the direction of negative gradient of loss function. Limitations: may get stuck in local minima, slow convergence, sensitive to learning rate. Solutions include momentum, Adam optimizer, and learning rate scheduling.",
+      "canonical_similarity": -0.027,
+      "canonical_score": 0.0,
+      "gemini_score": 0.0,
+      "gemini_reason": "The candidate's answer is completely off-topic and irrelevant to the question.",
+      "combined_role_score": 0.0,
+      "q_a_similarity": -0.046,
+      "answer_length": 7,
+      "resume_eval": null
+    },
+    {
+      "question": "Differentiate between L1 and L2 regularization.",
+      "answer": "",
+      "type": "role",
+      "canonical_matched_index": 25,
+      "canonical_answer": "L1 (Lasso): Adds absolute weight penalties. It promotes sparsity. L2 (Ridge): Adds squared weight penalties \u2192 discourages large weights smoothly.Both prevent overfitting but in different ways.",
+      "canonical_similarity": 0.021,
+      "canonical_score": 2.05,
+      "gemini_score": 0.0,
+      "gemini_reason": "The candidate provided an empty answer, giving no information about the differentiation between L1 and L2 regularization.",
+      "combined_role_score": 1.02,
+      "q_a_similarity": 0.011,
+      "answer_length": 0,
+      "resume_eval": null
+    },
+    {
+      "question": "What is the difference between bagging and boosting in ensemble learning?",
+      "answer": "",
+      "type": "role",
+      "canonical_matched_index": 6,
+      "canonical_answer": "Bagging (Bootstrap Aggregating) trains multiple models independently on random subsets of data and averages their predictions to reduce variance. Boosting trains models sequentially, where each model focuses on correcting errors of the previous one, reducing bias.",
+      "canonical_similarity": 0.136,
+      "canonical_score": 13.59,
+      "gemini_score": 0.0,
+      "gemini_reason": "The candidate provided no answer to the question.",
+      "combined_role_score": 6.79,
+      "q_a_similarity": 0.059,
+      "answer_length": 0,
+      "resume_eval": null
+    },
+    {
+      "question": "How do you choose the right model architecture for a given AI problem?",
+      "answer": "I'm going to do it.",
+      "type": "role",
+      "canonical_matched_index": 24,
+      "canonical_answer": "Consider the problem type (classification, regression, etc.), data size and quality, computational resources, and interpretability needs. Experiment with different architectures and validate using performance metrics.",
+      "canonical_similarity": -0.025,
+      "canonical_score": 0.0,
+      "gemini_score": 0.0,
+      "gemini_reason": "The candidate's answer is a generic statement and provides no technical detail or methodology related to the question.",
+      "combined_role_score": 0.0,
+      "q_a_similarity": 0.027,
+      "answer_length": 5,
+      "resume_eval": null
+    },
+    {
+      "question": "What is transfer learning, and when would you use it?",
+      "answer": "Je ne sais pas comment t'aider, je ne sais pas.",
+      "type": "role",
+      "canonical_matched_index": 17,
+      "canonical_answer": "Transfer learning leverages a pre-trained model on a large dataset and fine-tunes it for a related but smaller dataset. Useful when data is limited or training from scratch is computationally expensive.",
+      "canonical_similarity": 0.021,
+      "canonical_score": 2.08,
+      "gemini_score": 0.0,
+      "gemini_reason": "The candidate explicitly stated they do not know the answer, providing no relevant information.",
+      "combined_role_score": 1.04,
+      "q_a_similarity": 0.054,
+      "answer_length": 10,
+      "resume_eval": null
+    },
+    {
+      "question": "Why did you choose a Trie for the dictionary?",
+      "answer": "I don't think it's going to be further if it's not too much.",
+      "type": "resume",
+      "resume_eval": {
+        "resume_score": 0.0,
+        "evidence": [],
+        "weaknesses": [
+          "Answer is completely off-topic and nonsensical.",
+          "No demonstration of understanding of the question or relevant technical concepts."
+        ],
+        "notes": "The candidate's answer is completely unresponsive to the technical question asked, providing no insight into their understanding of Tries or their design choices. This indicates a significant communication issue or a complete lack of relevant technical knowledge.",
+        "raw_llm_text": "```json\n{\n  \"resume_score\": 0,\n  \"evidence\": [],\n  \"weaknesses\": [\n    \"Answer is completely off-topic and nonsensical.\",\n    \"No demonstration of understanding of the question or relevant technical concepts.\"\n  ],\n  \"notes\": \"The candidate's answer is completely unresponsive to the technical question asked, providing no insight into their understanding of Tries or their design choices. This indicates a significant communication issue or a complete lack of relevant technical knowledge.\"\n}\n```"
+      }
+    },
+    {
+      "question": "Could you tell me a bit more about why you chose a Trie?",
+      "answer": "",
+      "type": "follow-up",
+      "resume_eval": {
+        "resume_score": 0.0,
+        "evidence": [],
+        "weaknesses": [
+          "No answer provided",
+          "Unable to assess understanding of data structures relevant to AI/NLP"
+        ],
+        "notes": "The candidate provided no answer to the question, making it impossible to assess their technical understanding of Tries or their ability to articulate technical decisions. This score reflects a complete lack of demonstrable skill or communication in response to a direct technical inquiry.",
+        "raw_llm_text": "```json\n{\n  \"resume_score\": 0,\n  \"evidence\": [],\n  \"weaknesses\": [\n    \"No answer provided\",\n    \"Unable to assess understanding of data structures relevant to AI/NLP\"\n  ],\n  \"notes\": \"The candidate provided no answer to the question, making it impossible to assess their technical understanding of Tries or their ability to articulate technical decisions. This score reflects a complete lack of demonstrable skill or communication in response to a direct technical inquiry.\"\n}\n```"
+      }
+    }
+  ],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-18T09:39:25.467Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "How does gradient descent work, and what are its limitations?"
+      }
+    },
+    {
+      "type": "no_record_start_within_timeout",
+      "timestamp": "2025-11-18T09:41:05.072Z",
+      "details": {
+        "timeout_ms": 20000,
+        "question": "How does gradient descent work, and what are its limitations?"
+      }
+    }
+  ],
+  "malpractice_count": 2
+}

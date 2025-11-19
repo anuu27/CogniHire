@@ -1,0 +1,91 @@
+{
+  "session_id": "sample_resume_20251114_005658_4",
+  "audio_source": "audio_analysis_ingest\\response_20251114_005921_processed.wav",
+  "raw_text": "I don't know.",
+  "processed_text": "I don't know.",
+  "words": [
+    {
+      "text": "I",
+      "start": 0.0,
+      "end": 1.1,
+      "confidence": 0.7735
+    },
+    {
+      "text": "don't",
+      "start": 1.1,
+      "end": 1.44,
+      "confidence": 0.9721
+    },
+    {
+      "text": "know.",
+      "start": 1.44,
+      "end": 2.02,
+      "confidence": 0.9962
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u002",
+      "start": 1.1,
+      "end": 2.02,
+      "duration": 0.92,
+      "transcript": "Don't know.",
+      "word_count": 2,
+      "words": [
+        {
+          "text": "don't",
+          "start": 1.1,
+          "end": 1.44,
+          "confidence": 0.9721
+        },
+        {
+          "text": "know.",
+          "start": 1.44,
+          "end": 2.02,
+          "confidence": 0.9962
+        }
+      ],
+      "vad_segment_start": 0.9,
+      "vad_segment_end": 2.64,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 3.36,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T00:59:42.173488",
+  "segment_count": 1,
+  "word_count": 3,
+  "utterance_count": 1
+}

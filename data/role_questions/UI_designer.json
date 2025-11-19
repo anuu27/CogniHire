@@ -1,0 +1,49 @@
+{
+  "role": "ui designer",
+  "record_count": 155,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Can you walk me through your typical UI design process?",
+      "canonical_answer": "I start with requirements and research, create wireframes, build high-fidelity designs, iterate based on feedback, and hand off assets to developers.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you ensure your designs align with the overall brand identity and design system?",
+      "canonical_answer": "I follow brand guidelines, use consistent components, match color and typography rules, and maintain alignment with the design system.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What are the key principles you follow to create visually balanced and intuitive interfaces?",
+      "canonical_answer": "I use alignment, spacing, contrast, hierarchy, and consistency to ensure clarity and ease of use.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you decide on color palettes and typography for a new product?",
+      "canonical_answer": "I consider brand tone, target audience, accessibility, and visual harmony, testing combinations for readability and mood.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Which design tools and technologies do you use most often, and why?",
+      "canonical_answer": "I use Figma, Sketch, and Adobe XD for collaboration, prototyping, and efficient design workflows.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you collaborate with UX designers, developers, and product managers?",
+      "canonical_answer": "I communicate early, share design drafts, collect feedback, follow handoff processes, and ensure alignment on user and business goals.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What are key principles of visual hierarchy and how do you apply them",
+      "canonical_answer": "I use size, contrast, spacing, color, and positioning to guide the user’s attention and highlight primary actions.",
+      "rubric_points": []
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "session_id": "sample_resume_20251114_152957_4",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_152957_answer_processed.wav",
+  "raw_text": "gradient descent basically minimizes the loss function and amuse use demural network.",
+  "processed_text": "Gradient descent minimizes the loss function and amuse use demural network.",
+  "words": [
+    {
+      "text": "gradient",
+      "start": 0.0,
+      "end": 0.54,
+      "confidence": 0.5084
+    },
+    {
+      "text": "descent",
+      "start": 0.54,
+      "end": 1.0,
+      "confidence": 0.2935
+    },
+    {
+      "text": "basically",
+      "start": 1.0,
+      "end": 1.48,
+      "confidence": 0.8544
+    },
+    {
+      "text": "minimizes",
+      "start": 1.48,
+      "end": 2.12,
+      "confidence": 0.9179
+    },
+    {
+      "text": "the",
+      "start": 2.12,
+      "end": 2.34,
+      "confidence": 0.9613
+    },
+    {
+      "text": "loss",
+      "start": 2.34,
+      "end": 2.58,
+      "confidence": 0.9325
+    },
+    {
+      "text": "function",
+      "start": 2.58,
+      "end": 3.22,
+      "confidence": 0.9895
+    },
+    {
+      "text": "and",
+      "start": 3.22,
+      "end": 4.12,
+      "confidence": 0.4067
+    },
+    {
+      "text": "amuse",
+      "start": 4.12,
+      "end": 4.4,
+      "confidence": 0.7698
+    },
+    {
+      "text": "use",
+      "start": 4.4,
+      "end": 4.74,
+      "confidence": 0.6891
+    },
+    {
+      "text": "demural",
+      "start": 4.74,
+      "end": 5.12,
+      "confidence": 0.6196
+    },
+    {
+      "text": "network.",
+      "start": 5.12,
+      "end": 5.42,
+      "confidence": 0.343
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 2.58,
+      "duration": 2.58,
+      "transcript": "Gradient descent minimizes the loss",
+      "word_count": 6,
+      "words": [
+        {
+          "text": "gradient",
+          "start": 0.0,
+          "end": 0.54,
+          "confidence": 0.5084
+        },
+        {
+          "text": "descent",
+          "start": 0.54,
+          "end": 1.0,
+          "confidence": 0.2935
+        },
+        {
+          "text": "basically",
+          "start": 1.0,
+          "end": 1.48,
+          "confidence": 0.8544
+        },
+        {
+          "text": "minimizes",
+          "start": 1.48,
+          "end": 2.12,
+          "confidence": 0.9179
+        },
+        {
+          "text": "the",
+          "start": 2.12,
+          "end": 2.34,
+          "confidence": 0.9613
+        },
+        {
+          "text": "loss",
+          "start": 2.34,
+          "end": 2.58,
+          "confidence": 0.9325
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 3.18,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    },
+    {
+      "utterance_id": "u002",
+      "start": 4.12,
+      "end": 5.42,
+      "duration": 1.3,
+      "transcript": "Amuse use demural network.",
+      "word_count": 4,
+      "words": [
+        {
+          "text": "amuse",
+          "start": 4.12,
+          "end": 4.4,
+          "confidence": 0.7698
+        },
+        {
+          "text": "use",
+          "start": 4.4,
+          "end": 4.74,
+          "confidence": 0.6891
+        },
+        {
+          "text": "demural",
+          "start": 4.74,
+          "end": 5.12,
+          "confidence": 0.6196
+        },
+        {
+          "text": "network.",
+          "start": 5.12,
+          "end": 5.42,
+          "confidence": 0.343
+        }
+      ],
+      "vad_segment_start": 3.81,
+      "vad_segment_end": 5.49,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 5.5,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T15:30:49.649943",
+  "segment_count": 2,
+  "word_count": 12,
+  "utterance_count": 2
+}

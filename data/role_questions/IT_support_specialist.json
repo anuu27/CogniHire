@@ -1,0 +1,49 @@
+{
+  "role": "IT Support Specialist",
+  "record_count": 224,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Can you explain what happens when a computer won’t turn on? How would you troubleshoot it?",
+      "canonical_answer": "I check power connections, test the outlet, inspect hardware like PSU and RAM, try booting with minimal components, and check for beep codes or LEDs.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What’s the difference between IPv4 and IPv6?",
+      "canonical_answer": "IPv4 uses 32-bit addresses and is limited, while IPv6 uses 128-bit addresses, supports more devices, and includes built-in security improvements.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle a user who says, “My internet is not working”?",
+      "canonical_answer": "I ask clarifying questions, check connections, test Wi-Fi, restart the router, verify IP settings, and run network diagnostics.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you prioritize multiple support tickets?",
+      "canonical_answer": "I rank tickets by urgency, impact, number of affected users, and business priority, resolving critical issues first.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is Active Directory and why is it used?",
+      "canonical_answer": "Active Directory is a directory service used for authentication, user management, policies, and centralized access control in Windows environments.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What steps would you take if a user can’t log into their system?",
+      "canonical_answer": "I verify credentials, check caps/num lock, reset passwords if needed, confirm network/AD connectivity, and ensure the account isn’t locked or disabled.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you stay up to date with the latest IT technologies and support tools?",
+      "canonical_answer": "I follow tech forums, take online courses, read documentation, experiment with tools, and stay active in IT communities.",
+      "rubric_points": []
+    }
+  ]
+}

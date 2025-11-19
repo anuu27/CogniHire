@@ -1,0 +1,1 @@
+{"session_id": "sample_resume_20251118_140239", "event": {"type": "no_face_detected", "timestamp": "2025-11-18T08:32:46.850Z", "details": {"raw": "detector returned 0 faces", "question": "What is the bias–variance trade-off? How would you recognize and address high bias or high variance in a model?"}}, "server_ts": "2025-11-18T08:32:47.663206Z"}

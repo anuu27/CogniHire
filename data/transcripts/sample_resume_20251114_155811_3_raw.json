@@ -1,0 +1,118 @@
+{
+  "text": " learning the data to well and learning the data to less.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.84,
+      "text": " learning the data to well and learning the data",
+      "tokens": [
+        50364,
+        2539,
+        264,
+        1412,
+        281,
+        731,
+        293,
+        2539,
+        264,
+        1412,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6947764228372013,
+      "compression_ratio": 1.2173913043478262,
+      "no_speech_prob": 0.05837089568376541,
+      "words": [
+        {
+          "word": " learning",
+          "start": 0.0,
+          "end": 0.38,
+          "probability": 0.22637294232845306
+        },
+        {
+          "word": " the",
+          "start": 0.38,
+          "end": 0.58,
+          "probability": 0.90399569272995
+        },
+        {
+          "word": " data",
+          "start": 0.58,
+          "end": 0.88,
+          "probability": 0.9855288863182068
+        },
+        {
+          "word": " to",
+          "start": 0.88,
+          "end": 1.14,
+          "probability": 0.6775886416435242
+        },
+        {
+          "word": " well",
+          "start": 1.14,
+          "end": 1.34,
+          "probability": 0.8075650930404663
+        },
+        {
+          "word": " and",
+          "start": 1.34,
+          "end": 2.44,
+          "probability": 0.8359564542770386
+        },
+        {
+          "word": " learning",
+          "start": 2.44,
+          "end": 2.92,
+          "probability": 0.8602263927459717
+        },
+        {
+          "word": " the",
+          "start": 2.92,
+          "end": 3.2,
+          "probability": 0.9578887224197388
+        },
+        {
+          "word": " data",
+          "start": 3.2,
+          "end": 3.84,
+          "probability": 0.9931402802467346
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.48,
+      "end": 5.38,
+      "text": " to less.",
+      "tokens": [
+        50564,
+        281,
+        1570,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6947764228372013,
+      "compression_ratio": 1.2173913043478262,
+      "no_speech_prob": 0.05837089568376541,
+      "words": [
+        {
+          "word": " to",
+          "start": 4.48,
+          "end": 5.08,
+          "probability": 0.27567794919013977
+        },
+        {
+          "word": " less.",
+          "start": 5.08,
+          "end": 5.38,
+          "probability": 0.9288186430931091
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

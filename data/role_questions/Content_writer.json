@@ -1,0 +1,49 @@
+{
+  "role": "Content Writer",
+  "record_count": 238,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "How do you approach writing content for a new topic or unfamiliar domain?",
+      "canonical_answer": "I research the topic, study trusted sources, outline key points, and simplify complex ideas so they are clear and engaging for readers.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What steps do you take to ensure your content aligns with the target audience and brand tone?",
+      "canonical_answer": "I analyze the audience, review brand guidelines, adjust language and style, and tailor messaging to match tone, purpose, and expectations.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you balance creativity with SEO or keyword requirements?",
+      "canonical_answer": "I place keywords naturally, prioritize readability, and use creative storytelling while still meeting SEO intent and search relevance.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What’s the difference between writing for social media, blogs, and technical documentation?",
+      "canonical_answer": "Social media is short and engaging, blogs are conversational and informative, and technical documentation is precise, structured, and instructional.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe your writing process — from ideation to final draft. What tools do you use?",
+      "canonical_answer": "I brainstorm ideas, research, outline, draft, revise, and proofread using tools like Google Docs, Grammarly, Notion, and SEO checkers.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What’s your approach to structuring long-form content so readers stay engaged throughout?",
+      "canonical_answer": "I use clear headings, short sections, visuals, storytelling, and strong hooks to maintain flow and keep readers engaged.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Give an example of a piece of content you’re proud of. What made it effective?",
+      "canonical_answer": "It clearly addressed user needs, used a strong narrative, ranked well with SEO, and received positive engagement or conversions.",
+      "rubric_points": []
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "text": " Dhambra, Dhambra, Dhambra, Dhambra.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.2,
+      "text": " Dhambra, Dhambra, Dhambra, Dhambra.",
+      "tokens": [
+        50364,
+        413,
+        4822,
+        6198,
+        11,
+        413,
+        4822,
+        6198,
+        11,
+        413,
+        4822,
+        6198,
+        11,
+        413,
+        4822,
+        6198,
+        13,
+        50464
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.7678061033550062,
+      "compression_ratio": 1.6666666666666667,
+      "no_speech_prob": 0.16599474847316742,
+      "words": [
+        {
+          "word": " Dhambra,",
+          "start": 0.0,
+          "end": 0.88,
+          "probability": 0.14017847056190172
+        },
+        {
+          "word": " Dhambra,",
+          "start": 1.0,
+          "end": 1.26,
+          "probability": 0.7745960354804993
+        },
+        {
+          "word": " Dhambra,",
+          "start": 1.34,
+          "end": 1.92,
+          "probability": 0.9754072229067484
+        },
+        {
+          "word": " Dhambra.",
+          "start": 2.2,
+          "end": 2.2,
+          "probability": 0.977846622467041
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

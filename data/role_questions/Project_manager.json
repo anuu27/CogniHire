@@ -1,0 +1,49 @@
+{
+  "role": "Project Manager",
+  "record_count": 56,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Tell me about a project you managed from start to finish.",
+      "canonical_answer": "I defined scope, created the plan, coordinated the team, tracked progress, managed risks, and delivered the project on time with measurable results.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle scope creep?",
+      "canonical_answer": "I document changes, evaluate impact, communicate with stakeholders, and update timelines or reject requests depending on priorities.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What project management methodologies have you used?",
+      "canonical_answer": "I’ve used Agile, Scrum, Kanban, and Waterfall depending on project needs, team structure, and delivery timelines.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you prioritize tasks when managing multiple projects?",
+      "canonical_answer": "I prioritize based on urgency, business impact, dependencies, and resource availability while using tools to track progress clearly.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you deal with team conflicts?",
+      "canonical_answer": "I listen to each side, identify the root cause, mediate openly, and guide the team toward a fair, solution-focused resolution.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you measure project success?",
+      "canonical_answer": "I measure success using timely delivery, meeting scope and quality goals, staying within budget, and achieving stakeholder satisfaction.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you manage risks in a project?",
+      "canonical_answer": "I identify risks early, assess their impact, create mitigation plans, monitor changes, and communicate proactively with stakeholders.",
+      "rubric_points": []
+    }
+  ]
+}

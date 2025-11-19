@@ -1,0 +1,190 @@
+{
+  "session_id": "sample_resume_20251116_182253",
+  "Name": "Anugya Anantapur",
+  "role": "ai engineer",
+  "start_time": null,
+  "end_time": "2025-11-16T18:24:14.006045",
+  "overall_score": 15.2,
+  "score_before_malpractice": 18.2,
+  "cci": {
+    "raw": 18.19,
+    "percentile_vs_role": 69.88
+  },
+  "components": {
+    "role_relevance": 0.32,
+    "canonical_component": 0.32,
+    "resume_component": null,
+    "completeness": 1.79,
+    "conciseness": 5.0,
+    "fluency": 8.0
+  },
+  "malpractice_detected": {
+    "count": 15,
+    "types": [
+      "no_face_detected"
+    ],
+    "deduction": 3.0
+  },
+  "per_question": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": "",
+      "type": "intro",
+      "canonical_matched_index": null,
+      "canonical_answer": "",
+      "canonical_similarity": 0.0,
+      "canonical_score": 0.0,
+      "q_a_similarity": 0.176,
+      "answer_length": 0,
+      "resume_eval": null
+    },
+    {
+      "question": "What are some ethical considerations in AI development?",
+      "answer": "It will start recording something and if I stop it",
+      "type": "role",
+      "canonical_matched_index": 18,
+      "canonical_answer": "Bias in data/models, transparency, privacy concerns, accountability for decisions, and potential job displacement are key ethical considerations in AI development.",
+      "canonical_similarity": 0.014,
+      "canonical_score": 1.44,
+      "q_a_similarity": 0.072,
+      "answer_length": 10,
+      "resume_eval": null
+    },
+    {
+      "question": " How do you ensure the scalability and reliability of AI systems in production?",
+      "answer": "",
+      "type": "role",
+      "canonical_matched_index": 31,
+      "canonical_answer": "Ensure scalability through containerization, microservices, and cloud infrastructure; reliability through monitoring, automated testing, and failover mechanisms.",
+      "canonical_similarity": 0.007,
+      "canonical_score": 0.71,
+      "q_a_similarity": -0.034,
+      "answer_length": 0,
+      "resume_eval": null
+    }
+  ],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T12:53:06.479Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are some ethical considerations in AI development?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T12:53:11.079Z",
+      "details": {
+        "raw": "detector returned 0 faces",
+        "question": "What are some ethical considerations in AI development?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T12:53:12.462Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are some ethical considerations in AI development?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T12:53:14.461Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are some ethical considerations in AI development?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T12:53:16.473Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are some ethical considerations in AI development?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T12:53:18.477Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are some ethical considerations in AI development?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T12:53:20.469Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are some ethical considerations in AI development?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T12:53:22.467Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are some ethical considerations in AI development?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T12:53:26.470Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are some ethical considerations in AI development?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T12:53:28.467Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are some ethical considerations in AI development?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T12:53:30.461Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are some ethical considerations in AI development?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T12:53:32.462Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are some ethical considerations in AI development?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T12:53:34.465Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are some ethical considerations in AI development?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T12:53:36.472Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are some ethical considerations in AI development?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T12:53:58.475Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "What are some ethical considerations in AI development?"
+      }
+    }
+  ],
+  "malpractice_count": 15
+}

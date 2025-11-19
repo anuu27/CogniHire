@@ -1,0 +1,109 @@
+{
+  "session_id": "sample_resume_20251117_091208_3",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251117_091208_answer_processed.wav",
+  "raw_text": "Ha, I don't know.",
+  "processed_text": "Ha, I don't know.",
+  "words": [
+    {
+      "text": "Ha,",
+      "start": 0.0,
+      "end": 0.18,
+      "confidence": 0.2448
+    },
+    {
+      "text": "I",
+      "start": 0.64,
+      "end": 0.84,
+      "confidence": 0.9632
+    },
+    {
+      "text": "don't",
+      "start": 0.84,
+      "end": 1.2,
+      "confidence": 0.9831
+    },
+    {
+      "text": "know.",
+      "start": 1.2,
+      "end": 1.3,
+      "confidence": 0.9948
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 1.3,
+      "duration": 1.3,
+      "transcript": "Ha, I don't know.",
+      "word_count": 4,
+      "words": [
+        {
+          "text": "Ha,",
+          "start": 0.0,
+          "end": 0.18,
+          "confidence": 0.2448
+        },
+        {
+          "text": "I",
+          "start": 0.64,
+          "end": 0.84,
+          "confidence": 0.9632
+        },
+        {
+          "text": "don't",
+          "start": 0.84,
+          "end": 1.2,
+          "confidence": 0.9831
+        },
+        {
+          "text": "know.",
+          "start": 1.2,
+          "end": 1.3,
+          "confidence": 0.9948
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 1.35,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 1.38,
+  "model_used": "small",
+  "timestamp": "2025-11-17T09:13:21.985630",
+  "segment_count": 1,
+  "word_count": 4,
+  "utterance_count": 1
+}

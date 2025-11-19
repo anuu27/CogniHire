@@ -1,0 +1,10 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T12:26:17.772Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  }
+]

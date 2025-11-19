@@ -1,0 +1,97 @@
+{
+  "session_id": "sample_resume_20251114_144401_2",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_144401_answer_processed.wav",
+  "raw_text": "I don't know.",
+  "processed_text": "I don't know.",
+  "words": [
+    {
+      "text": "I",
+      "start": 0.0,
+      "end": 0.36,
+      "confidence": 0.8588
+    },
+    {
+      "text": "don't",
+      "start": 0.36,
+      "end": 0.86,
+      "confidence": 0.9725
+    },
+    {
+      "text": "know.",
+      "start": 0.86,
+      "end": 1.16,
+      "confidence": 0.9895
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 1.16,
+      "duration": 1.16,
+      "transcript": "I don't know.",
+      "word_count": 3,
+      "words": [
+        {
+          "text": "I",
+          "start": 0.0,
+          "end": 0.36,
+          "confidence": 0.8588
+        },
+        {
+          "text": "don't",
+          "start": 0.36,
+          "end": 0.86,
+          "confidence": 0.9725
+        },
+        {
+          "text": "know.",
+          "start": 0.86,
+          "end": 1.16,
+          "confidence": 0.9895
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 1.17,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 1.18,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T14:44:31.751241",
+  "segment_count": 1,
+  "word_count": 3,
+  "utterance_count": 1
+}

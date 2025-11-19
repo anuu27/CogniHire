@@ -1,0 +1,169 @@
+{
+  "session_id": "sample_resume_20251114_155032_4",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_155032_answer_processed.wav",
+  "raw_text": "it works by minimizing the loss at each step.",
+  "processed_text": "It works by minimizing the loss at each step.",
+  "words": [
+    {
+      "text": "it",
+      "start": 0.0,
+      "end": 1.1,
+      "confidence": 0.3875
+    },
+    {
+      "text": "works",
+      "start": 1.1,
+      "end": 1.54,
+      "confidence": 0.9929
+    },
+    {
+      "text": "by",
+      "start": 1.54,
+      "end": 2.06,
+      "confidence": 0.8809
+    },
+    {
+      "text": "minimizing",
+      "start": 2.06,
+      "end": 2.54,
+      "confidence": 0.9552
+    },
+    {
+      "text": "the",
+      "start": 2.54,
+      "end": 2.86,
+      "confidence": 0.982
+    },
+    {
+      "text": "loss",
+      "start": 2.86,
+      "end": 3.08,
+      "confidence": 0.5255
+    },
+    {
+      "text": "at",
+      "start": 3.08,
+      "end": 3.34,
+      "confidence": 0.2774
+    },
+    {
+      "text": "each",
+      "start": 3.34,
+      "end": 3.52,
+      "confidence": 0.7171
+    },
+    {
+      "text": "step.",
+      "start": 3.52,
+      "end": 3.74,
+      "confidence": 0.9981
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 3.74,
+      "duration": 3.74,
+      "transcript": "It works by minimizing the loss at each step.",
+      "word_count": 9,
+      "words": [
+        {
+          "text": "it",
+          "start": 0.0,
+          "end": 1.1,
+          "confidence": 0.3875
+        },
+        {
+          "text": "works",
+          "start": 1.1,
+          "end": 1.54,
+          "confidence": 0.9929
+        },
+        {
+          "text": "by",
+          "start": 1.54,
+          "end": 2.06,
+          "confidence": 0.8809
+        },
+        {
+          "text": "minimizing",
+          "start": 2.06,
+          "end": 2.54,
+          "confidence": 0.9552
+        },
+        {
+          "text": "the",
+          "start": 2.54,
+          "end": 2.86,
+          "confidence": 0.982
+        },
+        {
+          "text": "loss",
+          "start": 2.86,
+          "end": 3.08,
+          "confidence": 0.5255
+        },
+        {
+          "text": "at",
+          "start": 3.08,
+          "end": 3.34,
+          "confidence": 0.2774
+        },
+        {
+          "text": "each",
+          "start": 3.34,
+          "end": 3.52,
+          "confidence": 0.7171
+        },
+        {
+          "text": "step.",
+          "start": 3.52,
+          "end": 3.74,
+          "confidence": 0.9981
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 3.75,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 3.78,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T15:51:40.257428",
+  "segment_count": 1,
+  "word_count": 9,
+  "utterance_count": 1
+}

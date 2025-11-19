@@ -1,0 +1,49 @@
+{
+  "role": "Human Resources Specialist",
+  "record_count": 262,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "What are the key responsibilities of an HR Specialist?",
+      "canonical_answer": "HR Specialists handle recruitment, onboarding, employee relations, compliance, performance support, and maintaining HR policies.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle conflicts between employees?",
+      "canonical_answer": "I listen to both sides, identify root causes, mediate discussions, document the issue, and guide them toward a fair resolution.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What strategies do you use for effective recruitment?",
+      "canonical_answer": "I create clear job descriptions, source candidates through multiple channels, screen efficiently, and ensure a structured interview process.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you ensure compliance with labor laws and regulations?",
+      "canonical_answer": "I stay updated on laws, maintain proper documentation, enforce policies, train managers, and conduct regular compliance checks.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you measure employee satisfaction or engagement?",
+      "canonical_answer": "I use surveys, feedback sessions, retention metrics, performance data, and one-on-one discussions to gauge engagement.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe a time you handled a sensitive HR issue.",
+      "canonical_answer": "I addressed it with confidentiality, active listening, careful documentation, and a neutral approach to find a fair solution.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you stay organized when managing multiple HR processes at once?",
+      "canonical_answer": "I use task lists, HR management tools, clear documentation, prioritization, and consistent follow-ups to stay organized.",
+      "rubric_points": []
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "role": "Data Engineer",
+  "record_count": 447,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Explain the difference between ETL and ELT. When would you choose one over the other?",
+      "canonical_answer": " ETL (Extract, Transform, Load) involves extracting data from source systems, transforming it into a desired format, and then loading it into a target system. ELT (Extract, Load, Transform) extracts data, loads it into the target system first, and then performs transformations within that system. Choose ETL when working with traditional data warehouses with limited processing power, and ELT when using modern data lakes or cloud-based platforms that can handle large-scale transformations efficiently.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe the differences between batch processing and stream processing. Provide use cases for each.",
+      "canonical_answer": " Batch processing involves collecting and processing large volumes of data at scheduled intervals, suitable for scenarios like end-of-day reporting or data warehousing. Stream processing handles data in real-time or near-real-time, ideal for applications like fraud detection, live analytics, or monitoring systems where immediate insights are required.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What are some common data storage formats used in data engineering?",
+      "canonical_answer": " Common data storage formats include CSV (simple, human-readable), JSON (flexible, hierarchical), Parquet (columnar, efficient for analytics), Avro (compact, schema-based), and ORC (optimized for big data processing). The choice depends on use case, performance needs, and compatibility with processing frameworks.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you ensure data quality, validation, and consistency across distributed systems?",
+      "canonical_answer": " To ensure data quality, implement validation checks at various stages of the pipeline, such as schema validation, null checks, and range checks. Use data profiling tools to monitor data quality metrics continuously. For consistency across distributed systems, employ techniques like distributed transactions, idempotent operations, and data versioning. Additionally, leverage frameworks that support exactly-once processing semantics to minimize data duplication or loss.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How would you optimize a slow-running ETL job or query in a large dataset?",
+      "canonical_answer": "",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe how you handle schema evolution and backward compatibility in production pipelines.",
+      "canonical_answer": "",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain your approach to monitoring and alerting in a data pipeline. What metrics or tools do you use?",
+      "canonical_answer": "",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you secure data in transit and at rest in your pipelines?",
+      "canonical_answer": " Secure data in transit using encryption protocols like TLS/SSL to protect data as it moves between systems. For data at rest, implement encryption methods such as AES to safeguard stored data. Additionally, use access controls, authentication mechanisms, and regular audits to ensure that only authorized users can access sensitive data.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What are the main stages of a data pipeline?",
+      "canonical_answer": "A typical data pipeline involves: Ingestion – collecting data from multiple sources (APIs, logs, DBs). Processing/Transformation – cleaning, aggregating, and structuring data (using Spark, SQL, etc.). Storage – storing in data warehouses or lakes. Serving – making data accessible for analytics or ML. Automation and monitoring ensure reliability.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you ensure data quality in a pipeline?",
+      "canonical_answer": " Ensure data quality by implementing validation checks (schema, nulls, ranges), using data profiling tools to monitor quality metrics, and employing techniques like deduplication and consistency checks. Automated testing and monitoring help maintain ongoing data integrity.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": " What is data partitioning, and why is it important?",
+      "canonical_answer": " Data partitioning involves dividing a large dataset into smaller, manageable segments based on specific criteria (e.g., date, region). It improves query performance by allowing systems to read only relevant partitions, reduces I/O operations, and enhances parallel processing capabilities in distributed systems.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is partitioning in big data systems and why is it important?",
+      "canonical_answer": "Partitioning splits large datasets into manageable chunks based on a key (like date or region). It improves query performance, parallelism, and scalability by allowing engines (like Spark or Hive) to read only relevant data partitions.",
+      "rubric_points": []
+    },  
+    {
+      "id": null,
+      "question": " What are some common data storage formats used in data engineering?",
+      "canonical_answer": " Common data storage formats include CSV (simple, human-readable), JSON (flexible, hierarchical), Parquet (columnar, efficient for analytics), Avro (compact, schema-based), and ORC (optimized for big data processing). The choice depends on use case, performance needs, and compatibility with processing frameworks.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": " What is data lineage and why is it important?",
+      "canonical_answer": " Data lineage tracks the origin, movement, and transformation of data throughout its lifecycle. It is important for ensuring data quality, compliance, and auditing, as it provides transparency into how data is processed and helps identify issues or errors in the pipeline.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle schema evolution in streaming data?",
+      "canonical_answer": " Use versioned schemas with tools like Avro or Parquet, maintain backward/forward compatibility, and validate against a schema registry (e.g., Confluent). Automate column additions/deprecations carefully in transformation scripts.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": " What is data sharding and how does it differ from partitioning?" ,
+      "canonical_answer": " Data sharding distributes data across multiple databases or servers to improve scalability and performance, while partitioning divides data within a single database into smaller segments. Sharding is used for horizontal scaling, whereas partitioning optimizes query performance within a single system.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you optimize SQL queries on large datasets?",
+      "canonical_answer": " Use indexes and partitions. Avoid SELECT * Push down filters early. Use EXPLAIN to inspect plans. Use materialized views for repeated heavy queries",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What’s the difference between batch and stream processing?",
+      "canonical_answer": "Batch: processes large chunks periodically (e.g., daily reports with Spark). Streaming: processes data in real time or micro-batches (e.g., Kafka + Flink). Choice depends on latency and freshness requirements.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": " How do you handle late-arriving data in stream processing?",
+      "canonical_answer": " Use watermarking to set thresholds for late data. Implement windowing strategies (e.g., tumbling, sliding) to aggregate data within time frames. Use stateful processing to manage out-of-order events and update results as late data arrives.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": " What is data deduplication and how do you implement it in a data pipeline?",
+      "canonical_answer": " Data deduplication identifies and removes duplicate records to ensure data integrity. Implement it using unique constraints in databases, hashing techniques to identify duplicates, or using tools like Apache Spark to filter duplicates during data processing.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": " What are some common challenges in data engineering and how do you address them?",
+      "canonical_answer": " Common challenges include data quality issues, scalability, and system integration. Address them by implementing robust validation checks, designing scalable architectures (e.g., using cloud services), and using standardized APIs or middleware for seamless integration between systems.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": " What’s the importance of data lineage, and how do you track it?",
+      "canonical_answer": " Data lineage ensures transparency and traceability of data transformations. Track it using metadata management tools (e.g., Apache Atlas), logging transformations, and maintaining versioned schemas.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the purpose of a data warehouse?",
+      "canonical_answer": "To store cleaned, structured, historical data optimized for analytics and reporting.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": " What is the difference between a data lake and a data warehouse?",
+      "canonical_answer": " A data lake stores raw, unstructured data for flexible analysis, while a data warehouse stores structured, processed data optimized for reporting and analytics.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": " What is Apache Kafka and how is it used in data engineering?",
+      "canonical_answer": " Apache Kafka is a distributed event streaming platform used for building real-time data pipelines and streaming applications. It enables high-throughput, fault-tolerant messaging between producers and consumers, making it ideal for handling large volumes of data in motion.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": " What is data virtualization?",
+      "canonical_answer": " Data virtualization allows access to data without needing to know its physical location or format, providing a unified view across disparate sources.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is denormalization and when is it used?",
+      "canonical_answer": " Denormalization combines related tables into one to reduce joins and improve read performance, often used in data warehousing.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is data normalization?",
+      "canonical_answer": " Data normalization organizes data to reduce redundancy and improve integrity by dividing it into related tables.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": " What is a data catalog?",
+      "canonical_answer": " A data catalog is a centralized repository that provides metadata about data assets, enabling users to discover, understand, and manage data effectively.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": " How do you handle missing or corrupted data in a dataset?",
+      "canonical_answer": " Handle missing data by using imputation techniques (mean, median, mode), removing affected records, or using algorithms that can handle missing values. For corrupted data, implement validation checks to identify and correct errors or remove invalid entries.",
+      "rubric_points": []
+    }
+  ]
+}

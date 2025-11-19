@@ -1,0 +1,200 @@
+{
+  "session_id": "sample_resume_20251117_091208",
+  "Name": "Anugya Anantapur",
+  "role": "AI Engineer",
+  "start_time": null,
+  "end_time": "2025-11-17T09:16:37.978019",
+  "overall_score": 11.9,
+  "score_before_malpractice": 17.7,
+  "cci": {
+    "raw": 17.66,
+    "percentile_vs_role": 100.0
+  },
+  "components": {
+    "role_relevance": 0.91,
+    "canonical_component": 0.91,
+    "resume_component": null,
+    "completeness": 1.08,
+    "conciseness": 4.5,
+    "fluency": 8.1
+  },
+  "malpractice_detected": {
+    "count": 13,
+    "types": [
+      "no_record_start_within_timeout",
+      "gaze_warning",
+      "tab_switch"
+    ],
+    "deduction": 5.8
+  },
+  "per_question": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": "",
+      "type": "intro",
+      "canonical_matched_index": null,
+      "canonical_answer": "",
+      "canonical_similarity": 0.0,
+      "canonical_score": 0.0,
+      "q_a_similarity": 0.176,
+      "answer_length": 0,
+      "resume_eval": null
+    },
+    {
+      "question": "What is overfitting, and how can it be prevented?",
+      "answer": "Blah, blah, blah.",
+      "type": "role",
+      "canonical_matched_index": 8,
+      "canonical_answer": "Overfitting happens when a model learns noise instead of the actual pattern, performing well on training data but poorly on new data. Prevention: Regularization, dropout, more data, or cross-validation.",
+      "canonical_similarity": 0.023,
+      "canonical_score": 2.29,
+      "q_a_similarity": 0.094,
+      "answer_length": 3,
+      "resume_eval": null
+    },
+    {
+      "question": "What is gradient descent, and why is it important?",
+      "answer": "Ha, I don't know.",
+      "type": "role",
+      "canonical_matched_index": 12,
+      "canonical_answer": "Gradient descent is an optimization algorithm that minimizes a loss function by iteratively updating parameters in the opposite direction of the gradient \u2014 essential for training ML and DL models.",
+      "canonical_similarity": -0.07,
+      "canonical_score": 0.0,
+      "q_a_similarity": 0.012,
+      "answer_length": 4,
+      "resume_eval": null
+    },
+    {
+      "question": "What is the bias\u2013variance trade-off? How would you recognize and address high bias or high variance in a model?",
+      "answer": "Blah, blah, blah.",
+      "type": "role",
+      "canonical_matched_index": 1,
+      "canonical_answer": "The bias-variance trade-off is a fundamental concept in machine learning that describes the balance between two sources of error that affect model performance: Bias and Variance. To recognize high bias, look for poor performance on both training and validation data; to address it, consider using a more complex model or adding features. To recognize high variance, look for good performance on training data but poor performance on validation data; to address it, consider simplifying the model, using regularization techniques, or gathering more training data.",
+      "canonical_similarity": -0.076,
+      "canonical_score": 0.0,
+      "q_a_similarity": -0.043,
+      "answer_length": 3,
+      "resume_eval": null
+    },
+    {
+      "question": "What are some commonly used libraries or frameworks in AI development?",
+      "answer": "",
+      "type": "role",
+      "canonical_matched_index": 14,
+      "canonical_answer": "TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, Hugging Face Transformers are few python-based frameworks",
+      "canonical_similarity": 0.098,
+      "canonical_score": 9.79,
+      "q_a_similarity": -0.023,
+      "answer_length": 0,
+      "resume_eval": null
+    }
+  ],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-17T03:42:50.221Z",
+      "details": {
+        "raw": "Window focus lost (switched to another application)",
+        "question": "What is overfitting, and how can it be prevented?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-17T03:42:50.268Z",
+      "details": {
+        "raw": "Tab switched or minimized",
+        "question": "What is overfitting, and how can it be prevented?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-17T03:43:12.095Z",
+      "details": {
+        "raw": "Window focus lost (switched to another application)",
+        "question": "What is overfitting, and how can it be prevented?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-17T03:43:12.364Z",
+      "details": {
+        "raw": "Tab switched or minimized",
+        "question": "What is overfitting, and how can it be prevented?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-17T03:43:15.022Z",
+      "details": {
+        "raw": "Window focus lost (switched to another application)",
+        "question": "What is overfitting, and how can it be prevented?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-17T03:43:15.308Z",
+      "details": {
+        "raw": "Tab switched or minimized",
+        "question": "What is overfitting, and how can it be prevented?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-17T03:43:22.503Z",
+      "details": {
+        "raw": "Window focus lost (switched to another application)",
+        "question": "What is overfitting, and how can it be prevented?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-17T03:43:22.510Z",
+      "details": {
+        "raw": "Tab switched or minimized",
+        "question": "What is overfitting, and how can it be prevented?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-17T03:43:28.324Z",
+      "details": {
+        "raw": "Window focus lost (switched to another application)",
+        "question": "What is overfitting, and how can it be prevented?"
+      }
+    },
+    {
+      "type": "tab_switch",
+      "timestamp": "2025-11-17T03:43:28.370Z",
+      "details": {
+        "raw": "Tab switched or minimized",
+        "question": "What is overfitting, and how can it be prevented?"
+      }
+    },
+    {
+      "type": "no_record_start_within_timeout",
+      "timestamp": "2025-11-17T03:43:42.383Z",
+      "details": {
+        "timeout_ms": 20000,
+        "question": "What is gradient descent, and why is it important?"
+      }
+    },
+    {
+      "type": "gaze_warning",
+      "timestamp": "2025-11-17T03:45:48.907Z",
+      "details": {
+        "raw": "Looking away from the screen.",
+        "question": "What is overfitting, and how can it be prevented?"
+      }
+    },
+    {
+      "type": "no_record_start_within_timeout",
+      "timestamp": "2025-11-17T03:46:19.558Z",
+      "details": {
+        "timeout_ms": 20000,
+        "question": "What is the bias\u2013variance trade-off? How would you recognize and address high bias or high variance in a model?"
+      }
+    }
+  ],
+  "malpractice_count": 13
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-18T07:40:35.394Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": " How do convolutional neural networks (CNNs) differ from traditional neural networks?"
+    }
+  }
+]

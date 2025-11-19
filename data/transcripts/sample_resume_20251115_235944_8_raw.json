@@ -1,0 +1,59 @@
+{
+  "text": " Tree is something about that.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.94,
+      "text": " Tree is something about that.",
+      "tokens": [
+        50364,
+        22291,
+        307,
+        746,
+        466,
+        300,
+        13,
+        50572
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5815622011820475,
+      "compression_ratio": 0.7837837837837838,
+      "no_speech_prob": 0.13201090693473816,
+      "words": [
+        {
+          "word": " Tree",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.2407747060060501
+        },
+        {
+          "word": " is",
+          "start": 0.22,
+          "end": 0.66,
+          "probability": 0.962148904800415
+        },
+        {
+          "word": " something",
+          "start": 0.66,
+          "end": 2.78,
+          "probability": 0.38781359791755676
+        },
+        {
+          "word": " about",
+          "start": 2.78,
+          "end": 3.22,
+          "probability": 0.9922080636024475
+        },
+        {
+          "word": " that.",
+          "start": 3.22,
+          "end": 3.94,
+          "probability": 0.9469606280326843
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

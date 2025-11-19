@@ -1,0 +1,53 @@
+{
+  "text": " because I don't know.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.66,
+      "text": " because I don't know.",
+      "tokens": [
+        50364,
+        570,
+        286,
+        500,
+        380,
+        458,
+        13,
+        50452
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5289898448520236,
+      "compression_ratio": 0.7241379310344828,
+      "no_speech_prob": 0.06056613102555275,
+      "words": [
+        {
+          "word": " because",
+          "start": 0.0,
+          "end": 0.38,
+          "probability": 0.48095816373825073
+        },
+        {
+          "word": " I",
+          "start": 0.38,
+          "end": 1.28,
+          "probability": 0.492197185754776
+        },
+        {
+          "word": " don't",
+          "start": 1.28,
+          "end": 1.54,
+          "probability": 0.9707113802433014
+        },
+        {
+          "word": " know.",
+          "start": 1.54,
+          "end": 1.66,
+          "probability": 0.9968888163566589
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

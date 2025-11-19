@@ -1,0 +1,26 @@
+[
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T11:37:15.484Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "What is supervised and unsupervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T11:37:20.082Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is supervised and unsupervised learning?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-16T11:37:20.213Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "What is supervised and unsupervised learning?"
+    }
+  }
+]

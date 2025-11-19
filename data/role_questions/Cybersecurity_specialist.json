@@ -1,0 +1,49 @@
+{
+  "role": "Cybersecurity Specialist",
+  "record_count": 9,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Explain the difference between a vulnerability, threat, and risk. How do you prioritize them in an enterprise environment?",
+      "canonical_answer": "A vulnerability is a weakness, a threat is a potential attack, and risk is the impact if a threat exploits a vulnerability. Prioritize by severity, exploitability, and business impact.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe your approach to designing a secure network architecture from scratch. What controls would you implement?",
+      "canonical_answer": "Use segmentation, firewalls, IDS/IPS, zero trust principles, encryption, secure access controls, and continuous monitoring to build layered defenses.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle incident response for advanced persistent threats (APTs)?",
+      "canonical_answer": "Detect via behavioral analytics, isolate affected systems, analyze attacker behavior, remove persistence, patch vulnerabilities, and monitor for reinfection.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How would you conduct a comprehensive security audit for a cloud-based infrastructure?",
+      "canonical_answer": "Review configurations, IAM policies, network controls, encryption, logs, compliance requirements, and perform vulnerability scans and access reviews.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What is the principle of Least Privilege, and how would you enforce it across an organization?",
+      "canonical_answer": "Least Privilege gives users only the access they need. Enforce it with role-based access control, periodic reviews, MFA, and strict permission policies.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain how you would detect insider threats and prevent data exfiltration.",
+      "canonical_answer": "Use behavior monitoring, DLP tools, least privilege, logging, and alerts to detect anomalies and block unauthorized data transfers.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe strategies for defending against ransomware attacks in a corporate environment.",
+      "canonical_answer": "Maintain strong backups, patch systems, restrict privileges, use endpoint protection, email filtering, and employee training to prevent ransomware spread.",
+      "rubric_points": []
+    }
+  ]
+}

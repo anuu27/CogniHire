@@ -1,0 +1,49 @@
+{
+  "role": "DevOps Engineer",
+  "record_count": 266,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Explain the concept of DevOps. How does it differ from traditional development and operations processes?",
+      "canonical_answer": "DevOps integrates development and operations through automation, collaboration, and continuous delivery, unlike traditional siloed processes that separate teams and slow releases.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Walk me through designing a CI/CD pipeline for a web application. What tools and processes would you include?",
+      "canonical_answer": "I use version control, automated builds, tests, security scans, artifact storage, and automated deployment using tools like GitHub Actions, Jenkins, or GitLab CI.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you manage infrastructure as code (IaC)? Which tools have you used and why?",
+      "canonical_answer": "I manage IaC using tools like Terraform, CloudFormation, or Ansible to automate provisioning, ensure consistency, and support repeatable deployments.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe strategies for containerization and orchestration. How do Docker and Kubernetes fit in your workflow?",
+      "canonical_answer": "Docker packages applications into portable containers, while Kubernetes orchestrates scaling, networking, and management, enabling reliable deployments.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you monitor system performance and ensure high availability in production environments?",
+      "canonical_answer": "I use metrics, logs, and tracing with tools like Prometheus, Grafana, ELK, and cloud monitors, combined with load balancing and auto-scaling.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Explain how you would implement automated testing in the deployment pipeline.",
+      "canonical_answer": "I add unit, integration, security, and end-to-end tests triggered automatically in CI before deployment to ensure code quality and stability.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle security and compliance in DevOps pipelines?",
+      "canonical_answer": "I use secret management, access control, vulnerability scans, compliance checks, and automated security testing integrated into CI/CD.",
+      "rubric_points": []
+    }
+  ]
+}

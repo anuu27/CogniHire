@@ -1,0 +1,127 @@
+{
+  "session_id": "sample_resume_20251114_144401_8",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251114_144401_answer_processed.wav",
+  "raw_text": "Very good interview. I like you.",
+  "processed_text": "Very good interview.",
+  "words": [
+    {
+      "text": "Very",
+      "start": 0.0,
+      "end": 0.5,
+      "confidence": 0.0166
+    },
+    {
+      "text": "good",
+      "start": 0.5,
+      "end": 0.82,
+      "confidence": 0.994
+    },
+    {
+      "text": "interview.",
+      "start": 0.82,
+      "end": 1.28,
+      "confidence": 0.5083
+    },
+    {
+      "text": "I",
+      "start": 1.78,
+      "end": 1.86,
+      "confidence": 0.555
+    },
+    {
+      "text": "like",
+      "start": 1.86,
+      "end": 2.04,
+      "confidence": 0.9605
+    },
+    {
+      "text": "you.",
+      "start": 2.04,
+      "end": 2.38,
+      "confidence": 0.9949
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 2.04,
+      "duration": 2.04,
+      "transcript": "Very good interview.",
+      "word_count": 5,
+      "words": [
+        {
+          "text": "Very",
+          "start": 0.0,
+          "end": 0.5,
+          "confidence": 0.0166
+        },
+        {
+          "text": "good",
+          "start": 0.5,
+          "end": 0.82,
+          "confidence": 0.994
+        },
+        {
+          "text": "interview.",
+          "start": 0.82,
+          "end": 1.28,
+          "confidence": 0.5083
+        },
+        {
+          "text": "I",
+          "start": 1.78,
+          "end": 1.86,
+          "confidence": 0.555
+        },
+        {
+          "text": "like",
+          "start": 1.86,
+          "end": 2.04,
+          "confidence": 0.9605
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 2.37,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "ml",
+  "duration": 2.4,
+  "model_used": "tiny",
+  "timestamp": "2025-11-14T14:46:28.495255",
+  "segment_count": 1,
+  "word_count": 6,
+  "utterance_count": 1
+}

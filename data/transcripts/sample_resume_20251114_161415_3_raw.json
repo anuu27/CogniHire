@@ -1,0 +1,105 @@
+{
+  "text": " pi s variance layered off a cogniz hab trhvai s hybrid.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.62,
+      "text": " pi s variance layered off a cogniz hab trhvai s hybrid.",
+      "tokens": [
+        50364,
+        3895,
+        262,
+        21977,
+        34666,
+        766,
+        257,
+        11786,
+        590,
+        3025,
+        256,
+        48759,
+        85,
+        1301,
+        262,
+        13051,
+        13,
+        50653
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.4342510825709294,
+      "compression_ratio": 0.9166666666666666,
+      "no_speech_prob": 0.011942491866648197,
+      "words": [
+        {
+          "word": " pi",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.018121393397450447
+        },
+        {
+          "word": " s",
+          "start": 0.3,
+          "end": 0.48,
+          "probability": 0.23240254819393158
+        },
+        {
+          "word": " variance",
+          "start": 0.48,
+          "end": 0.92,
+          "probability": 0.5189927220344543
+        },
+        {
+          "word": " layered",
+          "start": 0.92,
+          "end": 1.26,
+          "probability": 0.002450471743941307
+        },
+        {
+          "word": " off",
+          "start": 1.26,
+          "end": 1.6,
+          "probability": 0.7721607685089111
+        },
+        {
+          "word": " a",
+          "start": 1.6,
+          "end": 1.72,
+          "probability": 0.0017128881299868226
+        },
+        {
+          "word": " cogniz",
+          "start": 1.72,
+          "end": 2.2,
+          "probability": 0.5300838500261307
+        },
+        {
+          "word": " hab",
+          "start": 2.2,
+          "end": 2.38,
+          "probability": 0.0012645114911720157
+        },
+        {
+          "word": " trhvai",
+          "start": 2.38,
+          "end": 2.92,
+          "probability": 0.003527717571159883
+        },
+        {
+          "word": " s",
+          "start": 2.92,
+          "end": 3.3,
+          "probability": 0.2735495865345001
+        },
+        {
+          "word": " hybrid.",
+          "start": 3.3,
+          "end": 3.62,
+          "probability": 0.32682448625564575
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,97 @@
+{
+  "text": " I love you, it's just for testing, bye bye bye.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.1,
+      "text": " I love you, it's just for testing, bye bye bye.",
+      "tokens": [
+        50364,
+        286,
+        959,
+        291,
+        11,
+        309,
+        311,
+        445,
+        337,
+        4997,
+        11,
+        6543,
+        6543,
+        6543,
+        13,
+        50476
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.365779343773337,
+      "compression_ratio": 0.9791666666666666,
+      "no_speech_prob": 0.013126487843692303,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.14,
+          "probability": 0.8897251486778259
+        },
+        {
+          "word": " love",
+          "start": 0.14,
+          "end": 0.34,
+          "probability": 0.9424480199813843
+        },
+        {
+          "word": " you,",
+          "start": 0.34,
+          "end": 0.56,
+          "probability": 0.9947170615196228
+        },
+        {
+          "word": " it's",
+          "start": 0.66,
+          "end": 0.78,
+          "probability": 0.9416205286979675
+        },
+        {
+          "word": " just",
+          "start": 0.78,
+          "end": 0.94,
+          "probability": 0.9763679504394531
+        },
+        {
+          "word": " for",
+          "start": 0.94,
+          "end": 1.14,
+          "probability": 0.6721084713935852
+        },
+        {
+          "word": " testing,",
+          "start": 1.14,
+          "end": 1.48,
+          "probability": 0.9952411651611328
+        },
+        {
+          "word": " bye",
+          "start": 1.62,
+          "end": 1.74,
+          "probability": 0.9738480448722839
+        },
+        {
+          "word": " bye",
+          "start": 1.74,
+          "end": 1.94,
+          "probability": 0.4640145003795624
+        },
+        {
+          "word": " bye.",
+          "start": 1.94,
+          "end": 2.1,
+          "probability": 0.835820734500885
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

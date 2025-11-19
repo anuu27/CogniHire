@@ -1,0 +1,15 @@
+{
+  "session_id": "sample_resume_20251118_131204_6",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251118_131204_answer_processed.wav",
+  "raw_text": "I handle missing or corporate data using imputation or methods that remove the missing data  and also add something accounts to that.",
+  "processed_text": "I handle missing or corporate data using imputation or methods that remove the missing data and also add something accounts to that.",
+  "words": [],
+  "utterances": [],
+  "language": "en",
+  "duration": 10.3,
+  "model_used": "base",
+  "timestamp": "2025-11-18T13:14:25.847923",
+  "segment_count": 0,
+  "word_count": 0,
+  "utterance_count": 0
+}

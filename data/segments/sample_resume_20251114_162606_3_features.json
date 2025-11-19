@@ -1,0 +1,659 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.26,
+    "end": 0.48,
+    "duration": 0.22,
+    "transcript": "Base",
+    "word_count": 1,
+    "words": [
+      {
+        "text": "base",
+        "start": 0.26,
+        "end": 0.48,
+        "confidence": 0.6767
+      }
+    ],
+    "vad_segment_start": 0.03,
+    "vad_segment_end": 0.99,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.677,
+    "speech_rate_wps": 4.545,
+    "speech_rate_wpm": 272.727,
+    "articulation_rate": 4.545,
+    "pause_count": 0,
+    "pause_rate": 0,
+    "mean_pause_duration": 0,
+    "std_pause_duration": 0,
+    "total_pause_time": 0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 242.324,
+    "pitch_std": 7.832,
+    "pitch_range": 23.842,
+    "pitch_variance": 61.344,
+    "voiced_frames_ratio": 1.0,
+    "rms_energy_mean": 0.126,
+    "rms_energy_std": 0.039,
+    "rms_energy_max": 0.172,
+    "rms_energy_min": 0.064,
+    "energy_dynamic_range": 0.107,
+    "zero_crossing_rate": 0.11,
+    "harmonic_noise_ratio": 13.062,
+    "spectral_centroid_mean": 1987.079,
+    "spectral_centroid_std": 659.652,
+    "mfcc_1_mean": -160.291,
+    "mfcc_2_mean": 65.47,
+    "mfcc_1_std": 33.29,
+    "spectral_rolloff": 4197.545,
+    "spectral_bandwidth": 1957.714,
+    "snr_approximation": 3.194,
+    "clipping_ratio": 0.0
+  },
+  {
+    "utterance_id": "u002",
+    "start": 1.86,
+    "end": 11.84,
+    "duration": 9.98,
+    "transcript": "Base variant straight off describes the problem of simultaneously minimizing two sources of error that prevents supervised learning algorithms from generalizing beyond their training",
+    "word_count": 24,
+    "words": [
+      {
+        "text": "base",
+        "start": 1.86,
+        "end": 2.16,
+        "confidence": 0.9962
+      },
+      {
+        "text": "variant",
+        "start": 2.16,
+        "end": 2.5,
+        "confidence": 0.3813
+      },
+      {
+        "text": "straight",
+        "start": 2.5,
+        "end": 2.86,
+        "confidence": 0.7462
+      },
+      {
+        "text": "off",
+        "start": 2.86,
+        "end": 3.12,
+        "confidence": 0.5137
+      },
+      {
+        "text": "describes",
+        "start": 3.12,
+        "end": 3.48,
+        "confidence": 0.9082
+      },
+      {
+        "text": "the",
+        "start": 3.48,
+        "end": 3.82,
+        "confidence": 0.9956
+      },
+      {
+        "text": "problem",
+        "start": 3.82,
+        "end": 4.12,
+        "confidence": 0.9941
+      },
+      {
+        "text": "of",
+        "start": 4.12,
+        "end": 4.46,
+        "confidence": 0.9842
+      },
+      {
+        "text": "simultaneously",
+        "start": 4.46,
+        "end": 5.08,
+        "confidence": 0.8948
+      },
+      {
+        "text": "minimizing",
+        "start": 5.08,
+        "end": 5.9,
+        "confidence": 0.8538
+      },
+      {
+        "text": "two",
+        "start": 5.9,
+        "end": 6.54,
+        "confidence": 0.7633
+      },
+      {
+        "text": "sources",
+        "start": 6.54,
+        "end": 6.84,
+        "confidence": 0.9837
+      },
+      {
+        "text": "of",
+        "start": 6.84,
+        "end": 7.14,
+        "confidence": 0.9972
+      },
+      {
+        "text": "error",
+        "start": 7.14,
+        "end": 7.5,
+        "confidence": 0.9957
+      },
+      {
+        "text": "that",
+        "start": 7.5,
+        "end": 7.94,
+        "confidence": 0.8513
+      },
+      {
+        "text": "prevents",
+        "start": 7.94,
+        "end": 8.3,
+        "confidence": 0.8873
+      },
+      {
+        "text": "supervised",
+        "start": 8.3,
+        "end": 8.72,
+        "confidence": 0.0878
+      },
+      {
+        "text": "learning",
+        "start": 8.72,
+        "end": 9.14,
+        "confidence": 0.9921
+      },
+      {
+        "text": "algorithms",
+        "start": 9.14,
+        "end": 9.6,
+        "confidence": 0.9723
+      },
+      {
+        "text": "from",
+        "start": 9.6,
+        "end": 10.1,
+        "confidence": 0.9956
+      },
+      {
+        "text": "generalizing",
+        "start": 10.1,
+        "end": 10.82,
+        "confidence": 0.9845
+      },
+      {
+        "text": "beyond",
+        "start": 10.82,
+        "end": 11.28,
+        "confidence": 0.9512
+      },
+      {
+        "text": "their",
+        "start": 11.28,
+        "end": 11.58,
+        "confidence": 0.5551
+      },
+      {
+        "text": "training",
+        "start": 11.58,
+        "end": 11.84,
+        "confidence": 0.9264
+      }
+    ],
+    "vad_segment_start": 1.56,
+    "vad_segment_end": 12.33,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.842,
+    "speech_rate_wps": 2.405,
+    "speech_rate_wpm": 144.289,
+    "articulation_rate": 2.405,
+    "pause_count": 0,
+    "pause_rate": 0.0,
+    "mean_pause_duration": 0.0,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.0,
+    "speaking_time_ratio": 1.0,
+    "pitch_mean": 205.535,
+    "pitch_std": 25.105,
+    "pitch_range": 129.009,
+    "pitch_variance": 630.243,
+    "voiced_frames_ratio": 0.913,
+    "rms_energy_mean": 0.07,
+    "rms_energy_std": 0.038,
+    "rms_energy_max": 0.249,
+    "rms_energy_min": 0.001,
+    "energy_dynamic_range": 0.248,
+    "zero_crossing_rate": 0.113,
+    "harmonic_noise_ratio": 2.582,
+    "spectral_centroid_mean": 1552.36,
+    "spectral_centroid_std": 975.908,
+    "mfcc_1_mean": -271.599,
+    "mfcc_2_mean": 97.892,
+    "mfcc_1_std": 74.506,
+    "spectral_rolloff": 2975.786,
+    "spectral_bandwidth": 1512.447,
+    "snr_approximation": 1.841,
+    "clipping_ratio": 0.0
+  },
+  {
+    "utterance_id": "u003",
+    "start": 13.28,
+    "end": 27.66,
+    "duration": 14.38,
+    "transcript": "By us error from overlays, simplistic assumptions in the model, variants error from the excesses, instability to small fluctuations in the training set. The rate of is that you can't minimize both at the same time.",
+    "word_count": 47,
+    "words": [
+      {
+        "text": "By",
+        "start": 13.28,
+        "end": 13.32,
+        "confidence": 0.8627
+      },
+      {
+        "text": "us",
+        "start": 13.32,
+        "end": 13.64,
+        "confidence": 0.7346
+      },
+      {
+        "text": "error",
+        "start": 13.64,
+        "end": 13.9,
+        "confidence": 0.5155
+      },
+      {
+        "text": "from",
+        "start": 13.9,
+        "end": 14.18,
+        "confidence": 0.9662
+      },
+      {
+        "text": "overlays,",
+        "start": 14.18,
+        "end": 14.5,
+        "confidence": 0.5517
+      },
+      {
+        "text": "simplistic",
+        "start": 14.68,
+        "end": 14.9,
+        "confidence": 0.1594
+      },
+      {
+        "text": "assumptions",
+        "start": 14.9,
+        "end": 15.3,
+        "confidence": 0.9322
+      },
+      {
+        "text": "in",
+        "start": 15.3,
+        "end": 15.6,
+        "confidence": 0.9905
+      },
+      {
+        "text": "the",
+        "start": 15.6,
+        "end": 15.7,
+        "confidence": 0.9957
+      },
+      {
+        "text": "model,",
+        "start": 15.7,
+        "end": 16.08,
+        "confidence": 0.9942
+      },
+      {
+        "text": "variants",
+        "start": 16.44,
+        "end": 16.78,
+        "confidence": 0.847
+      },
+      {
+        "text": "error",
+        "start": 16.78,
+        "end": 17.16,
+        "confidence": 0.7898
+      },
+      {
+        "text": "from",
+        "start": 17.16,
+        "end": 17.42,
+        "confidence": 0.9898
+      },
+      {
+        "text": "the",
+        "start": 17.42,
+        "end": 17.62,
+        "confidence": 0.9952
+      },
+      {
+        "text": "excesses,",
+        "start": 17.62,
+        "end": 18.12,
+        "confidence": 0.5978
+      },
+      {
+        "text": "instability",
+        "start": 18.22,
+        "end": 18.42,
+        "confidence": 0.3199
+      },
+      {
+        "text": "to",
+        "start": 18.42,
+        "end": 18.84,
+        "confidence": 0.9726
+      },
+      {
+        "text": "small",
+        "start": 18.84,
+        "end": 19.14,
+        "confidence": 0.9223
+      },
+      {
+        "text": "fluctuations",
+        "start": 19.14,
+        "end": 19.54,
+        "confidence": 0.9741
+      },
+      {
+        "text": "in",
+        "start": 19.54,
+        "end": 19.98,
+        "confidence": 0.9986
+      },
+      {
+        "text": "the",
+        "start": 19.98,
+        "end": 20.02,
+        "confidence": 0.9831
+      },
+      {
+        "text": "training",
+        "start": 20.02,
+        "end": 20.26,
+        "confidence": 0.9842
+      },
+      {
+        "text": "set.",
+        "start": 20.26,
+        "end": 20.68,
+        "confidence": 0.9103
+      },
+      {
+        "text": "The",
+        "start": 21.22,
+        "end": 21.24,
+        "confidence": 0.9554
+      },
+      {
+        "text": "rate",
+        "start": 21.24,
+        "end": 21.44,
+        "confidence": 0.2863
+      },
+      {
+        "text": "of",
+        "start": 21.44,
+        "end": 21.66,
+        "confidence": 0.9522
+      },
+      {
+        "text": "is",
+        "start": 21.66,
+        "end": 21.84,
+        "confidence": 0.6249
+      },
+      {
+        "text": "that",
+        "start": 21.84,
+        "end": 22.0,
+        "confidence": 0.9921
+      },
+      {
+        "text": "you",
+        "start": 22.0,
+        "end": 22.12,
+        "confidence": 0.8994
+      },
+      {
+        "text": "can't",
+        "start": 22.12,
+        "end": 22.64,
+        "confidence": 0.8875
+      },
+      {
+        "text": "minimize",
+        "start": 22.64,
+        "end": 22.7,
+        "confidence": 0.8434
+      },
+      {
+        "text": "both",
+        "start": 22.7,
+        "end": 23.08,
+        "confidence": 0.9989
+      },
+      {
+        "text": "at",
+        "start": 23.08,
+        "end": 23.32,
+        "confidence": 0.9689
+      },
+      {
+        "text": "the",
+        "start": 23.32,
+        "end": 23.4,
+        "confidence": 0.9598
+      },
+      {
+        "text": "same",
+        "start": 23.4,
+        "end": 23.6,
+        "confidence": 0.9998
+      },
+      {
+        "text": "time.",
+        "start": 23.6,
+        "end": 24.02,
+        "confidence": 0.998
+      },
+      {
+        "text": "As",
+        "start": 24.22,
+        "end": 24.4,
+        "confidence": 0.9834
+      },
+      {
+        "text": "you",
+        "start": 24.4,
+        "end": 24.5,
+        "confidence": 0.9179
+      },
+      {
+        "text": "try",
+        "start": 24.5,
+        "end": 24.7,
+        "confidence": 0.8214
+      },
+      {
+        "text": "to",
+        "start": 24.7,
+        "end": 24.88,
+        "confidence": 0.9986
+      },
+      {
+        "text": "reduce",
+        "start": 24.88,
+        "end": 25.16,
+        "confidence": 0.9523
+      },
+      {
+        "text": "one,",
+        "start": 25.16,
+        "end": 25.46,
+        "confidence": 0.7076
+      },
+      {
+        "text": "the",
+        "start": 25.5,
+        "end": 25.66,
+        "confidence": 0.9322
+      },
+      {
+        "text": "other",
+        "start": 25.66,
+        "end": 25.68,
+        "confidence": 0.9543
+      },
+      {
+        "text": "is",
+        "start": 25.68,
+        "end": 25.96,
+        "confidence": 0.9839
+      },
+      {
+        "text": "inevitably",
+        "start": 25.96,
+        "end": 27.18,
+        "confidence": 0.7121
+      },
+      {
+        "text": "increased.",
+        "start": 27.18,
+        "end": 27.66,
+        "confidence": 0.5357
+      }
+    ],
+    "vad_segment_start": 13.08,
+    "vad_segment_end": 27.66,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.848,
+    "speech_rate_wps": 3.268,
+    "speech_rate_wpm": 196.106,
+    "articulation_rate": 3.268,
+    "pause_count": 4,
+    "pause_rate": 0.087,
+    "mean_pause_duration": 0.32,
+    "std_pause_duration": 0.145,
+    "total_pause_time": 1.28,
+    "speaking_time_ratio": 0.911,
+    "pitch_mean": 208.203,
+    "pitch_std": 31.333,
+    "pitch_range": 211.356,
+    "pitch_variance": 981.774,
+    "voiced_frames_ratio": 0.836,
+    "rms_energy_mean": 0.06,
+    "rms_energy_std": 0.034,
+    "rms_energy_max": 0.153,
+    "rms_energy_min": 0.001,
+    "energy_dynamic_range": 0.153,
+    "zero_crossing_rate": 0.124,
+    "harmonic_noise_ratio": 1.198,
+    "spectral_centroid_mean": 1715.36,
+    "spectral_centroid_std": 1094.476,
+    "mfcc_1_mean": -288.629,
+    "mfcc_2_mean": 96.615,
+    "mfcc_1_std": 85.593,
+    "spectral_rolloff": 3248.368,
+    "spectral_bandwidth": 1550.863,
+    "snr_approximation": 1.756,
+    "clipping_ratio": 0.0
+  }
+]

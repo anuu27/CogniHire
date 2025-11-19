@@ -1,0 +1,515 @@
+{
+  "session_id": "unknown",
+  "Name": "Unknown",
+  "role": "ai engineer",
+  "start_time": null,
+  "end_time": "2025-11-16T17:14:33.798626",
+  "overall_score": 10.8,
+  "score_before_malpractice": 19.2,
+  "cci": {
+    "raw": 19.17,
+    "percentile_vs_role": 100.0
+  },
+  "components": {
+    "role_relevance": 0.09,
+    "canonical_component": 0.09,
+    "resume_component": null,
+    "completeness": 2.87,
+    "conciseness": 5.62,
+    "fluency": 7.5
+  },
+  "malpractice_detected": {
+    "count": 54,
+    "types": [
+      "no_record_start_within_timeout",
+      "no_face_detected"
+    ],
+    "deduction": 8.4
+  },
+  "per_question": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": "",
+      "type": "intro",
+      "canonical_matched_index": null,
+      "canonical_answer": "",
+      "canonical_similarity": 0.0,
+      "canonical_score": 0.0,
+      "q_a_similarity": 0.176,
+      "answer_length": 0,
+      "resume_eval": null
+    },
+    {
+      "question": "What is the difference between batch learning and online learning?",
+      "answer": "What do you think? Tell me your answer.",
+      "type": "role",
+      "canonical_matched_index": 15,
+      "canonical_answer": "Batch learning trains on the entire dataset at once, ideal for static data. Online learning updates the model incrementally as new data arrives \u2014 useful for streaming or evolving data (e.g., stock prices).",
+      "canonical_similarity": 0.001,
+      "canonical_score": 0.11,
+      "q_a_similarity": 0.06,
+      "answer_length": 8,
+      "resume_eval": null
+    },
+    {
+      "question": "Differentiate between L1 and L2 regularization.",
+      "answer": "(Error in transcription)",
+      "type": "role",
+      "canonical_matched_index": 25,
+      "canonical_answer": "L1 (Lasso): Adds absolute weight penalties. It promotes sparsity. L2 (Ridge): Adds squared weight penalties \u2192 discourages large weights smoothly.Both prevent overfitting but in different ways.",
+      "canonical_similarity": 0.008,
+      "canonical_score": 0.77,
+      "q_a_similarity": 0.175,
+      "answer_length": 3,
+      "resume_eval": null
+    },
+    {
+      "question": "What are hyperparameters in machine learning?",
+      "answer": "",
+      "type": "role",
+      "canonical_matched_index": 9,
+      "canonical_answer": "Hyperparameters are configuration values set before training (e.g., learning rate, number of layers, batch size) that control how the model learns.",
+      "canonical_similarity": -0.055,
+      "canonical_score": 0.0,
+      "q_a_similarity": 0.049,
+      "answer_length": 0,
+      "resume_eval": null
+    }
+  ],
+  "resume_info_evaluated": {},
+  "raw_malpractice_log": [
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:19.522Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:21.523Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:23.508Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:25.508Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:27.511Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:29.529Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:31.508Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:33.510Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:35.511Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:37.522Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:39.515Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:41.512Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:43.518Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:45.508Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:47.502Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:49.508Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:51.523Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:53.525Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:55.515Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:57.534Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:42:59.517Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:01.513Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:03.513Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_record_start_within_timeout",
+      "timestamp": "2025-11-16T11:43:04.023Z",
+      "details": {
+        "timeout_ms": 20000,
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:09.509Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:11.515Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:13.524Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:15.516Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:17.511Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:19.518Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:21.512Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:23.523Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:25.511Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:27.517Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:29.511Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:31.518Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:33.517Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:37.522Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:39.512Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:41.516Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:43.512Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:47.511Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:49.513Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:51.524Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:53.508Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:55.510Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:57.517Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:43:59.516Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:44:01.513Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:44:03.508Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:44:05.508Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:44:07.519Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:44:09.510Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    },
+    {
+      "type": "no_face_detected",
+      "timestamp": "2025-11-16T11:44:11.511Z",
+      "details": {
+        "raw": "No face detected.",
+        "question": "How do you choose the right model architecture for a given AI problem?"
+      }
+    }
+  ],
+  "malpractice_count": 54
+}

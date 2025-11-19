@@ -1,0 +1,169 @@
+{
+  "text": " So we use the classic Bellmanford problem to solve it and used animations to make it game like.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.92,
+      "text": " So we use the classic Bellmanford problem to solve it and used animations to make it",
+      "tokens": [
+        50364,
+        407,
+        321,
+        764,
+        264,
+        7230,
+        11485,
+        1601,
+        7404,
+        1154,
+        281,
+        5039,
+        309,
+        293,
+        1143,
+        22868,
+        281,
+        652,
+        309,
+        50757
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4360986122718224,
+      "compression_ratio": 1.1176470588235294,
+      "no_speech_prob": 0.010610801167786121,
+      "words": [
+        {
+          "word": " So",
+          "start": 0.0,
+          "end": 0.08,
+          "probability": 0.2277027815580368
+        },
+        {
+          "word": " we",
+          "start": 0.08,
+          "end": 0.58,
+          "probability": 0.6065501570701599
+        },
+        {
+          "word": " use",
+          "start": 0.58,
+          "end": 0.82,
+          "probability": 0.6431649923324585
+        },
+        {
+          "word": " the",
+          "start": 0.82,
+          "end": 1.14,
+          "probability": 0.8959339261054993
+        },
+        {
+          "word": " classic",
+          "start": 1.14,
+          "end": 1.86,
+          "probability": 0.9374241828918457
+        },
+        {
+          "word": " Bellmanford",
+          "start": 1.86,
+          "end": 2.46,
+          "probability": 0.7629763185977936
+        },
+        {
+          "word": " problem",
+          "start": 2.46,
+          "end": 2.9,
+          "probability": 0.776580274105072
+        },
+        {
+          "word": " to",
+          "start": 2.9,
+          "end": 3.56,
+          "probability": 0.9605728983879089
+        },
+        {
+          "word": " solve",
+          "start": 3.56,
+          "end": 3.84,
+          "probability": 0.9968718886375427
+        },
+        {
+          "word": " it",
+          "start": 3.84,
+          "end": 4.08,
+          "probability": 0.9888880848884583
+        },
+        {
+          "word": " and",
+          "start": 4.08,
+          "end": 5.1,
+          "probability": 0.7862687110900879
+        },
+        {
+          "word": " used",
+          "start": 5.1,
+          "end": 6.24,
+          "probability": 0.7159565687179565
+        },
+        {
+          "word": " animations",
+          "start": 6.24,
+          "end": 6.74,
+          "probability": 0.8746601939201355
+        },
+        {
+          "word": " to",
+          "start": 6.74,
+          "end": 7.6,
+          "probability": 0.9921910166740417
+        },
+        {
+          "word": " make",
+          "start": 7.6,
+          "end": 7.78,
+          "probability": 0.9939107894897461
+        },
+        {
+          "word": " it",
+          "start": 7.78,
+          "end": 7.92,
+          "probability": 0.9921754002571106
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.92,
+      "end": 8.32,
+      "text": " game like.",
+      "tokens": [
+        50757,
+        1216,
+        411,
+        13,
+        50784
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4360986122718224,
+      "compression_ratio": 1.1176470588235294,
+      "no_speech_prob": 0.010610801167786121,
+      "words": [
+        {
+          "word": " game",
+          "start": 7.92,
+          "end": 8.16,
+          "probability": 0.29724419116973877
+        },
+        {
+          "word": " like.",
+          "start": 8.16,
+          "end": 8.32,
+          "probability": 0.4821934700012207
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,15 @@
+{
+  "session_id": "sample_resume_20251118_123443_4",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251118_123443_answer_processed.wav",
+  "raw_text": "They are applied to each neuron to make it more non-linear add-lonia related to the Neural Networks.",
+  "processed_text": "They are applied to each neuron to make it more non-linear add-lonia related to the Neural Networks.",
+  "words": [],
+  "utterances": [],
+  "language": "en",
+  "duration": 5.38,
+  "model_used": "base",
+  "timestamp": "2025-11-18T12:36:15.327116",
+  "segment_count": 0,
+  "word_count": 0,
+  "utterance_count": 0
+}

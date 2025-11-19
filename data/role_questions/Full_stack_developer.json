@@ -1,0 +1,49 @@
+{
+  "role": "Full Stack Developer",
+  "record_count": 246,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "What technologies are you most comfortable working with across the stack?",
+      "canonical_answer": "I work with JavaScript/TypeScript, React or Vue, Node.js, Express, SQL/NoSQL databases, and cloud services like AWS or Firebase.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What’s the difference between REST and GraphQL APIs?",
+      "canonical_answer": "REST exposes fixed endpoints and returns full resources, while GraphQL lets clients query exactly what they need through a flexible schema.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you ensure application scalability and performance?",
+      "canonical_answer": "I use caching, load balancing, optimized queries, code splitting, CDN delivery, and horizontal scaling where needed.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What’s your process for debugging and troubleshooting full-stack issues?",
+      "canonical_answer": "I reproduce the issue, check logs, isolate frontend vs backend, inspect network calls, test APIs, and use debugging tools to trace errors.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle authentication and authorization in web apps?",
+      "canonical_answer": "I use JWT or OAuth for authentication, role-based access for authorization, secure session handling, and proper token storage.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What’s the difference between client-side and server-side rendering?",
+      "canonical_answer": "Client-side rendering loads a minimal HTML and renders content in the browser, while server-side rendering generates HTML on the server for faster initial load.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe a full-stack project you’ve worked on.",
+      "canonical_answer": "I built a web app with a React frontend, Node.js backend, REST APIs, and a cloud-hosted database, focusing on clean UI, secure APIs, and scalable deployment.",
+      "rubric_points": []
+    }
+  ]
+}

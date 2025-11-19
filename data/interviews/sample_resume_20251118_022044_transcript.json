@@ -1,0 +1,81 @@
+{
+  "session_id": "sample_resume_20251118_022044",
+  "role": "game developer",
+  "resume_file": "uploads\\sample_resume.pdf",
+  "candidate_info": {
+    "name": "Anugya Anantapur",
+    "skills": [
+      "Python",
+      "Bash",
+      "SQL",
+      "Problem Solving",
+      "Recursive Trees",
+      "Algorithms",
+      "Dynamic Programming",
+      "OpenAI API",
+      "C",
+      "NumPy",
+      "Git",
+      "Jupyter Notebook",
+      "ADT",
+      "Hypothesis library",
+      "TRIE"
+    ],
+    "projects": [
+      "Trie-Based Dictionary Reimplementation (C)",
+      "Interactive Bellman-Ford Path Visualizer (Python)",
+      "Performance Analysis of Splay Trees (Java)",
+      "HyperLogLog Neighbor Optimizer (Python)",
+      "Ultra-Large Integer Optimization (Python + C)"
+    ]
+  },
+  "start_time": "2025-11-18T02:20:44.868082",
+  "end_time": "2025-11-18T02:25:29.459317",
+  "interview_transcript": [
+    {
+      "question": "Hi, nice to meet you. Let's get started.",
+      "answer": null,
+      "type": "intro"
+    },
+    {
+      "question": "What game engines have you worked with, and which one do you prefer?",
+      "answer": "I have worked with so many games that they are sub-bass, number match, nonogram, etc. I them all. I prefer all of them. But Sub-bass is nice.",
+      "type": "role"
+    },
+    {
+      "question": "How do you optimize game performance?",
+      "answer": ", I'm looking into it, how I will optimize my performance.",
+      "type": "role"
+    },
+    {
+      "question": "Describe a challenging bug or technical issue you faced in game development. How did you solve it?",
+      "answer": "Yeah, I face somewhat lag issues and somewhat close to some other issues.",
+      "type": "role"
+    },
+    {
+      "question": "How do you handle multiplayer synchronization or lag issues?",
+      "answer": "Multiplayer synchronization.",
+      "type": "role"
+    },
+    {
+      "question": "What do you think makes a game fun and engaging?",
+      "answer": "Good graphics, nice designs and interactive games, everything.",
+      "type": "role"
+    },
+    {
+      "question": "What was the main goal of reimplementing the dictionary using Tries?",
+      "answer": "So, main goal of implementing the strategy is to have people there, people there, people there.",
+      "type": "resume"
+    },
+    {
+      "question": "Could you tell me more about the goal for the *dictionary*?",
+      "answer": "Gone for dixon every three hour out a dog man.",
+      "type": "follow-up"
+    },
+    {
+      "question": "How did you approach visualizing paths in Bellman-Ford?",
+      "answer": null,
+      "type": "resume"
+    }
+  ]
+}

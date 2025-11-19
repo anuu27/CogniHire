@@ -1,0 +1,374 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 6.62,
+    "duration": 6.62,
+    "transcript": "I have worked with so many games that they are sub -bass, number match, nonogram, etc.",
+    "word_count": 16,
+    "words": [
+      {
+        "text": "I",
+        "start": 0.0,
+        "end": 0.64,
+        "confidence": 0.5911
+      },
+      {
+        "text": "have",
+        "start": 0.64,
+        "end": 0.82,
+        "confidence": 0.8196
+      },
+      {
+        "text": "worked",
+        "start": 0.82,
+        "end": 1.1,
+        "confidence": 0.9631
+      },
+      {
+        "text": "with",
+        "start": 1.1,
+        "end": 1.28,
+        "confidence": 0.91
+      },
+      {
+        "text": "so",
+        "start": 1.28,
+        "end": 1.54,
+        "confidence": 0.8671
+      },
+      {
+        "text": "many",
+        "start": 1.54,
+        "end": 1.76,
+        "confidence": 0.9924
+      },
+      {
+        "text": "games",
+        "start": 1.76,
+        "end": 2.24,
+        "confidence": 0.98
+      },
+      {
+        "text": "that",
+        "start": 2.24,
+        "end": 3.02,
+        "confidence": 0.2274
+      },
+      {
+        "text": "they",
+        "start": 3.02,
+        "end": 3.14,
+        "confidence": 0.3243
+      },
+      {
+        "text": "are",
+        "start": 3.14,
+        "end": 3.22,
+        "confidence": 0.6731
+      },
+      {
+        "text": "sub",
+        "start": 3.22,
+        "end": 3.44,
+        "confidence": 0.0928
+      },
+      {
+        "text": "-bass,",
+        "start": 3.44,
+        "end": 3.62,
+        "confidence": 0.1409
+      },
+      {
+        "text": "number",
+        "start": 3.72,
+        "end": 4.24,
+        "confidence": 0.6328
+      },
+      {
+        "text": "match,",
+        "start": 4.24,
+        "end": 4.8,
+        "confidence": 0.5427
+      },
+      {
+        "text": "nonogram,",
+        "start": 5.32,
+        "end": 5.78,
+        "confidence": 0.5585
+      },
+      {
+        "text": "etc.",
+        "start": 6.42,
+        "end": 6.62,
+        "confidence": 0.8066
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 7.44,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.633,
+    "speech_rate_wps": 2.417,
+    "speech_rate_wpm": 145.015,
+    "articulation_rate": 2.417,
+    "pause_count": 3,
+    "pause_rate": 0.2,
+    "mean_pause_duration": 0.42,
+    "std_pause_duration": 0.232,
+    "total_pause_time": 1.26,
+    "speaking_time_ratio": 0.81,
+    "pitch_mean": 242.743,
+    "pitch_std": 27.075,
+    "pitch_range": 109.956,
+    "pitch_variance": 733.057,
+    "voiced_frames_ratio": 0.768,
+    "rms_energy_mean": 0.082,
+    "rms_energy_std": 0.059,
+    "rms_energy_max": 0.243,
+    "rms_energy_min": 0.0,
+    "energy_dynamic_range": 0.243,
+    "zero_crossing_rate": 0.192,
+    "harmonic_noise_ratio": 0.483,
+    "spectral_centroid_mean": 2233.797,
+    "spectral_centroid_std": 908.438,
+    "mfcc_1_mean": -220.623,
+    "mfcc_2_mean": 42.982,
+    "mfcc_1_std": 132.792,
+    "spectral_rolloff": 3880.737,
+    "spectral_bandwidth": 1691.677,
+    "snr_approximation": 1.395,
+    "clipping_ratio": 0.0
+  },
+  {
+    "utterance_id": "u002",
+    "start": 8.14,
+    "end": 16.62,
+    "duration": 8.48,
+    "transcript": "Them all. I prefer all of them. But Sub -bass is nice.",
+    "word_count": 21,
+    "words": [
+      {
+        "text": "like",
+        "start": 8.14,
+        "end": 8.38,
+        "confidence": 0.9425
+      },
+      {
+        "text": "them",
+        "start": 8.38,
+        "end": 8.6,
+        "confidence": 0.9551
+      },
+      {
+        "text": "all.",
+        "start": 8.6,
+        "end": 8.9,
+        "confidence": 0.9866
+      },
+      {
+        "text": "I",
+        "start": 9.06,
+        "end": 9.14,
+        "confidence": 0.9824
+      },
+      {
+        "text": "prefer",
+        "start": 9.14,
+        "end": 9.36,
+        "confidence": 0.9651
+      },
+      {
+        "text": "all",
+        "start": 9.36,
+        "end": 10.28,
+        "confidence": 0.8473
+      },
+      {
+        "text": "of",
+        "start": 10.28,
+        "end": 10.48,
+        "confidence": 0.9819
+      },
+      {
+        "text": "them.",
+        "start": 10.48,
+        "end": 10.72,
+        "confidence": 0.9961
+      },
+      {
+        "text": "But",
+        "start": 11.58,
+        "end": 11.62,
+        "confidence": 0.7877
+      },
+      {
+        "text": "Sub",
+        "start": 11.62,
+        "end": 12.7,
+        "confidence": 0.269
+      },
+      {
+        "text": "-bass",
+        "start": 12.7,
+        "end": 12.82,
+        "confidence": 0.7311
+      },
+      {
+        "text": "is",
+        "start": 12.82,
+        "end": 13.1,
+        "confidence": 0.8727
+      },
+      {
+        "text": "nice.",
+        "start": 13.1,
+        "end": 13.36,
+        "confidence": 0.8181
+      },
+      {
+        "text": "Nonogram",
+        "start": 14.08,
+        "end": 14.54,
+        "confidence": 0.9079
+      },
+      {
+        "text": "and",
+        "start": 14.54,
+        "end": 14.82,
+        "confidence": 0.9126
+      },
+      {
+        "text": "number",
+        "start": 14.82,
+        "end": 15.12,
+        "confidence": 0.8173
+      },
+      {
+        "text": "match",
+        "start": 15.12,
+        "end": 15.52,
+        "confidence": 0.9734
+      },
+      {
+        "text": "all",
+        "start": 15.52,
+        "end": 15.9,
+        "confidence": 0.5529
+      },
+      {
+        "text": "are",
+        "start": 15.9,
+        "end": 16.06,
+        "confidence": 0.4991
+      },
+      {
+        "text": "same",
+        "start": 16.06,
+        "end": 16.3,
+        "confidence": 0.918
+      },
+      {
+        "text": "interface.",
+        "start": 16.3,
+        "end": 16.62,
+        "confidence": 0.9237
+      }
+    ],
+    "vad_segment_start": 8.01,
+    "vad_segment_end": 17.91,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.84,
+    "speech_rate_wps": 2.476,
+    "speech_rate_wpm": 148.585,
+    "articulation_rate": 2.476,
+    "pause_count": 3,
+    "pause_rate": 0.15,
+    "mean_pause_duration": 0.58,
+    "std_pause_duration": 0.302,
+    "total_pause_time": 1.74,
+    "speaking_time_ratio": 0.795,
+    "pitch_mean": 273.921,
+    "pitch_std": 53.693,
+    "pitch_range": 228.881,
+    "pitch_variance": 2882.892,
+    "voiced_frames_ratio": 0.771,
+    "rms_energy_mean": 0.05,
+    "rms_energy_std": 0.042,
+    "rms_energy_max": 0.171,
+    "rms_energy_min": 0.0,
+    "energy_dynamic_range": 0.171,
+    "zero_crossing_rate": 0.187,
+    "harmonic_noise_ratio": 0.444,
+    "spectral_centroid_mean": 2152.651,
+    "spectral_centroid_std": 954.307,
+    "mfcc_1_mean": -283.312,
+    "mfcc_2_mean": 49.187,
+    "mfcc_1_std": 136.457,
+    "spectral_rolloff": 3839.168,
+    "spectral_bandwidth": 1738.652,
+    "snr_approximation": 1.205,
+    "clipping_ratio": 0.0
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "utterance_id": "u001",
+    "start": 0.0,
+    "end": 3.3,
+    "duration": 3.3,
+    "transcript": "Please stop and move on to the next topic.",
+    "word_count": 15,
+    "words": [
+      {
+        "text": "please",
+        "start": 0.0,
+        "end": 0.4,
+        "confidence": 0.4852
+      },
+      {
+        "text": "stop",
+        "start": 0.4,
+        "end": 0.74,
+        "confidence": 0.7614
+      },
+      {
+        "text": "and",
+        "start": 0.74,
+        "end": 0.96,
+        "confidence": 0.9845
+      },
+      {
+        "text": "move",
+        "start": 0.96,
+        "end": 1.1,
+        "confidence": 0.9757
+      },
+      {
+        "text": "on",
+        "start": 1.1,
+        "end": 1.2,
+        "confidence": 0.9268
+      },
+      {
+        "text": "to",
+        "start": 1.2,
+        "end": 1.34,
+        "confidence": 0.9865
+      },
+      {
+        "text": "the",
+        "start": 1.34,
+        "end": 1.46,
+        "confidence": 0.9829
+      },
+      {
+        "text": "next",
+        "start": 1.46,
+        "end": 1.64,
+        "confidence": 0.9951
+      },
+      {
+        "text": "topic.",
+        "start": 1.64,
+        "end": 2.06,
+        "confidence": 0.9918
+      },
+      {
+        "text": "Otherwise",
+        "start": 2.24,
+        "end": 2.44,
+        "confidence": 0.7809
+      },
+      {
+        "text": "I",
+        "start": 2.44,
+        "end": 2.64,
+        "confidence": 0.5307
+      },
+      {
+        "text": "am",
+        "start": 2.64,
+        "end": 2.7,
+        "confidence": 0.7959
+      },
+      {
+        "text": "leaving",
+        "start": 2.7,
+        "end": 2.9,
+        "confidence": 0.9966
+      },
+      {
+        "text": "the",
+        "start": 2.9,
+        "end": 3.14,
+        "confidence": 0.9738
+      },
+      {
+        "text": "interview.",
+        "start": 3.14,
+        "end": 3.3,
+        "confidence": 0.9788
+      }
+    ],
+    "vad_segment_start": 0.0,
+    "vad_segment_end": 3.39,
+    "features": {
+      "speech_rate_wpm": null,
+      "speech_rate_wps": null,
+      "articulation_rate": null,
+      "pause_count": null,
+      "pause_rate": null,
+      "mean_pause_duration": null,
+      "std_pause_duration": null,
+      "total_pause_time": null,
+      "speaking_time_ratio": null,
+      "pitch_mean": null,
+      "pitch_std": null,
+      "pitch_range": null,
+      "pitch_variance": null,
+      "voiced_frames_ratio": null,
+      "rms_energy_mean": null,
+      "rms_energy_std": null,
+      "rms_energy_max": null,
+      "rms_energy_min": null,
+      "energy_dynamic_range": null,
+      "zero_crossing_rate": null,
+      "harmonic_noise_ratio": null,
+      "spectral_centroid_mean": null,
+      "spectral_centroid_std": null,
+      "mfcc_1_mean": null,
+      "mfcc_2_mean": null,
+      "mfcc_1_std": null,
+      "spectral_rolloff": null,
+      "spectral_bandwidth": null,
+      "snr_approximation": null,
+      "clipping_ratio": null
+    },
+    "asr_confidence": 0.876,
+    "speech_rate_wps": 4.545,
+    "speech_rate_wpm": 272.727,
+    "articulation_rate": 4.545,
+    "pause_count": 1,
+    "pause_rate": 0.071,
+    "mean_pause_duration": 0.18,
+    "std_pause_duration": 0.0,
+    "total_pause_time": 0.18,
+    "speaking_time_ratio": 0.945,
+    "pitch_mean": 203.268,
+    "pitch_std": 23.953,
+    "pitch_range": 121.275,
+    "pitch_variance": 573.77,
+    "voiced_frames_ratio": 0.962,
+    "rms_energy_mean": 0.077,
+    "rms_energy_std": 0.044,
+    "rms_energy_max": 0.205,
+    "rms_energy_min": 0.009,
+    "energy_dynamic_range": 0.196,
+    "zero_crossing_rate": 0.18,
+    "harmonic_noise_ratio": 0.579,
+    "spectral_centroid_mean": 2211.072,
+    "spectral_centroid_std": 991.01,
+    "mfcc_1_mean": -203.944,
+    "mfcc_2_mean": 58.567,
+    "mfcc_1_std": 74.12,
+    "spectral_rolloff": 4032.227,
+    "spectral_bandwidth": 1662.473,
+    "snr_approximation": 1.725,
+    "clipping_ratio": 0.0
+  }
+]

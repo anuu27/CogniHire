@@ -1,0 +1,201 @@
+{
+  "session_id": "sample_resume_20251116_153958_2",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251116_153958_answer_processed.wav",
+  "raw_text": "तो रचा रदा प्रदुप मच्छिए निग निग निग मन्दु",
+  "processed_text": "तो रचा रदा प्रदुप मच्छिए निग निग निग मन्दु",
+  "words": [
+    {
+      "text": "तो",
+      "start": 0.0,
+      "end": 0.04,
+      "confidence": 0.2119
+    },
+    {
+      "text": "रचा",
+      "start": 0.04,
+      "end": 0.38,
+      "confidence": 0.3359
+    },
+    {
+      "text": "रदा",
+      "start": 0.38,
+      "end": 0.72,
+      "confidence": 0.4528
+    },
+    {
+      "text": "प्रदुप",
+      "start": 0.72,
+      "end": 0.78,
+      "confidence": 0.4236
+    },
+    {
+      "text": "मच्छिए",
+      "start": 0.78,
+      "end": 1.76,
+      "confidence": 0.255
+    },
+    {
+      "text": "निग",
+      "start": 1.76,
+      "end": 1.96,
+      "confidence": 0.5499
+    },
+    {
+      "text": "निग",
+      "start": 1.96,
+      "end": 2.28,
+      "confidence": 0.7928
+    },
+    {
+      "text": "निग",
+      "start": 2.28,
+      "end": 2.46,
+      "confidence": 0.8702
+    },
+    {
+      "text": "मन्दु",
+      "start": 2.46,
+      "end": 2.78,
+      "confidence": 0.4929
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.0,
+      "end": 0.78,
+      "duration": 0.78,
+      "transcript": "तो रचा रदा प्रदुप",
+      "word_count": 4,
+      "words": [
+        {
+          "text": "तो",
+          "start": 0.0,
+          "end": 0.04,
+          "confidence": 0.2119
+        },
+        {
+          "text": "रचा",
+          "start": 0.04,
+          "end": 0.38,
+          "confidence": 0.3359
+        },
+        {
+          "text": "रदा",
+          "start": 0.38,
+          "end": 0.72,
+          "confidence": 0.4528
+        },
+        {
+          "text": "प्रदुप",
+          "start": 0.72,
+          "end": 0.78,
+          "confidence": 0.4236
+        }
+      ],
+      "vad_segment_start": 0.0,
+      "vad_segment_end": 1.26,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    },
+    {
+      "utterance_id": "u002",
+      "start": 1.96,
+      "end": 2.78,
+      "duration": 0.82,
+      "transcript": "निग निग मन्दु",
+      "word_count": 3,
+      "words": [
+        {
+          "text": "निग",
+          "start": 1.96,
+          "end": 2.28,
+          "confidence": 0.7928
+        },
+        {
+          "text": "निग",
+          "start": 2.28,
+          "end": 2.46,
+          "confidence": 0.8702
+        },
+        {
+          "text": "मन्दु",
+          "start": 2.46,
+          "end": 2.78,
+          "confidence": 0.4929
+        }
+      ],
+      "vad_segment_start": 1.8,
+      "vad_segment_end": 3.6,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "ml",
+  "duration": 3.62,
+  "model_used": "small",
+  "timestamp": "2025-11-16T15:42:13.974189",
+  "segment_count": 2,
+  "word_count": 9,
+  "utterance_count": 2
+}

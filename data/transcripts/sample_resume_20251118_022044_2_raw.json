@@ -1,0 +1,337 @@
+{
+  "text": " I have worked with so many games that they are sub-bass, number match, nonogram, etc. I like them all. I prefer all of them. But Sub-bass is nice. Nonogram and number match all are same interface.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.62,
+      "text": " I have worked with so many games that they are sub-bass, number match, nonogram, etc.",
+      "tokens": [
+        50364,
+        286,
+        362,
+        2732,
+        365,
+        370,
+        867,
+        2813,
+        300,
+        436,
+        366,
+        1422,
+        12,
+        65,
+        640,
+        11,
+        1230,
+        2995,
+        11,
+        2107,
+        12820,
+        11,
+        5183,
+        13,
+        50736
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6731002936928959,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.3881649374961853,
+      "words": [
+        {
+          "word": " I",
+          "start": 0.0,
+          "end": 0.64,
+          "probability": 0.5911024808883667
+        },
+        {
+          "word": " have",
+          "start": 0.64,
+          "end": 0.82,
+          "probability": 0.8195621371269226
+        },
+        {
+          "word": " worked",
+          "start": 0.82,
+          "end": 1.1,
+          "probability": 0.9631413817405701
+        },
+        {
+          "word": " with",
+          "start": 1.1,
+          "end": 1.28,
+          "probability": 0.9099915623664856
+        },
+        {
+          "word": " so",
+          "start": 1.28,
+          "end": 1.54,
+          "probability": 0.8671055436134338
+        },
+        {
+          "word": " many",
+          "start": 1.54,
+          "end": 1.76,
+          "probability": 0.9923521876335144
+        },
+        {
+          "word": " games",
+          "start": 1.76,
+          "end": 2.24,
+          "probability": 0.9800241589546204
+        },
+        {
+          "word": " that",
+          "start": 2.24,
+          "end": 3.02,
+          "probability": 0.22741802036762238
+        },
+        {
+          "word": " they",
+          "start": 3.02,
+          "end": 3.14,
+          "probability": 0.32426244020462036
+        },
+        {
+          "word": " are",
+          "start": 3.14,
+          "end": 3.22,
+          "probability": 0.6730802059173584
+        },
+        {
+          "word": " sub",
+          "start": 3.22,
+          "end": 3.44,
+          "probability": 0.09278596937656403
+        },
+        {
+          "word": "-bass,",
+          "start": 3.44,
+          "end": 3.62,
+          "probability": 0.14093185340364775
+        },
+        {
+          "word": " number",
+          "start": 3.72,
+          "end": 4.24,
+          "probability": 0.6327972412109375
+        },
+        {
+          "word": " match,",
+          "start": 4.24,
+          "end": 4.8,
+          "probability": 0.5426580309867859
+        },
+        {
+          "word": " nonogram,",
+          "start": 5.32,
+          "end": 5.78,
+          "probability": 0.5585057362914085
+        },
+        {
+          "word": " etc.",
+          "start": 6.42,
+          "end": 6.62,
+          "probability": 0.8066098093986511
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 8.0,
+      "end": 10.72,
+      "text": " I like them all. I prefer all of them.",
+      "tokens": [
+        50764,
+        286,
+        411,
+        552,
+        439,
+        13,
+        286,
+        4382,
+        439,
+        295,
+        552,
+        13,
+        50904
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6731002936928959,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.3881649374961853,
+      "words": [
+        {
+          "word": " I",
+          "start": 8.0,
+          "end": 8.14,
+          "probability": 0.6179087162017822
+        },
+        {
+          "word": " like",
+          "start": 8.14,
+          "end": 8.38,
+          "probability": 0.9424709677696228
+        },
+        {
+          "word": " them",
+          "start": 8.38,
+          "end": 8.6,
+          "probability": 0.9550791382789612
+        },
+        {
+          "word": " all.",
+          "start": 8.6,
+          "end": 8.9,
+          "probability": 0.9865787625312805
+        },
+        {
+          "word": " I",
+          "start": 9.06,
+          "end": 9.14,
+          "probability": 0.9824295043945312
+        },
+        {
+          "word": " prefer",
+          "start": 9.14,
+          "end": 9.36,
+          "probability": 0.965053379535675
+        },
+        {
+          "word": " all",
+          "start": 9.36,
+          "end": 10.28,
+          "probability": 0.8472532629966736
+        },
+        {
+          "word": " of",
+          "start": 10.28,
+          "end": 10.48,
+          "probability": 0.9818843007087708
+        },
+        {
+          "word": " them.",
+          "start": 10.48,
+          "end": 10.72,
+          "probability": 0.9961147308349609
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.58,
+      "end": 16.62,
+      "text": " But Sub-bass is nice. Nonogram and number match all are same interface.",
+      "tokens": [
+        50932,
+        583,
+        8511,
+        12,
+        65,
+        640,
+        307,
+        1481,
+        13,
+        8774,
+        12820,
+        293,
+        1230,
+        2995,
+        439,
+        366,
+        912,
+        9226,
+        13,
+        51212
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6731002936928959,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.3881649374961853,
+      "words": [
+        {
+          "word": " But",
+          "start": 11.58,
+          "end": 11.62,
+          "probability": 0.7877169251441956
+        },
+        {
+          "word": " Sub",
+          "start": 11.62,
+          "end": 12.7,
+          "probability": 0.26896828413009644
+        },
+        {
+          "word": "-bass",
+          "start": 12.7,
+          "end": 12.82,
+          "probability": 0.7310603658358256
+        },
+        {
+          "word": " is",
+          "start": 12.82,
+          "end": 13.1,
+          "probability": 0.8727224469184875
+        },
+        {
+          "word": " nice.",
+          "start": 13.1,
+          "end": 13.36,
+          "probability": 0.818088173866272
+        },
+        {
+          "word": " Nonogram",
+          "start": 14.08,
+          "end": 14.54,
+          "probability": 0.9079140424728394
+        },
+        {
+          "word": " and",
+          "start": 14.54,
+          "end": 14.82,
+          "probability": 0.9126192331314087
+        },
+        {
+          "word": " number",
+          "start": 14.82,
+          "end": 15.12,
+          "probability": 0.8173433542251587
+        },
+        {
+          "word": " match",
+          "start": 15.12,
+          "end": 15.52,
+          "probability": 0.9733638167381287
+        },
+        {
+          "word": " all",
+          "start": 15.52,
+          "end": 15.9,
+          "probability": 0.5529217720031738
+        },
+        {
+          "word": " are",
+          "start": 15.9,
+          "end": 16.06,
+          "probability": 0.4990808665752411
+        },
+        {
+          "word": " same",
+          "start": 16.06,
+          "end": 16.3,
+          "probability": 0.918049156665802
+        },
+        {
+          "word": " interface.",
+          "start": 16.3,
+          "end": 16.62,
+          "probability": 0.9236765503883362
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

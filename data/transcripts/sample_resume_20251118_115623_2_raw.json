@@ -1,0 +1,31 @@
+{
+  "text": "Classification problems, class festings, regression problems, gives a continuous  something, something, something, much better.  Bye bye.",
+  "segments": [
+    {
+      "id": null,
+      "seek": null,
+      "start": 0.0,
+      "end": 4.86,
+      "text": " Classification problems, class festings, regression problems, gives a continuous",
+      "words": []
+    },
+    {
+      "id": null,
+      "seek": null,
+      "start": 5.78,
+      "end": 7.6,
+      "text": " something, something, something, much better.",
+      "words": []
+    },
+    {
+      "id": null,
+      "seek": null,
+      "start": 7.76,
+      "end": 8.74,
+      "text": " Bye bye.",
+      "words": []
+    }
+  ],
+  "language": "en",
+  "duration": 8.768
+}

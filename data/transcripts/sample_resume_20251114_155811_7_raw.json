@@ -1,0 +1,31 @@
+{
+  "text": " screen.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.34,
+      "text": " screen.",
+      "tokens": [
+        50364,
+        2568,
+        13,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9796013832092285,
+      "compression_ratio": 0.4666666666666667,
+      "no_speech_prob": 0.6010901927947998,
+      "words": [
+        {
+          "word": " screen.",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.14863692224025726
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

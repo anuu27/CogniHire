@@ -1,0 +1,11 @@
+{
+  "original_file": "data\\temp_audio\\response_20251112_170909.wav",
+  "duration_seconds": 1.67,
+  "original_sample_rate": 48000,
+  "target_sample_rate": 16000,
+  "original_channels": 1,
+  "target_channels": 1,
+  "normalized": true,
+  "silence_trimmed": true,
+  "final_duration_seconds": 5.02
+}

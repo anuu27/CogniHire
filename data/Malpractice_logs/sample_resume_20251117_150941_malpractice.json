@@ -1,0 +1,610 @@
+[
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:40:20.273Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T09:40:24.152Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:40:24.682Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:40:33.499Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:40:44.118Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:41:03.166Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:41:10.123Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "tab_switch",
+    "timestamp": "2025-11-17T09:41:27.424Z",
+    "details": {
+      "raw": "Window focus lost (switched to another application)",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "tab_switch",
+    "timestamp": "2025-11-17T09:41:27.505Z",
+    "details": {
+      "raw": "Tab switched or minimized",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:41:28.158Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:42:18.146Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:42:19.026Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:42:24.130Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:42:26.130Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:42:30.132Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:42:51.013Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:42:55.388Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:43:04.195Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:43:08.590Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:43:12.994Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:43:23.972Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:43:33.905Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:43:45.977Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:44:24.542Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:44:28.131Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "tab_switch",
+    "timestamp": "2025-11-17T09:44:39.351Z",
+    "details": {
+      "raw": "Window focus lost (switched to another application)",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "tab_switch",
+    "timestamp": "2025-11-17T09:44:39.384Z",
+    "details": {
+      "raw": "Tab switched or minimized",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "gaze_warning",
+    "timestamp": "2025-11-17T09:44:56.157Z",
+    "details": {
+      "raw": "Looking away from the screen.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:44:58.144Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:45:06.319Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:45:11.786Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:45:20.592Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:46:15.586Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:46:25.546Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:46:29.959Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:46:36.528Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:46:40.952Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:46:48.578Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:46:50.136Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:46:54.133Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:47:08.134Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:47:34.782Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:47:41.453Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:47:46.135Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:47:48.153Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "multiple_faces_detected",
+    "timestamp": "2025-11-17T09:47:51.310Z",
+    "details": {
+      "raw": "detector returned 2 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:02.150Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:03.352Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:04.123Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:06.162Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:12.189Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:14.138Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:14.329Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:16.145Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:18.131Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:20.142Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:22.166Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:24.140Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:26.141Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:28.145Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:30.159Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:32.130Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:34.187Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:36.140Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:38.128Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:42.168Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:44.125Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:45.139Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:46.132Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:50.130Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:48:58.125Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:49:06.139Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:49:08.136Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:49:10.138Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:49:10.429Z",
+    "details": {
+      "raw": "detector returned 0 faces",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  },
+  {
+    "type": "no_face_detected",
+    "timestamp": "2025-11-17T09:49:12.116Z",
+    "details": {
+      "raw": "No face detected.",
+      "question": "How do you handle imbalanced datasets in classification problems?"
+    }
+  }
+]

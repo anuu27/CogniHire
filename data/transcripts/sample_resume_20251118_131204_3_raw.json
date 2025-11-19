@@ -1,0 +1,31 @@
+{
+  "text": "cross validation is just splitting the data set into few sets and ensuring and using  one as a validation set and trading set so that the model model model gets trained  more better and avoids generalization.",
+  "segments": [
+    {
+      "id": null,
+      "seek": null,
+      "start": 0.0,
+      "end": 5.98,
+      "text": " cross validation is just splitting the data set into few sets and ensuring and using",
+      "words": []
+    },
+    {
+      "id": null,
+      "seek": null,
+      "start": 5.98,
+      "end": 15.02,
+      "text": " one as a validation set and trading set so that the model model model gets trained",
+      "words": []
+    },
+    {
+      "id": null,
+      "seek": null,
+      "start": 15.02,
+      "end": 17.38,
+      "text": " more better and avoids generalization.",
+      "words": []
+    }
+  ],
+  "language": "en",
+  "duration": 17.536
+}

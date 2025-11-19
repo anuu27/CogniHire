@@ -1,0 +1,49 @@
+{
+  "role": "Mobile App Developer",
+  "record_count": 247,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "What’s the difference between native, hybrid, and cross-platform apps?",
+      "canonical_answer": "Native apps are built for one platform with the best performance, hybrid apps use web tech inside a native wrapper, and cross-platform apps share code across platforms using frameworks like Flutter or React Native.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe the mobile app development lifecycle.",
+      "canonical_answer": "It involves planning, UI/UX design, development, testing, deployment, and ongoing maintenance or updates.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle different screen sizes and device compatibility?",
+      "canonical_answer": "I use responsive layouts, adaptive UI components, flexible grids, scalable assets, and test across multiple devices and emulators.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you optimize a mobile app’s performance?",
+      "canonical_answer": "I reduce unnecessary renders, optimize API calls, compress assets, manage memory efficiently, and use profiling tools to fix bottlenecks.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you secure user data in a mobile app?",
+      "canonical_answer": "I use encryption, secure storage, HTTPS, authentication, proper permissions, and avoid storing sensitive data unnecessarily.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you debug and test mobile applications?",
+      "canonical_answer": "I use emulators, device testing, logs, breakpoints, automated tests, and tools like Android Studio or Xcode profilers.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What technologies and frameworks have you worked with?",
+      "canonical_answer": "I’ve worked with Swift, Kotlin, Flutter, React Native, Firebase, REST APIs, and native platform tools like Xcode and Android Studio.",
+      "rubric_points": []
+    }
+  ]
+}

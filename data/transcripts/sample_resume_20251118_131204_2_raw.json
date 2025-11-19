@@ -1,0 +1,31 @@
+{
+  "text": "Overfitting is when the training error is very less so that it becomes 0 but the model  doesn't perform well on the testing data.  So that is called overfitting, it can be prevented by reducing the complexity of the model.",
+  "segments": [
+    {
+      "id": null,
+      "seek": null,
+      "start": 0.0,
+      "end": 6.34,
+      "text": " Overfitting is when the training error is very less so that it becomes 0 but the model",
+      "words": []
+    },
+    {
+      "id": null,
+      "seek": null,
+      "start": 6.34,
+      "end": 8.36,
+      "text": " doesn't perform well on the testing data.",
+      "words": []
+    },
+    {
+      "id": null,
+      "seek": null,
+      "start": 9.36,
+      "end": 15.04,
+      "text": " So that is called overfitting, it can be prevented by reducing the complexity of the model.",
+      "words": []
+    }
+  ],
+  "language": "en",
+  "duration": 15.168
+}

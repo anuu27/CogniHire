@@ -1,0 +1,253 @@
+{
+  "session_id": "sample_resume_20251115_235944_3",
+  "audio_source": "audio_analysis_ingest\\sample_resume_20251115_235944_answer_processed.wav",
+  "raw_text": "bias variance trade-off is a difference between the original trade-off and the current trade-off.",
+  "processed_text": "Bias variance trade-off is a difference between the original trade-off and the current trade-off.",
+  "words": [
+    {
+      "text": "bias",
+      "start": 0.0,
+      "end": 0.44,
+      "confidence": 0.596
+    },
+    {
+      "text": "variance",
+      "start": 0.44,
+      "end": 0.88,
+      "confidence": 0.9292
+    },
+    {
+      "text": "trade",
+      "start": 0.88,
+      "end": 1.18,
+      "confidence": 0.9897
+    },
+    {
+      "text": "-off",
+      "start": 1.18,
+      "end": 1.46,
+      "confidence": 0.6759
+    },
+    {
+      "text": "is",
+      "start": 1.46,
+      "end": 2.16,
+      "confidence": 0.8202
+    },
+    {
+      "text": "a",
+      "start": 2.16,
+      "end": 2.3,
+      "confidence": 0.4906
+    },
+    {
+      "text": "difference",
+      "start": 2.3,
+      "end": 2.7,
+      "confidence": 0.9942
+    },
+    {
+      "text": "between",
+      "start": 2.7,
+      "end": 3.44,
+      "confidence": 0.9969
+    },
+    {
+      "text": "the",
+      "start": 3.44,
+      "end": 4.08,
+      "confidence": 0.9917
+    },
+    {
+      "text": "original",
+      "start": 4.08,
+      "end": 4.62,
+      "confidence": 0.976
+    },
+    {
+      "text": "trade",
+      "start": 4.62,
+      "end": 6.16,
+      "confidence": 0.9556
+    },
+    {
+      "text": "-off",
+      "start": 6.16,
+      "end": 6.48,
+      "confidence": 0.9537
+    },
+    {
+      "text": "and",
+      "start": 6.48,
+      "end": 7.1,
+      "confidence": 0.9843
+    },
+    {
+      "text": "the",
+      "start": 7.1,
+      "end": 7.46,
+      "confidence": 0.9642
+    },
+    {
+      "text": "current",
+      "start": 7.46,
+      "end": 8.98,
+      "confidence": 0.9925
+    },
+    {
+      "text": "trade",
+      "start": 8.98,
+      "end": 9.3,
+      "confidence": 0.9966
+    },
+    {
+      "text": "-off.",
+      "start": 9.3,
+      "end": 9.48,
+      "confidence": 0.9807
+    }
+  ],
+  "utterances": [
+    {
+      "utterance_id": "u001",
+      "start": 0.44,
+      "end": 9.3,
+      "duration": 8.86,
+      "transcript": "Variance trade -off is a difference between the original trade -off and the current trade",
+      "word_count": 15,
+      "words": [
+        {
+          "text": "variance",
+          "start": 0.44,
+          "end": 0.88,
+          "confidence": 0.9292
+        },
+        {
+          "text": "trade",
+          "start": 0.88,
+          "end": 1.18,
+          "confidence": 0.9897
+        },
+        {
+          "text": "-off",
+          "start": 1.18,
+          "end": 1.46,
+          "confidence": 0.6759
+        },
+        {
+          "text": "is",
+          "start": 1.46,
+          "end": 2.16,
+          "confidence": 0.8202
+        },
+        {
+          "text": "a",
+          "start": 2.16,
+          "end": 2.3,
+          "confidence": 0.4906
+        },
+        {
+          "text": "difference",
+          "start": 2.3,
+          "end": 2.7,
+          "confidence": 0.9942
+        },
+        {
+          "text": "between",
+          "start": 2.7,
+          "end": 3.44,
+          "confidence": 0.9969
+        },
+        {
+          "text": "the",
+          "start": 3.44,
+          "end": 4.08,
+          "confidence": 0.9917
+        },
+        {
+          "text": "original",
+          "start": 4.08,
+          "end": 4.62,
+          "confidence": 0.976
+        },
+        {
+          "text": "trade",
+          "start": 4.62,
+          "end": 6.16,
+          "confidence": 0.9556
+        },
+        {
+          "text": "-off",
+          "start": 6.16,
+          "end": 6.48,
+          "confidence": 0.9537
+        },
+        {
+          "text": "and",
+          "start": 6.48,
+          "end": 7.1,
+          "confidence": 0.9843
+        },
+        {
+          "text": "the",
+          "start": 7.1,
+          "end": 7.46,
+          "confidence": 0.9642
+        },
+        {
+          "text": "current",
+          "start": 7.46,
+          "end": 8.98,
+          "confidence": 0.9925
+        },
+        {
+          "text": "trade",
+          "start": 8.98,
+          "end": 9.3,
+          "confidence": 0.9966
+        }
+      ],
+      "vad_segment_start": 0.03,
+      "vad_segment_end": 9.48,
+      "features": {
+        "speech_rate_wpm": null,
+        "speech_rate_wps": null,
+        "articulation_rate": null,
+        "pause_count": null,
+        "pause_rate": null,
+        "mean_pause_duration": null,
+        "std_pause_duration": null,
+        "total_pause_time": null,
+        "speaking_time_ratio": null,
+        "pitch_mean": null,
+        "pitch_std": null,
+        "pitch_range": null,
+        "pitch_variance": null,
+        "voiced_frames_ratio": null,
+        "rms_energy_mean": null,
+        "rms_energy_std": null,
+        "rms_energy_max": null,
+        "rms_energy_min": null,
+        "energy_dynamic_range": null,
+        "zero_crossing_rate": null,
+        "harmonic_noise_ratio": null,
+        "spectral_centroid_mean": null,
+        "spectral_centroid_std": null,
+        "mfcc_1_mean": null,
+        "mfcc_2_mean": null,
+        "mfcc_1_std": null,
+        "spectral_rolloff": null,
+        "spectral_bandwidth": null,
+        "snr_approximation": null,
+        "clipping_ratio": null
+      }
+    }
+  ],
+  "language": "en",
+  "duration": 9.5,
+  "model_used": "small",
+  "timestamp": "2025-11-16T00:01:09.921374",
+  "segment_count": 1,
+  "word_count": 17,
+  "utterance_count": 1
+}

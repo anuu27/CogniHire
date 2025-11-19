@@ -1,0 +1,101 @@
+{
+  "text": " My main goal is to get some marks in that project.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.52,
+      "text": " My main goal is to get some marks in that project.",
+      "tokens": [
+        50364,
+        1222,
+        2135,
+        3387,
+        307,
+        281,
+        483,
+        512,
+        10640,
+        294,
+        300,
+        1716,
+        13,
+        50548
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3894536018371582,
+      "compression_ratio": 0.9090909090909091,
+      "no_speech_prob": 0.0690673440694809,
+      "words": [
+        {
+          "word": " My",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.5367534160614014
+        },
+        {
+          "word": " main",
+          "start": 0.3,
+          "end": 0.66,
+          "probability": 0.48552489280700684
+        },
+        {
+          "word": " goal",
+          "start": 0.66,
+          "end": 0.94,
+          "probability": 0.9991990923881531
+        },
+        {
+          "word": " is",
+          "start": 0.94,
+          "end": 1.2,
+          "probability": 0.9963626265525818
+        },
+        {
+          "word": " to",
+          "start": 1.2,
+          "end": 1.38,
+          "probability": 0.9932389259338379
+        },
+        {
+          "word": " get",
+          "start": 1.38,
+          "end": 2.04,
+          "probability": 0.9964898228645325
+        },
+        {
+          "word": " some",
+          "start": 2.04,
+          "end": 2.38,
+          "probability": 0.9114686846733093
+        },
+        {
+          "word": " marks",
+          "start": 2.38,
+          "end": 2.7,
+          "probability": 0.4937419295310974
+        },
+        {
+          "word": " in",
+          "start": 2.7,
+          "end": 2.92,
+          "probability": 0.991696834564209
+        },
+        {
+          "word": " that",
+          "start": 2.92,
+          "end": 3.16,
+          "probability": 0.6656200289726257
+        },
+        {
+          "word": " project.",
+          "start": 3.16,
+          "end": 3.52,
+          "probability": 0.9886758327484131
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

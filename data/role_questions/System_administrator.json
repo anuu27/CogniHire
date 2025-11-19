@@ -1,0 +1,49 @@
+{
+  "role": "System Administrator",
+  "record_count": 223,
+  "desired_questions": 7,
+  "questions": [
+    {
+      "id": null,
+      "question": "Can you describe your experience managing servers and network infrastructure?",
+      "canonical_answer": "I manage physical and virtual servers, configure networks, monitor performance, and ensure systems run securely and efficiently.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What steps do you take to ensure system reliability and minimize downtime?",
+      "canonical_answer": "I implement redundancy, monitor systems continuously, schedule maintenance, and use backups and failover strategies.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you approach system security and protect against unauthorized access or data breaches?",
+      "canonical_answer": "I apply patches, enforce strong authentication, use firewalls, monitor logs, restrict privileges, and encrypt sensitive data.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "Describe a major technical issue you resolved. What was the problem, and how did you fix it?",
+      "canonical_answer": "I diagnosed the issue through logs and monitoring tools, isolated the root cause, applied the necessary fixes, and validated system stability.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you handle system updates and patches without disrupting operations?",
+      "canonical_answer": "I schedule maintenance windows, test patches in staging, back up critical data, and use rolling updates to minimize downtime.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "What experience do you have with cloud platforms or automation tools?",
+      "canonical_answer": "I’ve worked with AWS, Azure, and tools like Ansible, Terraform, and PowerShell to automate deployments and configurations.",
+      "rubric_points": []
+    },
+    {
+      "id": null,
+      "question": "How do you manage user accounts, permissions, and access controls in a large organization?",
+      "canonical_answer": "I use centralized directory services, enforce least privilege, automate provisioning, and audit permissions regularly.",
+      "rubric_points": []
+    }
+  ]
+}

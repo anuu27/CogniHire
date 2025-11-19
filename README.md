@@ -1,6 +1,6 @@
 # CogniHire - An AI Interviewer & Insight Generator
 ### A Fair, Scalable, and Automated Interview Evaluation System  
-
+---
 ## Overview  
 This repository contains the full working model for an end-to-end **AI-powered Interview and Evaluation System**, developed as part of the **UMC-301** **DSAI (Data Science and AI)** course at IISc.  
 The system automates interviews, generates questions, evaluates candidate responses, detects malpractice, and produces structured final reports.

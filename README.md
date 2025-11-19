@@ -45,7 +45,7 @@ The Final report and Presentation of the project are included in Documents Folde
 
 ## Contributing   
 This project was developed as a requirement for the **UMC-301 Data Science & AI (DSAI) course at IISc Bengaluru**.
-For technical inquiries, collaboration opportunities, or detailed discussions regarding the algorithmic framework, please feel free to open a GitHub Issue or reach out to the designated repository maintainers.
+For technical inquiries, collaboration opportunities regarding our algorithmic framework, please feel free to open a GitHub Issue or reach out to the designated repository maintainers.
 
 ---
 
